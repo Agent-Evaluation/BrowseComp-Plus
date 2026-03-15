@@ -191,9 +191,91 @@ where you can find the decrypted trajectory data in `data/decrypted_run_files/`.
 
 ---
 
+## 🤖 Multi-Agent System (MAS) Evaluation
+
+We provide implementations of the 5 canonical agent architectures from Kim et al. (2025), *"Towards a Science of Scaling Agent Systems"* ([arXiv:2512.08296](https://arxiv.org/abs/2512.08296)), using the GitHub Copilot SDK and BM25 retrieval.
+
+| Architecture | Agents | Coordination | Paper Reference |
+|---|---|---|---|
+| **Single (SAS)** | 1 | None (baseline) | §3.1 |
+| **Independent** | 3 | Synthesis-only | §3.1, Ω = synthesis_only |
+| **Centralized** | 1 orchestrator + 3 workers | Hierarchical, 5 rounds | §3.1, Ω = hierarchical |
+| **Decentralized** | 3 | All-to-all debate, 3 rounds | §3.1, Ω = consensus |
+| **Hybrid** | 1 orchestrator + 3 workers | Hierarchical + lateral peer | §3.1, Ω = hierarchical + lateral |
+
+### Prerequisites
+
+- **Java 21** (required for Pyserini BM25 index)
+- **GitHub Copilot CLI** installed and authenticated
+- Dataset decrypted and BM25 index downloaded (see sections above)
+
+On Windows, set `JAVA_HOME` before running:
+```powershell
+$env:JAVA_HOME = "C:\Program Files\Microsoft\jdk-21.0.10.7-hotspot"
+```
+
+### Running a Single Architecture
+
+```bash
+uv run python -m mas_agents.run_eval \
+  --architecture single \
+  --model gpt-4.1 \
+  --index-path indexes/bm25/ \
+  --output-dir runs/bm25/single_gpt4.1
+```
+
+Options:
+- `--architecture`: `single`, `independent`, `centralized`, `decentralized`, `hybrid`
+- `--model`: Any model available via GitHub Copilot SDK (e.g. `gpt-4.1`, `gpt-5-mini`, `claude-sonnet-4`, `gemini-3-pro-preview`)
+- `--limit N`: Process only the first N queries (useful for testing)
+- `--num-agents`: Number of sub-agents for MAS architectures (default: 3)
+- `--k`: Number of search results per query (default: 5)
+- `--snippet-max-tokens`: Max tokens per document snippet (default: 512)
+
+Results are saved as one JSON file per query under `--output-dir`, with automatic resume support (skips already-processed query IDs).
+
+### Running All 5 Architectures
+
+```bash
+uv run python -m mas_agents.benchmark_runner \
+  --model gpt-4.1 \
+  --index-path indexes/bm25/
+```
+
+This produces:
+- `runs/bm25/<architecture>_<model>/` — per-query JSON results
+- `runs/BENCHMARK_REPORT.md` — markdown summary table
+- `runs/benchmark_summary.json` — machine-readable summary
+
+Add `--limit 10` for a quick test run, or `--force` to re-run existing results.
+
+### Evaluating with Kimi K2.5 (LLM-as-Judge)
+
+As an alternative to the default Qwen3-32B judge (which requires a GPU), you can use Kimi K2.5 via the NVIDIA NIM API:
+
+```bash
+uv run python -m mas_agents.evaluate_kimi \
+  --input-dir runs/bm25/single_gpt4.1 \
+  --ground-truth data/browsecomp_plus_decrypted.jsonl \
+  --api-key nvapi-YOUR_KEY_HERE
+```
+
+Or set the API key as an environment variable:
+```bash
+export NVIDIA_API_KEY=nvapi-YOUR_KEY_HERE   # Linux/macOS
+$env:NVIDIA_API_KEY = "nvapi-YOUR_KEY_HERE" # Windows PowerShell
+```
+
+Output: `<input_dir>/eval_summary.json` with accuracy, calibration error, and per-query metrics.
+
+For full documentation, see [mas_agents/README.md](mas_agents/README.md).
+
+---
+
 ## 📚 Docs
 
 To reproduce results from BrowseComp-Plus, you can refer to the following docs for running the various search agents:
+- [Multi-Agent Systems (MAS)](mas_agents/README.md)
 - [OpenAI API](docs/openai.md)
 - [Gemini API](docs/gemini.md)
 - [Anthropic API](docs/anthropic.md)
