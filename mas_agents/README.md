@@ -18,35 +18,66 @@ Implements the 5 canonical agent architectures from Kim et al. (2025), *"Towards
 
 ## Prerequisites
 
-1. **Bun**: Install from https://bun.sh/
-2. **Python + uv**: Required for BM25 bridge (Pyserini)
-3. **Java 21**: Required for Pyserini's Lucene index
-4. **GitHub Copilot CLI**: Must be installed and authenticated
-5. **Dataset**: Decrypt queries and download BM25 index (see below)
+| Tool | Install |
+|---|---|
+| **Python 3.10 + uv** | `curl -LsSf https://astral.sh/uv/install.sh \| sh` |
+| **Bun** | `curl -fsSL https://bun.sh/install \| bash` |
+| **Java 21** | macOS: `brew install openjdk@21` · Windows: [Microsoft JDK 21](https://learn.microsoft.com/en-us/java/openjdk/download) |
+| **GitHub Copilot CLI** | Must be installed and authenticated (`gh auth login`) |
+| **HuggingFace CLI** | `pip install huggingface-cli` then `huggingface-cli login` |
 
-## Setup
+## Quick Start (Fresh Clone)
+
+Everything below runs from the repo root. Works on **macOS** and **Windows** (PowerShell).
 
 ```bash
+git clone https://github.com/Agent-Evaluation/BrowseComp-Plus.git
 cd BrowseComp-Plus
+```
 
-# Install Python deps (for BM25 bridge only)
+### 1. Install Python dependencies
+```bash
 uv sync
+```
 
-# Install TypeScript deps
+### 2. Install TypeScript dependencies
+```bash
 cd mas_agents && bun install && cd ..
+```
 
-# Set JAVA_HOME (Windows)
-$env:JAVA_HOME = "C:\Program Files\Microsoft\jdk-21.0.10.7-hotspot"
-
-# Decrypt dataset (requires HuggingFace login)
+### 3. Download & decrypt the dataset
+```bash
 huggingface-cli login
 uv run python scripts_build_index/decrypt_dataset.py \
   --output data/browsecomp_plus_decrypted.jsonl \
   --generate-tsv topics-qrels/queries.tsv
+```
+This generates `data/browsecomp_plus_decrypted.jsonl` (ground truth) and `topics-qrels/queries.tsv` (830 queries).
 
-# Download BM25 index
+### 4. Download the BM25 index
+```bash
+bash scripts_build_index/download_indexes.sh
+```
+Or download just the BM25 index:
+```bash
 huggingface-cli download Tevatron/browsecomp-plus-indexes \
   --repo-type=dataset --include="bm25/*" --local-dir ./indexes
+```
+
+### 5. Set JAVA_HOME (if not auto-detected)
+```bash
+# macOS (Homebrew)
+export JAVA_HOME=$(/usr/libexec/java_home -v 21)
+
+# Windows (PowerShell)
+$env:JAVA_HOME = "C:\Program Files\Microsoft\jdk-21.0.10.7-hotspot"
+```
+
+### 6. Run!
+```bash
+bun run mas_agents/src/run-eval.ts \
+  --architecture single --model gpt-4.1 \
+  --index-path indexes/bm25/ --limit 1
 ```
 
 ## Running a Single Architecture
