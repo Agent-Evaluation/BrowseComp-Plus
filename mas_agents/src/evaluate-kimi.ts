@@ -67,28 +67,39 @@ async function callKimiJudge(
   model: string = DEFAULT_MODEL,
   maxTokens = 4096
 ): Promise<string> {
-  const resp = await fetch(`${NVIDIA_NIM_BASE_URL}/chat/completions`, {
-    method: "POST",
-    headers: {
-      "Content-Type": "application/json",
-      Authorization: `Bearer ${apiKey}`,
-    },
-    body: JSON.stringify({
-      model,
-      messages: [{ role: "user", content: prompt }],
-      max_tokens: maxTokens,
-      temperature: 1.0,
-      top_p: 1.0,
-      extra_body: { chat_template_kwargs: { thinking: true } },
-    }),
-  });
+  const controller = new AbortController();
+  const timeoutId = setTimeout(() => controller.abort(new Error("Request timed out")), 120000); // 120s timeout
+  try {
+    const resp = await fetch(`${NVIDIA_NIM_BASE_URL}/chat/completions`, {
+      method: "POST",
+      headers: {
+        "Content-Type": "application/json",
+        Authorization: `Bearer ${apiKey}`,
+      },
+      body: JSON.stringify({
+        model,
+        messages: [{ role: "user", content: prompt }],
+        max_tokens: maxTokens,
+        temperature: 1.0,
+        top_p: 1.0,
+      }),
+      signal: controller.signal,
+    });
 
-  if (!resp.ok) {
-    throw new Error(`NVIDIA NIM API error: ${resp.status} ${resp.statusText}`);
+    if (!resp.ok) {
+      throw new Error(`NVIDIA NIM API error: ${resp.status} ${resp.statusText}`);
+    }
+
+    const data = (await resp.json()) as any;
+    return data.choices?.[0]?.message?.content?.trim() ?? "";
+  } catch (error) {
+    if (error instanceof Error && error.name === 'AbortError') {
+      throw new Error('NVIDIA NIM API request timed out after 120 seconds');
+    }
+    throw error;
+  } finally {
+    clearTimeout(timeoutId);
   }
-
-  const data = (await resp.json()) as any;
-  return data.choices?.[0]?.message?.content?.trim() ?? "";
 }
 
 function parseJudgeResponse(judgeResponse: string): JudgeParsed {
