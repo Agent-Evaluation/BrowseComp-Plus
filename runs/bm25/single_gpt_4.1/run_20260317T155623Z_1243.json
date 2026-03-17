@@ -1,0 +1,29 @@
+{
+  "query_id": "1243",
+  "tool_call_counts": {
+    "search": 5
+  },
+  "status": "completed",
+  "retrieved_docids": [
+    "32327",
+    "6316",
+    "99996",
+    "95292",
+    "4583",
+    "95355",
+    "79241",
+    "52395",
+    "42510",
+    "71991",
+    "44024",
+    "96090",
+    "86322",
+    "52770"
+  ],
+  "result": [
+    {
+      "type": "output_text",
+      "output": "Explanation: The search results indicate that Tanuja Samarth is the mother of Kajol and Tanishaa Mukerji. However, the clues in the question (debut in 1990 with another newcomer, lived in the US for 7 years, aspired to be a lawyer, directed a film before 2000, selective about female co-stars) do not match Kajol, but rather her cousin Ayan Mukerji, who is a director, or possibly Ajay Devgn, but neither fits all clues. The evidence does not directly provide a birth name for an actor matching all criteria. No direct evidence found for a birth name matching all clues.\nExact Answer: Insufficient evidence to provide an exact answer.\nConfidence: 20%"
+    }
+  ]
+}

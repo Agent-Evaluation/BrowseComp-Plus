@@ -1,0 +1,33 @@
+{
+  "query_id": "175",
+  "tool_call_counts": {
+    "search": 5
+  },
+  "status": "completed",
+  "retrieved_docids": [
+    "60075",
+    "20318",
+    "52688",
+    "21492",
+    "32088",
+    "70622",
+    "25840",
+    "39100",
+    "85222",
+    "38527",
+    "1636",
+    "32207",
+    "49532",
+    "72831",
+    "39930",
+    "57174",
+    "17629",
+    "67515"
+  ],
+  "result": [
+    {
+      "type": "output_text",
+      "output": "Explanation: The search results did not yield direct evidence for a show or podcast that started as a leisure interest in 2006, was acquired over a decade later, expanded to other platforms, became a top 10 show for over 3 months, and by 2023 had income almost 5 times what was made in 2016. However, the clues in the question closely match the history of the \"Acquired\" podcast, which started in 2016, not 2006. The timeline and details do not fit exactly for any show found in the search results, including \"My Favorite Murder\" or \"Acquired.\" No direct evidence was found for a show matching all criteria.\nExact Answer: No definitive answer found in search results.\nConfidence: 20%"
+    }
+  ]
+}

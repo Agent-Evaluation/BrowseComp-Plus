@@ -1,0 +1,32 @@
+{
+  "query_id": "941",
+  "tool_call_counts": {
+    "search": 5
+  },
+  "status": "completed",
+  "retrieved_docids": [
+    "69846",
+    "27149",
+    "35732",
+    "8434",
+    "99767",
+    "2246",
+    "29956",
+    "68525",
+    "33625",
+    "94724",
+    "100148",
+    "12792",
+    "67106",
+    "14611",
+    "5272",
+    "46935",
+    "91499"
+  ],
+  "result": [
+    {
+      "type": "output_text",
+      "output": "Explanation: The search results confirm Mount Tambora as the dormant volcano in question, but none of the retrieved documents provide direct evidence of a specific insect species commonly found at Mount Tambora as of 2016. The Wikipedia entry and related sources discuss the volcano's history, eruptions, and geography, but do not mention insect fauna. No survey or entomological study specific to Tambora's insect life as of 2016 was found in the results.\nExact Answer: Not found in provided sources\nConfidence: 0%"
+    }
+  ]
+}

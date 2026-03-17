@@ -1,0 +1,22 @@
+{
+  "query_id": "500",
+  "tool_call_counts": {
+    "search": 3
+  },
+  "status": "completed",
+  "retrieved_docids": [
+    "18281",
+    "51565",
+    "79756",
+    "49962",
+    "78997",
+    "9600",
+    "18704"
+  ],
+  "result": [
+    {
+      "type": "output_text",
+      "output": "Explanation: The search results mention several 16th-century castles and fortresses, but none match all the clues except for one likely candidate. The Real Felipe Fortress of Callao in Peru is described as a major fortification, but its construction began in the 18th century, not the 16th. Other castles listed (e.g., Alcázar of Segovia, Matsumoto Castle) do not fit the criteria of being in a capital city under foreign rule, destroyed three years after completion, rebuilt in the same century, and damaged again in the mid-17th century. No direct evidence from the search results matches all the details of the question, so a definitive answer cannot be given based on the provided information.\nExact Answer: Not found in search results\nConfidence: 0%"
+    }
+  ]
+}

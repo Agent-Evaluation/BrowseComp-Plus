@@ -1,0 +1,29 @@
+{
+  "query_id": "486",
+  "tool_call_counts": {
+    "search": 5
+  },
+  "status": "completed",
+  "retrieved_docids": [
+    "21822",
+    "15868",
+    "18948",
+    "52699",
+    "69589",
+    "94524",
+    "51585",
+    "6872",
+    "97431",
+    "61530",
+    "45735",
+    "18129",
+    "6870",
+    "43284"
+  ],
+  "result": [
+    {
+      "type": "output_text",
+      "output": "Explanation: The clues point to De Kuip stadium in Rotterdam, a major football venue. Rotterdam is a port city with 19th-century forts, and De Kuip is 7.5–9.5 km from the Euromast monument, which took 2 years to build. The search did not yield a specific match, minute, or tournament, but the context suggests a famous match at De Kuip involving Feyenoord or the Dutch national team. However, no direct evidence of the exact minute or tournament was found in the search results.\nExact Answer: Insufficient evidence to provide the exact minute and tournament.\nConfidence: 30%"
+    }
+  ]
+}

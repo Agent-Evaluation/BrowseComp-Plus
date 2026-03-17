@@ -1,0 +1,24 @@
+{
+  "query_id": "1036",
+  "tool_call_counts": {
+    "search": 4
+  },
+  "status": "completed",
+  "retrieved_docids": [
+    "3059",
+    "45037",
+    "11622",
+    "51689",
+    "92415",
+    "25208",
+    "33069",
+    "87577",
+    "93977"
+  ],
+  "result": [
+    {
+      "type": "output_text",
+      "output": "Explanation: The search results confirm that the African Entertainment Awards USA (AEAUSA) is a prominent North American award ceremony for African and Caribbean music, including dancehall, with annual winners for categories such as Best Female Artist. However, the available results only list winners for 2023 (Tyla) and do not provide Female Artist of the Year winners for 2015–2020. No direct evidence was found for the exact winner in the required year. Therefore, I cannot provide a definitive answer based on the current evidence.\nExact Answer: Not found in available sources\nConfidence: 0%"
+    }
+  ]
+}

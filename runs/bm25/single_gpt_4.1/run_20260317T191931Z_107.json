@@ -1,0 +1,29 @@
+{
+  "query_id": "107",
+  "tool_call_counts": {
+    "search": 7
+  },
+  "status": "completed",
+  "retrieved_docids": [
+    "59462",
+    "30853",
+    "6726",
+    "97316",
+    "34938",
+    "48097",
+    "29161",
+    "69374",
+    "14114",
+    "82000",
+    "15904",
+    "55244",
+    "6277",
+    "61276"
+  ],
+  "result": [
+    {
+      "type": "output_text",
+      "output": "Explanation: Despite multiple targeted searches, there is no direct evidence in the provided documents identifying a 2010s action-adventure video game with a chapter-based structure, a supporting antagonist as the main antagonist of chapter 4, voiced by an actor who also played a father in a 2010s TV show, nor any PC release date for such a game. The search results do not mention any specific game, actor, or release date matching all these criteria.\nExact Answer: Not found in available sources.\nConfidence: 0%"
+    }
+  ]
+}

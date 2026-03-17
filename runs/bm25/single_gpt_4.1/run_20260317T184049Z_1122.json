@@ -1,0 +1,25 @@
+{
+  "query_id": "1122",
+  "tool_call_counts": {
+    "search": 3
+  },
+  "status": "completed",
+  "retrieved_docids": [
+    "32327",
+    "66328",
+    "50045",
+    "53092",
+    "75146",
+    "20307",
+    "8530",
+    "3114",
+    "19264",
+    "3161"
+  ],
+  "result": [
+    {
+      "type": "output_text",
+      "output": "Explanation: None of the search results provide information about an Indian or South Asian actress who matches all the criteria: grew up in various cities, last theatre performance between 1988-1994, married twice as of December 2023, produced a play with her second husband between 1970-1975 for which they were prosecuted and spent nights in prison, and had one child in her second marriage. The results reference unrelated celebrities and do not mention prosecution for a play or the specific marital and family details required.\nExact Answer: No answer found in the provided search results.\nConfidence: 0%"
+    }
+  ]
+}

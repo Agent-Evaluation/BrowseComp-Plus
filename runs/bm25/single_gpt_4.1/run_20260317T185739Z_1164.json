@@ -1,0 +1,32 @@
+{
+  "query_id": "1164",
+  "tool_call_counts": {
+    "search": 8
+  },
+  "status": "completed",
+  "retrieved_docids": [
+    "56695",
+    "60075",
+    "97455",
+    "53151",
+    "13367",
+    "79631",
+    "21492",
+    "5402",
+    "62230",
+    "8840",
+    "54189",
+    "56164",
+    "83887",
+    "54448",
+    "28304",
+    "27254",
+    "54707"
+  ],
+  "result": [
+    {
+      "type": "output_text",
+      "output": "Explanation: Evidence from [27254] confirms that Tim Brown, a former soccer player, co-founded Allbirds, a direct-to-consumer brand known for its wool-based shoes. The brand's best-selling product, the Wool Runner, was inspired by classic running shoes, specifically referencing the simple, functional design of traditional athletic footwear. This aligns with the question's clues: founded after an Olympic year (2010), co-founder with merchandising background, direct-to-consumer model, and a product inspired by classic sports gear. The Wool Runner is widely recognized as Allbirds' signature design.\nExact Answer: Wool Runner (inspired by classic running shoes)\nConfidence: 95%"
+    }
+  ]
+}

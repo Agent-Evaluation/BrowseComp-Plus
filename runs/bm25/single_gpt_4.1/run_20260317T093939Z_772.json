@@ -1,0 +1,22 @@
+{
+  "query_id": "772",
+  "tool_call_counts": {
+    "search": 4
+  },
+  "status": "completed",
+  "retrieved_docids": [
+    "50715",
+    "23995",
+    "4320",
+    "55469",
+    "44222",
+    "15666",
+    "2531"
+  ],
+  "result": [
+    {
+      "type": "output_text",
+      "output": "Explanation: Despite multiple targeted searches, none of the retrieved documents contain information about a school established in the 1980s in a township for migrant workers, nor do they mention the role or duties of the longest-serving employee at such a school. The search results are unrelated, focusing on other cities or historical overviews, and do not address the specific question.\nExact Answer: No relevant information found in the provided search results.\nConfidence: 0%"
+    }
+  ]
+}

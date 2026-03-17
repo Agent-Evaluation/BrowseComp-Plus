@@ -1,0 +1,23 @@
+{
+  "query_id": "1144",
+  "tool_call_counts": {
+    "search": 4
+  },
+  "status": "completed",
+  "retrieved_docids": [
+    "22547",
+    "92846",
+    "86483",
+    "54992",
+    "63930",
+    "81176",
+    "77526",
+    "52586"
+  ],
+  "result": [
+    {
+      "type": "output_text",
+      "output": "Explanation: Despite multiple searches, there is no direct evidence in the provided documents identifying the specific charge Person A pleaded guilty to in the described 2020 incident. The search results primarily discuss unrelated high-profile trials, legal codes, and other cases, but none match the unique combination of details (2020 death, no jail, law firm partner/barbershop quartet lawyer, spouse and sibling at sentencing). Therefore, the charge remains unidentified based on the available evidence.\nExact Answer: Not found in provided sources\nConfidence: 0%"
+    }
+  ]
+}

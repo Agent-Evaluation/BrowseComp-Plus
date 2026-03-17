@@ -1,0 +1,23 @@
+{
+  "query_id": "330",
+  "tool_call_counts": {
+    "search": 4
+  },
+  "status": "completed",
+  "retrieved_docids": [
+    "41035",
+    "45036",
+    "68181",
+    "84059",
+    "8530",
+    "3737",
+    "9119",
+    "5965"
+  ],
+  "result": [
+    {
+      "type": "output_text",
+      "output": "Explanation: The search results do not provide a direct match for a TV series meeting all the specified criteria (episodes directed by someone who also directed a three-part series, another episode directed by someone born 1960-1985, a character appearing in two episodes born 1990-2020, and another character born in the 1970s). The closest matches reference British sitcoms and actors/directors, but none confirm all requirements for a specific series. No evidence found for an exact answer.\nExact Answer: Not found in current search results.\nConfidence: 0%"
+    }
+  ]
+}

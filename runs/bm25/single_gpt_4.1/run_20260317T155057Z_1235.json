@@ -1,0 +1,29 @@
+{
+  "query_id": "1235",
+  "tool_call_counts": {
+    "search": 4
+  },
+  "status": "completed",
+  "retrieved_docids": [
+    "97336",
+    "75527",
+    "21822",
+    "43472",
+    "72948",
+    "18566",
+    "93477",
+    "43528",
+    "45601",
+    "84162",
+    "22885",
+    "85451",
+    "28467",
+    "3691"
+  ],
+  "result": [
+    {
+      "type": "output_text",
+      "output": "Explanation: The question points to a sportsperson from a country projected to have over 300 million people by 2050 (India fits this). The person lost their international debut, was instrumental in winning a gold medal at a major multi-sport event in a capital city (1982 Asian Games, New Delhi), was born over a decade before independence (before 1937), and received the Arjuna Award (India's second-highest sporting award) in the same year as the gold. Zafar Iqbal, an Indian hockey player, matches these clues: he lost his debut, was key in India's 1982 Asian Games gold in New Delhi, was born in 1956 (not before 1937, so this does not fit), and received the Arjuna Award in 1983. However, no evidence in the search confirms a player born before 1937 with all these attributes. The search did not yield a definitive name matching all criteria.\nExact Answer: Insufficient evidence to provide a definitive name.\nConfidence: 30%"
+    }
+  ]
+}

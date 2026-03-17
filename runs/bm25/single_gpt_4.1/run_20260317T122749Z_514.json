@@ -1,0 +1,31 @@
+{
+  "query_id": "514",
+  "tool_call_counts": {
+    "search": 6
+  },
+  "status": "completed",
+  "retrieved_docids": [
+    "57164",
+    "4758",
+    "66328",
+    "21822",
+    "79928",
+    "37341",
+    "56575",
+    "50977",
+    "82044",
+    "8930",
+    "10658",
+    "70474",
+    "45147",
+    "6640",
+    "5238",
+    "76542"
+  ],
+  "result": [
+    {
+      "type": "output_text",
+      "output": "Explanation: Despite multiple targeted searches, no document provided a direct match for all the clues: an actor born in the 1930s, BFA from Carnegie Mellon University (founded 1900), film debut as a district attorney in the 1970s, first stage appearance as a child in the 1940s, married in the 1980s, only one child, and a father who was a professor at Georgetown University (founded 1789). No notable alumni lists or biographical summaries surfaced a candidate matching all these criteria.\nExact Answer: No answer found\nConfidence: 0%"
+    }
+  ]
+}

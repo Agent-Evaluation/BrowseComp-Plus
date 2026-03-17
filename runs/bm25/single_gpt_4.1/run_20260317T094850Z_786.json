@@ -1,0 +1,28 @@
+{
+  "query_id": "786",
+  "tool_call_counts": {
+    "search": 5
+  },
+  "status": "completed",
+  "retrieved_docids": [
+    "95292",
+    "22055",
+    "42871",
+    "41554",
+    "46716",
+    "58633",
+    "12900",
+    "22170",
+    "48097",
+    "3737",
+    "22129",
+    "79020",
+    "25076"
+  ],
+  "result": [
+    {
+      "type": "output_text",
+      "output": "Explanation: Despite multiple targeted searches, there is no evidence in the provided search results identifying an Indian-origin person born in the 1950s, described as “Perfectly formed,” who appeared in a 1h31m film directed by a British director known for dinosaur, sci-fi, and adventure films (such as Kevin Connor), and who directed a short film with their nephew. None of the search results mention a name or provide biographical details matching all these criteria.\nExact Answer: Not found in available sources\nConfidence: 0%"
+    }
+  ]
+}

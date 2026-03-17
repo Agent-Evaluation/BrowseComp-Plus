@@ -1,0 +1,30 @@
+{
+  "query_id": "1172",
+  "tool_call_counts": {
+    "search": 6
+  },
+  "status": "completed",
+  "retrieved_docids": [
+    "95292",
+    "23704",
+    "66756",
+    "4583",
+    "88074",
+    "45725",
+    "97834",
+    "99494",
+    "79826",
+    "15913",
+    "90396",
+    "39911",
+    "86044",
+    "29439",
+    "5862"
+  ],
+  "result": [
+    {
+      "type": "output_text",
+      "output": "Explanation: The search for a Malayalam movie released between 2008 and 2011 with all the specified criteria (island setting with the same name as the movie, main character a servant, main actress a fisherman's daughter, main actor won an award for this role, two directors and two writers with one overlap, only one production company, a person is killed, and it being the second movie of the main actor) led to the movie \"Kutti Srank.\" However, the search results did not provide a direct confirmation of all the criteria, especially regarding the main actor's filmography and award in the release year. No other movie matching all criteria was found.\nExact Answer: Kutti Srank\nConfidence: 70%"
+    }
+  ]
+}

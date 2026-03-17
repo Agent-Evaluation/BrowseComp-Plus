@@ -1,0 +1,27 @@
+{
+  "query_id": "210",
+  "tool_call_counts": {
+    "search": 3
+  },
+  "status": "completed",
+  "retrieved_docids": [
+    "77381",
+    "64266",
+    "94639",
+    "20061",
+    "99480",
+    "50756",
+    "60418",
+    "93663",
+    "83482",
+    "66123",
+    "78778",
+    "97010"
+  ],
+  "result": [
+    {
+      "type": "output_text",
+      "output": "Explanation: The article titled \"Mortality over Legacy: An Analysis of The Last Unicorn\" (2023) discusses the allegorical theme in \"The Last Unicorn,\" an animated movie originally released in 1982. The article analyzes the film's exploration of mortality and humanity, fitting the criteria of a 2023 article analyzing an allegorical theme in a 1980s animated movie. While the snippet does not explicitly mention the author's AIA Henry Adams Medal, it is the only 2023 article matching all other criteria found in the search results [83482].\nExact Answer: The Last Unicorn\nConfidence: 85%"
+    }
+  ]
+}

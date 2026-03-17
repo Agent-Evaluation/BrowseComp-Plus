@@ -1,0 +1,28 @@
+{
+  "query_id": "984",
+  "tool_call_counts": {
+    "search": 7
+  },
+  "status": "completed",
+  "retrieved_docids": [
+    "76126",
+    "41169",
+    "25977",
+    "6816",
+    "304",
+    "67619",
+    "35079",
+    "99681",
+    "74325",
+    "35493",
+    "3358",
+    "80134",
+    "93195"
+  ],
+  "result": [
+    {
+      "type": "output_text",
+      "output": "Explanation: Despite extensive searching, none of the results directly confirm a Yu-Gi-Oh! card matching all criteria: released 2005-2015, multiple rarities, used by a Japanese world champion, lore as armor for a card released 2013-2018 (such as \"Borrelsword Dragon\" or \"Borreload Dragon\"), once banned, and below level 8. The search included all major candidates (e.g., \"Djinn Releaser of Rituals\", \"Shurit, Strategist of the Nekroz\", \"Elemental HERO Stratos\", \"Dark Armed Dragon\", \"Construct\", \"Dragon Ruler\" cards), but no evidence directly links any to being \"armor\" for a later card or all other clues.\nExact Answer: Insufficient evidence to determine the exact card.\nConfidence: 10%"
+    }
+  ]
+}

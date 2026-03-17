@@ -1,0 +1,27 @@
+{
+  "query_id": "83",
+  "tool_call_counts": {
+    "search": 5
+  },
+  "status": "completed",
+  "retrieved_docids": [
+    "70702",
+    "67965",
+    "93466",
+    "80725",
+    "18948",
+    "72312",
+    "8394",
+    "5141",
+    "8969",
+    "90586",
+    "62152",
+    "66320"
+  ],
+  "result": [
+    {
+      "type": "output_text",
+      "output": "Explanation: The search results indicate that mushrooms fit the clues: used in ritual and medicine, harvested with stone tools, associated with poverty in the 1940s, and studied for body composition. The article from 2013 (\"Introduction\" [80725]) discusses the ethnographic and historical use of mushrooms by California Indian tribes, but does not specify the first person credited with documenting their use. No search result from 2012–2023 explicitly provides the full name of the first person to document the use of mushrooms as required by the question.\nExact Answer: Not found in provided sources\nConfidence: 0%"
+    }
+  ]
+}

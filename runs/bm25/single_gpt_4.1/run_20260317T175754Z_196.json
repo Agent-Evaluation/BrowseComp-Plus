@@ -1,0 +1,22 @@
+{
+  "query_id": "196",
+  "tool_call_counts": {
+    "search": 3
+  },
+  "status": "completed",
+  "retrieved_docids": [
+    "30804",
+    "59381",
+    "99671",
+    "95292",
+    "5883",
+    "37369",
+    "82543"
+  ],
+  "result": [
+    {
+      "type": "output_text",
+      "output": "Explanation: None of the search results provide any information about an actor born in 1987 who lived on three continents by age 12, used a stage name, received advice from an Indian-origin individual to keep their original identity, got a matching tattoo with sibling and cousin, and made a 2017 comment about hosting the Oscars. The search results are either unrelated or do not mention any actor matching these details.\nExact Answer: No answer found in the provided search results.\nConfidence: 0%"
+    }
+  ]
+}

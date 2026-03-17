@@ -1,0 +1,24 @@
+{
+  "query_id": "512",
+  "tool_call_counts": {
+    "search": 4
+  },
+  "status": "completed",
+  "retrieved_docids": [
+    "86724",
+    "45601",
+    "32940",
+    "922",
+    "52708",
+    "10945",
+    "37488",
+    "43528",
+    "61473"
+  ],
+  "result": [
+    {
+      "type": "output_text",
+      "output": "Explanation: The search results do not provide a direct list of T20I man of the match awardees with the specific criteria: took more than 2 wickets, gave more than 8 runs, born between 1980 and 1999, and made Test debut between 2010 and 2019. The documents found are general team or player summaries and do not contain detailed match-by-match award data or player birth/debut details matching all criteria. Therefore, I cannot identify the exact player based on the available evidence.\nExact Answer: Not found in provided sources\nConfidence: 0%"
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "query_id": "847",
+  "tool_call_counts": {
+    "search": 5
+  },
+  "status": "completed",
+  "retrieved_docids": [
+    "66328",
+    "17462",
+    "53092",
+    "12980",
+    "8930",
+    "95292",
+    "63988",
+    "36458",
+    "97834",
+    "98189",
+    "4758",
+    "31859",
+    "18948",
+    "37294",
+    "89142"
+  ],
+  "result": [
+    {
+      "type": "output_text",
+      "output": "Explanation: Despite multiple targeted searches, no direct evidence was found in the provided search results identifying the specific movie, director, or reviewer matching all the clues (2023 Indian film about a married couple, directed/written by a poet born July-Dec 1971, National Award in 2015, and a review in a 1990s-launched newspaper criticizing the female lead's arc and Indigenous focus). The search results did not yield relevant snippets from The Hindu or The Indian Express, nor did they mention a review with the described complaints.\nExact Answer: Not found in available search results.\nConfidence: 0%"
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "query_id": "1046",
+  "tool_call_counts": {
+    "search": 6
+  },
+  "status": "completed",
+  "retrieved_docids": [
+    "77096",
+    "25453",
+    "72480",
+    "22203",
+    "60075",
+    "21492",
+    "79572",
+    "94457",
+    "39805",
+    "73719",
+    "72776",
+    "71644",
+    "63992"
+  ],
+  "result": [
+    {
+      "type": "output_text",
+      "output": "Explanation: Despite multiple targeted searches, there is no direct evidence in the provided search results confirming the original name of a company founded between 1990 and 2010 by a school dropout born between 1970 and 1990, later renamed, with an elaborate structure, debt-ridden by 2023, and whose founder was convicted of bribery before 2023. The most likely candidate fitting some criteria is Evergrande (founded by Xu Jiayin), but the search results do not confirm the original name or all required details.\nExact Answer: Not found in provided sources\nConfidence: 0%"
+    }
+  ]
+}

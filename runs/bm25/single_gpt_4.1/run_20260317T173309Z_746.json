@@ -1,0 +1,27 @@
+{
+  "query_id": "746",
+  "tool_call_counts": {
+    "search": 5
+  },
+  "status": "completed",
+  "retrieved_docids": [
+    "19132",
+    "39930",
+    "44275",
+    "52885",
+    "21847",
+    "68291",
+    "25059",
+    "9999",
+    "69568",
+    "82418",
+    "9039",
+    "53314"
+  ],
+  "result": [
+    {
+      "type": "output_text",
+      "output": "Explanation: Despite multiple targeted searches, no search result provided the publication time of the ESPN Africa article from mid-2017 about the African football coach whose tenure ended after 60 matches and whose team failed to purchase another team's status. The relevant ESPN Africa article and its publication time were not found in the search results.\nExact Answer: Not found in search results\nConfidence: 0%"
+    }
+  ]
+}

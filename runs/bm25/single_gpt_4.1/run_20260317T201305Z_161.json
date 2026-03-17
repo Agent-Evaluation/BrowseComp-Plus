@@ -1,0 +1,29 @@
+{
+  "query_id": "161",
+  "tool_call_counts": {
+    "search": 5
+  },
+  "status": "completed",
+  "retrieved_docids": [
+    "12980",
+    "5965",
+    "84059",
+    "18662",
+    "75146",
+    "35146",
+    "40731",
+    "12902",
+    "68671",
+    "7585",
+    "31488",
+    "79505",
+    "92048",
+    "44076"
+  ],
+  "result": [
+    {
+      "type": "output_text",
+      "output": "Explanation: The clues point to Johnny Clegg, a South African artist born in 1953, whose music was banned in the 1970s due to anti-apartheid themes. He formed Juluka and Savuka, and his brother was in his band. Clegg had five children. However, the search results do not provide a direct list of his 2000s album tracklists or the sixth song. The Wikipedia entry confirms his biography but not the specific song. No direct evidence of the sixth track's name is found in the search results.\nExact Answer: Insufficient evidence to determine the exact song name.\nConfidence: 30%"
+    }
+  ]
+}

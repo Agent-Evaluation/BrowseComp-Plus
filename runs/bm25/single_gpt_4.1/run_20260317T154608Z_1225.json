@@ -1,0 +1,24 @@
+{
+  "query_id": "1225",
+  "tool_call_counts": {
+    "search": 4
+  },
+  "status": "completed",
+  "retrieved_docids": [
+    "49962",
+    "49204",
+    "30855",
+    "74438",
+    "2233",
+    "34354",
+    "18482",
+    "85153",
+    "58534"
+  ],
+  "result": [
+    {
+      "type": "output_text",
+      "output": "Explanation: The Sariska Wildlife Sanctuary in Rajasthan, India, is described as having dry deciduous forests flanking the serene Siliserh Lake in the northeast. The context and phrasing in the source indicate that Siliserh Lake is an artificial lake associated with the sanctuary. No other artificial lake is mentioned in connection with Sariska, and Siliserh Lake is well-known as a man-made reservoir created by damming a river for the Alwar royal family, fitting the criteria of an artificial lake inside the sanctuary as of 2023 [30855].\nExact Answer: Siliserh Lake\nConfidence: 95%"
+    }
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "query_id": "206",
+  "tool_call_counts": {
+    "search": 6
+  },
+  "status": "completed",
+  "retrieved_docids": [
+    "77348",
+    "89865",
+    "31148",
+    "29886",
+    "14467",
+    "43610",
+    "30804",
+    "8930",
+    "19264",
+    "3161",
+    "12980",
+    "47593",
+    "9765",
+    "4758",
+    "5238",
+    "3114",
+    "91178",
+    "66328",
+    "6375",
+    "62114",
+    "35146",
+    "44024",
+    "88134",
+    "86322",
+    "52770",
+    "96825"
+  ],
+  "result": [
+    {
+      "type": "output_text",
+      "output": "Explanation: The clues point to an Indian actress who started as a child artist in the 1960s, worked in over 300 films, won multiple national awards, married in 1973, and whose children have advanced degrees, including a PhD at Harvard. The male lead was born in 1941, made his debut in the 1960s in a film directed by someone born between 1925 and 1930, and sang a duet. However, none of the search results directly confirm a movie matching all these criteria, nor do they identify the actress or the film. The search did not yield a direct match for the movie or the individuals described.\nExact Answer: Insufficient evidence to identify the movie.\nConfidence: 0%"
+    }
+  ]
+}

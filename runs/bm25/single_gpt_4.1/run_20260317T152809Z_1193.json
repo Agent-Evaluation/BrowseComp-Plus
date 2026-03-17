@@ -1,0 +1,26 @@
+{
+  "query_id": "1193",
+  "tool_call_counts": {
+    "search": 4
+  },
+  "status": "completed",
+  "retrieved_docids": [
+    "7483",
+    "67355",
+    "10945",
+    "45601",
+    "43528",
+    "98342",
+    "46222",
+    "52708",
+    "51985",
+    "83935",
+    "22885"
+  ],
+  "result": [
+    {
+      "type": "output_text",
+      "output": "Explanation: The search results mention Bengal's performances in the 2019-20 domestic season, with references to debutants, top run scorers, and wicket-takers. The Ranji Trophy 2019-20 final featured Bengal, and the details about debutants and player rankings match the clues. The CAB (Cricket Association of Bengal) snippets discuss Bengal players' debuts and performances, and the context of the Ranji Trophy final aligns with the clues about unbeaten bowlers and joint wicket-takers. The year is confirmed as 2019-20 from the fixture dates and match reports [98342].\nExact Answer: Ranji Trophy 2019-20\nConfidence: 90%"
+    }
+  ]
+}

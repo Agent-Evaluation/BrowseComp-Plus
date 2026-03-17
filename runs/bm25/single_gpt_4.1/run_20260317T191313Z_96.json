@@ -1,0 +1,28 @@
+{
+  "query_id": "96",
+  "tool_call_counts": {
+    "search": 4
+  },
+  "status": "completed",
+  "retrieved_docids": [
+    "1109",
+    "98887",
+    "93307",
+    "64110",
+    "76550",
+    "73565",
+    "74660",
+    "587",
+    "49410",
+    "76031",
+    "63195",
+    "1666",
+    "39080"
+  ],
+  "result": [
+    {
+      "type": "output_text",
+      "output": "Explanation: The suburb in question is Glencairn, as indicated by the Simon's Town Historical Society Bulletin (2012), which details its history, including the purchase of land by a Scots syndicate in 1901, the opening of a glass factory in 1902, and the 2011 census data. The Cape Glass Company operated in Glencairn, and by 2013, the only remaining trace of the factory was a street name. Multiple sources confirm that \"Glass Road\" is the street named after the factory in Glencairn.\nExact Answer: Glass Road\nConfidence: 95%"
+    }
+  ]
+}

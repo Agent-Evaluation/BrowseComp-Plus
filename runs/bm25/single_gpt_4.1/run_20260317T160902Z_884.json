@@ -1,0 +1,33 @@
+{
+  "query_id": "884",
+  "tool_call_counts": {
+    "search": 6
+  },
+  "status": "completed",
+  "retrieved_docids": [
+    "69135",
+    "20411",
+    "70716",
+    "66756",
+    "8530",
+    "59490",
+    "89913",
+    "89298",
+    "37965",
+    "17036",
+    "20307",
+    "66150",
+    "41554",
+    "99932",
+    "99494",
+    "47593",
+    "95124",
+    "72543"
+  ],
+  "result": [
+    {
+      "type": "output_text",
+      "output": "Explanation: Brian Trenchard-Smith, who attended Wellington College, made his directorial debut with \"The Man from Hong Kong\" (1975). The DOP (director of photography) for this film was Russell Boyd (not directly cited in the above, but widely known in film records). George Lazenby acted in \"The Man from Hong Kong.\" Lazenby later played the title role in the TV drama \"The Master\" (1984), where he starred as John Peter McAllister, the titular master ninja.\nExact Answer: The Master\nConfidence: 95%"
+    }
+  ]
+}

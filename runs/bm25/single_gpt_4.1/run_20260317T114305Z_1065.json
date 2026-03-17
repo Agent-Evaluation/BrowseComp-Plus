@@ -1,0 +1,25 @@
+{
+  "query_id": "1065",
+  "tool_call_counts": {
+    "search": 6
+  },
+  "status": "completed",
+  "retrieved_docids": [
+    "18128",
+    "59931",
+    "286",
+    "24482",
+    "14454",
+    "41906",
+    "78158",
+    "57198",
+    "4756",
+    "43311"
+  ],
+  "result": [
+    {
+      "type": "output_text",
+      "output": "Explanation: The question describes a moss with a yellow-green color, low growth, and \"Threatened\" status in 2023, whose genus was named after an Englishman (William Wilson, a bryologist) at the time of his retirement, 73 years after his birth. The genus \"Wilsoniella\" fits these criteria, as it was named after William Wilson, a prominent English bryologist. The most well-known threatened, yellow-green moss in this genus is Wilsoniella britannica.\nExact Answer: Wilsoniella britannica\nConfidence: 90%"
+    }
+  ]
+}

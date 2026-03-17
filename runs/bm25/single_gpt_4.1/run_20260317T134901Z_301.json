@@ -1,0 +1,24 @@
+{
+  "query_id": "301",
+  "tool_call_counts": {
+    "search": 3
+  },
+  "status": "completed",
+  "retrieved_docids": [
+    "73719",
+    "68866",
+    "1123",
+    "33562",
+    "32603",
+    "69166",
+    "93113",
+    "6640",
+    "93991"
+  ],
+  "result": [
+    {
+      "type": "output_text",
+      "output": "Explanation: Despite multiple targeted searches, none of the retrieved documents provide evidence of a businessperson involved in cyber fraud (2015–2020) whose spouse is a law and history graduate with an LLM, owns a firm with their name, and was born into a royal family. No search result mentions a royal family connection for any spouse matching these criteria. Therefore, there is insufficient evidence to answer the question.\nExact Answer: Not found in available sources\nConfidence: 0%"
+    }
+  ]
+}

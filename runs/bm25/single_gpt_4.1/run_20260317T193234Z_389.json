@@ -1,0 +1,24 @@
+{
+  "query_id": "389",
+  "tool_call_counts": {
+    "search": 3
+  },
+  "status": "completed",
+  "retrieved_docids": [
+    "6316",
+    "84059",
+    "4583",
+    "19264",
+    "41035",
+    "4035",
+    "32327",
+    "81882",
+    "8930"
+  ],
+  "result": [
+    {
+      "type": "output_text",
+      "output": "Explanation: None of the search results directly identify an actor born in the 1970s who dated an actress (also born in the 1970s) from 1999 for 12 years, was a member of a dramatic arts club founded in the 1980s, and whose father was known for a 1960s film. The results mention actors and actresses with partial matches (e.g., Alan Alda, Tony Curtis, Robin Williams), but their birth years, relationships, or family details do not fit all clues. No evidence found for a definitive answer.\nExact Answer: No definitive answer found based on available evidence.\nConfidence: 0%"
+    }
+  ]
+}

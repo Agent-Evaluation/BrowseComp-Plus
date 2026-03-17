@@ -1,0 +1,14 @@
+Loaded 830 ground truth entries
+Found 830 result files in runs/bm25/single_gpt_4.1
+  [1/830] [769] correct=no confidence=70
+  [2/830] [770] correct=no confidence=30
+  [3/830] [771] correct=no confidence=60
+  [4/830] [772] correct=no confidence=0
+  [5/830] [773] correct=no confidence=0
+  [6/830] [774] correct=no confidence=0
+  [7/830] [775] correct=null confidence=100
+  [8/830] [776] correct=no confidence=100
+  [9/830] [778] correct=no confidence=10
+  [10/830] [781] correct=no confidence=0
+  [11/830] [783] correct=no confidence=0
+  [12/830] [784] correct=no confidence=0

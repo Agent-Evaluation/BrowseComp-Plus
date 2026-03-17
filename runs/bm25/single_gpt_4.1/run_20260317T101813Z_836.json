@@ -1,0 +1,27 @@
+{
+  "query_id": "836",
+  "tool_call_counts": {
+    "search": 6
+  },
+  "status": "completed",
+  "retrieved_docids": [
+    "70716",
+    "13711",
+    "42715",
+    "38634",
+    "59462",
+    "5965",
+    "46849",
+    "63644",
+    "67819",
+    "2780",
+    "84059",
+    "30804"
+  ],
+  "result": [
+    {
+      "type": "output_text",
+      "output": "Explanation: Despite multiple searches, there is no direct evidence in the provided documents identifying a horror TV miniseries (2000–2015) with less than 10 episodes, featuring a Nurse character, a showrunner who founded a talent management company, and a comedian who released a stand-up special under that company in the early 2020s. The search results do not mention any such series, its cast, or relevant talent management connections.\nExact Answer: Not found in available sources.\nConfidence: 0%"
+    }
+  ]
+}

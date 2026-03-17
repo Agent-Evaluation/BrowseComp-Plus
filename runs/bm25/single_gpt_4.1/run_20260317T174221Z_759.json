@@ -1,0 +1,35 @@
+{
+  "query_id": "759",
+  "tool_call_counts": {
+    "search": 10
+  },
+  "status": "completed",
+  "retrieved_docids": [
+    "97575",
+    "51679",
+    "39753",
+    "18830",
+    "94639",
+    "99355",
+    "96256",
+    "32785",
+    "46697",
+    "40905",
+    "97987",
+    "66328",
+    "82044",
+    "6993",
+    "168",
+    "79134",
+    "60452",
+    "93660",
+    "22761",
+    "47345"
+  ],
+  "result": [
+    {
+      "type": "output_text",
+      "output": "search: Turkish artist poet carpenter butcher published poetry died 13 July 2000-2010 exhibition Kılıç Ali Paşa Hamamı 2016 name \"Büyüktaşçıyan\" \"Mehmet\" \"Ali\" \"Ahmet\" \"Hüseyin\" \"İsmail\" \"Yusuf\" \"Osman\" \"Mustafa\" \"Süleyman\" \"Veli\" \"Bekir\" \"Hasan\" \"Halil\" \"Rıza\" \"Kemal\" \"Cemal\" \"Nuri\" \"Şahin\" \"Kadir\" \"Fikret\" \"Emin\" \"Hayri\" \"Haydar\" \"Şevket\" \"Şaban\" \"Şakir\" \"Şerif\" \"Şükrü\" \"Şevki\" \"Şahin\" \"Şeref\" \"Şemsi\" \"Şahin\" \"Şakir\" \"Şevket\" \"Şükrü\" \"Şahin\" \"Şakir\" \"Şevket\" \"Şükrü\" \"Şahin\" \"Şakir\" \"Şevket\" \"Şükrü\" \"Şahin\" \"Şakir\" \"Şevket\" \"Şükrü\" \"Şahin\" \"Şakir\" \"Şevket\" \"Şükrü\" \"Şahin\" \"Şakir\" \"Şevket\" \"Şükrü\" \"Şahin\" \"Şakir\" \"Şevket\" \"Şükrü\" \"Şahin\" \"Şakir\" \"Şevket\" \"Şükrü\" \"Şahin\" \"Şakir\" \"Şevket\" \"Şükrü\" \"Şahin\" \"Şakir\" \"Şevket\" \"Şükrü\" \"Şahin\" \"Şakir\" \"Şevket\" \"Şükrü\" \"Şahin\" \"Şakir\" \"Şevket\" \"Şükrü\" \"Şahin\" \"Şakir\" \"Şevket\" \"Şükrü\" \"Şahin\" \"Şakir\" \"Şevket\" \"Şükrü\" \"Şahin\" \"Şakir\" \"Şevket\" \"Şükrü\" \"Şahin\" \"Şakir\" \"Şevket\" \"Şükrü\" \"Şahin\" \"Şakir\" \"Şevket\" \"Şükrü\" \"Şahin\" \"Şakir\" \"Şevket\" \"Şükrü\" \"Şahin\" \"Şakir\" \"Şevket\" \"Şükrü\" \"Şahin\" \"Şakir\" \"Şevket\" \"Şükrü\" \"Şahin\" \"Şakir\" \"Şevket\" \"Şükrü\" \"Şahin\" \"Şakir\" \"Şevket\" \"Şükrü\" \"Şahin\" \"Şakir\" \"Şevket\" \"Şükrü\" \"Şahin\" \"Şakir\" \"Şevket\" \"Şükrü\" \"Şahin\" \"Şakir\" \"Şevket\" \"Şükrü\" \"Şahin\" \"Şakir\" \"Şevket\" \"Şükrü\" \"Şahin\" \"Şakir\" \"Şevket\" \"Şükrü\" \"Şahin\" \"Şakir\" \"Şevket\" \"Şükrü\" \"Şahin\" \"Şakir\" \"Şevket\" \"Şükrü\" \"Şahin\" \"Şakir\" \"Şevket\" \"Şükrü\" \"Şahin\" \"Şakir\" \"Şevket\" \"Şükrü\" \"Şahin\" \"Şakir\" \"Şevket\" \"Şükrü\" \"Şahin\" \"Şakir\" \"Şevket\" \"Şükrü\" \"Şahin\" \"Şakir\" \"Şevket\" \"Şükrü\" \"Şahin\" \"Şakir\" \"Şevket\" \"Şükrü\" \"Şahin\" \"Şakir\" \"Şevket\" \"Şükrü\" \"Şahin\" \"Şakir\" \"Şevket\" \"Şükrü\" \"Şahin\" \"Şakir\" \"Şevket\" \"Şükrü\" \"Şahin\" \"Şakir\" \"Şevket\" \"Şükrü\" \"Şahin\" \"Şakir\" \"Şevket\" \"Şükrü\" \"Şahin\" \"Şakir\" \"Şevket\" \"Şükrü\" \"Şahin\" \"Şakir\" \"Şevket\" \"Şükrü\" \"Şahin\" \"Şakir\" \"Şevket\" \"Şükrü\" \"Şahin\" \"Şakir\" \"Şevket\" \"Şükrü\" \"Şahin\" \"Şakir\" \"Şevket\" \"Şükrü\" \"Şahin\" \"Şakir\" \"Şevket\" \"Şükrü\" \"Şahin\" \"Şakir\" \"Şevket\" \"Şükrü\" \"Şahin\" \"Şakir\" \"Şevket\" \"Şükrü\""
+    }
+  ]
+}

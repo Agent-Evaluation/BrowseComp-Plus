@@ -1,0 +1,28 @@
+{
+  "query_id": "814",
+  "tool_call_counts": {
+    "search": 8
+  },
+  "status": "completed",
+  "retrieved_docids": [
+    "740",
+    "24320",
+    "2488",
+    "7111",
+    "41035",
+    "40457",
+    "40989",
+    "42081",
+    "93225",
+    "7716",
+    "28302",
+    "26386",
+    "14779"
+  ],
+  "result": [
+    {
+      "type": "output_text",
+      "output": "Explanation: Despite multiple searches, none of the retrieved documents directly name the North American voice actress for Bloom in the 4Kids dub of Winx Club, nor confirm her as a lead in a PBS children's show in the early 2000s or as a global stage performer who retired in the mid-2010s. The Wikipedia entries and overviews confirm the show's production and dubbing history but do not provide the specific individual's name or career details required by the question.\nExact Answer: Not found in current search results.\nConfidence: 0%"
+    }
+  ]
+}

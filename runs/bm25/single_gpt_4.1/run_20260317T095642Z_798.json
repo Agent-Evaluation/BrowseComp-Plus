@@ -1,0 +1,28 @@
+{
+  "query_id": "798",
+  "tool_call_counts": {
+    "search": 4
+  },
+  "status": "completed",
+  "retrieved_docids": [
+    "5238",
+    "76542",
+    "22471",
+    "53752",
+    "22827",
+    "21822",
+    "9024",
+    "53092",
+    "57164",
+    "66328",
+    "18948",
+    "52885",
+    "6499"
+  ],
+  "result": [
+    {
+      "type": "output_text",
+      "output": "Explanation: Despite multiple targeted searches, there is no direct evidence in the provided documents identifying an Indian institute established between 1949 and 1959, with notable alumni (ministers, civil servants, journalists, CEOs, actors), that relocated within 2 to 7 miles of its original site, and whose founder's hometown is now in a neighboring state. The search results do not mention specific institutes like the National Defence Academy, Film and Television Institute of India, Indian Institute of Management, or National Institute of Design in this context, nor do they provide relocation details or founder information matching all criteria.\nExact Answer: No conclusive answer found in the provided search results.\nConfidence: 0%"
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "query_id": "1240",
+  "tool_call_counts": {
+    "search": 6
+  },
+  "status": "completed",
+  "retrieved_docids": [
+    "95292",
+    "45147",
+    "30804",
+    "47593",
+    "72693",
+    "96157",
+    "53951",
+    "43680",
+    "98607",
+    "25076",
+    "73894",
+    "31596",
+    "45036",
+    "66739",
+    "5883",
+    "6555",
+    "37113",
+    "55428",
+    "97837",
+    "98136"
+  ],
+  "result": [
+    {
+      "type": "output_text",
+      "output": "Explanation: Despite multiple targeted searches, there is no direct evidence in the provided documents identifying an Italian or European film director/actor born in the 1930s who joined a parent's circus, suffered a disfiguring accident, lost a child, acted in and directed their own films, and was found dead at someone else's home. The search for Federico Fellini, a famous Italian director, did not yield any evidence matching all these criteria, nor did any other search results provide a matching individual.\nExact Answer: No conclusive answer found in the provided sources.\nConfidence: 0%"
+    }
+  ]
+}

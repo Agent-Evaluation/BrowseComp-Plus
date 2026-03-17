@@ -1,0 +1,27 @@
+{
+  "query_id": "238",
+  "tool_call_counts": {
+    "search": 3
+  },
+  "status": "completed",
+  "retrieved_docids": [
+    "5385",
+    "93225",
+    "63099",
+    "60075",
+    "80225",
+    "3350",
+    "81655",
+    "26626",
+    "84993",
+    "21316",
+    "62395",
+    "27110"
+  ],
+  "result": [
+    {
+      "type": "output_text",
+      "output": "Explanation: The game described is Mortal Kombat (1992), developed by Midway, a company formed in 1988 [5385][21316]. The finishing move where a character removes the heart and bites it is associated with Kano. The character known for throwing a boulder in the original Mortal Kombat is Goro, who is a sub-boss and has a signature move where he lifts and throws a large boulder at his opponent [general Mortal Kombat knowledge, confirmed by context in [21316]].\nExact Answer: Goro\nConfidence: 95%"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "query_id": "315",
+  "tool_call_counts": {
+    "search": 6
+  },
+  "status": "completed",
+  "retrieved_docids": [
+    "52699",
+    "35735",
+    "77315",
+    "57653",
+    "5271",
+    "65370",
+    "95116",
+    "57230",
+    "82418",
+    "76807",
+    "38108"
+  ],
+  "result": [
+    {
+      "type": "output_text",
+      "output": "Explanation: Despite multiple targeted searches, there is no direct evidence in the provided documents identifying a Serie A club from the 2021-22 season with the exact statistics (7 wins, 16 draws, 15 losses, 37 goals scored, -12 goal difference, <50 goals conceded, founded in the 1920s) or the minutes played by their second-best scorer. The search results do not mention any club matching all these criteria, nor do they provide player-specific minute data for such a club.\nExact Answer: Not found in available sources.\nConfidence: 0%"
+    }
+  ]
+}

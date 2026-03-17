@@ -1,0 +1,24 @@
+{
+  "query_id": "1015",
+  "tool_call_counts": {
+    "search": 3
+  },
+  "status": "completed",
+  "retrieved_docids": [
+    "21822",
+    "62552",
+    "55129",
+    "14467",
+    "92613",
+    "89940",
+    "57164",
+    "98568",
+    "14013"
+  ],
+  "result": [
+    {
+      "type": "output_text",
+      "output": "Explanation: The Angel Mounds State Historic Site in Indiana is named after the Angel family, who began purchasing the land in 1852. The site was later purchased by the Indiana Historical Society in 1938 and is now managed as a museum. The property was added to the National Register of Historic Places in 1966. The details about the family name, Civil War era land claim, state purchase, and museum status match the question's criteria. The name \"Angel\" is the family name after whom the museum is named [98568].\nExact Answer: Angel Mounds State Historic Site\nConfidence: 95%"
+    }
+  ]
+}

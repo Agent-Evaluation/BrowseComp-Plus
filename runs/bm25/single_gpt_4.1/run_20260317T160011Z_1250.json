@@ -1,0 +1,24 @@
+{
+  "query_id": "1250",
+  "tool_call_counts": {
+    "search": 5
+  },
+  "status": "completed",
+  "retrieved_docids": [
+    "39007",
+    "33889",
+    "57164",
+    "28680",
+    "35843",
+    "37195",
+    "34199",
+    "17140",
+    "21822"
+  ],
+  "result": [
+    {
+      "type": "output_text",
+      "output": "Explanation: Despite multiple targeted searches, none of the results provide direct evidence of a historical building in a capital city that matches all the specified criteria (construction and completion dates, wall thickness, river location, government acquisition, tornado and earthquake damage, and presidential birth year at acquisition). The search results primarily reference general historical collections, American frontier history, and unrelated subject indexes, without identifying a specific building or matching all constraints.\nExact Answer: No matching historical place found in the provided knowledge base.\nConfidence: 0%"
+    }
+  ]
+}

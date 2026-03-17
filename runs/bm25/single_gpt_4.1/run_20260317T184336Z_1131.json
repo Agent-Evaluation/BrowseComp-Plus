@@ -1,0 +1,22 @@
+{
+  "query_id": "1131",
+  "tool_call_counts": {
+    "search": 2
+  },
+  "status": "completed",
+  "retrieved_docids": [
+    "95171",
+    "49383",
+    "18948",
+    "60856",
+    "26794",
+    "52082",
+    "12708"
+  ],
+  "result": [
+    {
+      "type": "output_text",
+      "output": "Explanation: The search results indicate that Helena Petrovna Blavatsky, born in 1831 in Yekaterinoslav (a city associated with the resignation of a religious leader, as it was renamed Dnipro after the resignation of Metropolitan Andrey Sheptytsky), was a 19th-century author who explored philosophy using symbolism. She is known for founding the Theosophical Society and spreading European esoteric ideologies to America, notably through works like \"Isis Unveiled\" and \"The Secret Doctrine\" [60856].\nExact Answer: Helena Petrovna Blavatsky\nConfidence: 95%"
+    }
+  ]
+}

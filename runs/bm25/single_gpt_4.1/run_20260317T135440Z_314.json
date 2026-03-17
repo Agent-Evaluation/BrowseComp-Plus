@@ -1,0 +1,27 @@
+{
+  "query_id": "314",
+  "tool_call_counts": {
+    "search": 4
+  },
+  "status": "completed",
+  "retrieved_docids": [
+    "39424",
+    "46522",
+    "12217",
+    "17977",
+    "60478",
+    "95264",
+    "47343",
+    "42840",
+    "93509",
+    "69137",
+    "28835",
+    "14326"
+  ],
+  "result": [
+    {
+      "type": "output_text",
+      "output": "Explanation: The search results indicate that Outlook Therapeutics underwent a workforce reduction in December 2022 to reduce costs and extend its cash runway [46522]. While the snippet does not explicitly confirm the $30 million cash payment or the exact employee count and degree breakdown, Outlook Therapeutics is the only company mentioned that matches the restructuring and biopharma context. No other company in the results fits all the criteria as closely.\nExact Answer: Outlook Therapeutics\nConfidence: 80%"
+    }
+  ]
+}

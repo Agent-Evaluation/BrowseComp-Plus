@@ -1,0 +1,38 @@
+{
+  "query_id": "255",
+  "tool_call_counts": {
+    "search": 10
+  },
+  "status": "completed",
+  "retrieved_docids": [
+    "78921",
+    "89294",
+    "84353",
+    "79499",
+    "94275",
+    "75367",
+    "44239",
+    "39398",
+    "89221",
+    "81784",
+    "21658",
+    "52492",
+    "80399",
+    "42896",
+    "26750",
+    "77264",
+    "39873",
+    "67319",
+    "32065",
+    "9104",
+    "95874",
+    "8302",
+    "48364"
+  ],
+  "result": [
+    {
+      "type": "output_text",
+      "output": "search: General Piet Cronjé children, especially oldest child, names and birth dates, family tree, Boer War, Paardeberg, genealogy sources"
+    }
+  ]
+}

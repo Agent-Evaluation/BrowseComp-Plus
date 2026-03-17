@@ -1,0 +1,33 @@
+{
+  "query_id": "27",
+  "tool_call_counts": {
+    "search": 5
+  },
+  "status": "completed",
+  "retrieved_docids": [
+    "37085",
+    "11503",
+    "44316",
+    "67573",
+    "202",
+    "58869",
+    "36193",
+    "40496",
+    "72913",
+    "85319",
+    "54201",
+    "23091",
+    "98111",
+    "82329",
+    "23800",
+    "34852",
+    "82044",
+    "88829"
+  ],
+  "result": [
+    {
+      "type": "output_text",
+      "output": "Explanation: The search results do not provide direct evidence linking Bertrand Traoré to being the first player from his birth country (Burkina Faso) to play in the English Premier League, nor do they confirm his Premier League club, duration, or details about his brothers and nationality. The results mention Bertrand Traoré in the context of Ajax, but not his Premier League career or the specific criteria required by the question. No other player matching all the criteria (birth between 1988-1995, Taurus, African birth, later European nationality, two brothers, seven seasons at one EPL club) is identified in the search results.\nExact Answer: Insufficient evidence to answer\nConfidence: 0%"
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "query_id": "253",
+  "tool_call_counts": {
+    "search": 6
+  },
+  "status": "completed",
+  "retrieved_docids": [
+    "287",
+    "69452",
+    "35822",
+    "89012",
+    "18053",
+    "19132",
+    "88364",
+    "44553",
+    "82418",
+    "95116",
+    "35035",
+    "46141"
+  ],
+  "result": [
+    {
+      "type": "output_text",
+      "output": "Explanation: The question refers to a football club that started as a social club in 1995, changed its name in 2011, and won its fourth consecutive league title by 2023. The coach was announced in December 2023, had back surgery in 2018, and the 2023 title was his third with the club and fourth overall. The only plausible match for these clues is Nasreddine Nabi, who coached Young Africans SC (Yanga) of Tanzania, a club that fits the social club origin and name change timeline. However, none of the search results directly confirm all these details or mention Nasreddine Nabi's back surgery in 2018, but he is the only coach fitting the rest of the clues.\nExact Answer: Nasreddine Nabi\nConfidence: 70%"
+    }
+  ]
+}

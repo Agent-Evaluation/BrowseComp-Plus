@@ -1,0 +1,27 @@
+{
+  "query_id": "832",
+  "tool_call_counts": {
+    "search": 4
+  },
+  "status": "completed",
+  "retrieved_docids": [
+    "94729",
+    "40496",
+    "64596",
+    "31919",
+    "47403",
+    "85208",
+    "45735",
+    "89686",
+    "18129",
+    "12547",
+    "48507",
+    "57314"
+  ],
+  "result": [
+    {
+      "type": "output_text",
+      "output": "Explanation: The 2004–05 UEFA Cup semi-final between AZ Alkmaar and Sporting CP matches the described scenario: AZ won the second leg 3–1 (4 goals, 2-goal difference), with most goals in the first half, a penalty, a stoppage time goal, and 38 fouls. Despite winning, AZ lost on aggregate by one goal. The captain of AZ Alkmaar at that time was Denny Landzaat, and AZ Alkmaar was founded in the 20th century, specifically in 1967 [40496].\nExact Answer: Denny Landzaat; 20th century (1967)\nConfidence: 95%"
+    }
+  ]
+}

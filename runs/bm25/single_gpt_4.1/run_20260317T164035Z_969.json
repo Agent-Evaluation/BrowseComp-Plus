@@ -1,0 +1,23 @@
+{
+  "query_id": "969",
+  "tool_call_counts": {
+    "search": 4
+  },
+  "status": "completed",
+  "retrieved_docids": [
+    "59381",
+    "75436",
+    "18948",
+    "21603",
+    "34388",
+    "15868",
+    "44918",
+    "98361"
+  ],
+  "result": [
+    {
+      "type": "output_text",
+      "output": "Explanation: The search results provide information about Pierce Brosnan, an Irish entertainer who played James Bond and is from a northwest European island (Ireland). However, there is no direct evidence in the search results confirming that his father served in the military in China, that he has a child with a surname meaning \"secondary outlying farm,\" or that he declined a Bond role due to scheduling conflicts (though he did have scheduling issues with Remington Steele before becoming Bond). The evidence is insufficient to confirm all parts of the question.\nExact Answer: Insufficient evidence to answer definitively\nConfidence: 30%"
+    }
+  ]
+}

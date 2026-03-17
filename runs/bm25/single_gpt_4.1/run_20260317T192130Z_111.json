@@ -1,0 +1,26 @@
+{
+  "query_id": "111",
+  "tool_call_counts": {
+    "search": 3
+  },
+  "status": "completed",
+  "retrieved_docids": [
+    "61508",
+    "69090",
+    "42525",
+    "25899",
+    "23760",
+    "65223",
+    "89934",
+    "76586",
+    "26544",
+    "53108",
+    "9912"
+  ],
+  "result": [
+    {
+      "type": "output_text",
+      "output": "Explanation: Balming Tiger released their debut studio album \"January Never Dies\" on October 19, 2023, which contains 14 tracks. On the same day as the album release, they released the music video for the song \"Moving Forward.\" This is confirmed by the statement: \"Coinciding with today's album release, Balming Tiger released the music video for their single 'Moving Forward.'\" [76586]\nExact Answer: Moving Forward\nConfidence: 100%"
+    }
+  ]
+}

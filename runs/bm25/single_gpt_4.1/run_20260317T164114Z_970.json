@@ -1,0 +1,23 @@
+{
+  "query_id": "970",
+  "tool_call_counts": {
+    "search": 5
+  },
+  "status": "completed",
+  "retrieved_docids": [
+    "52885",
+    "19264",
+    "82044",
+    "98887",
+    "55772",
+    "50045",
+    "66328",
+    "95292"
+  ],
+  "result": [
+    {
+      "type": "output_text",
+      "output": "Explanation: Despite multiple searches, none of the results provide a direct match for a French actor born in the 1930s with all the specified biographical details, nor do they list a full birth name matching the clues. The search results focus on unrelated individuals (e.g., Tony Curtis, Walter Matthau) or lack relevant French actors. No evidence was found to answer the question definitively.\nExact Answer: Not found in the provided search results.\nConfidence: 0%"
+    }
+  ]
+}

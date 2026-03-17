@@ -1,0 +1,23 @@
+{
+  "query_id": "1128",
+  "tool_call_counts": {
+    "search": 4
+  },
+  "status": "completed",
+  "retrieved_docids": [
+    "37369",
+    "8676",
+    "95292",
+    "10746",
+    "6885",
+    "75146",
+    "84059",
+    "99334"
+  ],
+  "result": [
+    {
+      "type": "output_text",
+      "output": "Explanation: None of the search results provide direct evidence matching all the clues: a musician who was a millionaire teenager, part of a band founded in the late 1960s, died in a religious facility from a chronic viral infection, and whose daughter accused the band of betrayal in the 21st century. The closest match in the results is Cher, but she does not fit the death or band betrayal clues. No evidence found for the exact answer.\nExact Answer: Not found in provided search results.\nConfidence: 0%"
+    }
+  ]
+}

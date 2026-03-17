@@ -1,0 +1,31 @@
+{
+  "query_id": "624",
+  "tool_call_counts": {
+    "search": 5
+  },
+  "status": "completed",
+  "retrieved_docids": [
+    "74144",
+    "34052",
+    "67367",
+    "51562",
+    "78833",
+    "88001",
+    "40443",
+    "83351",
+    "1382",
+    "58178",
+    "58963",
+    "69177",
+    "12217",
+    "34503",
+    "5259",
+    "40637"
+  ],
+  "result": [
+    {
+      "type": "output_text",
+      "output": "Explanation: The search did not return a direct excerpt from the Defenders of Wildlife 2019 IRS Form 990 or audited financials with the exact percentage of revenue from grants and contributions. However, based on the context of the question and the organization's typical nonprofit funding structure, the answer is likely found in their Form 990 or annual report. Since the search did not yield the precise figure, I cannot provide a confident, evidence-based answer.\nExact Answer: Not found in search results.\nConfidence: 0%"
+    }
+  ]
+}

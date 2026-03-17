@@ -1,0 +1,31 @@
+{
+  "query_id": "490",
+  "tool_call_counts": {
+    "search": 5
+  },
+  "status": "completed",
+  "retrieved_docids": [
+    "61639",
+    "98627",
+    "44872",
+    "86829",
+    "26373",
+    "41554",
+    "5009",
+    "78708",
+    "94275",
+    "95493",
+    "79499",
+    "75295",
+    "64742",
+    "57808",
+    "47624",
+    "52885"
+  ],
+  "result": [
+    {
+      "type": "output_text",
+      "output": "Explanation: None of the search results provide direct evidence matching all the details in the question (blog post by adult child, parent attending sibling's wedding shortly before passing, surviving spouse founding a foundation within a decade, and as of 2023 holding another position at the foundation). The closest matches in previous searches reference Bill Gates and Melinda French Gates, but Melinda is not a widow, and the Gates Foundation was co-founded while both were alive. No other result provides a name or foundation fitting all criteria.\nExact Answer: Not found in search results\nConfidence: 0%"
+    }
+  ]
+}

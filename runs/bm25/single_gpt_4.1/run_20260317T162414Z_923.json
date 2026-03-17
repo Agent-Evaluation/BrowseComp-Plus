@@ -1,0 +1,28 @@
+{
+  "query_id": "923",
+  "tool_call_counts": {
+    "search": 7
+  },
+  "status": "completed",
+  "retrieved_docids": [
+    "12980",
+    "47593",
+    "75146",
+    "45502",
+    "9765",
+    "33781",
+    "60377",
+    "29189",
+    "63732",
+    "18662",
+    "27698",
+    "10278",
+    "82584"
+  ],
+  "result": [
+    {
+      "type": "output_text",
+      "output": "Explanation: Despite multiple searches, there is no direct evidence in the provided documents identifying a singer, producer, and composer born in February 1942, who died at 72, performed in a band named after a 1960s western film remake, and had a Top 20 UK hit in June 1965. No search result lists a relevant band (such as The Nashville Teens, The Searchers, or The Settlers) or a song matching all criteria. The evidence is insufficient to provide a confident answer.\nExact Answer: Insufficient evidence to answer.\nConfidence: 0%"
+    }
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "query_id": "304",
+  "tool_call_counts": {
+    "search": 4
+  },
+  "status": "completed",
+  "retrieved_docids": [
+    "21822",
+    "5238",
+    "70474",
+    "21603",
+    "57164",
+    "91936",
+    "82044"
+  ],
+  "result": [
+    {
+      "type": "output_text",
+      "output": "Explanation: Despite multiple searches, no document provides direct evidence matching all the clues: an artist whose father was a Protestant minister, who briefly married a poet/engineer born between 1938–1941, later married a fashion designer, and founded an art school in the 1980s in a village where that art was not previously practiced. The closest match, Daima Lockhart Clark, was married to artist Claude Clark, but the rest of the clues do not fit, and no other artist in the results matches the full description.\nExact Answer: Not found in provided search results\nConfidence: 0%"
+    }
+  ]
+}

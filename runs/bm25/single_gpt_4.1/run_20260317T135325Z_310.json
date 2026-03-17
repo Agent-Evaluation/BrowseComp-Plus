@@ -1,0 +1,29 @@
+{
+  "query_id": "310",
+  "tool_call_counts": {
+    "search": 5
+  },
+  "status": "completed",
+  "retrieved_docids": [
+    "90306",
+    "81058",
+    "35211",
+    "25546",
+    "87614",
+    "56313",
+    "91659",
+    "88426",
+    "61842",
+    "61184",
+    "47251",
+    "32120",
+    "8651",
+    "97359"
+  ],
+  "result": [
+    {
+      "type": "output_text",
+      "output": "Explanation: The clues require a League of Legends tournament final where at least one player was born in May 1999 and specific CS and gold distribution stats are present. The only relevant evidence found is that Chovy (Jung Ji-hoon), born March 3, 2001, won the 2024 MSI, but no evidence links a May 1999-born player to that final. No search result confirms a player born in May 1999 in the 2022, 2023, or 2024 Worlds or MSI finals, nor do they confirm the specific CS/gold stats for those matches. Thus, there is insufficient evidence to answer definitively.\nExact Answer: Insufficient evidence to determine the tournament name and year.\nConfidence: 0%"
+    }
+  ]
+}

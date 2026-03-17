@@ -1,0 +1,29 @@
+{
+  "query_id": "716",
+  "tool_call_counts": {
+    "search": 4
+  },
+  "status": "completed",
+  "retrieved_docids": [
+    "88195",
+    "30521",
+    "89895",
+    "51665",
+    "42661",
+    "25268",
+    "7107",
+    "23531",
+    "3898",
+    "99358",
+    "13846",
+    "51529",
+    "93979",
+    "56475"
+  ],
+  "result": [
+    {
+      "type": "output_text",
+      "output": "Explanation: The search results reveal a tribute to István Deák, Professor Emeritus at Columbia University, who was a renowned historian and editor. The H-Diplo|RJISSF tribute [99358] lists an introduction and essays by four academics: Csaba Békés, Volker Berghahn, Holly Case, and Attila Pók. Deák held academic positions in multiple countries, and the context suggests a collected volume of essays. The tribute references Deák's editorial work and his international academic career, matching the question's criteria. However, the exact title of the 2010s collected essays publication is not explicitly stated in the snippet, but the evidence strongly points to a festschrift or collected essays volume edited by or about Deák, involving these four scholars.\nExact Answer: A collected essays volume on István Deák, likely a festschrift or tribute, featuring essays by Csaba Békés, Volker Berghahn, Holly Case, and Attila Pók.\nConfidence: 80%"
+    }
+  ]
+}

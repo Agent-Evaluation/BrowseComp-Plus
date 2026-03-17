@@ -1,0 +1,24 @@
+{
+  "query_id": "835",
+  "tool_call_counts": {
+    "search": 2
+  },
+  "status": "completed",
+  "retrieved_docids": [
+    "5965",
+    "9509",
+    "45147",
+    "99736",
+    "74795",
+    "92506",
+    "81129",
+    "79020",
+    "52934"
+  ],
+  "result": [
+    {
+      "type": "output_text",
+      "output": "Explanation: David Bowie formed the band Tin Machine in 1988, fitting the 1970–1990 window. Bowie played in a rock band (his solo career and with bands) that sold over 100 million records. He began performing professionally in his teens, attended art college, and worked in a London boutique before fame. He was married twice (not three times), had one daughter (Lexi) and one son (Duncan). Most clues fit, except the number of marriages, but no other major rock star matches all clues as closely as Bowie [74795].\nExact Answer: Tin Machine (formed by David Bowie)\nConfidence: 90%"
+    }
+  ]
+}

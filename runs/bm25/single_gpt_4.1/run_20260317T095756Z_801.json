@@ -1,0 +1,31 @@
+{
+  "query_id": "801",
+  "tool_call_counts": {
+    "search": 4
+  },
+  "status": "completed",
+  "retrieved_docids": [
+    "32339",
+    "84059",
+    "20006",
+    "3161",
+    "4583",
+    "77048",
+    "88630",
+    "96327",
+    "31053",
+    "42250",
+    "11315",
+    "27898",
+    "40667",
+    "24276",
+    "36712",
+    "86554"
+  ],
+  "result": [
+    {
+      "type": "output_text",
+      "output": "Explanation: The soap opera \"Generations\" was created by Mfundi Vundla, who went into exile in the USA in 1970 and obtained degrees from the University of Massachusetts and Boston University in the 1970s [77048][96327]. An actress in \"Generations\" accused of stealing headache pills is Maggie Benedict [27898]. She is best known for her role as Akhona in \"Generations\" [27898]. Therefore, the first television character she played in \"Generations\" is Akhona Miya.\nExact Answer: Akhona Miya\nConfidence: 95%"
+    }
+  ]
+}

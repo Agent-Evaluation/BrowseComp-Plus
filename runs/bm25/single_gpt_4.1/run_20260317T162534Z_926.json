@@ -1,0 +1,24 @@
+{
+  "query_id": "926",
+  "tool_call_counts": {
+    "search": 5
+  },
+  "status": "completed",
+  "retrieved_docids": [
+    "95292",
+    "50045",
+    "77051",
+    "9194",
+    "75926",
+    "8930",
+    "66328",
+    "19264",
+    "6316"
+  ],
+  "result": [
+    {
+      "type": "output_text",
+      "output": "Explanation: The search results repeatedly mention Tony Curtis, born Bernard Schwartz, as a prominent actor. However, there is no evidence in the provided snippets that Tony Curtis died in a fire in the 1990s, nor that he appeared in a 1960s Victorian London movie directed by someone who died between 2010 and 2020 in London. The search results do not provide a match for all the criteria, especially the cause of death and the specific film/director connection. No full birth name matching all clues is found.\nExact Answer: No matching individual found based on available evidence.\nConfidence: 0%"
+    }
+  ]
+}

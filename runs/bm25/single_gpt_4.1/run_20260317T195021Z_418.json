@@ -1,0 +1,26 @@
+{
+  "query_id": "418",
+  "tool_call_counts": {
+    "search": 4
+  },
+  "status": "completed",
+  "retrieved_docids": [
+    "70530",
+    "88195",
+    "82543",
+    "23240",
+    "58166",
+    "50253",
+    "39930",
+    "57174",
+    "48353",
+    "72834",
+    "59493"
+  ],
+  "result": [
+    {
+      "type": "output_text",
+      "output": "Explanation: None of the search results provide direct evidence matching all the clues in the question. The most relevant result, [70530], lists several entrepreneurs and their companies, but none fit the full profile: a beauty company founded in the 2000s by someone who worked privately for an aristocratic family, previously launched a brand with 3 product types, and later appointed an art-loving family member as director. No founder's full name matching these details is found in the provided evidence.\nExact Answer: Not found in current search results.\nConfidence: 0%"
+    }
+  ]
+}

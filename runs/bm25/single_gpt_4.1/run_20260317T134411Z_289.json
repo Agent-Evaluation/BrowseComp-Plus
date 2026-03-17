@@ -1,0 +1,25 @@
+{
+  "query_id": "289",
+  "tool_call_counts": {
+    "search": 7
+  },
+  "status": "completed",
+  "retrieved_docids": [
+    "24320",
+    "740",
+    "36741",
+    "62890",
+    "79020",
+    "82987",
+    "83860",
+    "45725",
+    "99494",
+    "60452"
+  ],
+  "result": [
+    {
+      "type": "output_text",
+      "output": "Explanation: Despite multiple targeted searches, there is no direct evidence in the provided documents listing a Turkish TV comedy series from 1990-2005, aired on two channels, with a lead actress who also starred in a theatre play (1980-1990) with a similar root word in the title. The search results mention some well-known Turkish series and actresses, but do not provide the specific connections or names required by the question. Therefore, I cannot provide a confident, evidence-based answer.\nExact Answer: Not found in the provided search results.\nConfidence: 0%"
+    }
+  ]
+}

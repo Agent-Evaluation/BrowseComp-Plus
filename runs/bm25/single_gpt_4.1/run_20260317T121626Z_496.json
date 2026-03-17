@@ -1,0 +1,28 @@
+{
+  "query_id": "496",
+  "tool_call_counts": {
+    "search": 3
+  },
+  "status": "completed",
+  "retrieved_docids": [
+    "97861",
+    "47974",
+    "3581",
+    "63941",
+    "2598",
+    "41677",
+    "82586",
+    "67678",
+    "87395",
+    "13442",
+    "5385",
+    "61615",
+    "85192"
+  ],
+  "result": [
+    {
+      "type": "output_text",
+      "output": "Explanation: The evidence shows that Bungie, founded by Alex Seropian (who attended university in the 1980s and developed games on Macintosh II), released \"Pathways Into Darkness\" in 1993. This game is a sci-fi first-person shooter, features a flamethrower weapon, and was developed for the Macintosh. Bungie reused the engine from \"Pathways Into Darkness\" for their later movie-based platformer \"Arthur: The Quest for Excalibur.\" The details about the founder, development platform, and weapon match the clues provided [41677].\nExact Answer: Pathways Into Darkness\nConfidence: 95%"
+    }
+  ]
+}

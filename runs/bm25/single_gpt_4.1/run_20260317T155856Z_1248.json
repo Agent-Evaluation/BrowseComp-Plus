@@ -1,0 +1,29 @@
+{
+  "query_id": "1248",
+  "tool_call_counts": {
+    "search": 7
+  },
+  "status": "completed",
+  "retrieved_docids": [
+    "76149",
+    "87319",
+    "67871",
+    "23484",
+    "82495",
+    "90845",
+    "10041",
+    "34748",
+    "57121",
+    "39020",
+    "66948",
+    "2375",
+    "57201",
+    "87540"
+  ],
+  "result": [
+    {
+      "type": "output_text",
+      "output": "Explanation: The clues point to the 1988 Seoul Olympics (hosted by South Korea after China's economic liberalization, before 2000, and South Korea won fewer than 15 golds). In archery, Kim Soo-Nyung won her only individual Olympic medal in 1988 and later married fellow archer Park Kyung-mo. She is also noted as archery's winningest Olympian in the modern era, with golds in 1988, 1992, and 2000. Therefore, the gold medalist in women's individual archery at the 1992 Barcelona Olympics is Kim Soo-Nyung [2375].\nExact Answer: Kim Soo-Nyung\nConfidence: 95%"
+    }
+  ]
+}

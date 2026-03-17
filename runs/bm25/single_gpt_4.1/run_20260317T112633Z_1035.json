@@ -1,0 +1,22 @@
+{
+  "query_id": "1035",
+  "tool_call_counts": {
+    "search": 4
+  },
+  "status": "completed",
+  "retrieved_docids": [
+    "39930",
+    "43",
+    "97455",
+    "55040",
+    "70622",
+    "57174",
+    "97705"
+  ],
+  "result": [
+    {
+      "type": "output_text",
+      "output": "Explanation: Despite multiple searches, there is no direct evidence in the provided documents identifying a company founded after 2002, named after a city, with a founder born in the 1970s who created a billion-dollar app, partnered with an athlete born in 1992, hosted a major beach concert, and made $1 billion in sales in 2022. The search results mention companies, events, and individuals, but none match all the criteria or explicitly name \"Company A.\"\nExact Answer: Not found in provided search results\nConfidence: 0%"
+    }
+  ]
+}

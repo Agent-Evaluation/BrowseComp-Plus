@@ -1,0 +1,28 @@
+{
+  "query_id": "523",
+  "tool_call_counts": {
+    "search": 4
+  },
+  "status": "completed",
+  "retrieved_docids": [
+    "77586",
+    "38408",
+    "79020",
+    "48618",
+    "76192",
+    "20783",
+    "9119",
+    "13711",
+    "10427",
+    "21603",
+    "41035",
+    "99494",
+    "798"
+  ],
+  "result": [
+    {
+      "type": "output_text",
+      "output": "Explanation: The search results provide information about \"The Simpsons,\" an American animated sitcom that fits the description: it began airing in the late 20th century (1989), is a family life series, and has continued well past the founding of YouTube (2005) and before the release of the first iPad (2010). The production companies listed for \"The Simpsons\" are Gracie Films and 20th Television (now 20th Television Animation). The evidence from [13711] confirms these details.\nExact Answer: Gracie Films\nConfidence: 95%"
+    }
+  ]
+}

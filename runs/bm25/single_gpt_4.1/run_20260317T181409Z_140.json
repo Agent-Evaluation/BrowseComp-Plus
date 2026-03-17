@@ -1,0 +1,30 @@
+{
+  "query_id": "140",
+  "tool_call_counts": {
+    "search": 5
+  },
+  "status": "completed",
+  "retrieved_docids": [
+    "56856",
+    "74184",
+    "88704",
+    "37058",
+    "22884",
+    "40881",
+    "5428",
+    "5623",
+    "71678",
+    "73758",
+    "2564",
+    "25298",
+    "91659",
+    "19637",
+    "56313"
+  ],
+  "result": [
+    {
+      "type": "output_text",
+      "output": "Explanation: The clues point to a League of Legends player with multiple extremely high CS (creep score) games in playoff matches between 2015 and 2017, and a birthday in March between 1995 and 2004. The search found Park \"Teddy\" Jin-seong, born March 15, 1998, who played for Jin Air Green Wings during this period. Teddy is famous for his record-breaking CS games, including a 50:18 game with 500 CS and other high CS matches, matching all the clues provided [73758].\nExact Answer: Teddy\nConfidence: 100%"
+    }
+  ]
+}

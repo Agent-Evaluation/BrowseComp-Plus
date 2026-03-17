@@ -1,0 +1,25 @@
+{
+  "query_id": "121",
+  "tool_call_counts": {
+    "search": 5
+  },
+  "status": "completed",
+  "retrieved_docids": [
+    "60417",
+    "45147",
+    "17978",
+    "95292",
+    "62645",
+    "75146",
+    "8930",
+    "84059",
+    "79020",
+    "30804"
+  ],
+  "result": [
+    {
+      "type": "output_text",
+      "output": "Explanation: Despite multiple searches, no direct evidence or document snippet identifies a TV drama series from the early 2020s with a central music theme, a lead actor who published a memoir, another actor who led an education trust, a half-brother actor who published poetry, and a female lead who starred in a film with invented language, with only one season by the end of 2023. No series name matching all these clues was found in the search results.\nExact Answer: Not found in search results\nConfidence: 0%"
+    }
+  ]
+}

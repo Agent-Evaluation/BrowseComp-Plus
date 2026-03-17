@@ -1,0 +1,26 @@
+{
+  "query_id": "1209",
+  "tool_call_counts": {
+    "search": 3
+  },
+  "status": "completed",
+  "retrieved_docids": [
+    "48097",
+    "88650",
+    "22055",
+    "4235",
+    "12900",
+    "90881",
+    "63105",
+    "95292",
+    "96894",
+    "19264",
+    "46419"
+  ],
+  "result": [
+    {
+      "type": "output_text",
+      "output": "Explanation: The series \"The Fugitive\" (1963–1967) matches the description: it follows Dr. Richard Kimble, who, after losing his wife to a crime, dedicates his life to uncovering the truth and finding the real killer. The show is known for its multiple adaptations and international titles, fitting the \"four other titles\" clue. David Janssen, the main lead, began his career in the 1950s, including roles in 1950s/60s series, and Barry Morse (Lt. Gerard) had an early start as well. The evidence from [63105] confirms the plot and main cast.\nExact Answer: The Fugitive\nConfidence: 95%"
+    }
+  ]
+}

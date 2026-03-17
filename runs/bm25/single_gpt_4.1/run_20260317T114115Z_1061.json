@@ -1,0 +1,28 @@
+{
+  "query_id": "1061",
+  "tool_call_counts": {
+    "search": 5
+  },
+  "status": "completed",
+  "retrieved_docids": [
+    "49483",
+    "69167",
+    "90268",
+    "2585",
+    "55040",
+    "10971",
+    "20060",
+    "57174",
+    "71644",
+    "62279",
+    "24484",
+    "68092",
+    "70716"
+  ],
+  "result": [
+    {
+      "type": "output_text",
+      "output": "Explanation: Despite multiple searches, there is no direct evidence in the provided documents identifying the name of the documentary released by the author about the book, which was the subject of a Southeast Regional Emmy-winning digital news platform series in late 2020. The search results do not mention any relevant author, book, or documentary title matching the question's criteria.\nExact Answer: Not found in available sources\nConfidence: 0%"
+    }
+  ]
+}

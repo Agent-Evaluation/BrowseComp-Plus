@@ -1,0 +1,23 @@
+{
+  "query_id": "202",
+  "tool_call_counts": {
+    "search": 3
+  },
+  "status": "completed",
+  "retrieved_docids": [
+    "30804",
+    "55040",
+    "2431",
+    "57244",
+    "75146",
+    "37369",
+    "67576",
+    "95292"
+  ],
+  "result": [
+    {
+      "type": "output_text",
+      "output": "Explanation: None of the search results provide a direct match for all the clues: a European actress and model born in the late 1990s, with a political father who earned a doctorate in the late 1990s, appeared in a fashion magazine in 2022, worked with a fashion brand launched in 2004, acted in two movies in 2023, and is multilingual. The closest matches (Anggun, Gal Gadot, Cher) do not fit the age, parent, or career timeline requirements. No evidence found for a candidate matching all criteria.\nExact Answer: No answer found based on available evidence.\nConfidence: 0%"
+    }
+  ]
+}

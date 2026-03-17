@@ -1,0 +1,23 @@
+{
+  "query_id": "580",
+  "tool_call_counts": {
+    "search": 2
+  },
+  "status": "completed",
+  "retrieved_docids": [
+    "71307",
+    "20953",
+    "17978",
+    "17709",
+    "22831",
+    "89002",
+    "48097",
+    "65004"
+  ],
+  "result": [
+    {
+      "type": "output_text",
+      "output": "Explanation: The search results did not yield a direct match for all the specific plot points described. The closest match in the results is \"Friends,\" which is a sitcom with less than 10 seasons and features storylines involving friends convincing each other to go on dates, sacrifices by roommates (e.g., Joey and Chandler), and characters returning home for family events. However, the exact combination of plot points (especially the season 4 event) is not explicitly confirmed in the snippets provided. No other series in the results matches all the clues as closely.\nExact Answer: Friends\nConfidence: 60%"
+    }
+  ]
+}

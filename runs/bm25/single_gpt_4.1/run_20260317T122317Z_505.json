@@ -1,0 +1,32 @@
+{
+  "query_id": "505",
+  "tool_call_counts": {
+    "search": 8
+  },
+  "status": "completed",
+  "retrieved_docids": [
+    "65327",
+    "58337",
+    "61788",
+    "19551",
+    "68976",
+    "93391",
+    "3355",
+    "21019",
+    "67603",
+    "66328",
+    "2422",
+    "39930",
+    "53092",
+    "52885",
+    "8284",
+    "38487",
+    "75075"
+  ],
+  "result": [
+    {
+      "type": "output_text",
+      "output": "Explanation: Despite extensive searching, there is no direct evidence in the provided documents identifying an American professional gamer born between 2000-2010 whose first major achievement was in a game released in 2020 by an American developer founded between 2000-2010, with a founder married to a parenting/public expert with a doctorate from a university founded in the 1930s. The search did not yield any matching game, developer, founder, or gamer fitting all these criteria.\nExact Answer: Not found in available sources.\nConfidence: 0%"
+    }
+  ]
+}

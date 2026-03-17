@@ -1,0 +1,26 @@
+{
+  "query_id": "1108",
+  "tool_call_counts": {
+    "search": 8
+  },
+  "status": "completed",
+  "retrieved_docids": [
+    "96682",
+    "97677",
+    "97953",
+    "81331",
+    "47688",
+    "5345",
+    "65408",
+    "71644",
+    "44033",
+    "63441",
+    "80689"
+  ],
+  "result": [
+    {
+      "type": "output_text",
+      "output": "Explanation: Despite extensive searching, none of the retrieved documents provide a direct match for a Philippine Air Force C-130 crash after 2010 with over 20 but fewer than 40 fatalities, delayed recovery, and the specific details about the passengers and cause. The lists of C-130 accidents and military aircraft incidents do not include registration numbers or detailed incident summaries matching all the criteria. No document confirms the registration number for such an incident in the Philippines during the 2010s.\nExact Answer: Not found in available sources\nConfidence: 0%"
+    }
+  ]
+}

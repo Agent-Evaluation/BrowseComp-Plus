@@ -1,0 +1,26 @@
+{
+  "query_id": "216",
+  "tool_call_counts": {
+    "search": 3
+  },
+  "status": "completed",
+  "retrieved_docids": [
+    "6277",
+    "95124",
+    "17462",
+    "6316",
+    "98034",
+    "66328",
+    "71965",
+    "46552",
+    "12980",
+    "72142",
+    "18967"
+  ],
+  "result": [
+    {
+      "type": "output_text",
+      "output": "Explanation: The search results do not provide a direct match for all the clues (author who died in the 1990s, founded a non-profit in the 1930s, published a book before 1940, and was featured in a TV episode aired 82 days after his death). However, Eleanor Roosevelt [46552] fits several criteria: she published books before the 1940s, was a prominent founder of non-profits in the 1930s (notably involved in the founding of the United Nations Association and other organizations), and died in 1962, which is not the 1990s. No evidence was found for a TV episode aired 82 days after her death. No other candidate in the search results fits all criteria.\nExact Answer: No definitive answer found; no author in the search results matches all criteria.\nConfidence: 20%"
+    }
+  ]
+}

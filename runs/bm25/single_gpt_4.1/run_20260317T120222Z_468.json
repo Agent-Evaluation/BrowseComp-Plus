@@ -1,0 +1,25 @@
+{
+  "query_id": "468",
+  "tool_call_counts": {
+    "search": 4
+  },
+  "status": "completed",
+  "retrieved_docids": [
+    "27995",
+    "46291",
+    "97677",
+    "10174",
+    "27660",
+    "59487",
+    "61636",
+    "97953",
+    "87247",
+    "47688"
+  ],
+  "result": [
+    {
+      "type": "output_text",
+      "output": "Explanation: The search results repeatedly reference the Convair F-106 Delta Dart, a supersonic interceptor with a maximum speed over 1,000 km/h, and mention its production and operational history. However, none of the provided snippets explicitly mention a specific serial number for an F-106 that matches all the detailed criteria (intercontinental record, four factory modifications, three exercises, fault before withdrawal). The closest match is the first production F-106A, serial number 56-0451, but there is no direct evidence in the snippets confirming it meets all the described events.\nExact Answer: Insufficient evidence to provide a specific serial number.\nConfidence: 30%"
+    }
+  ]
+}

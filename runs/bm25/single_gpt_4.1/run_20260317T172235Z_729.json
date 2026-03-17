@@ -1,0 +1,21 @@
+{
+  "query_id": "729",
+  "tool_call_counts": {
+    "search": 3
+  },
+  "status": "completed",
+  "retrieved_docids": [
+    "4758",
+    "18948",
+    "88195",
+    "15666",
+    "92684",
+    "36691"
+  ],
+  "result": [
+    {
+      "type": "output_text",
+      "output": "Explanation: The only search result that matches several of the clues (2022 awards, association position, re-election in 2021, side income, etc.) is about Charles Hillman. The article states that Hillman was awarded in 2022, held a position (president of the Boardman Optimist Club), and was involved in re-election activities in 2021. No other result matches the unique combination of clues provided in the question.\nExact Answer: Hillman\nConfidence: 85%"
+    }
+  ]
+}

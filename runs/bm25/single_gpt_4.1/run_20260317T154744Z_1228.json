@@ -1,0 +1,28 @@
+{
+  "query_id": "1228",
+  "tool_call_counts": {
+    "search": 5
+  },
+  "status": "completed",
+  "retrieved_docids": [
+    "95951",
+    "37860",
+    "18841",
+    "59008",
+    "19264",
+    "32327",
+    "6316",
+    "69430",
+    "82044",
+    "31148",
+    "79826",
+    "47593",
+    "95292"
+  ],
+  "result": [
+    {
+      "type": "output_text",
+      "output": "Explanation: The search results repeatedly mention Tony Curtis, but he was born in New York, not North Carolina. No direct evidence was found of a movie released between 1954 and 1957 that is an adaptation of a novel, features an actor born in North Carolina, and matches all the other criteria (actor debut before 1944, side character debut). The search did not yield a specific film or actor from North Carolina fitting all requirements. Therefore, based on the available evidence, I cannot identify a movie that matches all the given details.\nExact Answer: No matching movie identified.\nConfidence: 10%"
+    }
+  ]
+}

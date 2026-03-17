@@ -1,0 +1,28 @@
+{
+  "query_id": "1254",
+  "tool_call_counts": {
+    "search": 5
+  },
+  "status": "completed",
+  "retrieved_docids": [
+    "5883",
+    "42506",
+    "73639",
+    "81843",
+    "19264",
+    "41035",
+    "99494",
+    "3114",
+    "9540",
+    "79241",
+    "42510",
+    "5291",
+    "21993"
+  ],
+  "result": [
+    {
+      "type": "output_text",
+      "output": "Explanation: The search results from [9540] mention Prithviraj Kapoor, born in pre-partition Punjab, as a foundational figure in Indian cinema. He was active in theater, relocated from Samundri near Lyallpur (now in Pakistan) to India, and is known for his prominent stage and film roles. He famously played the father of Raj Kapoor, who was only 18 years younger, but in some films, the age gap between Prithviraj and his on-screen sons was much smaller. He received numerous awards and accolades for his contributions to Indian theater and cinema.\nExact Answer: Prithvinath Kapoor (Prithviraj Kapoor)\nConfidence: 95%"
+    }
+  ]
+}

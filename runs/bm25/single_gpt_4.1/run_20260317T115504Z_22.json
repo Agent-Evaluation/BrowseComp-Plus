@@ -1,0 +1,27 @@
+{
+  "query_id": "22",
+  "tool_call_counts": {
+    "search": 3
+  },
+  "status": "completed",
+  "retrieved_docids": [
+    "51783",
+    "11147",
+    "11682",
+    "32235",
+    "86731",
+    "56313",
+    "73050",
+    "76279",
+    "83585",
+    "18348",
+    "73895",
+    "85631"
+  ],
+  "result": [
+    {
+      "type": "output_text",
+      "output": "Explanation: The question refers to the League of Legends World Championship, where a team founded in 2014 (G2 Esports) set the shortest game record. Two players who used a non-traditional bot lane duo later joined G2 Esports. The younger of these two is Steven \"Hans Sama\" Liv, who joined G2 Esports. According to his team history, before joining G2, Hans Sama played for Misfits Gaming from June 2016 to November 2019 [85631].\nExact Answer: Misfits Gaming\nConfidence: 100%"
+    }
+  ]
+}

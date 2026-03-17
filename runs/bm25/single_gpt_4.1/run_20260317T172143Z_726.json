@@ -1,0 +1,23 @@
+{
+  "query_id": "726",
+  "tool_call_counts": {
+    "search": 3
+  },
+  "status": "completed",
+  "retrieved_docids": [
+    "10945",
+    "22885",
+    "95356",
+    "81087",
+    "13996",
+    "88659",
+    "40749",
+    "32273"
+  ],
+  "result": [
+    {
+      "type": "output_text",
+      "output": "Explanation: Kapil Dev, who captained India in 1982-1983 and was the country's highest World Cup wicket-taker before 2022, was inducted into the ICC Hall of Fame in 2010 [32273]. The question's clues about debut and induction timelines align with Anil Kumble (born 1970, inducted 2015 [40749, 81087]), who debuted in 1990, and Sachin Tendulkar (inducted 2019 [88659]), who debuted in the same 1990 match as Kumble. This confirms the year sought is 2010.\nExact Answer: 2010\nConfidence: 100%"
+    }
+  ]
+}

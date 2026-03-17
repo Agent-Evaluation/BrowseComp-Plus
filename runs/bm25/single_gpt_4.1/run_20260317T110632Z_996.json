@@ -1,0 +1,29 @@
+{
+  "query_id": "996",
+  "tool_call_counts": {
+    "search": 5
+  },
+  "status": "completed",
+  "retrieved_docids": [
+    "51493",
+    "65878",
+    "97169",
+    "23019",
+    "18349",
+    "86363",
+    "30574",
+    "22055",
+    "21822",
+    "18948",
+    "66739",
+    "24551",
+    "80830",
+    "39776"
+  ],
+  "result": [
+    {
+      "type": "output_text",
+      "output": "Explanation: Despite multiple searches, there is no direct evidence in the provided documents identifying an individual born in the 20th century, accused of assassination in the 21st century, whose city of birth shaped a significant literary character by a 19th-century author, and whose wife (born mid-20th century, career started mid-20th century) presented an award to an African entrepreneur in the 21st century. The search results do not mention any such individual or their spouse matching all these criteria.\nExact Answer: Not found in available sources\nConfidence: 0%"
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "query_id": "1121",
+  "tool_call_counts": {
+    "search": 9
+  },
+  "status": "completed",
+  "retrieved_docids": [
+    "86724",
+    "76368",
+    "92581",
+    "52708",
+    "922",
+    "95863",
+    "37488",
+    "30226",
+    "46547",
+    "61686",
+    "27743",
+    "81436",
+    "32940",
+    "7770",
+    "16714"
+  ],
+  "result": [
+    {
+      "type": "output_text",
+      "output": "Explanation: Despite extensive searching, no direct scorecard or match summary matching all the unique criteria (Zimbabwe vs Bangladesh T20I in Harare, April 2013, with a player scoring 3 fours, 0 sixes, SR 78.94, bowling 4-0-20-1, team lost by 40-59 runs, Kenyan umpire, Man of the Match 65+ not out) was found in the provided documents. The search did not yield a player name or a scorecard with these specifics. Therefore, I cannot provide the exact first and last name of the cricketer.\nExact Answer: Not found in provided sources\nConfidence: 0%"
+    }
+  ]
+}

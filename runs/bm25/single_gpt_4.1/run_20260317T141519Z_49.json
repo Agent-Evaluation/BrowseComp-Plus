@@ -1,0 +1,22 @@
+{
+  "query_id": "49",
+  "tool_call_counts": {
+    "search": 4
+  },
+  "status": "completed",
+  "retrieved_docids": [
+    "69481",
+    "35146",
+    "82044",
+    "70474",
+    "26360",
+    "21712",
+    "12980"
+  ],
+  "result": [
+    {
+      "type": "output_text",
+      "output": "Explanation: The search results repeatedly return Jon Anderson, best known as the lead singer of Yes (formed in 1968), but none of the snippets confirm all the required biographical details: starting music in his late 20s, working as a lorry driver, working in a London club (not as a performer), having Irish ancestry, and playing in a band with a brother who became a priest. The available evidence only partially matches the criteria, and no other candidates are surfaced.\nExact Answer: No definitive answer found based on available evidence.\nConfidence: 30%"
+    }
+  ]
+}

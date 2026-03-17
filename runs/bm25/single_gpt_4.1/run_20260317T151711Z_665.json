@@ -1,0 +1,39 @@
+{
+  "query_id": "665",
+  "tool_call_counts": {
+    "search": 9
+  },
+  "status": "completed",
+  "retrieved_docids": [
+    "8741",
+    "18281",
+    "51898",
+    "30067",
+    "1390",
+    "50919",
+    "81610",
+    "51032",
+    "15066",
+    "22343",
+    "81450",
+    "57581",
+    "228",
+    "48757",
+    "19368",
+    "31343",
+    "99187",
+    "39937",
+    "64539",
+    "98828",
+    "57039",
+    "7466",
+    "39488",
+    "34501"
+  ],
+  "result": [
+    {
+      "type": "output_text",
+      "output": "Explanation: The question describes an official in a patriarchal society before 1000 CE, born locally, who was appointed to a territorial authority, later received a higher office, and whose second successor reinstated damnatio memoriae (erasure from records). The clues point to Pontius Pilate, who was appointed prefect of Judaea. Historical sources confirm that Pontius Pilate was appointed by the Roman Emperor Tiberius, acting through his legate in Syria, Lucius Aelius Sejanus or Valerius Gratus. The appointment of Roman prefects was ultimately the emperor's prerogative. [99187]\n\nExact Answer: Emperor Tiberius\n\nConfidence: 90%"
+    }
+  ]
+}

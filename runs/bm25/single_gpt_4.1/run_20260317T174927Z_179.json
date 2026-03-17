@@ -1,0 +1,50 @@
+{
+  "query_id": "179",
+  "tool_call_counts": {
+    "search": 10
+  },
+  "status": "completed",
+  "retrieved_docids": [
+    "99164",
+    "5965",
+    "21985",
+    "22171",
+    "40731",
+    "28110",
+    "99494",
+    "79826",
+    "12478",
+    "68001",
+    "6807",
+    "64227",
+    "65223",
+    "80228",
+    "75109",
+    "23982",
+    "67819",
+    "52583",
+    "71759",
+    "30880",
+    "73713",
+    "75146",
+    "86455",
+    "85982",
+    "26772",
+    "22126",
+    "6048",
+    "22456",
+    "37465",
+    "88876",
+    "66392",
+    "57513",
+    "31015",
+    "59057",
+    "4096"
+  ],
+  "result": [
+    {
+      "type": "output_text",
+      "output": "search: \"Summer Rain\" musical play final show 2023 screen phrase OR \"Summer Rain\" song childhood romance death musical ending screen message OR \"Summer Rain\" musical play curtain call screen phrase"
+    }
+  ]
+}

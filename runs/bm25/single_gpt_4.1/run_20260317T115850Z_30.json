@@ -1,0 +1,37 @@
+{
+  "query_id": "30",
+  "tool_call_counts": {
+    "search": 10
+  },
+  "status": "completed",
+  "retrieved_docids": [
+    "46848",
+    "31239",
+    "4139",
+    "77179",
+    "35035",
+    "23040",
+    "88364",
+    "87058",
+    "26958",
+    "38371",
+    "14337",
+    "49025",
+    "80972",
+    "43566",
+    "49634",
+    "51460",
+    "86991",
+    "6934",
+    "56325",
+    "45766",
+    "79318",
+    "96724"
+  ],
+  "result": [
+    {
+      "type": "output_text",
+      "output": "search: 1996 Olympic men's basketball preliminary round, box score for a game with 8 point margin, tied at halftime, and the names of the top two scorers from the winning team"
+    }
+  ]
+}

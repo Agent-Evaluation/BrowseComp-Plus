@@ -1,0 +1,33 @@
+{
+  "query_id": "249",
+  "tool_call_counts": {
+    "search": 6
+  },
+  "status": "completed",
+  "retrieved_docids": [
+    "45147",
+    "68181",
+    "11509",
+    "98947",
+    "86048",
+    "89913",
+    "4824",
+    "5705",
+    "6048",
+    "62609",
+    "28982",
+    "65139",
+    "52979",
+    "41032",
+    "25048",
+    "34664",
+    "69135",
+    "48828"
+  ],
+  "result": [
+    {
+      "type": "output_text",
+      "output": "Explanation: Despite multiple targeted searches, there is no direct evidence in the provided search results identifying a 2008 horror thriller film with a character named Alice, where the actress playing Alice was also the producer and production manager, and who was a house manager of a theatre opened in 1930. No film title matching all these criteria appears in the snippets, and no cast/crew lists or theatre history articles from 2017 provide a match.\nExact Answer: Not found in available search results\nConfidence: 0%"
+    }
+  ]
+}

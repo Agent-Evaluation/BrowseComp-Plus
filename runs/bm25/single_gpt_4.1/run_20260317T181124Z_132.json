@@ -1,0 +1,26 @@
+{
+  "query_id": "132",
+  "tool_call_counts": {
+    "search": 3
+  },
+  "status": "completed",
+  "retrieved_docids": [
+    "50917",
+    "86316",
+    "59490",
+    "65776",
+    "47593",
+    "63983",
+    "37369",
+    "15625",
+    "3745",
+    "11794",
+    "66436"
+  ],
+  "result": [
+    {
+      "type": "output_text",
+      "output": "Explanation: The search results confirm that Freedom's Children is a South African band formed in the 1960s, known for their innovative rock music and for being refused work permits in England in 1969 due to apartheid policies [50917]. However, the specific name of their third album released in the early 1970s is not directly mentioned in the provided snippets. Based on the context and the band's discography, their third album is widely known to be \"Astra.\"\nExact Answer: Astra\nConfidence: 90%"
+    }
+  ]
+}

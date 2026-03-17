@@ -1,0 +1,28 @@
+{
+  "query_id": "722",
+  "tool_call_counts": {
+    "search": 4
+  },
+  "status": "completed",
+  "retrieved_docids": [
+    "70622",
+    "68866",
+    "9170",
+    "5009",
+    "61639",
+    "42227",
+    "27574",
+    "19089",
+    "50528",
+    "85165",
+    "50510",
+    "50253",
+    "58802"
+  ],
+  "result": [
+    {
+      "type": "output_text",
+      "output": "Explanation: None of the search results provide a direct match for an individual who (1) graduated with highest honors, (2) founded a hedge fund between 2000 and 2005 and served until 2011, (3) was quoted as CEO in an article between 2020 and 2022, and (4) was elected as a Class II director for a company founded between 2000 and 2010. The closest matches (e.g., Bill Gates, Arianna Huffington, Satya Nadella) do not fit the hedge fund or Class II director criteria. No evidence found for a specific individual matching all criteria.\nExact Answer: No answer found based on available evidence.\nConfidence: 0%"
+    }
+  ]
+}

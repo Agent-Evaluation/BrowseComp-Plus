@@ -1,0 +1,20 @@
+{
+  "query_id": "250",
+  "tool_call_counts": {
+    "search": 2
+  },
+  "status": "completed",
+  "retrieved_docids": [
+    "52708",
+    "66458",
+    "32940",
+    "86724",
+    "21901"
+  ],
+  "result": [
+    {
+      "type": "output_text",
+      "output": "Explanation: The only relevant evidence found is about Harbhajan Singh, who was born in 1980 and had a cricket career spanning 1998–2016. However, the search results do not provide direct evidence of a specific match fitting all the detailed criteria (two ducks, two players scoring 9, one 50+, 130+ total, 41-43 runs in last 7 overs, 7 wickets lost in last 7 overs, and Player of the Match debuting in two formats against the same team in the same month of consecutive years). The information about Harbhajan Singh's debut years and opponents is present, but not the match details.\nExact Answer: Insufficient evidence to answer definitively.\nConfidence: 30%"
+    }
+  ]
+}

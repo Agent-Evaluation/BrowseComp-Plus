@@ -1,0 +1,26 @@
+{
+  "query_id": "236",
+  "tool_call_counts": {
+    "search": 5
+  },
+  "status": "completed",
+  "retrieved_docids": [
+    "22547",
+    "13230",
+    "54992",
+    "86483",
+    "63930",
+    "51729",
+    "2280",
+    "73422",
+    "55588",
+    "37085",
+    "92838"
+  ],
+  "result": [
+    {
+      "type": "output_text",
+      "output": "Explanation: The search results repeatedly reference the O.J. Simpson trial as a major homicide case involving a high-profile individual in the 1990s, with the trial running from 1994-1995. The O.J. Simpson trial included testimony from a young witness (Simpson's son, Justin, was 8 at the time and was on the witness list, though it's debated if he testified), and Simpson's attorney, Robert Shapiro, had represented other clients in the same era. The trial began in January 1995, as widely documented in historical records and supported by the timeline in [22547].\nExact Answer: January\nConfidence: 90%"
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "query_id": "1096",
+  "tool_call_counts": {
+    "search": 3
+  },
+  "status": "completed",
+  "retrieved_docids": [
+    "27851",
+    "7937",
+    "72312",
+    "77924",
+    "35318",
+    "41122",
+    "85106",
+    "6401"
+  ],
+  "result": [
+    {
+      "type": "output_text",
+      "output": "Explanation: The article \"Automatic captioning for medical imaging (MIC): a rapid review of literature\" matches the criteria: it discusses a phenomenon involving images, references Systemic Functional Linguistics, and suggests an alternative framework in the first keyword. The keywords listed are: \"Automatic image captioning, Caption, Diagnosis generation, Medical images, Rapid review, Report generation, PRISMA.\" The second keyword in this list is \"Caption\" [7937].\nExact Answer: Caption\nConfidence: 95%"
+    }
+  ]
+}

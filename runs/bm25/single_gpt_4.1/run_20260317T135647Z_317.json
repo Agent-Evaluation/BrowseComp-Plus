@@ -1,0 +1,32 @@
+{
+  "query_id": "317",
+  "tool_call_counts": {
+    "search": 9
+  },
+  "status": "completed",
+  "retrieved_docids": [
+    "62534",
+    "37488",
+    "32940",
+    "21901",
+    "66458",
+    "54669",
+    "46489",
+    "56325",
+    "45766",
+    "36409",
+    "73899",
+    "61686",
+    "67355",
+    "10945",
+    "22885",
+    "81993",
+    "61363"
+  ],
+  "result": [
+    {
+      "type": "output_text",
+      "output": "Explanation: The match in question is the India vs Australia Test at Chennai (Madras) in 1986, where Mohinder Amarnath was dismissed 'handled the ball' (one of the rarest dismissals, with no credit to the bowler). This match also featured three ducks, three run outs, and the toss winner (India) also won the match. The player of the match was Kris Srikkanth, who scored the highest runs for the winning team. According to the official scorecard for this match, the total number of extras given was 24.\nExact Answer: 24\nConfidence: 100%"
+    }
+  ]
+}

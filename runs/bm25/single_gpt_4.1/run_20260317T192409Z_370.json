@@ -1,0 +1,24 @@
+{
+  "query_id": "370",
+  "tool_call_counts": {
+    "search": 5
+  },
+  "status": "completed",
+  "retrieved_docids": [
+    "66328",
+    "57164",
+    "63311",
+    "18830",
+    "1756",
+    "99494",
+    "82044",
+    "6499",
+    "52778"
+  ],
+  "result": [
+    {
+      "type": "output_text",
+      "output": "Explanation: Despite multiple searches, none of the results provide direct evidence identifying a writer and producer born in the 1970s with a Master of Fine Arts in Dramatic Writing, whose mother was a professor at a university founded between 1900-1910, and who was a writer and consulting producer for a 2010s TV series. The search results are either unrelated or do not mention any individual matching all the criteria.\nExact Answer: Not found in the provided knowledge base.\nConfidence: 0%"
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "query_id": "1010",
+  "tool_call_counts": {
+    "search": 8
+  },
+  "status": "completed",
+  "retrieved_docids": [
+    "20123",
+    "86554",
+    "48097",
+    "54325",
+    "99719",
+    "68207",
+    "4583",
+    "49525",
+    "23704",
+    "75855",
+    "9883",
+    "39620",
+    "95292",
+    "48353",
+    "84059",
+    "44918",
+    "4035",
+    "95355"
+  ],
+  "result": [
+    {
+      "type": "output_text",
+      "output": "Explanation: The clues point to a family drama movie from 1999-2009 with a lead couple, five children of the same gender, adoption themes, and lead actors who are recipients of honorary doctorates. Pierce Brosnan is confirmed to have five children and starred in \"The Boys Are Back\" (2009), a family drama about a widower raising his two sons, but not five. No evidence directly links a 2007 film called \"The Brothers\" or \"The Boys Are Back\" to all the clues (adoption, memoir, breast cancer survivor, honorary doctorate, five same-gender children). No search result confirms a perfect match.\nExact Answer: No definitive answer found\nConfidence: 20%"
+    }
+  ]
+}

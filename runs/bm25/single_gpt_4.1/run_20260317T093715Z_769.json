@@ -1,0 +1,26 @@
+{
+  "query_id": "769",
+  "tool_call_counts": {
+    "search": 4
+  },
+  "status": "completed",
+  "retrieved_docids": [
+    "88195",
+    "15666",
+    "17149",
+    "18127",
+    "21877",
+    "62209",
+    "91204",
+    "75295",
+    "26213",
+    "56716",
+    "71599"
+  ],
+  "result": [
+    {
+      "type": "output_text",
+      "output": "Explanation: The search results repeatedly mention Rhodes University in connection with events, ceremonies, and academic activities in the capital city (Makhanda, formerly Grahamstown, South Africa). However, none of the snippets directly confirm all the specific criteria (2002 three-day event, 2003 graduation on the fourth Sunday, 2022 plant-gathering article, and a bank tribute ceremony a week later). The only institution consistently appearing in the context of academic events and ceremonies in the capital city is Rhodes University, making it the most likely answer based on available evidence.\nExact Answer: Rhodes University\nConfidence: 70%"
+    }
+  ]
+}

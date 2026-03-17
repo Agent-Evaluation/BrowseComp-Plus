@@ -1,0 +1,20 @@
+{
+  "query_id": "1149",
+  "tool_call_counts": {
+    "search": 2
+  },
+  "status": "completed",
+  "retrieved_docids": [
+    "55040",
+    "62209",
+    "15666",
+    "17258",
+    "53092"
+  ],
+  "result": [
+    {
+      "type": "output_text",
+      "output": "Explanation: The search results did not yield any direct evidence matching all the provided parameters (individual with two older siblings, born in a different country than their parents, bachelor's degree 2018-2022, hoped to be a doctor, contract signed 2019-2022, contract extension 2020-2023, talent recognized at age four, and parents' state and country). None of the snippets mention the individual's or their parents' origin state and country, nor do they match the full biographical profile described.\nExact Answer: Not found in provided search results.\nConfidence: 0%"
+    }
+  ]
+}

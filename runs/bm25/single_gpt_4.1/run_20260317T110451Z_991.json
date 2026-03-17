@@ -1,0 +1,24 @@
+{
+  "query_id": "991",
+  "tool_call_counts": {
+    "search": 5
+  },
+  "status": "completed",
+  "retrieved_docids": [
+    "70622",
+    "35774",
+    "49483",
+    "51665",
+    "55040",
+    "61541",
+    "76437",
+    "48353",
+    "76542"
+  ],
+  "result": [
+    {
+      "type": "output_text",
+      "output": "Explanation: Despite multiple targeted searches, none of the results provide a direct match for all the clues: an influencer who is the second child of four, became an ambassador in 2016 for a company whose founder is an MIT Sloan graduate, launched a YouTube vlog series, and as of 2022 anchored a talk segment of a show with a host born in the 1980s who has hosted major events. The search results list many prominent influencers, YouTubers, and business leaders, but none fit all the criteria or provide a full name matching the description.\nExact Answer: Not found in search results\nConfidence: 0%"
+    }
+  ]
+}

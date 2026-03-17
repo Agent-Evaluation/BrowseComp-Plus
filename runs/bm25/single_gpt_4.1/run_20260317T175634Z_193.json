@@ -1,0 +1,29 @@
+{
+  "query_id": "193",
+  "tool_call_counts": {
+    "search": 4
+  },
+  "status": "completed",
+  "retrieved_docids": [
+    "50221",
+    "18830",
+    "52082",
+    "51918",
+    "48410",
+    "53757",
+    "97657",
+    "59381",
+    "45118",
+    "18563",
+    "1601",
+    "29261",
+    "43003",
+    "70207"
+  ],
+  "result": [
+    {
+      "type": "output_text",
+      "output": "Explanation: The CIA's \"Analysis and Assessment of The Gateway Process\" report, produced in 1983 and declassified in 2003, was missing page 25 for years, leading to much speculation. The report was created by US Army Lt. Col. Wayne M. McDonnell, with technical input from Itzhak Bentov, whose work was foundational to the report. The missing page was eventually found and published by Thobey Campion at VICE, a media company that began as a punk zine. The book quoted on the page before the missing page (page 24) is \"Stalking the Wild Pendulum\" by Itzhak Bentov, as his models and theories are repeatedly referenced throughout the report and specifically cited in the context of consciousness and the Gateway process.\nExact Answer: Stalking the Wild Pendulum by Itzhak Bentov\nConfidence: 95%"
+    }
+  ]
+}

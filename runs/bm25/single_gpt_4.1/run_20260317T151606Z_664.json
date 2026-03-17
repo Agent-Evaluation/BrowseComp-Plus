@@ -1,0 +1,24 @@
+{
+  "query_id": "664",
+  "tool_call_counts": {
+    "search": 4
+  },
+  "status": "completed",
+  "retrieved_docids": [
+    "27823",
+    "94729",
+    "69589",
+    "34090",
+    "44093",
+    "77379",
+    "26092",
+    "45855",
+    "68354"
+  ],
+  "result": [
+    {
+      "type": "output_text",
+      "output": "Explanation: Despite multiple targeted searches, none of the retrieved documents provide direct evidence identifying the specific European team against which the player, involved in the 2019 England football match water bottle incident, made a bench appearance for his parent club. The search results focus on general football violence, injuries, and rivalries, but do not mention the incident, the player, or the European opponent in question.\nExact Answer: Not found in provided sources\nConfidence: 0%"
+    }
+  ]
+}

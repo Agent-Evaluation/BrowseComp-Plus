@@ -1,0 +1,29 @@
+{
+  "query_id": "434",
+  "tool_call_counts": {
+    "search": 5
+  },
+  "status": "completed",
+  "retrieved_docids": [
+    "32327",
+    "54325",
+    "20006",
+    "19264",
+    "51776",
+    "48097",
+    "8530",
+    "20307",
+    "84059",
+    "19041",
+    "15656",
+    "21040",
+    "52002",
+    "4929"
+  ],
+  "result": [
+    {
+      "type": "output_text",
+      "output": "Explanation: The search results confirm that Robert Z'Dar played a police commissioner (Matt Cordell in \"Maniac Cop\") and was married twice, with his first wife being an actress. However, none of the search results provide the actual first name of Robert Z'Dar's first wife. The available documents focus on his career and roles but do not mention his spouses by name.\nExact Answer: Not found in search results\nConfidence: 0%"
+    }
+  ]
+}

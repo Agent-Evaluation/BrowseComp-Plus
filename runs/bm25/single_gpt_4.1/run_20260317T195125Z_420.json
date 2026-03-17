@@ -1,0 +1,30 @@
+{
+  "query_id": "420",
+  "tool_call_counts": {
+    "search": 6
+  },
+  "status": "completed",
+  "retrieved_docids": [
+    "57164",
+    "66328",
+    "70707",
+    "18830",
+    "82875",
+    "72409",
+    "49383",
+    "37419",
+    "33328",
+    "6670",
+    "75903",
+    "53648",
+    "20692",
+    "95874",
+    "79396"
+  ],
+  "result": [
+    {
+      "type": "output_text",
+      "output": "Explanation: Despite multiple searches, there is no direct evidence found in the provided documents that identifies a book published between 1950 and 1970 by a writer born 1900-1910, discussing Francis Bacon's advocacy for inductive reasoning and specifically mentioning the name of an article Bacon wrote under a pseudonym in an English paper published between 1810 and 1830. The search results reference the history of journalism, Bacon's role in authorship debates, and general biographical information, but do not provide the required article name or confirm the pseudonym usage in that context.\nExact Answer: Not found in the provided search results.\nConfidence: 0%"
+    }
+  ]
+}

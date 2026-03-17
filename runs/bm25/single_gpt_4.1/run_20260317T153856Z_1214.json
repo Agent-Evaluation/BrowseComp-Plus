@@ -1,0 +1,27 @@
+{
+  "query_id": "1214",
+  "tool_call_counts": {
+    "search": 4
+  },
+  "status": "completed",
+  "retrieved_docids": [
+    "9194",
+    "32327",
+    "30804",
+    "84059",
+    "81133",
+    "48097",
+    "19264",
+    "95292",
+    "79826",
+    "48552",
+    "58426",
+    "20307"
+  ],
+  "result": [
+    {
+      "type": "output_text",
+      "output": "Explanation: None of the search results provide direct evidence matching all the clues: an actor born in the 1960s, who started as a technician, debuted in a 1988 film, gained fame in a 2001 film, worked in both British and Hollywood productions, and made a statement about success being freedom to choose. The results mention unrelated actors (Michael Caine, Brittany Murphy, Tom Wilkinson, etc.) or do not address the specific combination of technician background, debut year, and the 2001 breakthrough. No document confirms the identity.\nExact Answer: Not found in search results.\nConfidence: 0%"
+    }
+  ]
+}

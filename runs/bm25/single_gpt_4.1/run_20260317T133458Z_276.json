@@ -1,0 +1,26 @@
+{
+  "query_id": "276",
+  "tool_call_counts": {
+    "search": 3
+  },
+  "status": "completed",
+  "retrieved_docids": [
+    "50404",
+    "53092",
+    "31859",
+    "43729",
+    "28680",
+    "25840",
+    "81545",
+    "48172",
+    "19399",
+    "16503",
+    "14593"
+  ],
+  "result": [
+    {
+      "type": "output_text",
+      "output": "Explanation: The search results reference several famous expeditions and explorers, but the most relevant evidence comes from the context of American exploration and the listing of young explorers. The Lewis and Clark Expedition is repeatedly mentioned as a significant exploration in American history, and it is well-known that Meriwether Lewis was appointed to lead the expedition before the age of twenty. The clues about exaggerating facts, tales of rivers and camping, and being featured in a magazine with a group name (such as \"Boys' Life\" or \"Scouts\") align with the mythos surrounding the Lewis and Clark Expedition and its youthful leaders. The evidence from the \"Journals of the Lewis & Clark Expedition\" [48172][19399] supports this connection.\nExact Answer: Lewis and Clark Expedition\nConfidence: 90%"
+    }
+  ]
+}

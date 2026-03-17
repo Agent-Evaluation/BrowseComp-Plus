@@ -1,0 +1,28 @@
+{
+  "query_id": "90",
+  "tool_call_counts": {
+    "search": 6
+  },
+  "status": "completed",
+  "retrieved_docids": [
+    "46481",
+    "19006",
+    "41634",
+    "3815",
+    "20676",
+    "36789",
+    "20487",
+    "28467",
+    "15868",
+    "9039",
+    "36086",
+    "11525",
+    "81897"
+  ],
+  "result": [
+    {
+      "type": "output_text",
+      "output": "Explanation: Despite multiple searches, there is no direct evidence in the provided documents listing an Indian soccer team that matches all the criteria: founded in a state capital of a state established between 1985 and 1992, with a state area between 3800 and 5300 sq km, and a 2015/16 season record of equal wins, draws, and losses, with the last match won in October. The search results do not contain relevant information about Indian states, their areas, or soccer teams with such a record.\nExact Answer: Not found in provided sources\nConfidence: 0%"
+    }
+  ]
+}

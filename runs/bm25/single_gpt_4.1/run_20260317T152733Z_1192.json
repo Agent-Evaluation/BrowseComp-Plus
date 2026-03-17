@@ -1,0 +1,24 @@
+{
+  "query_id": "1192",
+  "tool_call_counts": {
+    "search": 4
+  },
+  "status": "completed",
+  "retrieved_docids": [
+    "13996",
+    "98342",
+    "52708",
+    "36409",
+    "61352",
+    "62466",
+    "56325",
+    "46222",
+    "12331"
+  ],
+  "result": [
+    {
+      "type": "output_text",
+      "output": "Explanation: The search results reference several cricket matches and databases, but none provide a direct match with all the highly specific conditions listed in the question. The most promising lead is the Davis Test Match Database [36409], which claims to have detailed scores for all Tests from 1877 to the 2010s, including ball-by-ball coverage and unusual records. However, the search results do not extract or display a specific match that fulfills all the criteria (run margin, overs, openers' scores, 4s, player of the match, last over runs, and wicket details). No other document provides a full scorecard or match summary matching all requirements.\nExact Answer: No exact match found in the provided search results.\nConfidence: 10%"
+    }
+  ]
+}

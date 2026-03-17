@@ -1,0 +1,20 @@
+{
+  "query_id": "1259",
+  "tool_call_counts": {
+    "search": 1
+  },
+  "status": "completed",
+  "retrieved_docids": [
+    "89819",
+    "70954",
+    "72318",
+    "57176",
+    "62322"
+  ],
+  "result": [
+    {
+      "type": "output_text",
+      "output": "Explanation: Jerry Mao, an Australian competitive programmer, won bronze, silver, gold, and silver medals in four consecutive IOIs (2015–2018) [89819]. He was part of the MIT team that won the ICPC World Finals. The 45th ICPC World Finals, where MIT won with Jerry Mao as a team member, was held in Dhaka, Bangladesh [70954][72318]. Therefore, the year associated with the competition title is 2021 (the \"ICPC 2021 World Finals Dhaka\" held in 2022 due to delays), and the host university was in Dhaka, Bangladesh.\nExact Answer: 2021, Dhaka (hosted in 2022 at Dhaka, Bangladesh)\nConfidence: 100%"
+    }
+  ]
+}

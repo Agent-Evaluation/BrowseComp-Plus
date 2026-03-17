@@ -1,0 +1,25 @@
+{
+  "query_id": "1252",
+  "tool_call_counts": {
+    "search": 5
+  },
+  "status": "completed",
+  "retrieved_docids": [
+    "51270",
+    "89055",
+    "39930",
+    "76149",
+    "82495",
+    "22994",
+    "32224",
+    "1177",
+    "59723",
+    "10030"
+  ],
+  "result": [
+    {
+      "type": "output_text",
+      "output": "Explanation: The 2000 Summer Olympics in Sydney, Australia, match the criteria: China was third in total medals and not in the top 4 for bronze medals [59723]. China, the most populous country, fits the population criterion. The games lasted 17 days (15 September–1 October 2000), within the 10–25 day range. Sydney had 33 venues, with 19 new venues created, both within the specified ranges. Reports indicate the tourism GDP impact for Australia in 2000 was around 13%, fitting the 12–18% range. Australia, the host, won 16 gold and 16 silver medals (equal), and the top individual medal winner’s country (Australia) was among the top 3 in total medals.\nExact Answer: 2000 Summer Olympics, Sydney, Australia; Start: 15 September 2000, End: 1 October 2000, Year: 2000\nConfidence: 95%"
+    }
+  ]
+}

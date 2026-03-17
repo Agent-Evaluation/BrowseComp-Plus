@@ -1,0 +1,27 @@
+{
+  "query_id": "575",
+  "tool_call_counts": {
+    "search": 10
+  },
+  "status": "completed",
+  "retrieved_docids": [
+    "56716",
+    "57820",
+    "70764",
+    "32105",
+    "27727",
+    "74595",
+    "36583",
+    "32603",
+    "42840",
+    "49770",
+    "72198",
+    "14347"
+  ],
+  "result": [
+    {
+      "type": "output_text",
+      "output": "search: verywellhealth 2022 MORE Award winner hand surgery article author and medically reviewed by list"
+    }
+  ]
+}

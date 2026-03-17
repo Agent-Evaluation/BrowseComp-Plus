@@ -1,0 +1,27 @@
+{
+  "query_id": "633",
+  "tool_call_counts": {
+    "search": 3
+  },
+  "status": "completed",
+  "retrieved_docids": [
+    "28556",
+    "99670",
+    "18841",
+    "56475",
+    "2844",
+    "66328",
+    "51485",
+    "91740",
+    "78989",
+    "16064",
+    "78032",
+    "52675"
+  ],
+  "result": [
+    {
+      "type": "output_text",
+      "output": "Explanation: The search results do not provide a direct match for a book about a non-English queen regnant, published by an academic press after 2010 in February, with the author meeting all the specified criteria (PhD from North America since 2000, co-authored an e-course book before 2019, book over 300 pages). The closest relevant faculty profile is Marisa Libbon [78032], but her research focuses on medieval English literature, not a non-English queen regnant. No evidence directly links any author to all the requirements.\nExact Answer: Not found in the provided search results.\nConfidence: 0%"
+    }
+  ]
+}

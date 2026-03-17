@@ -1,0 +1,27 @@
+{
+  "query_id": "305",
+  "tool_call_counts": {
+    "search": 4
+  },
+  "status": "completed",
+  "retrieved_docids": [
+    "94729",
+    "23678",
+    "19132",
+    "42573",
+    "89012",
+    "54140",
+    "9039",
+    "69589",
+    "47403",
+    "83743",
+    "71988",
+    "76807"
+  ],
+  "result": [
+    {
+      "type": "output_text",
+      "output": "Explanation: The search results indicate that Sporting Kansas City, formerly known as the Kansas City Wizards, had a notable defender, Kerry Zavagnin, who became an assistant coach for the club. The club's history mentions that Kerry Zavagnin was an assistant coach, and the context of the question matches the timeline and details provided about the club and its staff in 2018 [83743].\nExact Answer: Sporting Kansas City\nConfidence: 95%"
+    }
+  ]
+}

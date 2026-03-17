@@ -1,0 +1,28 @@
+{
+  "query_id": "728",
+  "tool_call_counts": {
+    "search": 3
+  },
+  "status": "completed",
+  "retrieved_docids": [
+    "60952",
+    "90888",
+    "61304",
+    "81124",
+    "84641",
+    "83094",
+    "69054",
+    "7775",
+    "62381",
+    "81328",
+    "90173",
+    "14284",
+    "27231"
+  ],
+  "result": [
+    {
+      "type": "output_text",
+      "output": "Explanation: The Warpath Campaign was the first DLC for Empire: Total War, released less than a year after the base game. According to the Total War Wiki, the playable factions added in this DLC were: Cherokee Nations, Huron Wendat, Iroquois Confederacy, Plains Nations, and Pueblo Nations. Alphabetically, \"Cherokee Nations\" comes first among these factions [14284].\nExact Answer: Cherokee Nations\nConfidence: 100%"
+    }
+  ]
+}

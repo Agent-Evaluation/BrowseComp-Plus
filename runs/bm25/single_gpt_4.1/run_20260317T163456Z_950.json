@@ -1,0 +1,38 @@
+{
+  "query_id": "950",
+  "tool_call_counts": {
+    "search": 9
+  },
+  "status": "completed",
+  "retrieved_docids": [
+    "59833",
+    "79826",
+    "95292",
+    "18948",
+    "45147",
+    "76869",
+    "23151",
+    "29886",
+    "22170",
+    "5385",
+    "15904",
+    "29038",
+    "68976",
+    "43962",
+    "3581",
+    "63941",
+    "1269",
+    "55924",
+    "57186",
+    "91221",
+    "89789",
+    "35139",
+    "23279"
+  ],
+  "result": [
+    {
+      "type": "output_text",
+      "output": "Explanation: The search did not yield a direct match for all clues, but the game \"Rainbow Islands\" by Taito fits most criteria: released in Japan (1987), features tower-like vertical stages (islands with multiple floors), 10+ enemy types, 5 power-ups, elemental themes (rainbows, water, fire), and was released internationally under a different name. The composer, Hisayoshi Ogura, was also a sound designer and part of Taito's \"Zuntata\" band, fulfilling dual roles. However, I could not confirm the college detail from the available evidence.\nExact Answer: Rainbow Islands (original Japanese name: レインボーアイランド)\nConfidence: 80%"
+    }
+  ]
+}

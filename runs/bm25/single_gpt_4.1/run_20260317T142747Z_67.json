@@ -1,0 +1,27 @@
+{
+  "query_id": "67",
+  "tool_call_counts": {
+    "search": 6
+  },
+  "status": "completed",
+  "retrieved_docids": [
+    "37488",
+    "73899",
+    "32940",
+    "56325",
+    "45766",
+    "81436",
+    "922",
+    "95863",
+    "45601",
+    "81087",
+    "86724",
+    "10945"
+  ],
+  "result": [
+    {
+      "type": "output_text",
+      "output": "Explanation: The match in question is the Sri Lanka vs Kenya ODI during the ICC Champions Trophy 2002, which had an unusual ending due to rain and saw wicket-keeper Kumar Sangakkara replaced after 5.3 overs, with Romesh Kaluwitharana taking over. Chaminda Vaas, the player of the match, faced fewer balls than the winning margin (he bowled, not batted), and Sri Lanka won by 129 runs after winning the toss. The match was part of a tournament with a famous final at R. Premadasa Stadium. The ODI match number for this game is \"ODI no. 1888\".\nExact Answer: ODI no. 1888\nConfidence: 95%"
+    }
+  ]
+}

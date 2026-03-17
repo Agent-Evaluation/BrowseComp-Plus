@@ -1,0 +1,25 @@
+{
+  "query_id": "595",
+  "tool_call_counts": {
+    "search": 5
+  },
+  "status": "completed",
+  "retrieved_docids": [
+    "11525",
+    "66019",
+    "39930",
+    "1650",
+    "88195",
+    "76542",
+    "6640",
+    "19551",
+    "5238",
+    "71991"
+  ],
+  "result": [
+    {
+      "type": "output_text",
+      "output": "Explanation: Despite multiple targeted searches, no document snippet provided any evidence identifying an Olympic swimmer born in January 1993-1996, whose third Olympics was Tokyo, who won their first international medal in 2009-2012, and whose brother graduated with a degree in industrial engineering in May 2011-2014. The search results did not mention any athlete matching all these criteria, nor did they provide relevant biographical details for swimmers fitting this profile.\nExact Answer: Not found in provided search results.\nConfidence: 0%"
+    }
+  ]
+}

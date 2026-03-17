@@ -1,0 +1,39 @@
+{
+  "query_id": "675",
+  "tool_call_counts": {
+    "search": 8
+  },
+  "status": "completed",
+  "retrieved_docids": [
+    "26213",
+    "26382",
+    "35206",
+    "31859",
+    "43295",
+    "38407",
+    "71627",
+    "44225",
+    "52611",
+    "85066",
+    "16523",
+    "40772",
+    "85040",
+    "8115",
+    "77335",
+    "79078",
+    "42",
+    "38820",
+    "30112",
+    "56713",
+    "75680",
+    "2336",
+    "83709",
+    "21347"
+  ],
+  "result": [
+    {
+      "type": "output_text",
+      "output": "Explanation: The question refers to a company co-founded by a former athlete in 2008, producing a key element for CO2 reduction (plant-based protein), with the athlete being vegan for years and the company raising its first funding round in 2022. The year 2008 matches the completion of the Bahrain World Trade Centre, the first building to integrate wind turbines [38407]. The only well-known company fitting all clues is Beyond Meat, co-founded by Ethan Brown and former NBA player Chris Paul is a prominent vegan athlete and investor, but he is not a co-founder. However, another famous vegan athlete, Brendan Brazier, co-founded Vega (plant-based protein) in 2008, is a long-term vegan, and fits the timeline and description.\nExact Answer: Brendan Brazier\nConfidence: 85%"
+    }
+  ]
+}

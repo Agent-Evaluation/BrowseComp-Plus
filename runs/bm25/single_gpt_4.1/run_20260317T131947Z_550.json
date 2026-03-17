@@ -1,0 +1,31 @@
+{
+  "query_id": "550",
+  "tool_call_counts": {
+    "search": 6
+  },
+  "status": "completed",
+  "retrieved_docids": [
+    "21043",
+    "35126",
+    "82586",
+    "24042",
+    "4423",
+    "82337",
+    "8676",
+    "95292",
+    "73952",
+    "54086",
+    "19677",
+    "71599",
+    "15520",
+    "94327",
+    "2251",
+    "22414"
+  ],
+  "result": [
+    {
+      "type": "output_text",
+      "output": "Explanation: Despite multiple targeted searches, none of the retrieved documents provide evidence or even mention of a 1980s sports owner whose lover embezzled money from her employer, with the owner teaching her how to steal using his computer knowledge. No names such as \"Sandy Hill,\" \"Candy Mossler,\" \"Susan,\" \"Karen,\" \"Linda,\" \"Debbie,\" or \"Nancy\" are connected to such a case in the search results. The evidence is insufficient to answer the question.\nExact Answer: Not found in available sources\nConfidence: 0%"
+    }
+  ]
+}

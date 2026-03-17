@@ -1,0 +1,24 @@
+{
+  "query_id": "543",
+  "tool_call_counts": {
+    "search": 3
+  },
+  "status": "completed",
+  "retrieved_docids": [
+    "47403",
+    "76807",
+    "82418",
+    "6934",
+    "11503",
+    "64713",
+    "57230",
+    "45855",
+    "6931"
+  ],
+  "result": [
+    {
+      "type": "output_text",
+      "output": "Explanation: The search results indicate that Tammy Abraham spent the 2017-18 season on loan at Swansea City from Chelsea, scoring just five goals as the Swans were relegated. The question asks about a substitute scorer in an international match in the 2010s who had fewer than ten goals on loan in the prior season. The evidence about Tammy Abraham's loan spell at Swansea City, with five goals, matches the criteria for the player described in the question.\nExact Answer: Swansea City\nConfidence: 90%"
+    }
+  ]
+}

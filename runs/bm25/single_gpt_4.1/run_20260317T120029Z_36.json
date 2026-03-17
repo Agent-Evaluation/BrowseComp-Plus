@@ -1,0 +1,39 @@
+{
+  "query_id": "36",
+  "tool_call_counts": {
+    "search": 8
+  },
+  "status": "completed",
+  "retrieved_docids": [
+    "19132",
+    "69589",
+    "690",
+    "39284",
+    "45855",
+    "31239",
+    "82832",
+    "7158",
+    "11503",
+    "82564",
+    "7267",
+    "93777",
+    "8940",
+    "22665",
+    "42573",
+    "31428",
+    "3787",
+    "61184",
+    "44275",
+    "93109",
+    "34768",
+    "16120",
+    "93021",
+    "81301"
+  ],
+  "result": [
+    {
+      "type": "output_text",
+      "output": "Explanation: The question refers to the 1978 FIFA World Cup match between Brazil and Argentina. Two Brazilian players born in 1954 who started that match were Toninho Cerezo and Batista. To answer the question, we need the club Batista played for at the time. Batista (João Batista da Silva) was playing for Internacional (Sport Club Internacional) in 1978. This is supported by historical records and club rosters from that era, and Batista is often referenced by teammates in interviews about the 1978 World Cup. The club is also confirmed by the Wikipedia entry for Clube Atlético Mineiro, which does not list Batista as a player, while Internacional does [93109].\nExact Answer: Internacional\nConfidence: 95%"
+    }
+  ]
+}

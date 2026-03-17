@@ -1,0 +1,30 @@
+{
+  "query_id": "915",
+  "tool_call_counts": {
+    "search": 4
+  },
+  "status": "completed",
+  "retrieved_docids": [
+    "55772",
+    "5965",
+    "84059",
+    "5883",
+    "45725",
+    "58426",
+    "19264",
+    "88630",
+    "6316",
+    "69007",
+    "39783",
+    "86048",
+    "6919",
+    "4035",
+    "1871"
+  ],
+  "result": [
+    {
+      "type": "output_text",
+      "output": "Explanation: Sally Kellerman is best known for her role as Major Margaret \"Hot Lips\" Houlihan in the film M*A*S*H (1970), not the TV series. The search results confirm her role in the film, but do not mention her playing the character in the TV series. The TV series M*A*S*H aired from 1972-1983, and the character Major Margaret \"Hot Lips\" Houlihan in the TV series was played by Loretta Swit, not Sally Kellerman. However, the question asks for the character played by the actress who fits the criteria, and Sally Kellerman did play \"Hot Lips\" Houlihan in the M*A*S*H film, which is closely related to the TV series. The evidence does not confirm that Sally Kellerman's second husband was born in China or made his screen debut at age 16, so confidence is reduced.\nExact Answer: Major Margaret \"Hot Lips\" Houlihan\nConfidence: 60%"
+    }
+  ]
+}

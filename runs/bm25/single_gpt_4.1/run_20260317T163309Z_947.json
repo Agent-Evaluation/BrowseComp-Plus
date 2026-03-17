@@ -1,0 +1,33 @@
+{
+  "query_id": "947",
+  "tool_call_counts": {
+    "search": 4
+  },
+  "status": "completed",
+  "retrieved_docids": [
+    "57426",
+    "45618",
+    "52885",
+    "14589",
+    "43610",
+    "18890",
+    "56652",
+    "78989",
+    "56736",
+    "15510",
+    "18830",
+    "71211",
+    "21883",
+    "66328",
+    "22312",
+    "72151",
+    "51529",
+    "55356"
+  ],
+  "result": [
+    {
+      "type": "output_text",
+      "output": "Explanation: Despite multiple searches, none of the results directly identify a female poet with a Ph.D. in English, born between 1930 and 1960, who published a groundbreaking poetry collection in the 1980s with the book's title taken from a poem in the collection and discussed the title in an interview. The search results reference various poets, authors, and collections, but do not provide a clear match for all the criteria specified in the question.\nExact Answer: Not found in the provided search results.\nConfidence: 0%"
+    }
+  ]
+}

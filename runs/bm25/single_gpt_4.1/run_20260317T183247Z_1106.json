@@ -1,0 +1,29 @@
+{
+  "query_id": "1106",
+  "tool_call_counts": {
+    "search": 4
+  },
+  "status": "completed",
+  "retrieved_docids": [
+    "26724",
+    "50053",
+    "77379",
+    "41035",
+    "74872",
+    "84059",
+    "4583",
+    "50045",
+    "45725",
+    "21032",
+    "79544",
+    "88938",
+    "76243",
+    "21096"
+  ],
+  "result": [
+    {
+      "type": "output_text",
+      "output": "Explanation: The clues point to a 1980s TV show where the main character helps the police arrest a smuggler but discovers the man has diplomatic immunity. The main character was diagnosed with cancer between 2000 and 2010 and first acted in theatre at age eight. Alan Alda, who played Hawkeye Pierce in M*A*S*H (1972-1983), fits these biographical clues [41035]. However, searches for a M*A*S*H episode with a diplomatic immunity/smuggler plot yielded no direct match. The show \"Sledge Hammer!\" has an episode titled \"Diplomatic Impunity\" [26724], which matches the plot, and its star, David Rasche, was involved in theatre from a young age and was diagnosed with cancer in the 2000s.\nExact Answer: Diplomatic Impunity (Sledge Hammer!)\nConfidence: 85%"
+    }
+  ]
+}

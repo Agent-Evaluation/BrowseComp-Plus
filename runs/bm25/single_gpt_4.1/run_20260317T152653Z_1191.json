@@ -1,0 +1,28 @@
+{
+  "query_id": "1191",
+  "tool_call_counts": {
+    "search": 8
+  },
+  "status": "completed",
+  "retrieved_docids": [
+    "98342",
+    "51985",
+    "43528",
+    "52708",
+    "62466",
+    "10945",
+    "67355",
+    "45601",
+    "12331",
+    "392",
+    "12045",
+    "81074",
+    "84031"
+  ],
+  "result": [
+    {
+      "type": "output_text",
+      "output": "Explanation: The clues point to the 2011 Cricket World Cup group stage match between India and West Indies. Yuvraj Singh scored 113* (within the 85-100 range at the winning moment), India won with 48 balls remaining, Yuvraj was the 3rd highest wicket-taker for India in the tournament, and he dismissed Chris Gayle, who was West Indies' top scorer in the tournament. This match fits all the clues provided.\nExact Answer: 2011 Cricket World Cup, Match 42 (India vs West Indies, group stage)\nConfidence: 95%"
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "query_id": "934",
+  "tool_call_counts": {
+    "search": 9
+  },
+  "status": "completed",
+  "retrieved_docids": [
+    "95292",
+    "47622",
+    "44953",
+    "53831",
+    "67576",
+    "84059",
+    "68362",
+    "49471",
+    "5883",
+    "63386",
+    "4853",
+    "43162",
+    "58630",
+    "81882",
+    "4583",
+    "72141",
+    "73216",
+    "32118",
+    "36741",
+    "16405",
+    "95522",
+    "21738"
+  ],
+  "result": [
+    {
+      "type": "output_text",
+      "output": "Explanation: The question refers to a 1970s TV series with a heiress character, created by someone who won multiple Edgar awards, and an episode involving a gynaecologist. The \"Ellery Queen\" TV series (1975-76) was created by Richard Levinson and William Link, both multiple Edgar Award winners. Jane Seymour, who debuted on stage at 13, played heiress Monica Gray in the episode \"The Adventure of the Mad Tea Party.\" In this episode, she tries to convince Dr. Felix Link (a gynaecologist, played by Ross Martin, who was married three times as of December 2023) to spend time with her.\nExact Answer: The Adventure of the Mad Tea Party\nConfidence: 95%"
+    }
+  ]
+}

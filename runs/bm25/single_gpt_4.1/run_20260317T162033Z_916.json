@@ -1,0 +1,27 @@
+{
+  "query_id": "916",
+  "tool_call_counts": {
+    "search": 5
+  },
+  "status": "completed",
+  "retrieved_docids": [
+    "81087",
+    "95863",
+    "81436",
+    "83935",
+    "10945",
+    "22009",
+    "36437",
+    "97291",
+    "20768",
+    "825",
+    "40436",
+    "922"
+  ],
+  "result": [
+    {
+      "type": "output_text",
+      "output": "Explanation: Muttiah Muralitharan, the highest wicket-taker in Test history (between 1990 and 2005), was born in Kandy, Sri Lanka, and played many of his matches at the local stadium. The clues point to a stadium in Kandy, which is the Pallekele International Cricket Stadium or the older Asgiriya Stadium. However, Asgiriya Stadium is the historic ground in Kandy where Muralitharan played most of his early Tests and is closely associated with his career. The question's cricket clues and the Premier League context (likely football) suggest a multi-use stadium, but Asgiriya is the best fit for the cricketing milestones described.\nExact Answer: Asgiriya Stadium, Kandy\nConfidence: 90%"
+    }
+  ]
+}

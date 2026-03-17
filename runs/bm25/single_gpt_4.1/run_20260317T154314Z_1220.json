@@ -1,0 +1,23 @@
+{
+  "query_id": "1220",
+  "tool_call_counts": {
+    "search": 3
+  },
+  "status": "completed",
+  "retrieved_docids": [
+    "95292",
+    "99932",
+    "79826",
+    "41192",
+    "70716",
+    "75146",
+    "18948",
+    "4035"
+  ],
+  "result": [
+    {
+      "type": "output_text",
+      "output": "Explanation: None of the search results provide direct evidence of a non-English TV series released before 2017 with the described plot, multiple international titles, a director born in 1975 with a music video award, and a lead actor critical of capitalism. The results are unrelated or do not mention a series matching all criteria. No original title is found in the evidence.\nExact Answer: Not found in provided search results\nConfidence: 0%"
+    }
+  ]
+}

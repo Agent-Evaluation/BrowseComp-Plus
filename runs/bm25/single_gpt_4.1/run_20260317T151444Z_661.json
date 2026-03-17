@@ -1,0 +1,29 @@
+{
+  "query_id": "661",
+  "tool_call_counts": {
+    "search": 6
+  },
+  "status": "completed",
+  "retrieved_docids": [
+    "58802",
+    "5009",
+    "3255",
+    "37009",
+    "88195",
+    "44553",
+    "11949",
+    "98189",
+    "9830",
+    "46989",
+    "8127",
+    "99474",
+    "99471",
+    "42248"
+  ],
+  "result": [
+    {
+      "type": "output_text",
+      "output": "Explanation: The search results do not provide direct evidence for Okwui Enwezor or any other individual matching all the criteria: African academic/artist, studied in Africa, UK, and US, head of department and dean at an African university, founded a venue for their work in the 1990s, and whose venue celebrated its 25th anniversary between 2015 and 2020, and continued using a tool since the 1960s. The closest relevant information is about Uche Okeke and the Asele Institute, but the dates and details do not fully align with the question's specifics. No direct match found.\nExact Answer: No definitive answer found in the provided search results.\nConfidence: 0%"
+    }
+  ]
+}

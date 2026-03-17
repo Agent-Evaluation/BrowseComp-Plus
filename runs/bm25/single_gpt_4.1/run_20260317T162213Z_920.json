@@ -1,0 +1,34 @@
+{
+  "query_id": "920",
+  "tool_call_counts": {
+    "search": 8
+  },
+  "status": "completed",
+  "retrieved_docids": [
+    "54325",
+    "66720",
+    "41035",
+    "6316",
+    "10246",
+    "77348",
+    "6555",
+    "86149",
+    "23704",
+    "21922",
+    "19264",
+    "21040",
+    "46552",
+    "96980",
+    "44438",
+    "35385",
+    "38315",
+    "25076",
+    "90987"
+  ],
+  "result": [
+    {
+      "type": "output_text",
+      "output": "Explanation: The clues point to a screenwriter/producer who wrote an Academy Award-nominated script, produced a film titled after a well-known day (\"Valentine's Day\"), had two marriages (second to a European, divorced 18 months after separation), and shares one child with his first spouse. The film \"Valentine's Day\" was directed and produced by Garry Marshall, but he does not fit the marital clues. The search results do not provide a direct match for a screenwriter/producer with these exact marital and career details, and no evidence was found naming the first spouse or confirming the individual's identity.\nExact Answer: Not found in search results\nConfidence: 0%"
+    }
+  ]
+}

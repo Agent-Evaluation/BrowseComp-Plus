@@ -1,0 +1,32 @@
+{
+  "query_id": "681",
+  "tool_call_counts": {
+    "search": 5
+  },
+  "status": "completed",
+  "retrieved_docids": [
+    "83498",
+    "27461",
+    "88857",
+    "82340",
+    "78990",
+    "10627",
+    "84026",
+    "29886",
+    "10949",
+    "38019",
+    "25055",
+    "36643",
+    "58802",
+    "28253",
+    "12462",
+    "35393",
+    "74662"
+  ],
+  "result": [
+    {
+      "type": "output_text",
+      "output": "Explanation: The Greek Theatre in Los Angeles, located in Griffith Park (an area established in 1896), opened in 1930 with an initial capacity of 4,000. In the 1980s, the venue underwent renovations that increased its seating capacity. The current seating capacity is listed as 5,900 after the renovation. This matches the range specified in the question (between 5,500 and 6,500, exclusive) and is supported by the Greek Theatre's official information and historical records [12462].\nExact Answer: 5,900\nConfidence: 100%"
+    }
+  ]
+}

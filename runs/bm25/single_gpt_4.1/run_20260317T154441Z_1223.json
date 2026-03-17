@@ -1,0 +1,35 @@
+{
+  "query_id": "1223",
+  "tool_call_counts": {
+    "search": 4
+  },
+  "status": "completed",
+  "retrieved_docids": [
+    "83802",
+    "55703",
+    "47259",
+    "24883",
+    "29956",
+    "740",
+    "96506",
+    "55148",
+    "43943",
+    "17345",
+    "4758",
+    "61390",
+    "37085",
+    "80689",
+    "97657",
+    "81928",
+    "93263",
+    "55982",
+    "41564",
+    "180"
+  ],
+  "result": [
+    {
+      "type": "output_text",
+      "output": "Explanation: Haitian Creole is an official language of Haiti [47259]. Haiti had a former head of state named \"Mickey\" (Michel \"Mickey\" Martelly), sharing a first name with the Disney character Mickey Mouse. Haiti's population is young, with more than half under 25, and its 2023 population growth rate was in the 2.2%-2.5% range [47259]. Haiti's date of independence is widely recognized as 01/01/1804 [common knowledge, but not directly cited in the above snippets].\nExact Answer: 01/01/1804\nConfidence: 95%"
+    }
+  ]
+}

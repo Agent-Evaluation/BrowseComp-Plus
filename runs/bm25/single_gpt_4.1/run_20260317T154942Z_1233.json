@@ -1,0 +1,34 @@
+{
+  "query_id": "1233",
+  "tool_call_counts": {
+    "search": 5
+  },
+  "status": "completed",
+  "retrieved_docids": [
+    "36741",
+    "95292",
+    "15501",
+    "49256",
+    "65139",
+    "41035",
+    "28982",
+    "62609",
+    "6316",
+    "4035",
+    "4583",
+    "75733",
+    "3737",
+    "20753",
+    "63648",
+    "62890",
+    "22076",
+    "61694",
+    "31584"
+  ],
+  "result": [
+    {
+      "type": "output_text",
+      "output": "Explanation: The search results mention Marian Rivera, a prominent Filipino actress who debuted in the mid-2000s and starred in several hit romance dramas. She is best known for her role in \"Marimar,\" a 2007 Philippine TV series that fits the description: hour-long episodes, a central romance, and careers pulling the leads apart. Marian Rivera's co-star, Dingdong Dantes, also rose to fame in the 2000s. While the search did not explicitly confirm a 1990s talent competition winner as a lead, \"Marimar\" is the most likely answer based on the evidence [20753].\nExact Answer: Marimar (Philippine TV series)\nConfidence: 80%"
+    }
+  ]
+}

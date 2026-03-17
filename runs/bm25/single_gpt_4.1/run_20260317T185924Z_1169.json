@@ -1,0 +1,31 @@
+{
+  "query_id": "1169",
+  "tool_call_counts": {
+    "search": 6
+  },
+  "status": "completed",
+  "retrieved_docids": [
+    "62176",
+    "46195",
+    "17340",
+    "95960",
+    "14636",
+    "94928",
+    "95124",
+    "98179",
+    "50116",
+    "59915",
+    "46763",
+    "80500",
+    "77606",
+    "15809",
+    "17978",
+    "70716"
+  ],
+  "result": [
+    {
+      "type": "output_text",
+      "output": "Explanation: The search results confirm that Sally Rooney's debut novel \"Normal People\" was adapted into a TV miniseries in 2020, with Rooney involved in the adaptation. However, none of the search results provided a full cast list or specifically named the actor or actress who portrayed the younger version of the main character (Marianne or Connell) in the miniseries. Therefore, I do not have enough evidence from the provided documents to give the exact name.\nExact Answer: Not found in provided search results\nConfidence: 0%"
+    }
+  ]
+}

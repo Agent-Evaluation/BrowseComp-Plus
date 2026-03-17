@@ -1,0 +1,23 @@
+{
+  "query_id": "773",
+  "tool_call_counts": {
+    "search": 2
+  },
+  "status": "completed",
+  "retrieved_docids": [
+    "6807",
+    "67328",
+    "40667",
+    "44496",
+    "52586",
+    "7050",
+    "31850",
+    "34688"
+  ],
+  "result": [
+    {
+      "type": "output_text",
+      "output": "Explanation: The search results did not return any direct evidence about a 16-year-old missing in 2018 and the color of shirt they were last seen wearing, according to a police description. The closest match is a 2023 case (Tina Marie Jones) who was last seen wearing a black shirt, but this does not match the year or age in the question. No evidence was found for the 2018 case in the provided results.\nExact Answer: Not found in search results.\nConfidence: 0%"
+    }
+  ]
+}

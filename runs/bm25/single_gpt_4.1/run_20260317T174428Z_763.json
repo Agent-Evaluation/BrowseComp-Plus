@@ -1,0 +1,31 @@
+{
+  "query_id": "763",
+  "tool_call_counts": {
+    "search": 5
+  },
+  "status": "completed",
+  "retrieved_docids": [
+    "82875",
+    "25453",
+    "88266",
+    "38628",
+    "587",
+    "79572",
+    "56482",
+    "8557",
+    "78990",
+    "98887",
+    "32275",
+    "40610",
+    "84445",
+    "72042",
+    "97693",
+    "43838"
+  ],
+  "result": [
+    {
+      "type": "output_text",
+      "output": "Explanation: Despite multiple targeted searches, no document provides a direct match for all criteria: a historic site built in the 1800s, listed on the National Register of Historic Places, within 3,300–3,500 feet of an airport with a 3,400-foot runway, and owned by someone with assets over $50,000 in 1860–1863 who died in September 1876–1878. The closest relevant information found relates to historic sites and wealthy individuals, but none tie all the clues together or mention the specific death date in September within the required years.\nExact Answer: No definitive answer found in the provided knowledge base.\nConfidence: 0%"
+    }
+  ]
+}

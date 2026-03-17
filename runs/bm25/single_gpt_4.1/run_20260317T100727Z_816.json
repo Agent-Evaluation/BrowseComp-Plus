@@ -1,0 +1,34 @@
+{
+  "query_id": "816",
+  "tool_call_counts": {
+    "search": 8
+  },
+  "status": "completed",
+  "retrieved_docids": [
+    "21822",
+    "31747",
+    "24843",
+    "36069",
+    "82340",
+    "74320",
+    "37294",
+    "70622",
+    "70530",
+    "67963",
+    "98741",
+    "34199",
+    "56482",
+    "87912",
+    "21572",
+    "52350",
+    "59381",
+    "61811",
+    "71808"
+  ],
+  "result": [
+    {
+      "type": "output_text",
+      "output": "Explanation: Despite extensive searching, no direct evidence was found naming a 1990s small organization for roving artists founded by an ex-circus worker, hired by colleges, and matching the detailed biographical clues. Many results referenced arts organizations, but none matched all criteria or provided a specific organization name. The search did confirm the plausibility of such organizations existing in the US arts booking sector, but no document provided the exact answer.\nExact Answer: Not found in available search results.\nConfidence: 0%"
+    }
+  ]
+}

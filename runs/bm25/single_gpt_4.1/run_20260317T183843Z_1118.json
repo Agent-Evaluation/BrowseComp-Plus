@@ -1,0 +1,30 @@
+{
+  "query_id": "1118",
+  "tool_call_counts": {
+    "search": 5
+  },
+  "status": "completed",
+  "retrieved_docids": [
+    "48554",
+    "43729",
+    "23995",
+    "69891",
+    "10409",
+    "62411",
+    "42385",
+    "51047",
+    "38558",
+    "13327",
+    "62460",
+    "73459",
+    "43566",
+    "70530",
+    "24021"
+  ],
+  "result": [
+    {
+      "type": "output_text",
+      "output": "Explanation: Despite multiple targeted searches, no search result provided evidence of a person born in the 1940s, who graduated college between 1955 and 1975, founded two businesses (one in the late 20th century and another in the 2010s with 110-120 franchises in 30+ states), and lived their entire life in a town founded in the late 1800s. The search results referenced unrelated entrepreneurs, businesses, and historical figures, but none matched all the specified criteria.\nExact Answer: No matching individual found in the provided knowledge base.\nConfidence: 0%"
+    }
+  ]
+}

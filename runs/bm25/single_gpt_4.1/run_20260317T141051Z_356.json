@@ -1,0 +1,24 @@
+{
+  "query_id": "356",
+  "tool_call_counts": {
+    "search": 3
+  },
+  "status": "completed",
+  "retrieved_docids": [
+    "78089",
+    "66847",
+    "81290",
+    "59708",
+    "57808",
+    "27141",
+    "72604",
+    "32371",
+    "45393"
+  ],
+  "result": [
+    {
+      "type": "output_text",
+      "output": "Explanation: After multiple targeted searches, no document in the results matches all the criteria: a research paper from December 2023 on the prognosis for conjugal happiness, authored by three people, with a sample size of 150–400 couples, affiliated with a university founded between 1975 and 2000, and citing a 1990–2015 reference on interpersonal bonding dynamics in invigorated relationships. No DOI or paper fitting these specifics was found in the search results.\nExact Answer: No matching DOI found.\nConfidence: 0%"
+    }
+  ]
+}

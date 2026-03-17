@@ -1,0 +1,21 @@
+{
+  "query_id": "190",
+  "tool_call_counts": {
+    "search": 4
+  },
+  "status": "completed",
+  "retrieved_docids": [
+    "95292",
+    "66756",
+    "84059",
+    "75146",
+    "88350",
+    "95561"
+  ],
+  "result": [
+    {
+      "type": "output_text",
+      "output": "Explanation: The search results provide a detailed biography of Keanu Reeves, who matches several clues: never married as of 2023, has a sibling (Kim Reeves) who is also in the movie industry, and is known for highly successful films and sequels (e.g., The Matrix, John Wick). However, the results do not confirm all clues: there is no evidence of a US university degree from an institution established in the 1800s, nor explicit confirmation of a Guinness World Record debut, 2006 flight controversy, or grandfather details. No other actor in the results fits more clues.\nExact Answer: Keanu Reeves (tentative, based on partial match)\nConfidence: 60%"
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "query_id": "192",
+  "tool_call_counts": {
+    "search": 6
+  },
+  "status": "completed",
+  "retrieved_docids": [
+    "59490",
+    "75146",
+    "49635",
+    "43",
+    "22171",
+    "37085",
+    "18948",
+    "33361",
+    "81902",
+    "15666",
+    "5965",
+    "31698",
+    "7585",
+    "29487",
+    "84059",
+    "30637",
+    "76673",
+    "90120",
+    "60517",
+    "22547"
+  ],
+  "result": [
+    {
+      "type": "output_text",
+      "output": "Explanation: Despite extensive searching, no search result directly identifies an artist matching all the criteria: winning a music competition in the 1980s (not renewed in the 2010s), releasing a solo album in the 1990s, working as a radio DJ, enjoying comics and computer games, dying between 2010 and 2023 due to professional negligence, and having someone charged in connection to their death. No evidence was found linking a Eurovision or similar competition winner to such a case, nor any criminal charges fitting the scenario.\nExact Answer: No conclusive answer found in the provided knowledge base.\nConfidence: 0%"
+    }
+  ]
+}

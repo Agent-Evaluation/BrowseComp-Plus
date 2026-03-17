@@ -1,0 +1,33 @@
+{
+  "query_id": "854",
+  "tool_call_counts": {
+    "search": 8
+  },
+  "status": "completed",
+  "retrieved_docids": [
+    "94275",
+    "21822",
+    "146",
+    "68266",
+    "37677",
+    "863",
+    "70873",
+    "35497",
+    "88898",
+    "73422",
+    "88738",
+    "54812",
+    "21603",
+    "798",
+    "57226",
+    "5575",
+    "34597",
+    "66861"
+  ],
+  "result": [
+    {
+      "type": "output_text",
+      "output": "Explanation: Despite multiple targeted searches, I could not locate a February 2017 article explicitly documenting the weight (in kilograms) of a Clydesdale horse (or any animal) injured in a car accident on a McAdam-built road, matching the detailed biographical and circumstantial clues in the question. None of the retrieved documents provide the animal's weight after the accident or confirm the incident's specifics.\nExact Answer: Not found in the available search results.\nConfidence: 0%"
+    }
+  ]
+}

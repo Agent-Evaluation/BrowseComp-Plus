@@ -1,0 +1,32 @@
+{
+  "query_id": "1158",
+  "tool_call_counts": {
+    "search": 5
+  },
+  "status": "completed",
+  "retrieved_docids": [
+    "59490",
+    "17462",
+    "55040",
+    "28451",
+    "46067",
+    "79995",
+    "72668",
+    "91226",
+    "90881",
+    "28982",
+    "84059",
+    "66756",
+    "6316",
+    "4583",
+    "59270",
+    "30804",
+    "83501"
+  ],
+  "result": [
+    {
+      "type": "output_text",
+      "output": "Explanation: Despite multiple targeted searches, no search result provided evidence of a movie star born in 1987 with a disciple's name, who started acting in 2010, has an older movie star sibling, and whose first soap opera role is named. The closest matches (e.g., Anne Heche, Sandra Dee) do not fit the birth year, sibling, or name criteria. No direct evidence for the exact answer was found in the search results.\nExact Answer: Not found in provided search results.\nConfidence: 0%"
+    }
+  ]
+}

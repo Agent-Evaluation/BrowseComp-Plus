@@ -1,0 +1,36 @@
+{
+  "query_id": "433",
+  "tool_call_counts": {
+    "search": 5
+  },
+  "status": "completed",
+  "retrieved_docids": [
+    "18452",
+    "9765",
+    "30965",
+    "1367",
+    "43610",
+    "8017",
+    "21822",
+    "50868",
+    "95120",
+    "44937",
+    "4476",
+    "99225",
+    "60816",
+    "59490",
+    "72141",
+    "31148",
+    "87276",
+    "58968",
+    "12546",
+    "95292",
+    "31577"
+  ],
+  "result": [
+    {
+      "type": "output_text",
+      "output": "Explanation: New Zealand was the first country to grant women the right to vote in the 1890s [99225]. The question requires a New Zealand comedy movie, directed by someone born in the 1960s whose father died in a car crash in the mid-2000s, and produced by someone who quit producing another movie in the 2020s after backlash. Despite extensive searching, no direct evidence was found linking a specific New Zealand comedy film to all these criteria, especially regarding the director's father's death and the producer's actions in the 2020s. No movie matching all criteria was identified in the available sources.\nExact Answer: No matching movie found in available sources.\nConfidence: 10%"
+    }
+  ]
+}

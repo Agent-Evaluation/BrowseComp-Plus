@@ -1,0 +1,25 @@
+{
+  "query_id": "1195",
+  "tool_call_counts": {
+    "search": 4
+  },
+  "status": "completed",
+  "retrieved_docids": [
+    "35396",
+    "99671",
+    "40731",
+    "60220",
+    "37369",
+    "18992",
+    "4776",
+    "23448",
+    "7322",
+    "90680"
+  ],
+  "result": [
+    {
+      "type": "output_text",
+      "output": "Explanation: The clues point to a musician born outside the US, debuting in 1995, with a 2008 album reflecting a shift to social advocacy, founder of a nonprofit, performed with an American hard rock band for charity, and collaborated with a Canadian musician for disaster relief. Searching for \"Salman Ahmad Junoon debut album 1995, 2008 album social advocacy, founded nonprofit, performed with American hard rock band for charity, collaborated with Canadian musician for disaster relief\" matches Salman Ahmad, founder of Junoon, who fits all criteria, though the search results do not provide a direct summary but the query matches his biography and career.\nExact Answer: Salman Ahmad\nConfidence: 90%"
+    }
+  ]
+}

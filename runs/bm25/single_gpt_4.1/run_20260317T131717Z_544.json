@@ -1,0 +1,23 @@
+{
+  "query_id": "544",
+  "tool_call_counts": {
+    "search": 6
+  },
+  "status": "completed",
+  "retrieved_docids": [
+    "6316",
+    "95292",
+    "5965",
+    "8930",
+    "45147",
+    "79826",
+    "84059",
+    "19264"
+  ],
+  "result": [
+    {
+      "type": "output_text",
+      "output": "Explanation: The search results repeatedly mention Quinn Redeker as an actor who became a professional actor in 1971, later worked as a casting director in the 1980s, and played notable roles in both film and television. He is credited as a writer on \"The Deer Hunter\" (1978), which had multiple writers, including Deric Washburn (born 1940), who was introduced to Hollywood as a contestant on a game show. Redeker is also known for getting roles without auditioning and for his diverse career, which matches the clues provided. No other search result matches all the criteria as closely as Quinn Redeker.\nExact Answer: Quinn Redeker\nConfidence: 90%"
+    }
+  ]
+}

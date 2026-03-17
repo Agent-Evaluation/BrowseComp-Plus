@@ -1,0 +1,21 @@
+{
+  "query_id": "495",
+  "tool_call_counts": {
+    "search": 3
+  },
+  "status": "completed",
+  "retrieved_docids": [
+    "75295",
+    "15520",
+    "5965",
+    "45147",
+    "30804",
+    "84059"
+  ],
+  "result": [
+    {
+      "type": "output_text",
+      "output": "Explanation: None of the search results provide direct evidence about a 2021 interview with a soap opera actor's child, nor do they mention the year the parent was lost or the child's last name. The results focus on general celebrity obituaries and notable deaths, but do not match the specific scenario described in the question. No relevant details about the individual's child, their last name, or the year of the parent's death are present in the snippets.\nExact Answer: Not found in provided search results.\nConfidence: 0%"
+    }
+  ]
+}

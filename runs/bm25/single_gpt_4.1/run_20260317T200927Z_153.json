@@ -1,0 +1,31 @@
+{
+  "query_id": "153",
+  "tool_call_counts": {
+    "search": 6
+  },
+  "status": "completed",
+  "retrieved_docids": [
+    "82340",
+    "88266",
+    "43729",
+    "23586",
+    "77708",
+    "10409",
+    "57164",
+    "98887",
+    "57154",
+    "78990",
+    "82875",
+    "67203",
+    "29886",
+    "8557",
+    "74662",
+    "35393"
+  ],
+  "result": [
+    {
+      "type": "output_text",
+      "output": "Explanation: Despite extensive searching, none of the retrieved documents provide direct evidence matching all the clues: a northwestern US business with two owners after 1900, moving to a street named for a number between 1 and 10, with one owner disappearing from records after 1910 but before 1920, and the remaining owner's wife having the initials G.F.P. No business directories, local histories, or newspaper archives in the results mention these specifics or the name of the missing owner.\nExact Answer: Not found in available sources\nConfidence: 0%"
+    }
+  ]
+}

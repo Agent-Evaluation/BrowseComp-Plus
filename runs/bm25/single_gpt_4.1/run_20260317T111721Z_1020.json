@@ -1,0 +1,25 @@
+{
+  "query_id": "1020",
+  "tool_call_counts": {
+    "search": 3
+  },
+  "status": "completed",
+  "retrieved_docids": [
+    "4234",
+    "43770",
+    "24912",
+    "51898",
+    "33254",
+    "16793",
+    "66203",
+    "16495",
+    "85424",
+    "73188"
+  ],
+  "result": [
+    {
+      "type": "output_text",
+      "output": "Explanation: The search results confirm Jeanine Donofrio is the recipe developer behind the Love & Lemons blog, which as of 2023 has over 2000 pages and less than 1% of its traffic from social media [4234]. However, none of the retrieved documents mention a health condition discovered at age 11 or 12. The most relevant biographical sources [16793] discuss her background, dietary choices, and career, but do not reference any childhood diagnosis or condition.\nExact Answer: Not found in available sources.\nConfidence: 0%"
+    }
+  ]
+}

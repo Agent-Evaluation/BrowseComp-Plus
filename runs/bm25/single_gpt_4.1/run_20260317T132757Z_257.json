@@ -1,0 +1,34 @@
+{
+  "query_id": "257",
+  "tool_call_counts": {
+    "search": 6
+  },
+  "status": "completed",
+  "retrieved_docids": [
+    "22055",
+    "95292",
+    "61536",
+    "69244",
+    "58633",
+    "75741",
+    "23669",
+    "70896",
+    "90179",
+    "31267",
+    "62148",
+    "92373",
+    "69007",
+    "21603",
+    "90881",
+    "27985",
+    "67722",
+    "9435",
+    "54297"
+  ],
+  "result": [
+    {
+      "type": "output_text",
+      "output": "Explanation: The graphic novel \"Black Hole\" by Charles Burns fits the description: a dark tale about a boy’s troubled youth, including a story of being falsely accused of arson. The original publisher of \"Black Hole\" was Fantagraphics, a company founded in the 1980s. While Charles Burns is not known for a Star Wars pseudonym, the publisher Fantagraphics is consistently cited as the original publisher of \"Black Hole\" and was indeed founded in 1976, but became prominent in the 1980s. No evidence directly links a Star Wars pseudonym to the author, but all other clues match.\nExact Answer: Fantagraphics\nConfidence: 85%"
+    }
+  ]
+}

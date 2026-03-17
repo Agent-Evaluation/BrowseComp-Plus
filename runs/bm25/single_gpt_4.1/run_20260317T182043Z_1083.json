@@ -1,0 +1,32 @@
+{
+  "query_id": "1083",
+  "tool_call_counts": {
+    "search": 5
+  },
+  "status": "completed",
+  "retrieved_docids": [
+    "58166",
+    "97455",
+    "70530",
+    "31859",
+    "39930",
+    "50510",
+    "59493",
+    "40758",
+    "26570",
+    "32854",
+    "91638",
+    "82277",
+    "20364",
+    "86532",
+    "93225",
+    "38487",
+    "74687"
+  ],
+  "result": [
+    {
+      "type": "output_text",
+      "output": "Explanation: The clues point to Nintendo. Nintendo was founded in 1889 in Kyoto, Japan (a former capital city). It started as a card company and became more commercial a few years after its launch. Its manufacturing license was sold over a decade later. Nintendo collaborated with BAPE (A Bathing Ape), whose founder Nigo graduated high school in the 1980s and lived with his grandmother. By 2018, Nintendo had over 80 stores globally. These details are supported by the history of Nintendo and its collaborations with BAPE [93225][38487].\nExact Answer: Nintendo\nConfidence: 95%"
+    }
+  ]
+}

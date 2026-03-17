@@ -1,0 +1,24 @@
+{
+  "query_id": "794",
+  "tool_call_counts": {
+    "search": 4
+  },
+  "status": "completed",
+  "retrieved_docids": [
+    "41736",
+    "38231",
+    "64519",
+    "1779",
+    "55516",
+    "60119",
+    "65118",
+    "6476",
+    "6239"
+  ],
+  "result": [
+    {
+      "type": "output_text",
+      "output": "Explanation: Despite multiple targeted searches, no document provides a direct match for a snooker match before 2022 with all the specified break patterns, a losing player who turned professional between 2011 and 2016, and a referee who became an international referee in December before 2022, along with the combined points of both players. The closest matches found (e.g., 2022 World Snooker Championship) do not fit all criteria, and no detailed frame scores or total points are available for such a match in the search results.\nExact Answer: Not found in available sources.\nConfidence: 0%"
+    }
+  ]
+}
