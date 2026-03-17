@@ -297,9 +297,11 @@ async function main() {
       try {
         judgeResponse = await callKimiJudge(apiKey, judgePrompt, model);
         break;
-      } catch (e) {
+      } catch (e: any) {
         if (attempt < maxRetries - 1) {
-          console.log(`  [retry] Judge call for ${qid} failed: ${e}`);
+          const delay = String(e).includes("429") ? 5000 * Math.pow(2, attempt) : 2000;
+          console.log(`  [retry] Judge call for ${qid} failed: ${e}. Retrying in ${delay}ms...`);
+          await new Promise(res => setTimeout(res, delay));
         } else {
           console.error(
             `  [error] Judge call for ${qid} failed after ${maxRetries} attempts: ${e}`
