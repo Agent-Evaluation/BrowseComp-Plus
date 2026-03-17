@@ -1,3 +1,9 @@
+# Run single agent
+
+```bash
+export JAVA_HOME=$(/usr/libexec/java_home -v 21); bun run mas_agents/src/run-eval.ts --architecture single --model gpt-4.1 --index-path indexes/bm25/
+```
+
 # BrowseComp-Plus
 
 | [🤗Dataset](https://huggingface.co/datasets/Tevatron/browsecomp-plus) | [🏆Leaderboard](https://huggingface.co/spaces/Tevatron/BrowseComp-Plus) | [📄Paper](https://arxiv.org/pdf/2508.06600) | [🔍Project Page](https://texttron.github.io/BrowseComp-Plus/) |
