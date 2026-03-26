@@ -1,0 +1,32 @@
+{
+  "query_id": "253",
+  "tool_call_counts": {
+    "search": 22
+  },
+  "status": "completed",
+  "retrieved_docids": [
+    "287",
+    "69452",
+    "35822",
+    "89012",
+    "18053",
+    "19132",
+    "92686",
+    "55857",
+    "44553",
+    "9039",
+    "64596",
+    "86396",
+    "88364",
+    "4658",
+    "77315",
+    "46848",
+    "359"
+  ],
+  "result": [
+    {
+      "type": "output_text",
+      "output": "Explanation: After searching for an African football club that started as a social club in 1995, changed its name in 2011, won four consecutive league titles from 2020-2023, with a coach who had back surgery in 2018 and was announced as coach in December 2023, none of the search results provide evidence matching all these criteria. The results reference unrelated institutions and clubs, and do not mention a coach with the described history.\nExact Answer: Not found in current search results.\nConfidence: 0%"
+    }
+  ]
+}

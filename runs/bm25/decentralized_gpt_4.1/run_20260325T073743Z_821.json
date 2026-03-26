@@ -1,0 +1,30 @@
+{
+  "query_id": "821",
+  "tool_call_counts": {
+    "search": 15
+  },
+  "status": "completed",
+  "retrieved_docids": [
+    "69137",
+    "94457",
+    "39424",
+    "61763",
+    "55145",
+    "33376",
+    "80245",
+    "77144",
+    "16341",
+    "78012",
+    "1816",
+    "65590",
+    "14562",
+    "14935",
+    "60517"
+  ],
+  "result": [
+    {
+      "type": "output_text",
+      "output": "Explanation: I agree with the other agents. Based on the evidence provided, none of the search results contain information about a company blog post related to a job offer withdrawal lawsuit, nor do they mention the percentage of employees who recommend the company as a workplace. The results are unrelated and do not provide the required details to answer the question.\nExact Answer: No evidence found.\nConfidence: 0%"
+    }
+  ]
+}

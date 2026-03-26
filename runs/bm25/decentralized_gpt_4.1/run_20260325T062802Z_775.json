@@ -1,0 +1,51 @@
+{
+  "query_id": "775",
+  "tool_call_counts": {
+    "search": 23
+  },
+  "status": "completed",
+  "retrieved_docids": [
+    "21603",
+    "32505",
+    "17462",
+    "70904",
+    "14307",
+    "18890",
+    "30965",
+    "50045",
+    "34147",
+    "72151",
+    "56475",
+    "31267",
+    "17012",
+    "77728",
+    "3002",
+    "95960",
+    "21883",
+    "54683",
+    "62176",
+    "27255",
+    "23230",
+    "33254",
+    "56350",
+    "8674",
+    "96767",
+    "6058",
+    "66193",
+    "38708",
+    "39802",
+    "12409",
+    "12500",
+    "23177",
+    "70718",
+    "4058",
+    "3438",
+    "37690"
+  ],
+  "result": [
+    {
+      "type": "output_text",
+      "output": "Explanation: The question refers to Chigozie Obioma, whose novels \"The Fishermen\" (2015) and \"An Orchestra of Minorities\" (2019) were both shortlisted for the Booker Prize and translated into 30 languages [8674]. The Booker Prize is an award created in the 2000s (opened to all nationalities in 2014). The 2019 Booker Prize was won by Bernardine Evaristo, who was born in London, the same city where Obioma grew up for a period, but crucially, Obioma was born in Akure, Nigeria [8674]. The evidence directly states his birthplace.\nExact Answer: Akure, Nigeria\nConfidence: 100%"
+    }
+  ]
+}

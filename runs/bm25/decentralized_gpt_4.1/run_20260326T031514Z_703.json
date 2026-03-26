@@ -1,0 +1,36 @@
+{
+  "query_id": "703",
+  "tool_call_counts": {
+    "search": 23
+  },
+  "status": "completed",
+  "retrieved_docids": [
+    "19439",
+    "73894",
+    "61763",
+    "63485",
+    "6983",
+    "98887",
+    "94327",
+    "66328",
+    "92846",
+    "17462",
+    "57808",
+    "22414",
+    "25453",
+    "12980",
+    "5575",
+    "30901",
+    "75295",
+    "56168",
+    "21822",
+    "75146",
+    "94275"
+  ],
+  "result": [
+    {
+      "type": "output_text",
+      "output": "Explanation: After reviewing the search results, none provide any evidence about a person who changed their name between ages 2 and 5, dropped charges after a business crash due to the driver caring for a spouse with a stroke (2010-2016), had a marriage end between 2018-2023, and has a sibling sentenced to prison between 2015-2020 who attended a business school founded between 1908-1928 but did not graduate. The results are genealogical records, timelines, and unrelated historical or obituary information. No relevant names or events matching the question's criteria are found.\nExact Answer: No answer found in the provided search results.\nConfidence: 0%"
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "query_id": "584",
+  "tool_call_counts": {
+    "search": 15
+  },
+  "status": "completed",
+  "retrieved_docids": [
+    "57826",
+    "90586",
+    "43816",
+    "19915",
+    "62152",
+    "52061",
+    "38828",
+    "10470",
+    "93307",
+    "69082",
+    "89654",
+    "61801",
+    "92429",
+    "17461",
+    "644",
+    "3815",
+    "23473",
+    "25198",
+    "50222"
+  ],
+  "result": [
+    {
+      "type": "output_text",
+      "output": "Explanation: All three peer agents identified the article \"Influence of Sunlight Incidence and Fruit Chemical Features on Oviposition Site Selection in Mango by Anastrepha obliqua: Implications for Management\" as the answer. The search confirms this article discusses pest management (impact of pest control) on mango, a fruit containing polyphenols (specifically mangiferin). The study was published in 2021, has multiple authors (within the 4–10 range), and includes affiliations from Chile, which had a population between 17–19 million and female life expectancy between 80–90 years as of 2023. All parameter facts are satisfied [57826].\nExact Answer: Influence of Sunlight Incidence and Fruit Chemical Features on Oviposition Site Selection in Mango by Anastrepha obliqua: Implications for Management\nConfidence: 100%"
+    }
+  ]
+}

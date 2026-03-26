@@ -1,0 +1,34 @@
+{
+  "query_id": "282",
+  "tool_call_counts": {
+    "search": 25
+  },
+  "status": "completed",
+  "retrieved_docids": [
+    "79078",
+    "18948",
+    "36984",
+    "75436",
+    "34388",
+    "59381",
+    "45107",
+    "81290",
+    "82543",
+    "79753",
+    "30804",
+    "41987",
+    "83216",
+    "39783",
+    "9130",
+    "1019",
+    "22603",
+    "93205",
+    "1349"
+  ],
+  "result": [
+    {
+      "type": "output_text",
+      "output": "Explanation: After reviewing the search results, none provide direct evidence of a TV show released between 1940 and 2000 that matches all the clues: a character spending time in a liquid similar to inorganic compounds, a showrunner with a common long-term disorder, and a character with a pet bird (Class Aves) with a nameplate serial number. The closest match is \"Sesame Street\" [41987], which features a bird character (Big Bird), but there is no evidence of a pet bird with a nameplate serial number or the other specific clues.\nExact Answer: Not found in provided evidence\nConfidence: 0%"
+    }
+  ]
+}

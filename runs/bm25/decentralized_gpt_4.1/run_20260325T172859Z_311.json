@@ -1,0 +1,40 @@
+{
+  "query_id": "311",
+  "tool_call_counts": {
+    "search": 12
+  },
+  "status": "completed",
+  "retrieved_docids": [
+    "64031",
+    "62645",
+    "59381",
+    "84059",
+    "41554",
+    "96157",
+    "75146",
+    "30804",
+    "7111",
+    "68181",
+    "863",
+    "39501",
+    "96674",
+    "47428",
+    "26360",
+    "85670",
+    "82543",
+    "68674",
+    "42647",
+    "76437",
+    "37085",
+    "798",
+    "5272",
+    "44179",
+    "5965"
+  ],
+  "result": [
+    {
+      "type": "output_text",
+      "output": "Explanation: All three peer agents independently identify \"Cococinel\" as the Argentinian release name, matching every clue: one director and two writers, aired in the early 1990s, 52 episodes of under 5 minutes, educational, with twins, a poet, a complainer, and a living means of transport. The show aired on Canal 7 (ATC) in Argentina, a country that hosted three World Cups (two soccer, one basketball) by 2023. The evidence is consistent and no contradictory information was found [68674].\nExact Answer: Cococinel\nConfidence: 95%"
+    }
+  ]
+}

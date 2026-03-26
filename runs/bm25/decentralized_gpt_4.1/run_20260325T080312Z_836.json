@@ -1,0 +1,40 @@
+{
+  "query_id": "836",
+  "tool_call_counts": {
+    "search": 25
+  },
+  "status": "completed",
+  "retrieved_docids": [
+    "70716",
+    "13711",
+    "42715",
+    "38634",
+    "59462",
+    "67819",
+    "58968",
+    "55695",
+    "5965",
+    "41035",
+    "46849",
+    "63644",
+    "2892",
+    "20674",
+    "58978",
+    "95355",
+    "79020",
+    "15501",
+    "30804",
+    "84059",
+    "80745",
+    "55984",
+    "95292",
+    "89913",
+    "45147"
+  ],
+  "result": [
+    {
+      "type": "output_text",
+      "output": "Explanation: After searching, there is no evidence of a horror TV series aired between 2000 and 2015 with less than 10 episodes, featuring a Nurse character, and a showrunner who is also the founder of a talent management company. None of the search results identify an actress who played a Nurse in such a series, nor do they link a showrunner to a talent management company or a comedian's special as described. This matches the conclusions of Agents 1, 2, and 3.\nExact Answer: No evidence found to answer the question.\nConfidence: 0%"
+    }
+  ]
+}

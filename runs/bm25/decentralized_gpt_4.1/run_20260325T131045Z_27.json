@@ -1,0 +1,24 @@
+{
+  "query_id": "27",
+  "tool_call_counts": {
+    "search": 22
+  },
+  "status": "completed",
+  "retrieved_docids": [
+    "37085",
+    "11503",
+    "44316",
+    "202",
+    "67573",
+    "38947",
+    "34892",
+    "45855",
+    "15868"
+  ],
+  "result": [
+    {
+      "type": "output_text",
+      "output": "Explanation: None of the search results provide evidence of an African-born footballer who was the first from his country to play in the English Premier League, played seven seasons for one club, later gained European nationality, was born between 1988 and 1995 under the zodiac sign Taurus, and has two brothers. The results mention various players and famous footballing brothers (e.g., the Hazard brothers), but none fit all the criteria or provide a specific name matching the requirements.\nExact Answer: Not found in current search results.\nConfidence: 0%"
+    }
+  ]
+}

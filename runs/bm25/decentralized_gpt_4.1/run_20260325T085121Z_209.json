@@ -1,0 +1,42 @@
+{
+  "query_id": "209",
+  "tool_call_counts": {
+    "search": 21
+  },
+  "status": "completed",
+  "retrieved_docids": [
+    "18694",
+    "21603",
+    "88195",
+    "49635",
+    "31698",
+    "85487",
+    "21452",
+    "82399",
+    "59708",
+    "11216",
+    "21406",
+    "92234",
+    "34675",
+    "43977",
+    "21527",
+    "15523",
+    "99671",
+    "79032",
+    "35774",
+    "37009",
+    "29551",
+    "798",
+    "17951",
+    "80762",
+    "26638",
+    "98628",
+    "20060"
+  ],
+  "result": [
+    {
+      "type": "output_text",
+      "output": "Explanation: None of the search results directly identify a 2010s article about an amygdala study authored by a Guinness World Record holder and three-time world sporting event winner, nor do they specify the number of authors of the study discussed in such an article. The closest relevant result is [DocID: 21527], which discusses an amygdala study but does not match the unique author profile described in the question. No evidence was found that directly answers the question as stated.\nExact Answer: Insufficient evidence to determine\nConfidence: 0%"
+    }
+  ]
+}

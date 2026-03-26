@@ -1,0 +1,36 @@
+{
+  "query_id": "63",
+  "tool_call_counts": {
+    "search": 26
+  },
+  "status": "completed",
+  "retrieved_docids": [
+    "17149",
+    "79594",
+    "2422",
+    "56695",
+    "66350",
+    "1366",
+    "88944",
+    "21822",
+    "67990",
+    "24815",
+    "798",
+    "65906",
+    "44394",
+    "75686",
+    "62835",
+    "97336",
+    "46222",
+    "4858",
+    "100046",
+    "14235",
+    "44553"
+  ],
+  "result": [
+    {
+      "type": "output_text",
+      "output": "Explanation: The most relevant evidence is from [1366], which details the history of beach volleyball. It states that the first tournament to offer a prize was held in Los Angeles, California, in 1948, awarding a case of Pepsi. This suggests Pepsi was the first sponsor. To answer the question, we need the city where Pepsi's business was initially founded. Historical records confirm that Pepsi was founded in New Bern, North Carolina. No other document provides a more direct or relevant answer.\nExact Answer: New Bern, North Carolina\nConfidence: 80%"
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "query_id": "250",
+  "tool_call_counts": {
+    "search": 19
+  },
+  "status": "completed",
+  "retrieved_docids": [
+    "922",
+    "52708",
+    "21901",
+    "67355",
+    "61473",
+    "32940",
+    "7483",
+    "43528",
+    "10394",
+    "36409",
+    "825",
+    "36749",
+    "62466",
+    "42351",
+    "17190",
+    "10945",
+    "45601",
+    "81074",
+    "61686"
+  ],
+  "result": [
+    {
+      "type": "output_text",
+      "output": "Explanation: The evidence from [52708] confirms Harbhajan Singh was born in 1980. His Test debut was against Australia on 25 March 1998, and his ODI debut was against New Zealand on 17 April 1998, which are in the same months of consecutive years but against different teams. However, the match scenario described (winning team batted first, two ducks, two nines, one 50+ score, last 7 overs 40-44 runs, 6-7 wickets lost) matches the famous 2001 Kolkata Test (India vs Australia), where Harbhajan Singh was Player of the Match. All peer agents agree, and no evidence contradicts this.\nExact Answer: Harbhajan Singh\nConfidence: 95%"
+    }
+  ]
+}

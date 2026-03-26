@@ -1,0 +1,32 @@
+{
+  "query_id": "972",
+  "tool_call_counts": {
+    "search": 25
+  },
+  "status": "completed",
+  "retrieved_docids": [
+    "50045",
+    "68181",
+    "8930",
+    "84059",
+    "48097",
+    "5965",
+    "66756",
+    "95292",
+    "4583",
+    "19264",
+    "57808",
+    "68122",
+    "61694",
+    "81843",
+    "76192",
+    "8530",
+    "77586"
+  ],
+  "result": [
+    {
+      "type": "output_text",
+      "output": "Explanation: After reviewing the search results, none provide evidence of an American TV actor born in the 1960s, first married in 1990, with a child from that marriage in the 1990s, best known for a reality TV series that premiered between 2005-2015, whose father graduated in the 1950s and had three wives. The results either discuss unrelated actors, TV shows, or general family sociology, but do not match all the criteria. This matches the reasoning of Agents 1, 2, and 3.\nExact Answer: Not enough evidence to determine.\nConfidence: 0%"
+    }
+  ]
+}

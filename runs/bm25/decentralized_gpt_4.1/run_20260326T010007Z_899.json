@@ -1,0 +1,41 @@
+{
+  "query_id": "899",
+  "tool_call_counts": {
+    "search": 24
+  },
+  "status": "completed",
+  "retrieved_docids": [
+    "43792",
+    "22822",
+    "18948",
+    "62509",
+    "19137",
+    "28150",
+    "60944",
+    "31343",
+    "72107",
+    "43052",
+    "72924",
+    "12955",
+    "26638",
+    "67462",
+    "78032",
+    "52182",
+    "12708",
+    "62956",
+    "76626",
+    "91315",
+    "60418",
+    "48189",
+    "23407",
+    "26644",
+    "97598",
+    "40035"
+  ],
+  "result": [
+    {
+      "type": "output_text",
+      "output": "Explanation: The question refers to an award whose founder shares a name with a monarch who defended his nation from a Scandinavian country in the 9th century—King Alfred the Great, who defended England from Viking invasions. The Nobel Prize, founded by Alfred Nobel, fits this clue. The Nobel Prize is awarded in medicine and social sciences (Peace, Economics) [52182]. However, none of the search results provide evidence of a specific individual, born in the early 20th century, who spoke four languages, was in both medicine and social sciences, and was a Nobel nominee. No direct match is found in the evidence.\nExact Answer: No definitive answer found in the provided evidence.\nConfidence: 15%"
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "query_id": "520",
+  "tool_call_counts": {
+    "search": 23
+  },
+  "status": "completed",
+  "retrieved_docids": [
+    "17462",
+    "19264",
+    "75146",
+    "15758",
+    "66328",
+    "57808",
+    "28913",
+    "46552",
+    "52885"
+  ],
+  "result": [
+    {
+      "type": "output_text",
+      "output": "Explanation: After reviewing the search results, none provide evidence matching all the criteria: an author born in the 1940s, first published at 19, first spouse a writer born in the 1950s with an ambassador father, divorced in the 1980s, died between 1998 and 2010, and appeared as themselves in a 2000s movie directed by a director who died between 2015 and 2023 and was divorced twice. The results reference unrelated individuals and do not address the specific query.\nExact Answer: No answer found in current search results.\nConfidence: 0%"
+    }
+  ]
+}

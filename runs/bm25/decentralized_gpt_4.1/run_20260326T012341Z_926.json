@@ -1,0 +1,30 @@
+{
+  "query_id": "926",
+  "tool_call_counts": {
+    "search": 22
+  },
+  "status": "completed",
+  "retrieved_docids": [
+    "95292",
+    "50045",
+    "77051",
+    "9194",
+    "75926",
+    "66328",
+    "8930",
+    "6316",
+    "19264",
+    "98887",
+    "66739",
+    "8038",
+    "18841",
+    "44809",
+    "21603"
+  ],
+  "result": [
+    {
+      "type": "output_text",
+      "output": "Explanation: After reviewing the search results, none provide evidence of an actor or actress who matches all the criteria: born in the 1920s, appeared in a 1960s film set in Victorian London, died in a fire in the 1990s, divorced from a first spouse who died between 1996 and 2007, had two children with that spouse, and whose director died in London between 2010 and 2020. The closest matches (Tony Curtis [19264], Sally Kellerman [6316]) do not fit the fire death or other key details. No full birth name matching all clues is found.\nExact Answer: No answer found\nConfidence: 0%"
+    }
+  ]
+}

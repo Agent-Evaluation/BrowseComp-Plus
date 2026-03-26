@@ -1,0 +1,35 @@
+{
+  "query_id": "1212",
+  "tool_call_counts": {
+    "search": 24
+  },
+  "status": "completed",
+  "retrieved_docids": [
+    "68181",
+    "83501",
+    "84059",
+    "32327",
+    "8530",
+    "5883",
+    "41035",
+    "37369",
+    "6316",
+    "33282",
+    "26290",
+    "10828",
+    "99453",
+    "46994",
+    "4035",
+    "76192",
+    "23516",
+    "89338",
+    "25173",
+    "48565"
+  ],
+  "result": [
+    {
+      "type": "output_text",
+      "output": "Explanation: The search results confirm Jon Pertwee's extensive career, including his roles in \"Doctor Who\" and \"Worzel Gummidge\" [33282]. However, none of the documents explicitly state the title of his last movie appearance. The only film specifically mentioned with Pertwee in the cast is \"Murder at the Windmill\" (1949) [26290], which is from early in his career. No evidence from the search results provides the name of his final film role.\nExact Answer: Not found in current evidence\nConfidence: 20%"
+    }
+  ]
+}

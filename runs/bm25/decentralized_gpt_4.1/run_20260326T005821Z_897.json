@@ -1,0 +1,39 @@
+{
+  "query_id": "897",
+  "tool_call_counts": {
+    "search": 17
+  },
+  "status": "completed",
+  "retrieved_docids": [
+    "64455",
+    "69891",
+    "31335",
+    "95292",
+    "2973",
+    "2040",
+    "27424",
+    "8676",
+    "34826",
+    "57808",
+    "40273",
+    "72491",
+    "37758",
+    "66650",
+    "32581",
+    "51659",
+    "25898",
+    "14812",
+    "25565",
+    "31257",
+    "17557",
+    "42806",
+    "37267",
+    "79475"
+  ],
+  "result": [
+    {
+      "type": "output_text",
+      "output": "Explanation: I agree with my peers because multiple independent answers cite [42806], which directly quotes Mamphela Ramphele's autobiography stating that \"after lobola of R200, she married Mmabane.\" This matches all the biographical details in the question, including the brief marriage, the affair with Steve Biko, and the timeline. No evidence contradicts this, and the source is Ramphele's own account, making it highly reliable.\nExact Answer: R200 (South African Rand)\nConfidence: 100%"
+    }
+  ]
+}

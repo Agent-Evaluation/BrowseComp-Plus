@@ -1,0 +1,30 @@
+{
+  "query_id": "728",
+  "tool_call_counts": {
+    "search": 14
+  },
+  "status": "completed",
+  "retrieved_docids": [
+    "60952",
+    "90888",
+    "61304",
+    "81124",
+    "84641",
+    "83094",
+    "69054",
+    "19353",
+    "10944",
+    "7775",
+    "18948",
+    "27231",
+    "14284",
+    "81328",
+    "90173"
+  ],
+  "result": [
+    {
+      "type": "output_text",
+      "output": "Explanation: The Warpath Campaign DLC for Empire: Total War added five playable factions: Cherokee Nations, Huron Wendat, Iroquois Confederacy, Plains Nations, and Pueblo Nations [14284]. Alphabetically, \"Cherokee Nations\" is the first among these. This matches the context of the question, which specifies new factions released less than a year after the game's launch, and the alphabetical order requirement. The evidence from [60952] confirms the game and expansion details.\nExact Answer: Cherokee Nations\nConfidence: 100%"
+    }
+  ]
+}

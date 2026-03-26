@@ -1,0 +1,25 @@
+{
+  "query_id": "652",
+  "tool_call_counts": {
+    "search": 20
+  },
+  "status": "completed",
+  "retrieved_docids": [
+    "69137",
+    "62424",
+    "72681",
+    "57174",
+    "71644",
+    "38662",
+    "50253",
+    "80577",
+    "70716",
+    "70622"
+  ],
+  "result": [
+    {
+      "type": "output_text",
+      "output": "Explanation: After reviewing the search results, none provide direct evidence of a company that matches all the specified criteria: a name change before 2020, branded product expansion in 2021, closure of two facilities in 2022, and a director who was VP and Head of Marketing at a company founded in \"Apples.\" The closest relevant information is about Steve Rad of Abacus [38662], but there is no evidence of a name change, facility closures, or the specific director background required. No other documents mention a company or director with the required \"Apples\" connection or all the specified events.\nExact Answer: No conclusive answer found based on available evidence.\nConfidence: 10%"
+    }
+  ]
+}

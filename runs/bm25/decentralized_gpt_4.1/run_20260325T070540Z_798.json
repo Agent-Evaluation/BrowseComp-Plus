@@ -1,0 +1,28 @@
+{
+  "query_id": "798",
+  "tool_call_counts": {
+    "search": 21
+  },
+  "status": "completed",
+  "retrieved_docids": [
+    "5238",
+    "76542",
+    "22471",
+    "53752",
+    "22827",
+    "21822",
+    "9024",
+    "66328",
+    "57164",
+    "53092",
+    "14593",
+    "52885",
+    "11087"
+  ],
+  "result": [
+    {
+      "type": "output_text",
+      "output": "Explanation: After reviewing the search results, none provide direct evidence of an Indian educational institute established between 1949 and 1959, with notable alumni (ministers, civil servants, journalists, CEOs, actors), that has relocated within 2-7 miles of its original location, and whose founder's hometown is now in a neighboring state. The results discuss unrelated alumni, local legends, and authors, but do not match all the specific criteria of the question. This aligns with the conclusions of Agents 1, 2, and 3.\nExact Answer: No conclusive answer found in the provided search results.\nConfidence: 0%"
+    }
+  ]
+}

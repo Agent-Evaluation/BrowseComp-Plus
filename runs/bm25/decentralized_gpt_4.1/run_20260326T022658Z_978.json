@@ -1,0 +1,29 @@
+{
+  "query_id": "978",
+  "tool_call_counts": {
+    "search": 21
+  },
+  "status": "completed",
+  "retrieved_docids": [
+    "16296",
+    "77625",
+    "9915",
+    "63058",
+    "74540",
+    "53541",
+    "61276",
+    "73396",
+    "34816",
+    "58920",
+    "29427",
+    "38063",
+    "63561",
+    "23818"
+  ],
+  "result": [
+    {
+      "type": "output_text",
+      "output": "Explanation: The clues point to \"Jujutsu Kaisen\" by Gege Akutami, who was an assistant on \"Blue Exorcist\" (a 2000s manga), and both series are licensed by Viz Media [29427]. Akutami described \"Jujutsu Kaisen\" as a personal rehabilitation project. The tenth arc, known as the \"Shibuya Incident,\" involves the main characters being tasked with protecting Satoru Gojo, an adult character, from being sealed. This matches the detail about a character being entrusted with protecting two others, with Gojo as the adult being protected [23818].\nExact Answer: Satoru Gojo\nConfidence: 95%"
+    }
+  ]
+}

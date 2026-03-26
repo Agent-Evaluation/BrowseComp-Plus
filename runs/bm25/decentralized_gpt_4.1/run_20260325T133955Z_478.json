@@ -1,0 +1,42 @@
+{
+  "query_id": "478",
+  "tool_call_counts": {
+    "search": 30
+  },
+  "status": "completed",
+  "retrieved_docids": [
+    "47624",
+    "24042",
+    "45393",
+    "31360",
+    "7794",
+    "65376",
+    "42015",
+    "15666",
+    "47952",
+    "31883",
+    "64742",
+    "93056",
+    "75295",
+    "75635",
+    "37465",
+    "79391",
+    "55857",
+    "42741",
+    "18948",
+    "7587",
+    "18208",
+    "19173",
+    "19211",
+    "92234",
+    "10658",
+    "24581",
+    "97044"
+  ],
+  "result": [
+    {
+      "type": "output_text",
+      "output": "Explanation: None of the search results provide direct evidence of a Blantyre Telegraph article published between 2018 and 2020 mentioning Bruno and Carol Sammartino raising an animal for 20-30 years, how long ago they met, or the article's full publication date. There is also no evidence of a Pro Wrestling Books review of Carol Sammartino's book about the animal, nor any mention of a stadium name in such a review. The only stadium mentioned is Shea Stadium in a 2023 article unrelated to the required review or book context [18208]. Therefore, the required details cannot be confirmed from the provided evidence.\nExact Answer: Not found in provided search results.\nConfidence: 0%"
+    }
+  ]
+}

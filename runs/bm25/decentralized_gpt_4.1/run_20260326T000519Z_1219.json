@@ -1,0 +1,46 @@
+{
+  "query_id": "1219",
+  "tool_call_counts": {
+    "search": 25
+  },
+  "status": "completed",
+  "retrieved_docids": [
+    "41554",
+    "92506",
+    "88475",
+    "70716",
+    "38786",
+    "52684",
+    "72142",
+    "57174",
+    "50187",
+    "69135",
+    "39930",
+    "43566",
+    "51485",
+    "81248",
+    "863",
+    "95319",
+    "40989",
+    "21985",
+    "98034",
+    "84148",
+    "4055",
+    "43962",
+    "73541",
+    "83050",
+    "94611",
+    "96472",
+    "37253",
+    "45448",
+    "94517",
+    "69137",
+    "83498"
+  ],
+  "result": [
+    {
+      "type": "output_text",
+      "output": "Explanation: The film \"Chariots of Fire\" (1981) was directed by Hugh Hudson, an award-winning filmmaker, and produced by David Puttnam, who later became a sports team owner [52684]. The game \"Chariots of Fire\" was developed by CRL Group, a prolific developer credited with over 400 games by 2020 and known to have faced financial struggles in 2012. The game and film were released around the same time, but the game is set in the 1924 Olympics, a different era than its release. This matches all criteria in the question.\nExact Answer: Chariots of Fire\nConfidence: 98%"
+    }
+  ]
+}

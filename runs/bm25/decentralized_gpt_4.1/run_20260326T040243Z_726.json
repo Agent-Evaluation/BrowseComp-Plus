@@ -1,0 +1,34 @@
+{
+  "query_id": "726",
+  "tool_call_counts": {
+    "search": 16
+  },
+  "status": "completed",
+  "retrieved_docids": [
+    "48475",
+    "71370",
+    "24316",
+    "32032",
+    "95825",
+    "10945",
+    "22885",
+    "81087",
+    "95356",
+    "922",
+    "13996",
+    "37488",
+    "88659",
+    "22684",
+    "40749",
+    "66819",
+    "36729",
+    "65992",
+    "11891"
+  ],
+  "result": [
+    {
+      "type": "output_text",
+      "output": "Explanation: The clues point to Allan Donald as the cricketer inducted in the same year as Sachin Tendulkar (2019). Donald captained South Africa in 1982-83, played his last match in 2003, and was the country's leading World Cup wicket-taker before 2022. The evidence from [32032] confirms that Sachin Tendulkar, Allan Donald, and Cathryn Fitzpatrick were inducted in 2019. This matches the peer agents' reasoning and the documented list of inductees.\nExact Answer: 2019\nConfidence: 95%"
+    }
+  ]
+}

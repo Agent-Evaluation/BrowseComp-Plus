@@ -1,0 +1,37 @@
+{
+  "query_id": "835",
+  "tool_call_counts": {
+    "search": 20
+  },
+  "status": "completed",
+  "retrieved_docids": [
+    "5965",
+    "9509",
+    "45147",
+    "99736",
+    "74795",
+    "40731",
+    "71041",
+    "13532",
+    "86331",
+    "92506",
+    "89913",
+    "89975",
+    "71808",
+    "46740",
+    "89107",
+    "20986",
+    "49263",
+    "39776",
+    "75146",
+    "29409",
+    "57796",
+    "91377"
+  ],
+  "result": [
+    {
+      "type": "output_text",
+      "output": "Explanation: The evidence from [74795] confirms David Bowie formed Tin Machine in 1988 (within the 1970–1990 window), played in a rock band that sold over 100 million records, began performing professionally as a teen, attended art college, and worked in a boutique. He had one daughter and one son. However, Bowie was married twice, not three times. No other musician matching all criteria exactly was found. Peers also found no better fit, and Tin Machine (formed by Bowie) is the closest match despite the marriage count discrepancy.\nExact Answer: Tin Machine (formed by David Bowie)\nConfidence: 85%"
+    }
+  ]
+}

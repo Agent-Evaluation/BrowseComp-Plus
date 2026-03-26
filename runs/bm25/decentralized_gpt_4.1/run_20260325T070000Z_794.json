@@ -1,0 +1,34 @@
+{
+  "query_id": "794",
+  "tool_call_counts": {
+    "search": 20
+  },
+  "status": "completed",
+  "retrieved_docids": [
+    "41736",
+    "52043",
+    "60119",
+    "39284",
+    "92969",
+    "38231",
+    "64519",
+    "55516",
+    "6476",
+    "51270",
+    "4975",
+    "56325",
+    "45766",
+    "33548",
+    "94729",
+    "77379",
+    "65118",
+    "1779",
+    "6239"
+  ],
+  "result": [
+    {
+      "type": "output_text",
+      "output": "Explanation: After reviewing the search results, none provide direct evidence of a snooker match before 2022 that matches all the specified criteria: a losing player who turned professional between 2011 and 2016, made a 50s, multiple 70s, and a 90s break, a winning player with multiple centuries, and a referee who became international in December before 2022, with the combined frame points or total points for both players provided. The closest matches and player profiles found (e.g., 2022 World Snooker Championship [41736], Mark Selby [55516], Ding Junhui [38231]) do not fit all the required details, and no combined points are listed. This matches the conclusions of Agents 1, 2, and 3.\nExact Answer: Not found in available evidence\nConfidence: 0%"
+    }
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "query_id": "1209",
+  "tool_call_counts": {
+    "search": 22
+  },
+  "status": "completed",
+  "retrieved_docids": [
+    "88650",
+    "22055",
+    "48097",
+    "38634",
+    "58633",
+    "4235",
+    "12900",
+    "16372",
+    "72142",
+    "15913",
+    "79826",
+    "95292",
+    "89142",
+    "69007",
+    "5705",
+    "41035",
+    "17978",
+    "32327",
+    "8530",
+    "6316",
+    "68181",
+    "75855",
+    "4035",
+    "99494",
+    "33221"
+  ],
+  "result": [
+    {
+      "type": "output_text",
+      "output": "Explanation: The search results do not provide direct evidence of a TV series released before 2015 that is known by four alternate titles, with a protagonist investigating a loved one's murder, and main actors fitting the described career paths. The closest match is \"24\" (2001-2010) and its sequel \"24: Live Another Day\" (2014), starring Kiefer Sutherland, who began his career in the 1980s/1990s. However, there is no evidence that \"24\" is known by four alternate titles or that the main actress fits the supporting role recognition clue. No other series in the results matches all the criteria.\nExact Answer: Not found in current search results\nConfidence: 0%"
+    }
+  ]
+}

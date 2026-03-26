@@ -1,0 +1,35 @@
+{
+  "query_id": "512",
+  "tool_call_counts": {
+    "search": 24
+  },
+  "status": "completed",
+  "retrieved_docids": [
+    "10945",
+    "86724",
+    "52708",
+    "36409",
+    "92581",
+    "17190",
+    "20768",
+    "83935",
+    "62466",
+    "97031",
+    "67355",
+    "14628",
+    "36749",
+    "46222",
+    "32940",
+    "43528",
+    "42351",
+    "76368",
+    "26757",
+    "52764"
+  ],
+  "result": [
+    {
+      "type": "output_text",
+      "output": "Explanation: The search results provide profiles of several bowlers who fit the birth and Test debut criteria: Mitchell Starc (born 1990, Test debut 2011) [92581], Jasprit Bumrah (born 1993, Test debut 2018) [97031], and Harbhajan Singh (born 1980, but Test debut 1998, so outside the debut window) [52708]. However, none of the search results directly confirm a specific T20I match before 2023 where any of these bowlers were named man of the match with more than 2 wickets, more than 8 runs conceded, and both teams scoring over 100. Among the candidates, Mitchell Starc and Jasprit Bumrah fit all the personal criteria, but without direct match evidence, the answer remains tentative.\nExact Answer: Mitchell Starc or Jasprit Bumrah (no direct match evidence found)\nConfidence: 60%"
+    }
+  ]
+}

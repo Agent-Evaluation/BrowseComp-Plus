@@ -1,0 +1,44 @@
+{
+  "query_id": "735",
+  "tool_call_counts": {
+    "search": 31
+  },
+  "status": "completed",
+  "retrieved_docids": [
+    "54992",
+    "100095",
+    "22547",
+    "66644",
+    "82422",
+    "15666",
+    "44994",
+    "4323",
+    "57906",
+    "86099",
+    "73109",
+    "25453",
+    "32062",
+    "34150",
+    "32300",
+    "91434",
+    "51729",
+    "10058",
+    "69848",
+    "39350",
+    "23725",
+    "73422",
+    "89279",
+    "35774",
+    "72373",
+    "56879",
+    "20430",
+    "75262",
+    "4087"
+  ],
+  "result": [
+    {
+      "type": "output_text",
+      "output": "Explanation: None of the search results provide direct evidence about the specific room in the accused's house where the tool (such as a matchbox or petrol) used to ignite the Moi Girls School Nairobi 2017 dormitory fire was found. The results discuss the broader context of school fires in Kenya and the impact of such incidents, but do not mention the details of the police investigation, court testimony, or news reports specifying the room in the house where the tool was located.\nExact Answer: Not found in available sources.\nConfidence: 0%"
+    }
+  ]
+}

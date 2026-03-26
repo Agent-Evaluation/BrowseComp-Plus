@@ -1,0 +1,40 @@
+{
+  "query_id": "294",
+  "tool_call_counts": {
+    "search": 23
+  },
+  "status": "completed",
+  "retrieved_docids": [
+    "95874",
+    "62951",
+    "94275",
+    "50403",
+    "10734",
+    "78990",
+    "13594",
+    "37327",
+    "41886",
+    "77728",
+    "53092",
+    "12330",
+    "94639",
+    "70474",
+    "96767",
+    "21578",
+    "72068",
+    "31267",
+    "70718",
+    "65622",
+    "72409",
+    "72780",
+    "39776",
+    "59801",
+    "76869"
+  ],
+  "result": [
+    {
+      "type": "output_text",
+      "output": "Explanation: The search results confirm Hans Christian Andersen's impoverished childhood, his passion for reading (notably reading at night in secret), and his later financial struggles that led him to translation work. His death occurred in 1875, fitting the time window. However, the search results do not directly confirm his parents' names as Johanna and Christian, nor that he was the third of five children. Despite this, all other biographical clues match Andersen, and no other candidate fits as closely.\nExact Answer: Hans Christian Andersen\nConfidence: 90%"
+    }
+  ]
+}

@@ -1,0 +1,59 @@
+{
+  "query_id": "747",
+  "tool_call_counts": {
+    "search": 27
+  },
+  "status": "completed",
+  "retrieved_docids": [
+    "19640",
+    "32402",
+    "65843",
+    "82038",
+    "19465",
+    "21822",
+    "34435",
+    "18830",
+    "57164",
+    "69891",
+    "18948",
+    "23995",
+    "65343",
+    "8206",
+    "6496",
+    "14218",
+    "46381",
+    "9024",
+    "4503",
+    "14593",
+    "47860",
+    "79928",
+    "52885",
+    "48410",
+    "2640",
+    "92684",
+    "52748",
+    "31923",
+    "3751",
+    "91204",
+    "67965",
+    "33889",
+    "31747",
+    "33955",
+    "84481",
+    "9241",
+    "18967",
+    "53092",
+    "5238",
+    "77342",
+    "66328",
+    "41886",
+    "10409",
+    "33762"
+  ],
+  "result": [
+    {
+      "type": "output_text",
+      "output": "Explanation: None of the search results directly identify Person A or the country they lived in as a teenager around 1950. The results provide background on the Council of the Three Fires (Ojibwe, Odawa, Potawatomi) and some context about Native American history and notable women, but do not mention a biography matching all the clues or specify a foreign country associated with Person A. No evidence in [21822], [79928], [6496], [84481], or [33955] addresses the specific question.\nExact Answer: Not found in search results\nConfidence: 20%"
+    }
+  ]
+}

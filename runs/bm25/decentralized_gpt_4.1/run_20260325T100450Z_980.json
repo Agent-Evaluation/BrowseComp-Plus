@@ -1,0 +1,32 @@
+{
+  "query_id": "980",
+  "tool_call_counts": {
+    "search": 23
+  },
+  "status": "completed",
+  "retrieved_docids": [
+    "12980",
+    "8930",
+    "64625",
+    "84059",
+    "95292",
+    "35701",
+    "35137",
+    "75146",
+    "40383",
+    "7321",
+    "79826",
+    "88630",
+    "3691",
+    "21985",
+    "8294",
+    "34132",
+    "3161"
+  ],
+  "result": [
+    {
+      "type": "output_text",
+      "output": "Explanation: After reviewing the search results, none provide direct evidence of a 2000s movie featuring two leads from different backgrounds (one rich, one poor), both actors born in the 1960s, and a director who had a dispute with one actor's brother as of Nov 2023. The results mention actors like Tom Wilkinson and Edward Norton (both born in the 1960s), but do not connect them to a specific film matching all criteria, nor do they mention a director-actor's brother dispute in 2023. No movie fitting all the clues is identified in the evidence [75146][40383].\nExact Answer: No definitive answer found based on available evidence.\nConfidence: 10%"
+    }
+  ]
+}

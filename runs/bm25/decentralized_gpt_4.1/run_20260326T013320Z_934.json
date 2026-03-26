@@ -1,0 +1,38 @@
+{
+  "query_id": "934",
+  "tool_call_counts": {
+    "search": 28
+  },
+  "status": "completed",
+  "retrieved_docids": [
+    "95292",
+    "84059",
+    "5883",
+    "6316",
+    "79826",
+    "47622",
+    "44953",
+    "53831",
+    "67576",
+    "49471",
+    "2599",
+    "99922",
+    "16405",
+    "1019",
+    "23082",
+    "23070",
+    "45036",
+    "50883",
+    "72141",
+    "58630",
+    "23714",
+    "53138",
+    "36741"
+  ],
+  "result": [
+    {
+      "type": "output_text",
+      "output": "Explanation: None of the search results provide direct evidence matching all the clues in the question: a 1970s TV series with an heiress character, an actress who debuted on stage at 13, a creator with multiple Edgar awards as of 2010, an episode involving a gynaecologist, and an actor (the gynaecologist) married three times as of December 2023. The results reference general TV history, actors, and series, but do not identify the specific episode or series in question.\nExact Answer: Not found in current search results\nConfidence: 0%"
+    }
+  ]
+}

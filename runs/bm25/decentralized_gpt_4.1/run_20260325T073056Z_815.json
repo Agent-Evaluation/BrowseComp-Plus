@@ -1,0 +1,37 @@
+{
+  "query_id": "815",
+  "tool_call_counts": {
+    "search": 20
+  },
+  "status": "completed",
+  "retrieved_docids": [
+    "59801",
+    "29943",
+    "57164",
+    "15073",
+    "66328",
+    "19364",
+    "40727",
+    "31504",
+    "50977",
+    "1470",
+    "75856",
+    "94275",
+    "94639",
+    "59609",
+    "67848",
+    "69458",
+    "736",
+    "14013",
+    "55167",
+    "7757",
+    "84621",
+    "65806"
+  ],
+  "result": [
+    {
+      "type": "output_text",
+      "output": "Explanation: The evidence confirms that Chris Hammond (Christiana Mary Demain Hammond) was the illustrator, exhibiting at the Royal Academy and losing a sibling in 1900 [1470, 67848]. She illustrated \"Emma\" by Jane Austen, published in 1898 by George Allen [59609]. However, Jane Austen was born in 1775, not the 1860s, and her parent was not an auctioneer. No evidence was found of an author born in the 1860s, with an auctioneer parent, who wrote 23 books between 1888 and 1901, and published a book in 1898 illustrated by Chris Hammond. Thus, while the illustrator and the 1898 book \"Emma\" are confirmed, the author does not fit all the biographical clues.\nExact Answer: Emma (Jane Austen, illustrated by Chris Hammond, 1898)\nConfidence: 80%"
+    }
+  ]
+}

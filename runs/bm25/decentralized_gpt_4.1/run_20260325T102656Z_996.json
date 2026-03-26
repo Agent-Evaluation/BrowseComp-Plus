@@ -1,0 +1,29 @@
+{
+  "query_id": "996",
+  "tool_call_counts": {
+    "search": 22
+  },
+  "status": "completed",
+  "retrieved_docids": [
+    "51493",
+    "65878",
+    "97169",
+    "23019",
+    "18349",
+    "39776",
+    "1031",
+    "80830",
+    "86363",
+    "21822",
+    "22055",
+    "18948",
+    "24551",
+    "66739"
+  ],
+  "result": [
+    {
+      "type": "output_text",
+      "output": "Explanation: After reviewing the search results, none provide evidence of an individual born in the 20th century, accused of assassination in the 21st century, whose city of birth shaped a significant literary character by a 19th-century author, and whose wife (born mid-20th century, career started mid-20th century) presented an award to an African entrepreneur in the 21st century. The closest match, Mahatma Gandhi [65878], was assassinated in the 20th century, not accused in the 21st, and his wife does not fit the description. No other results match all criteria.\nExact Answer: Insufficient evidence to answer.\nConfidence: 0%"
+    }
+  ]
+}

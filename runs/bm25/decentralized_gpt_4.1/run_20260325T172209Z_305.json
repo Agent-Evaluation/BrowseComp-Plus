@@ -1,0 +1,41 @@
+{
+  "query_id": "305",
+  "tool_call_counts": {
+    "search": 12
+  },
+  "status": "completed",
+  "retrieved_docids": [
+    "23678",
+    "19132",
+    "54140",
+    "61288",
+    "57378",
+    "83717",
+    "36651",
+    "47624",
+    "94729",
+    "89012",
+    "71919",
+    "42573",
+    "69589",
+    "61184",
+    "64596",
+    "22005",
+    "31239",
+    "83743",
+    "76807",
+    "71988",
+    "47403",
+    "81773",
+    "26958",
+    "76919",
+    "79391",
+    "8284"
+  ],
+  "result": [
+    {
+      "type": "output_text",
+      "output": "Explanation: I agree with Agents 1, 2, and 3. The evidence from [83743] confirms that Kerry Zavagnin, a defender/midfielder who played for the Kansas City Wizards (now Sporting Kansas City) in the 2000 MLS Cup, later became an assistant coach for the same club. [54140] further verifies that Sporting Kansas City is the club in question and that Zavagnin held a coaching role there in 2018. This matches all the clues provided in the question.\nExact Answer: Sporting Kansas City\nConfidence: 100%"
+    }
+  ]
+}

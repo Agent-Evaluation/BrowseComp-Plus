@@ -1,0 +1,28 @@
+{
+  "query_id": "772",
+  "tool_call_counts": {
+    "search": 18
+  },
+  "status": "completed",
+  "retrieved_docids": [
+    "50715",
+    "23995",
+    "4320",
+    "55469",
+    "89940",
+    "2531",
+    "10746",
+    "62552",
+    "44222",
+    "15666",
+    "14572",
+    "78268",
+    "11215"
+  ],
+  "result": [
+    {
+      "type": "output_text",
+      "output": "Explanation: After reviewing the search results, none provide information about a South African township school established in the 1980s that started in a church, nor do they mention the role of the longest-serving employee at such a school. The top results are about unrelated cities (Newark, Philadelphia), US townships, and other institutions. This matches the findings of Agents 1, 2, and 3. No evidence was found to answer the question.\nExact Answer: No relevant information found.\nConfidence: 0%"
+    }
+  ]
+}

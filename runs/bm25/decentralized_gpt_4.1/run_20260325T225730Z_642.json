@@ -1,0 +1,37 @@
+{
+  "query_id": "642",
+  "tool_call_counts": {
+    "search": 22
+  },
+  "status": "completed",
+  "retrieved_docids": [
+    "20674",
+    "51469",
+    "38046",
+    "4758",
+    "41035",
+    "45147",
+    "75855",
+    "32327",
+    "12980",
+    "66756",
+    "39427",
+    "88153",
+    "48410",
+    "6499",
+    "18830",
+    "82543",
+    "68671",
+    "16064",
+    "44179",
+    "21877",
+    "95292",
+    "41554"
+  ],
+  "result": [
+    {
+      "type": "output_text",
+      "output": "Explanation: None of the search results provide evidence of a 1990s TV show matching all the clues in the question. The only composer name found is \"Trentemøller\" for \"Halt and Catch Fire\" [20674], but that show aired in the 2010s, not the 1990s, and does not fit the rest of the criteria. No evidence links any 1990s show, its composer, or the specific review and artist details described in the question.\nExact Answer: Not found\nConfidence: 0%"
+    }
+  ]
+}

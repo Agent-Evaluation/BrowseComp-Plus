@@ -1,0 +1,30 @@
+{
+  "query_id": "887",
+  "tool_call_counts": {
+    "search": 29
+  },
+  "status": "completed",
+  "retrieved_docids": [
+    "69796",
+    "1878",
+    "26626",
+    "20674",
+    "48967",
+    "85192",
+    "25875",
+    "53092",
+    "6499",
+    "18948",
+    "21019",
+    "47243",
+    "28640",
+    "20239",
+    "92506"
+  ],
+  "result": [
+    {
+      "type": "output_text",
+      "output": "Explanation: None of the search results provide direct evidence identifying the video game, the academic journal, or the lead world artist in question. The Wikipedia entry on negatively received games [21019] does not list contributors or artists, nor does it mention any academic journal or intellectual property license context. No other result contains relevant lists of contributors, special thanks, or artist names. Therefore, I cannot provide the requested name based on the available evidence.\nExact Answer: Insufficient information to answer.\nConfidence: 0%"
+    }
+  ]
+}

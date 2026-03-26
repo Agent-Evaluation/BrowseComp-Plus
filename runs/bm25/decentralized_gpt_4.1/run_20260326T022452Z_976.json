@@ -1,0 +1,37 @@
+{
+  "query_id": "976",
+  "tool_call_counts": {
+    "search": 18
+  },
+  "status": "completed",
+  "retrieved_docids": [
+    "5238",
+    "41268",
+    "6315",
+    "12579",
+    "5942",
+    "37426",
+    "86913",
+    "599",
+    "67399",
+    "82044",
+    "36173",
+    "17012",
+    "84068",
+    "4571",
+    "66006",
+    "97987",
+    "15758",
+    "90102",
+    "40063",
+    "23224",
+    "76542",
+    "74222"
+  ],
+  "result": [
+    {
+      "type": "output_text",
+      "output": "Explanation: After reviewing the search results, none provide evidence identifying a Nigerian headmaster who attended college in the 1930s, led a school in the 1940s-1960s, became ambassador to a European country in the 1970s, and had a Nobel Prize-winning pupil. The closest matches are Wole Soyinka [6315] and Chinua Achebe [17012], both Nobel-level figures, but neither fits the headmaster/ambassador profile. No birth month or year for such an individual is found.\nExact Answer: Not found in provided search results.\nConfidence: 0%"
+    }
+  ]
+}

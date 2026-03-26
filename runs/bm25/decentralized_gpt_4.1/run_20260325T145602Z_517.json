@@ -1,0 +1,47 @@
+{
+  "query_id": "517",
+  "tool_call_counts": {
+    "search": 23
+  },
+  "status": "completed",
+  "retrieved_docids": [
+    "27424",
+    "59381",
+    "98136",
+    "20307",
+    "22055",
+    "5188",
+    "55355",
+    "31651",
+    "10809",
+    "23473",
+    "95661",
+    "12636",
+    "20568",
+    "95292",
+    "46849",
+    "18726",
+    "3737",
+    "15723",
+    "64447",
+    "2650",
+    "97534",
+    "66756",
+    "86554",
+    "79826",
+    "6316",
+    "91521",
+    "15087",
+    "35582",
+    "7783",
+    "12900",
+    "18349",
+    "87073"
+  ],
+  "result": [
+    {
+      "type": "output_text",
+      "output": "Explanation: The clues point to an actor born in the 1970s, with a soldier father and a mother working at a barrack's hospital, Chinese zodiac goat, played a policeman in a 2005 film by a director inspired by \"Iracema,\" and acted in a 2013 dramatic thriller by the director of \"Kinsey.\" Peter Sarsgaard was born in 1971 [64447], acted in \"Kinsey\" (2004) directed by Bill Condon [91521][15087], who also directed the 2013 thriller \"The Fifth Estate.\" Sarsgaard's biography fits most clues, though his Chinese zodiac is pig, not goat. No other candidate fits better.\nExact Answer: Peter Sarsgaard\nConfidence: 85%"
+    }
+  ]
+}

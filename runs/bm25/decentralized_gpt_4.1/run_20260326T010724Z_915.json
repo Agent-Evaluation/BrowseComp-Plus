@@ -1,0 +1,35 @@
+{
+  "query_id": "915",
+  "tool_call_counts": {
+    "search": 25
+  },
+  "status": "completed",
+  "retrieved_docids": [
+    "58426",
+    "19264",
+    "88630",
+    "17462",
+    "60377",
+    "6316",
+    "69007",
+    "3114",
+    "5965",
+    "55772",
+    "84059",
+    "5883",
+    "45725",
+    "57496",
+    "31148",
+    "86048",
+    "30804",
+    "15172",
+    "39783",
+    "18341"
+  ],
+  "result": [
+    {
+      "type": "output_text",
+      "output": "Explanation: After reviewing the search results, there is no direct evidence matching all the clues: a TV series from 1970-1980 with an actress who died in the 1990s, whose second husband was born in China and made his screen debut at age 16, and both creators born 1925-1935. The results mention several actors and actresses, but none fit all the criteria or mention a relevant TV series or character name. No evidence directly answers the question.\nExact Answer: Not found in provided search results.\nConfidence: 0%"
+    }
+  ]
+}

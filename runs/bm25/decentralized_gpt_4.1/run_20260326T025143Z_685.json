@@ -1,0 +1,28 @@
+{
+  "query_id": "685",
+  "tool_call_counts": {
+    "search": 24
+  },
+  "status": "completed",
+  "retrieved_docids": [
+    "69589",
+    "57230",
+    "11503",
+    "75436",
+    "54170",
+    "3787",
+    "81301",
+    "64713",
+    "4999",
+    "94729",
+    "7267",
+    "75",
+    "21602"
+  ],
+  "result": [
+    {
+      "type": "output_text",
+      "output": "Explanation: After reviewing the search results, none provide direct evidence of a 1990s soccer match with seven goals, featuring a Norwegian, two Irish, one Scottish, and one Dutch player in the starting lineups, a hat-trick, two second-half substitutes, and attendance between 13,000 and 15,000. The closest relevant information is about Robbie Keane (an Irish player) and his club career in the late 1990s, but no match details fit all criteria. I agree with my peers' assessments, as no document identifies the match.\nExact Answer: Not found in provided sources\nConfidence: 0%"
+    }
+  ]
+}

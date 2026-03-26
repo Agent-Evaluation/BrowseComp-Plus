@@ -1,0 +1,52 @@
+{
+  "query_id": "1223",
+  "tool_call_counts": {
+    "search": 18
+  },
+  "status": "completed",
+  "retrieved_docids": [
+    "83802",
+    "55703",
+    "47259",
+    "24883",
+    "29956",
+    "76550",
+    "27896",
+    "39007",
+    "93307",
+    "37085",
+    "80689",
+    "61390",
+    "4758",
+    "84054",
+    "53074",
+    "2734",
+    "55982",
+    "43943",
+    "76644",
+    "6267",
+    "3815",
+    "86171",
+    "44937",
+    "81628",
+    "44911",
+    "13205",
+    "59337",
+    "88144",
+    "97258",
+    "36086",
+    "86781",
+    "11746",
+    "64776",
+    "18948",
+    "69168",
+    "71485",
+    "22862"
+  ],
+  "result": [
+    {
+      "type": "output_text",
+      "output": "Explanation: The country described is Haiti, which has French and Creole as official languages, a high youth population, and a 2023 population growth rate in the 2.2%-2.5% range [6267]. The former head of state with a Disney character's first name is \"Mickey\" (Michel Martelly, \"Michel\" is French for \"Michael,\" and \"Mickey\" is a popular Disney character). Haiti's date of independence is explicitly stated as January 1, 1804 [6267].\nExact Answer: 01/01/1804\nConfidence: 100%"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "query_id": "314",
+  "tool_call_counts": {
+    "search": 19
+  },
+  "status": "completed",
+  "retrieved_docids": [
+    "39424",
+    "46522",
+    "17977",
+    "12217",
+    "60478",
+    "93509",
+    "95264",
+    "47343",
+    "42840",
+    "13406",
+    "11292"
+  ],
+  "result": [
+    {
+      "type": "output_text",
+      "output": "Explanation: After reviewing the search results, none of the documents directly identify a company that (1) undertook a strategic restructuring and workforce reduction in 2022, (2) received a $30 million cash payment in 2023, and (3) had 35 employees as of December 31, 2022, including 10 with M.D. or Ph.D. degrees. The closest matches discuss layoffs and restructuring in biopharma and medtech, but do not provide all three criteria together for any specific company [46522][60478]. I agree with the other agents' assessments.\nExact Answer: Not found in current evidence\nConfidence: 0%"
+    }
+  ]
+}

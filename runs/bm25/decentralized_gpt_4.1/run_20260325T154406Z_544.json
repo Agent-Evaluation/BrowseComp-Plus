@@ -1,0 +1,29 @@
+{
+  "query_id": "544",
+  "tool_call_counts": {
+    "search": 25
+  },
+  "status": "completed",
+  "retrieved_docids": [
+    "4035",
+    "6316",
+    "19264",
+    "65139",
+    "68181",
+    "95292",
+    "75146",
+    "5965",
+    "8930",
+    "45147",
+    "84059",
+    "83501",
+    "5883",
+    "30804"
+  ],
+  "result": [
+    {
+      "type": "output_text",
+      "output": "Explanation: I agree with Agents 2 and 3. None of the search results provide direct evidence identifying an actor who matches all the clues: played a witch doctor in a 1990s TV series, became a professional actor in 1971, got their first casting job in the 1980s, played a village leader in a film written by multiple writers (one born in the 1940s and introduced to Hollywood as a contestant on an LA-based game show), and said they got the role without auditioning. The results mention Sally Kellerman, Tony Curtis, and Tom Wilkinson, but none fit the full profile or provide evidence for all the clues [6316][19264][75146][5965].\nExact Answer: Not found in current search results.\nConfidence: 0%"
+    }
+  ]
+}

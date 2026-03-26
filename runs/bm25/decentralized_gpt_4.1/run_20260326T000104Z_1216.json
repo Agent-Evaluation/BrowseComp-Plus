@@ -1,0 +1,29 @@
+{
+  "query_id": "1216",
+  "tool_call_counts": {
+    "search": 18
+  },
+  "status": "completed",
+  "retrieved_docids": [
+    "48097",
+    "30474",
+    "81892",
+    "19219",
+    "43064",
+    "63284",
+    "1391",
+    "37522",
+    "7245",
+    "14114",
+    "69374",
+    "9597",
+    "73396",
+    "21896"
+  ],
+  "result": [
+    {
+      "type": "output_text",
+      "output": "Explanation: After reviewing the search results, none provide direct evidence of a specific foreign or anime TV series aired before August 2020 that matches all the described plot points: Season 1 where the protagonist defeats a female villain fought by a supporting character, later reveals the secret of his strength to the supporting character, and in Season 2 a supporting character pretending to be good is revealed as the villain. The closest relevant content discusses character archetypes and tropes (e.g., [30474], [81892]), but does not name a series fitting all criteria. No direct match is found in the evidence.\nExact Answer: No definitive answer found in the provided sources.\nConfidence: 10%"
+    }
+  ]
+}

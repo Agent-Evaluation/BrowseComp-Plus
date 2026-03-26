@@ -1,0 +1,34 @@
+{
+  "query_id": "633",
+  "tool_call_counts": {
+    "search": 21
+  },
+  "status": "completed",
+  "retrieved_docids": [
+    "66328",
+    "78032",
+    "56475",
+    "81265",
+    "52675",
+    "28556",
+    "99670",
+    "18841",
+    "2844",
+    "62209",
+    "50919",
+    "52885",
+    "89438",
+    "77106",
+    "24025",
+    "39312",
+    "78989",
+    "65013",
+    "42661"
+  ],
+  "result": [
+    {
+      "type": "output_text",
+      "output": "Explanation: After reviewing the search results, none provide direct evidence of a book about a queen regnant (not from England), multilingual, unique in her era, published by an academic press after February 2010, over 300 pages, with an author who earned a PhD in North America since 2000 and co-authored an e-course book before 2019. The closest matches (e.g., Marisa Libbon, Aparna Dharwadker) do not fit all criteria, and no author is explicitly linked to such a book or the required academic and publication background in the results. This matches the reasoning of Agents 1, 2, and 3.\nExact Answer: Not found in current search results\nConfidence: 0%"
+    }
+  ]
+}

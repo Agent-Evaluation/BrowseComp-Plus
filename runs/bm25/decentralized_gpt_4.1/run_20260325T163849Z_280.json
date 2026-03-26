@@ -1,0 +1,35 @@
+{
+  "query_id": "280",
+  "tool_call_counts": {
+    "search": 27
+  },
+  "status": "completed",
+  "retrieved_docids": [
+    "7158",
+    "22753",
+    "45855",
+    "53418",
+    "21877",
+    "37195",
+    "52699",
+    "92686",
+    "75686",
+    "11503",
+    "63436",
+    "95116",
+    "94729",
+    "65370",
+    "19132",
+    "64596",
+    "69589",
+    "37052",
+    "73263",
+    "6870"
+  ],
+  "result": [
+    {
+      "type": "output_text",
+      "output": "Explanation: After reviewing the search results, none provide a direct match for the specific early 2000s European first-division match with the described managerial and assistant managerial backgrounds, nor do they list the away team's third substitute. The results focus on unrelated player biographies, club histories, and general football information, but do not contain a match report or substitution details for the scenario described. This matches the reasoning of my peers, who also found no relevant evidence.\nExact Answer: Not found in available sources\nConfidence: 0%"
+    }
+  ]
+}

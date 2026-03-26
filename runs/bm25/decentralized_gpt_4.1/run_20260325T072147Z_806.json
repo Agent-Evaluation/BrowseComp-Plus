@@ -1,0 +1,51 @@
+{
+  "query_id": "806",
+  "tool_call_counts": {
+    "search": 33
+  },
+  "status": "completed",
+  "retrieved_docids": [
+    "55244",
+    "18948",
+    "86517",
+    "70490",
+    "21492",
+    "72126",
+    "49635",
+    "27231",
+    "47974",
+    "5464",
+    "29336",
+    "1401",
+    "91743",
+    "5961",
+    "21603",
+    "57039",
+    "49651",
+    "86784",
+    "75436",
+    "28982",
+    "70716",
+    "32983",
+    "97861",
+    "60075",
+    "28825",
+    "10923",
+    "34688",
+    "988",
+    "64236",
+    "84314",
+    "31637",
+    "89294",
+    "21822",
+    "59381",
+    "64016",
+    "80049"
+  ],
+  "result": [
+    {
+      "type": "output_text",
+      "output": "Explanation: The search results do not directly list the credits for \"Company of Heroes: Opposing Fronts,\" but they do provide a detailed credits list for another Relic Entertainment project from the same era, \"Warhammer 40,000: Dawn of War - Soulstorm\" [10923]. In that credits list, under \"Relic Studio: Animation & Cinematics,\" the senior animators are named as David MacLeod and Erin Olorenshaw. Given the close timing, studio, and role, it is highly likely these are the same individuals credited as senior animators on \"Opposing Fronts.\"\nExact Answer: MacLeod, Olorenshaw\nConfidence: 85%"
+    }
+  ]
+}

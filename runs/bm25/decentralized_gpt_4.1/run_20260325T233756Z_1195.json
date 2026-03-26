@@ -1,0 +1,28 @@
+{
+  "query_id": "1195",
+  "tool_call_counts": {
+    "search": 15
+  },
+  "status": "completed",
+  "retrieved_docids": [
+    "99671",
+    "37369",
+    "74795",
+    "35396",
+    "18992",
+    "40731",
+    "81227",
+    "75636",
+    "36126",
+    "60220",
+    "86497",
+    "30880",
+    "72902"
+  ],
+  "result": [
+    {
+      "type": "output_text",
+      "output": "Explanation: The strongest evidence supports Yusuf Islam (Cat Stevens) as the answer. He was born outside the US (London, England) in the 20th century, relaunched his music career in 1995 under the name Yusuf Islam, and is known for his social advocacy and humanitarian work, including founding a nonprofit. While his original debut was in 1967, his return to music in 1995 marks a significant relaunch. The evidence for a 2008 album reflecting advocacy, nonprofit leadership, and collaborations for charity aligns with the clues, as supported by [35396]. No other candidate matches all criteria as closely.\nExact Answer: Yusuf Islam (Cat Stevens)\nConfidence: 95%"
+    }
+  ]
+}

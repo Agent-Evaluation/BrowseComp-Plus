@@ -1,0 +1,29 @@
+{
+  "query_id": "297",
+  "tool_call_counts": {
+    "search": 19
+  },
+  "status": "completed",
+  "retrieved_docids": [
+    "71766",
+    "98513",
+    "7321",
+    "28566",
+    "77214",
+    "66230",
+    "80204",
+    "2655",
+    "57719",
+    "37397",
+    "100082",
+    "98136",
+    "3955",
+    "96038"
+  ],
+  "result": [
+    {
+      "type": "output_text",
+      "output": "Explanation: I agree with my peers' proposals. The search results do not provide a direct article or list ranking Francis Ford Coppola's movies published specifically on the 20th day of any month in 2020, nor do they show the ninth ranked film in such a list. The Wikipedia entry for Coppola [7321] confirms his major works but does not contain a ranked list or reference to such an article. No evidence in the provided documents directly answers the question.\nExact Answer: Not found in provided evidence\nConfidence: 0%"
+    }
+  ]
+}

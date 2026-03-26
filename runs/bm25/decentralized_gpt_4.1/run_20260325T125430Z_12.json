@@ -1,0 +1,35 @@
+{
+  "query_id": "12",
+  "tool_call_counts": {
+    "search": 23
+  },
+  "status": "completed",
+  "retrieved_docids": [
+    "49635",
+    "40691",
+    "63684",
+    "94317",
+    "66524",
+    "17462",
+    "90376",
+    "72151",
+    "74540",
+    "31943",
+    "81743",
+    "90179",
+    "89437",
+    "64031",
+    "82484",
+    "95027",
+    "96070",
+    "89125",
+    "60418",
+    "15913"
+  ],
+  "result": [
+    {
+      "type": "output_text",
+      "output": "Explanation: After two rounds of searching, none of the search results provide direct evidence about a manga from the early 2000s created by a group of elementary school friends, with a theme of perfection, inspired by a 19th-century novelist, and featuring a character with a companion named after an incomplete instrument. The results focus on general manga history, science fiction, and unrelated works. No evidence was found about the antagonist's name or the number of movements used. This matches the conclusions of Agents 1, 2, and 3.\nExact Answer: Insufficient evidence to answer.\nConfidence: 0%"
+    }
+  ]
+}

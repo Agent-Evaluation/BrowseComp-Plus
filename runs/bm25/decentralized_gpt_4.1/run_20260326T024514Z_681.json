@@ -1,0 +1,41 @@
+{
+  "query_id": "681",
+  "tool_call_counts": {
+    "search": 19
+  },
+  "status": "completed",
+  "retrieved_docids": [
+    "83498",
+    "57164",
+    "82340",
+    "88857",
+    "78990",
+    "10627",
+    "27461",
+    "28253",
+    "38266",
+    "64341",
+    "91408",
+    "5459",
+    "43427",
+    "49071",
+    "10949",
+    "58166",
+    "46032",
+    "10409",
+    "29886",
+    "30744",
+    "56482",
+    "34449",
+    "12462",
+    "71570",
+    "79836",
+    "74662"
+  ],
+  "result": [
+    {
+      "type": "output_text",
+      "output": "Explanation: I agree with my peers' proposals. Multiple sources confirm that the Greek Theatre in Los Angeles, located in Griffith Park (established in 1896), opened in 1930 with an initial capacity of about 4,000. In the 1980s, its capacity was expanded. The most consistent post-renovation figure is 5,900 seats, as cited by several sources ([12462][71570][79836]). While there was a brief expansion to 6,187, subsequent renovations standardized the capacity at 5,900.\nExact Answer: 5,900\nConfidence: 100%"
+    }
+  ]
+}

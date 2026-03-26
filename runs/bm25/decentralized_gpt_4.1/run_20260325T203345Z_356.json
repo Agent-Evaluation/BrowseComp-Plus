@@ -1,0 +1,27 @@
+{
+  "query_id": "356",
+  "tool_call_counts": {
+    "search": 16
+  },
+  "status": "completed",
+  "retrieved_docids": [
+    "78089",
+    "66847",
+    "81290",
+    "59708",
+    "72604",
+    "57808",
+    "27141",
+    "59287",
+    "76869",
+    "72312",
+    "45393",
+    "21122"
+  ],
+  "result": [
+    {
+      "type": "output_text",
+      "output": "Explanation: After reviewing the search results, none provide evidence of a research paper published in December 2023 that matches all the specified criteria: prognosis for conjugal happiness, three authors, sample size of 150-400 couples, university founded between 1975 and 2000, and a reference on interpersonal bonding dynamics (1990–2015). The closest matches (e.g., [78089]) discuss kinship and family systems but do not meet the date, authorship, or institutional requirements. No DOI or direct paper matching all constraints was found.\nExact Answer: No matching DOI found in the provided search results.\nConfidence: 0%"
+    }
+  ]
+}
