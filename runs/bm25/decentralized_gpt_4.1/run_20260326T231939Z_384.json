@@ -1,0 +1,26 @@
+{
+  "query_id": "384",
+  "tool_call_counts": {
+    "search": 28
+  },
+  "status": "completed",
+  "retrieved_docids": [
+    "33548",
+    "4038",
+    "9531",
+    "84516",
+    "61818",
+    "47952",
+    "66544",
+    "68380",
+    "94239",
+    "73163",
+    "85386"
+  ],
+  "result": [
+    {
+      "type": "output_text",
+      "output": "Explanation: The search results do not provide evidence of a WWF or WWE weekly show before 1999 featuring all the described matches (Legion of Doom vs New Age Outlaws as the main event, Kurt Angle vs Doink the Clown, Hakushi defeating an American wrestler) in a single episode. While the Legion of Doom (Road Warriors) and New Age Outlaws were both inducted into the WWE Hall of Fame in the 2010s [66544], and the time frame fits, there is no documentation confirming an episode with all these matches together or the exact air date. No episode guide or match listing in the results matches all criteria.\nExact Answer: No evidence found for such an episode; exact air/broadcast date cannot be determined.\nConfidence: 10%"
+    }
+  ]
+}

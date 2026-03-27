@@ -1,0 +1,30 @@
+{
+  "query_id": "371",
+  "tool_call_counts": {
+    "search": 24
+  },
+  "status": "completed",
+  "retrieved_docids": [
+    "57164",
+    "23586",
+    "98887",
+    "82875",
+    "82340",
+    "20692",
+    "94275",
+    "34449",
+    "94639",
+    "38558",
+    "88266",
+    "72042",
+    "55469",
+    "99355",
+    "43729"
+  ],
+  "result": [
+    {
+      "type": "output_text",
+      "output": "Explanation: After reviewing the search results, none provide direct evidence of a 19th-century American business at number 29 with an elevator, sold after 1870 and before 1890, with the buyer later becoming a vice president, and the building being demolished in the 1950s. The closest matches discuss hotels and buildings in New York and Chicago, but do not mention a business at \"number 29\" or provide a relevant street name. I agree with the other agents: there is insufficient evidence to determine the street name.\nExact Answer: Insufficient evidence to determine the street name.\nConfidence: 0%"
+    }
+  ]
+}

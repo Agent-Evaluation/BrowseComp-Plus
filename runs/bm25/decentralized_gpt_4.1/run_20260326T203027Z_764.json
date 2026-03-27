@@ -1,0 +1,32 @@
+{
+  "query_id": "764",
+  "tool_call_counts": {
+    "search": 26
+  },
+  "status": "completed",
+  "retrieved_docids": [
+    "46989",
+    "91936",
+    "94639",
+    "91129",
+    "63311",
+    "27537",
+    "21822",
+    "66328",
+    "41886",
+    "82044",
+    "9580",
+    "4758",
+    "57164",
+    "50403",
+    "19264",
+    "52319",
+    "96070"
+  ],
+  "result": [
+    {
+      "type": "output_text",
+      "output": "Explanation: After reviewing the search results, none provide evidence of a 2010s social history book portraying the lives of fourteen people, including an amateur artist who married in 1894, had no children, and died in 1961. The closest match, \"On the Job\" [66328], does not mention a group of fourteen or the specific artist described in the question. No other results fit the criteria.\nExact Answer: Not found in current search results.\nConfidence: 0%"
+    }
+  ]
+}

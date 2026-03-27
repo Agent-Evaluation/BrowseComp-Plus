@@ -1,0 +1,35 @@
+{
+  "query_id": "1094",
+  "tool_call_counts": {
+    "search": 22
+  },
+  "status": "completed",
+  "retrieved_docids": [
+    "69589",
+    "85208",
+    "89635",
+    "40496",
+    "11214",
+    "66907",
+    "22753",
+    "1980",
+    "52857",
+    "94729",
+    "22978",
+    "37488",
+    "23500",
+    "31239",
+    "89686",
+    "68291",
+    "21603",
+    "99672",
+    "10949",
+    "9014"
+  ],
+  "result": [
+    {
+      "type": "output_text",
+      "output": "Explanation: After reviewing the search results, none provide direct evidence identifying a specific early 21st-century football match involving a team formed from a split or discord facing a team with multiple identity changes, with the described goal timings and a 95th-minute free-kick. No document details such a match or the player who took the 95th-minute free-kick. Therefore, I agree with the previous agents' assessments that the evidence is insufficient to answer the question.\nExact Answer: Insufficient evidence to determine.\nConfidence: 0%"
+    }
+  ]
+}

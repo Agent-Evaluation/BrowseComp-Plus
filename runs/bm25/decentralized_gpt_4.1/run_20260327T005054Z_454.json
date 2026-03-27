@@ -1,0 +1,14 @@
+{
+  "query_id": "454",
+  "tool_call_counts": {
+    "search": 0
+  },
+  "status": "completed",
+  "retrieved_docids": [],
+  "result": [
+    {
+      "type": "output_text",
+      "output": ""
+    }
+  ]
+}

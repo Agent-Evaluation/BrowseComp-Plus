@@ -1,0 +1,33 @@
+{
+  "query_id": "1118",
+  "tool_call_counts": {
+    "search": 26
+  },
+  "status": "completed",
+  "retrieved_docids": [
+    "48554",
+    "43729",
+    "23995",
+    "69891",
+    "10409",
+    "62411",
+    "42385",
+    "51047",
+    "73459",
+    "43566",
+    "24021",
+    "70530",
+    "38558",
+    "62460",
+    "13327",
+    "87296",
+    "55469",
+    "50977"
+  ],
+  "result": [
+    {
+      "type": "output_text",
+      "output": "Explanation: After reviewing the search results, none provide evidence of a person who matches all the specified traits: born in the 1940s, graduated college between 1955 and 1975, founded a business in the late 20th century and another in the 2010s with 110-120 franchises in over 30 states, and lived their entire life in a town founded in the late 1800s. The results discuss historical figures (e.g., Charles F. Pfister [43729]), architectural history of Fullerton [38558], and city histories, but do not mention any modern franchise founders fitting all criteria.\nExact Answer: No matching individual found in the provided evidence.\nConfidence: 0%"
+    }
+  ]
+}

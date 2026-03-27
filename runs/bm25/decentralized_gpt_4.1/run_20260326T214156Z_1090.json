@@ -1,0 +1,54 @@
+{
+  "query_id": "1090",
+  "tool_call_counts": {
+    "search": 34
+  },
+  "status": "completed",
+  "retrieved_docids": [
+    "50868",
+    "88289",
+    "20847",
+    "72132",
+    "89294",
+    "82875",
+    "78661",
+    "36999",
+    "35447",
+    "21658",
+    "7875",
+    "5009",
+    "74546",
+    "40447",
+    "89676",
+    "16440",
+    "13488",
+    "47970",
+    "69792",
+    "78900",
+    "3521",
+    "90338",
+    "62348",
+    "25809",
+    "51323",
+    "43675",
+    "100029",
+    "67043",
+    "6518",
+    "78782",
+    "78598",
+    "6820",
+    "66890",
+    "39753",
+    "49675",
+    "78221",
+    "98609",
+    "66725",
+    "18842"
+  ],
+  "result": [
+    {
+      "type": "output_text",
+      "output": "Explanation: None of the provided documents contain direct information about the salary of the first principal of the Sofia First English Language School (or its original name) in the 1920s, nor do they mention Ivan Apostolov or any principal's salary in Bulgaria during the interwar period. The documents focus on general economic data, regional history, and commemoration practices, but do not address the specific salary question. Therefore, there is insufficient evidence to provide an exact answer.\nExact Answer: Not found in provided sources.\nConfidence: 0%"
+    }
+  ]
+}

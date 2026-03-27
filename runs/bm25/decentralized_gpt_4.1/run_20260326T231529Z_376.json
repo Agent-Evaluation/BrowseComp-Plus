@@ -1,0 +1,51 @@
+{
+  "query_id": "376",
+  "tool_call_counts": {
+    "search": 18
+  },
+  "status": "completed",
+  "retrieved_docids": [
+    "77662",
+    "83594",
+    "18967",
+    "98285",
+    "43675",
+    "36782",
+    "55272",
+    "90553",
+    "23473",
+    "5797",
+    "8127",
+    "2040",
+    "15913",
+    "36059",
+    "19055",
+    "33889",
+    "98706",
+    "7195",
+    "23531",
+    "96479",
+    "99494",
+    "84059",
+    "89789",
+    "34664",
+    "2274",
+    "80227",
+    "28572",
+    "21917",
+    "31577",
+    "25049",
+    "95292",
+    "27894",
+    "798",
+    "5238",
+    "5965",
+    "6640"
+  ],
+  "result": [
+    {
+      "type": "output_text",
+      "output": "Explanation: I agree with my peers that the search results do not provide direct evidence of a documentary produced between 1990 and 2000 about the first Japanese person to visit and naturalize in the Kingdom of Hawaii, nor do they name the actor who portrayed this person. The most relevant result ([2040]) is a general guide to Asian American documentary films, but it does not mention a specific documentary or actor related to the question. No other results provide the required details.\nExact Answer: Not found in current search results.\nConfidence: 0%"
+    }
+  ]
+}

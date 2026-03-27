@@ -1,0 +1,39 @@
+{
+  "query_id": "176",
+  "tool_call_counts": {
+    "search": 22
+  },
+  "status": "completed",
+  "retrieved_docids": [
+    "77106",
+    "3255",
+    "70830",
+    "13336",
+    "32785",
+    "93611",
+    "25840",
+    "94639",
+    "76609",
+    "82321",
+    "82671",
+    "42714",
+    "12290",
+    "82340",
+    "62209",
+    "17149",
+    "49053",
+    "8470",
+    "78989",
+    "77391",
+    "82297",
+    "11178",
+    "94442",
+    "92759"
+  ],
+  "result": [
+    {
+      "type": "output_text",
+      "output": "Explanation: The evidence shows Roger Fisher was a Harvard Law professor and director of the Harvard Negotiation Project [8470][49053]. He co-authored \"Getting to Yes\" with William Ury and Bruce Patton, first published in 1981—over 20 years before later awards. Articles marking the 25th anniversary of \"Getting to Yes\" often include those words in the title, matching the clue about two words in the article and book title. The clues and timeline fit Roger Fisher precisely.\nExact Answer: Roger Fisher\nConfidence: 100%"
+    }
+  ]
+}

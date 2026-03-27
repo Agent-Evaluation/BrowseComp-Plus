@@ -1,0 +1,42 @@
+{
+  "query_id": "1141",
+  "tool_call_counts": {
+    "search": 30
+  },
+  "status": "completed",
+  "retrieved_docids": [
+    "82044",
+    "66328",
+    "58426",
+    "47593",
+    "53441",
+    "20006",
+    "32327",
+    "1269",
+    "4035",
+    "95292",
+    "86829",
+    "27424",
+    "18841",
+    "42096",
+    "9765",
+    "68181",
+    "52885",
+    "82087",
+    "98609",
+    "29886",
+    "55772",
+    "19264",
+    "70963",
+    "15172",
+    "18341",
+    "15579",
+    "31577"
+  ],
+  "result": [
+    {
+      "type": "output_text",
+      "output": "Explanation: None of the search results provide information about an Egyptian actor born between 1913 and 1921, who died in the 1990s, had a child who became a director, and appeared in a 1950s film about three friends directed by a Chicago-born director who died between 1985 and 1996. The results are either unrelated or do not mention Egyptian actors or the specific criteria required. No evidence matches all the details given in the question.\nExact Answer: No matching individual found in the provided search results.\nConfidence: 0%"
+    }
+  ]
+}

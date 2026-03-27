@@ -1,0 +1,22 @@
+{
+  "query_id": "421",
+  "tool_call_counts": {
+    "search": 2
+  },
+  "status": "completed",
+  "retrieved_docids": [
+    "98741",
+    "57215",
+    "5238",
+    "6499",
+    "2422",
+    "33974",
+    "90304"
+  ],
+  "result": [
+    {
+      "type": "output_text",
+      "output": ""
+    }
+  ]
+}

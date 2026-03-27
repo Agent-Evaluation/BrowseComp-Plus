@@ -1,0 +1,33 @@
+{
+  "query_id": "186",
+  "tool_call_counts": {
+    "search": 19
+  },
+  "status": "completed",
+  "retrieved_docids": [
+    "68976",
+    "79878",
+    "22604",
+    "62551",
+    "52858",
+    "46642",
+    "23942",
+    "80400",
+    "87395",
+    "18948",
+    "25049",
+    "13442",
+    "5385",
+    "39489",
+    "77449",
+    "25243",
+    "66579",
+    "46013"
+  ],
+  "result": [
+    {
+      "type": "output_text",
+      "output": "Explanation: The evidence from [79878], [23942], and [87395] confirms that \"Commander Keen in Invasion of the Vorticons\" was a shareware, single-player DOS game released in December 1990, developed by a team that became id Software (originally Ideas from the Deep). The credited developers are Tom Hall, John Carmack, and John Romero, with two sharing the Carmack surname. However, there is no evidence of a software company named after an amphibian involved in this game's development or a company name change from an amphibian to another name. All other clues fit Commander Keen, but the amphibian clue is unsupported.\nExact Answer: Commander Keen in Invasion of the Vorticons\nConfidence: 85%"
+    }
+  ]
+}

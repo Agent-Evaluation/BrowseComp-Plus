@@ -1,0 +1,35 @@
+{
+  "query_id": "87",
+  "tool_call_counts": {
+    "search": 25
+  },
+  "status": "completed",
+  "retrieved_docids": [
+    "18948",
+    "22762",
+    "94603",
+    "23473",
+    "48467",
+    "53074",
+    "16928",
+    "83802",
+    "58611",
+    "28001",
+    "43494",
+    "7302",
+    "47932",
+    "14207",
+    "38244",
+    "28747",
+    "39753",
+    "74320",
+    "87069",
+    "59747"
+  ],
+  "result": [
+    {
+      "type": "output_text",
+      "output": "Explanation: None of the search results provide direct evidence identifying the primary name of the rare language described in the question. The results discuss endangered languages in general [53074], but do not mention a 2010 interview, a translator, a last speaker living near a river with two names in two countries, or a linguist's classification of a language with fewer than 1,000 speakers. Therefore, there is insufficient evidence to determine the exact language.\nExact Answer: Insufficient evidence to determine\nConfidence: 0%"
+    }
+  ]
+}

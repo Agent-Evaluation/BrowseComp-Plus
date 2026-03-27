@@ -1,0 +1,43 @@
+{
+  "query_id": "1081",
+  "tool_call_counts": {
+    "search": 23
+  },
+  "status": "completed",
+  "retrieved_docids": [
+    "9119",
+    "5965",
+    "84059",
+    "31698",
+    "65139",
+    "99719",
+    "5705",
+    "62645",
+    "43790",
+    "18726",
+    "95124",
+    "57931",
+    "70716",
+    "95292",
+    "36741",
+    "41035",
+    "3737",
+    "10143",
+    "49256",
+    "38634",
+    "63644",
+    "45147",
+    "68135",
+    "40531",
+    "66166",
+    "70008",
+    "14636",
+    "28913"
+  ],
+  "result": [
+    {
+      "type": "output_text",
+      "output": "Explanation: After reviewing the search results, none provide evidence of an American comedy-drama TV series that first aired in June between 2019 and 2022, with a plot involving a character attending the same school as their older brother, and with directors or creators matching the specified birthdate and short film criteria. The results focus on unrelated casting calls [62645], older series like \"The Wonder Years\" [57931], and biographies or filmographies not matching the query [65139]. No evidence matches all the required criteria.\nExact Answer: No matching series found in search results.\nConfidence: 0%"
+    }
+  ]
+}

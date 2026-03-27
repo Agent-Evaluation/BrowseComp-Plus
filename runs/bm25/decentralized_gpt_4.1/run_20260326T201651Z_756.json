@@ -1,0 +1,31 @@
+{
+  "query_id": "756",
+  "tool_call_counts": {
+    "search": 25
+  },
+  "status": "completed",
+  "retrieved_docids": [
+    "53995",
+    "13458",
+    "57601",
+    "6826",
+    "69135",
+    "93470",
+    "18948",
+    "15868",
+    "34776",
+    "25508",
+    "90187",
+    "80225",
+    "60075",
+    "88360",
+    "21019",
+    "82586"
+  ],
+  "result": [
+    {
+      "type": "output_text",
+      "output": "Explanation: The search results repeatedly surface \"Assassin's Creed: Brotherhood\" (2010) as a PC game developed by Ubisoft Montreal, a non-US studio. However, Ubisoft Montreal is not known to have only two founders, and the sixth mission is not confirmed to be titled after a European country with the described objectives. The only art-related names found are \"Mohamed Gambouz\" and \"Wilson Mui\" listed as artists for Assassin's Creed: Brotherhood, but their specific roles (art director or graphical team lead) are not confirmed in the snippets. No other game in the results fits the description.\nExact Answer: Insufficient evidence to answer\nConfidence: 10%"
+    }
+  ]
+}

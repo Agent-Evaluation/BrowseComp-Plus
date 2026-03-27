@@ -1,0 +1,21 @@
+{
+  "query_id": "761",
+  "tool_call_counts": {
+    "search": 17
+  },
+  "status": "completed",
+  "retrieved_docids": [
+    "12217",
+    "99528",
+    "52191",
+    "11292",
+    "92231",
+    "80656"
+  ],
+  "result": [
+    {
+      "type": "output_text",
+      "output": "Explanation: None of the search results provide the specific percentage decrease in non-GAAP operating expenses for the fiscal year ended 2021 compared to 2020 for the company in question. The available documents discuss overall financial performance, net sales, and earnings, but do not mention the non-GAAP operating expense figures or their year-over-year change. This matches the reasoning of Agents 1, 2, and 3.\nExact Answer: Not found in provided search results.\nConfidence: 0%"
+    }
+  ]
+}

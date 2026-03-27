@@ -1,0 +1,36 @@
+{
+  "query_id": "757",
+  "tool_call_counts": {
+    "search": 23
+  },
+  "status": "completed",
+  "retrieved_docids": [
+    "95292",
+    "79826",
+    "8930",
+    "95561",
+    "15270",
+    "11509",
+    "25840",
+    "42470",
+    "66328",
+    "31859",
+    "62209",
+    "79391",
+    "3255",
+    "27933",
+    "38321",
+    "91348",
+    "37444",
+    "76700",
+    "44710",
+    "81546",
+    "73425"
+  ],
+  "result": [
+    {
+      "type": "output_text",
+      "output": "Explanation: After reviewing the search results, there is no evidence of any individual who matches all the criteria: a bachelor's in history, a master's in urban planning, co-authored non-fiction adapted into a film, praised by Queen Latifah (an African American actress known for 2000s crime comedies), recognized as powerful, and the title of their first stand-alone novel. The closest match is Van Jones [44710], who fits many criteria (recognized by TIME, co-authored non-fiction, book adapted, influential), but there is no evidence of a stand-alone novel or Queen Latifah's praise. No other search results provide a better match.\nExact Answer: Insufficient evidence to answer.\nConfidence: 10%"
+    }
+  ]
+}
