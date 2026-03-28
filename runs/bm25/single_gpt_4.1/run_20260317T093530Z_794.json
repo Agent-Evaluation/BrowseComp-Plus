@@ -1,0 +1,24 @@
+{
+  "query_id": "794",
+  "tool_call_counts": {
+    "search": 5
+  },
+  "status": "completed",
+  "retrieved_docids": [
+    "41736",
+    "64519",
+    "38231",
+    "60119",
+    "45601",
+    "9039",
+    "55516",
+    "6476",
+    "56325"
+  ],
+  "result": [
+    {
+      "type": "output_text",
+      "output": "Explanation: Despite multiple searches, there is no direct evidence in the provided documents identifying a specific snooker match before 2022 that matches all the detailed criteria (winning and losing player break patterns, losing player's professional start year, referee's international status in December, and the combined points scored in all frames). The closest matches found (e.g., 2022 World Snooker Championship) do not provide frame-by-frame point totals or confirm all the required break and referee details. Therefore, the exact combined points for such a match cannot be determined from the available evidence.\nExact Answer: Not found in available sources\nConfidence: 0%"
+    }
+  ]
+}

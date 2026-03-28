@@ -1,0 +1,30 @@
+{
+  "query_id": "784",
+  "tool_call_counts": {
+    "search": 6
+  },
+  "status": "completed",
+  "retrieved_docids": [
+    "6316",
+    "55772",
+    "95292",
+    "19264",
+    "82044",
+    "6555",
+    "15270",
+    "4035",
+    "41035",
+    "48231",
+    "70474",
+    "91212",
+    "17462",
+    "68181",
+    "8166"
+  ],
+  "result": [
+    {
+      "type": "output_text",
+      "output": "Explanation: Despite extensive searching, none of the results provide a direct match for a French actor born in Paris in the 1920s, with a parent who was an actor, who died between 1993 and 2005, who appeared in a 1950s comedy directed by someone who died in Cannes between 1986 and 1995, and whose maternal grandparent was a famous Paris-born actor who died in the 1930s. The closest matches (e.g., Tony Curtis, Walter Matthau) do not fit the French/Parisian criteria or the specific family background. No full birth name matching all clues was found.\nExact Answer: Not found in available search results.\nConfidence: 0%"
+    }
+  ]
+}

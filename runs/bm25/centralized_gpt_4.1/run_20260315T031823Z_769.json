@@ -1,0 +1,35 @@
+{
+  "query_id": "769",
+  "tool_call_counts": {
+    "search": 8
+  },
+  "status": "completed",
+  "retrieved_docids": [
+    "37015",
+    "18830",
+    "21822",
+    "15666",
+    "26213",
+    "88195",
+    "57820",
+    "39036",
+    "35733",
+    "17149",
+    "44033",
+    "46487",
+    "68676",
+    "18948",
+    "71599",
+    "10261",
+    "21877",
+    "12290",
+    "78268",
+    "56716"
+  ],
+  "result": [
+    {
+      "type": "output_text",
+      "output": "Explanation: The search results do not provide direct evidence of a 2022 article about a plant sample trip or a ceremony honoring bank management at a learning institution in the capital city. However, Rhodes University is repeatedly mentioned in the context of academic ceremonies and student activities, and is located in Makhanda, which is the capital of the Eastern Cape province in South Africa. While this does not fully satisfy all criteria, Rhodes University is the only institution in the results that plausibly fits the location and context, making it the most likely answer based on available evidence [88195].\nExact Answer: Rhodes University\nConfidence: 70%"
+    }
+  ]
+}

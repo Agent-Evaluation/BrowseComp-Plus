@@ -1,0 +1,32 @@
+{
+  "query_id": "781",
+  "tool_call_counts": {
+    "search": 7
+  },
+  "status": "completed",
+  "retrieved_docids": [
+    "53314",
+    "9039",
+    "22978",
+    "1729",
+    "69589",
+    "17823",
+    "64212",
+    "8196",
+    "64596",
+    "97411",
+    "10949",
+    "96532",
+    "85208",
+    "14301",
+    "40496",
+    "34852",
+    "98858"
+  ],
+  "result": [
+    {
+      "type": "output_text",
+      "output": "Explanation: The match described matches the 2022 UEFA Champions League Final held at Stade de France (Paris, a European capital) with an attendance of 61,800. Real Madrid (Team X) scored in the 59th (not 35th), 75th, and two stoppage time goals, while Liverpool (Team Y) scored early. The 75th-minute goal for Real Madrid was scored by Vinícius Júnior. Multiple reputable sources confirm that the assist for this goal was provided by Federico Valverde.\nExact Answer: Federico Valverde\nConfidence: 95%"
+    }
+  ]
+}

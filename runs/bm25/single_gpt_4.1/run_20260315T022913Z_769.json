@@ -1,0 +1,22 @@
+{
+  "query_id": "769",
+  "tool_call_counts": {
+    "search": 4
+  },
+  "status": "completed",
+  "retrieved_docids": [
+    "88195",
+    "21822",
+    "15666",
+    "17149",
+    "16088",
+    "56716",
+    "26213"
+  ],
+  "result": [
+    {
+      "type": "output_text",
+      "output": "Explanation: The search results repeatedly mention Rhodes University in connection with graduation ceremonies, academic events, and activities involving students and faculty. However, there is no direct evidence in the provided snippets confirming all the specific criteria, such as the 2002 three-day event, the 2003 graduation on the fourth Sunday, or the 2022 article about a plant-gathering trip and subsequent ceremony honoring bank management. The strongest evidence links Rhodes University to academic and community events, and it is located in Makhanda, which is not the capital city of South Africa (the capital is Pretoria). Therefore, while Rhodes University fits some academic event criteria, it does not fully satisfy the location requirement.\nExact Answer: No institution in the provided search results fully matches all criteria, especially the capital city requirement.\nConfidence: 30%"
+    }
+  ]
+}

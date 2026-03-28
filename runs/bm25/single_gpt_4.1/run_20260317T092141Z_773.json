@@ -1,0 +1,25 @@
+{
+  "query_id": "773",
+  "tool_call_counts": {
+    "search": 3
+  },
+  "status": "completed",
+  "retrieved_docids": [
+    "6807",
+    "67328",
+    "40667",
+    "44496",
+    "52586",
+    "42909",
+    "31850",
+    "15026",
+    "60070",
+    "43680"
+  ],
+  "result": [
+    {
+      "type": "output_text",
+      "output": "Explanation: Despite multiple searches, none of the retrieved documents provide a police description specifying the shirt color worn by the 16-year-old reported missing in 2018. The closest relevant sources discuss missing teens and their cases, but do not include the exact police description or shirt color for the 2018 incident in question. Therefore, there is insufficient evidence to answer definitively.\nExact Answer: Not found in available sources.\nConfidence: 0%"
+    }
+  ]
+}

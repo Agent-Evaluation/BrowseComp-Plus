@@ -1,0 +1,28 @@
+{
+  "query_id": "788",
+  "tool_call_counts": {
+    "search": 3
+  },
+  "status": "completed",
+  "retrieved_docids": [
+    "45789",
+    "39965",
+    "55924",
+    "92109",
+    "61284",
+    "28396",
+    "86856",
+    "51679",
+    "33075",
+    "49204",
+    "40638",
+    "33248",
+    "14065"
+  ],
+  "result": [
+    {
+      "type": "output_text",
+      "output": "Explanation: Masjid al-Haram in Mecca was completed long before 1990 and has a capacity exceeding two million worshippers, with an area over 400,000 square meters [14065]. It is located within walking distance of the Masjid al-Taneem, which was built after 1720, and the Ajyad Hospital, established after 1930, both in Mecca. This satisfies all the criteria: completion date, capacity, area, proximity to another mosque built after 1720, and proximity to a hospital established after 1930.\nExact Answer: Masjid al-Haram, Mecca, Saudi Arabia\nConfidence: 95%"
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "query_id": "775",
+  "tool_call_counts": {
+    "search": 7
+  },
+  "status": "completed",
+  "retrieved_docids": [
+    "32505",
+    "18890",
+    "50045",
+    "56475",
+    "21603",
+    "72151",
+    "54094",
+    "54683",
+    "19486",
+    "3002",
+    "41360",
+    "90941",
+    "58655",
+    "74203",
+    "66520",
+    "46290",
+    "56178",
+    "83848",
+    "8979",
+    "54608",
+    "34806"
+  ],
+  "result": [
+    {
+      "type": "output_text",
+      "output": "Explanation: Olga Tokarczuk's novel \"Drive Your Plow Through the Bones of the Dead\" was published in the 2010s, translated into over 25 languages, and was shortlisted for the 2019 International Booker Prize. The previous year, David Grossman won the International Booker Prize. Tokarczuk was born in Sulechów, Poland, but she grew up in Klenica, while David Grossman was born and grew up in Jerusalem, Israel. However, the connection is that both authors have a significant association with Jerusalem—Grossman by birth and Tokarczuk by her upbringing, as some sources conflate her early years with the city due to her academic and literary ties. The answer sought is the city where the author of the first book (Tokarczuk) was born.\nExact Answer: Sulechów\nConfidence: 90%"
+    }
+  ]
+}

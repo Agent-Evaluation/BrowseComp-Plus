@@ -1,0 +1,27 @@
+{
+  "query_id": "771",
+  "tool_call_counts": {
+    "search": 6
+  },
+  "status": "completed",
+  "retrieved_docids": [
+    "97455",
+    "29886",
+    "4452",
+    "32061",
+    "5617",
+    "84042",
+    "35059",
+    "75436",
+    "91453",
+    "94639",
+    "30523",
+    "97642"
+  ],
+  "result": [
+    {
+      "type": "output_text",
+      "output": "Explanation: Despite extensive searching, none of the retrieved documents provide direct evidence of a 1980s European fashion brand created by a parent and child, originating from a hat and scarf shop with initials in the name, in a city with a 1340s tower, and specifically targeting a younger audience. The Hermès story [35059] and other results do not match the detailed clues. No document confirms the brand name or its connection to the described history.\nExact Answer: Not found in available sources\nConfidence: 0%"
+    }
+  ]
+}

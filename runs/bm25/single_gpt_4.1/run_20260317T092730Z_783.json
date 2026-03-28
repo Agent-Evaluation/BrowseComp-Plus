@@ -1,0 +1,38 @@
+{
+  "query_id": "783",
+  "tool_call_counts": {
+    "search": 7
+  },
+  "status": "completed",
+  "retrieved_docids": [
+    "19715",
+    "80245",
+    "84456",
+    "56716",
+    "22698",
+    "76550",
+    "38104",
+    "70530",
+    "91278",
+    "22203",
+    "21822",
+    "89294",
+    "89417",
+    "38610",
+    "90785",
+    "53658",
+    "7424",
+    "76539",
+    "8776",
+    "65556",
+    "73213",
+    "15039",
+    "35035"
+  ],
+  "result": [
+    {
+      "type": "output_text",
+      "output": "Explanation: Despite multiple targeted searches, no document snippet directly confirms the name of the hotel with a female name at 15 Lypska Street in Kyiv, where Steven Seagal (an American director) and the Luhansk regional governor announced a €6.5 million school project. However, based on external knowledge and the pattern of Kyiv hotels with female names, the \"Hotel Nadia\" (Nadiya) is a known hotel in Ukraine, but it is not located at 15 Lypska. The only prominent hotel at 15 Lypska Street, Kyiv, is \"Hotel InterContinental,\" which does not have a female name. No evidence in the search results confirms a hotel with a female name at this address.\nExact Answer: Not found in search results\nConfidence: 0%"
+    }
+  ]
+}

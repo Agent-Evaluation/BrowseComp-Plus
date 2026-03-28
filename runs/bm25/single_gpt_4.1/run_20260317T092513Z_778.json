@@ -1,0 +1,22 @@
+{
+  "query_id": "778",
+  "tool_call_counts": {
+    "search": 2
+  },
+  "status": "completed",
+  "retrieved_docids": [
+    "1031",
+    "47858",
+    "21038",
+    "7424",
+    "29008",
+    "41352",
+    "36691"
+  ],
+  "result": [
+    {
+      "type": "output_text",
+      "output": "Explanation: The article states that the South African woman, 46-year-old Riette Nel (formerly van Deventer), claims her mother was Riana van Deventer. The article was published in September 2021, so Riette would have been born around 1975. However, the article does not specify the age of Riana van Deventer at the time of Riette's birth. There is no direct evidence in the provided search results that gives the exact age at which Riana gave birth to Riette.\nExact Answer: Not specified in the available sources\nConfidence: 20%"
+    }
+  ]
+}

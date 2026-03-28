@@ -1,0 +1,26 @@
+{
+  "query_id": "798",
+  "tool_call_counts": {
+    "search": 5
+  },
+  "status": "completed",
+  "retrieved_docids": [
+    "5238",
+    "76542",
+    "22471",
+    "53752",
+    "22827",
+    "21822",
+    "9024",
+    "53092",
+    "57164",
+    "66328",
+    "18830"
+  ],
+  "result": [
+    {
+      "type": "output_text",
+      "output": "Explanation: Despite multiple searches, there is no direct evidence in the provided documents identifying an Indian educational institution established between 1949 and 1959 that relocated within 2 to 7 miles from its original location, has notable alumni (ministers, civil servants, journalists, CEOs, actors), and whose founder's hometown is now in a neighboring state. The search results do not mention any such institution or provide relevant details matching all criteria.\nExact Answer: No evidence found in the provided documents.\nConfidence: 0%"
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "query_id": "774",
+  "tool_call_counts": {
+    "search": 6
+  },
+  "status": "completed",
+  "retrieved_docids": [
+    "41035",
+    "32499",
+    "5965",
+    "30804",
+    "68181",
+    "95292",
+    "17978",
+    "41987",
+    "48097",
+    "19264"
+  ],
+  "result": [
+    {
+      "type": "output_text",
+      "output": "Explanation: Despite multiple searches, none of the results provide a direct match for all the criteria: an actor between 1.65m and 1.70m tall, who first appeared in a series between 2001 and 2019 with more than 3 seasons as of 2023, whose character has been married 3-4 times with only one surviving child, and who acts alongside a real-life relative not related in the show. The closest matches (e.g., Jeremy Allen White, Alan Alda) do not fit all criteria, especially regarding the real-life relative and character details. No conclusive evidence found.\nExact Answer: No definitive answer found in the provided search results.\nConfidence: 0%"
+    }
+  ]
+}

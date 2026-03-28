@@ -1,0 +1,32 @@
+{
+  "query_id": "769",
+  "tool_call_counts": {
+    "search": 8
+  },
+  "status": "completed",
+  "retrieved_docids": [
+    "56716",
+    "39036",
+    "84798",
+    "10261",
+    "26213",
+    "88195",
+    "17149",
+    "6862",
+    "21822",
+    "71644",
+    "40371",
+    "18948",
+    "42950",
+    "35733",
+    "79239",
+    "18127",
+    "15666"
+  ],
+  "result": [
+    {
+      "type": "output_text",
+      "output": "Explanation: After reviewing all worker proposals and the search results, there is no evidence of any educational institution in the capital city as of 2023 that matches all the specified criteria regarding events in 2002, 2003, and 2022, as well as the subsequent ceremony honoring bank management. The closest matches do not fit the location or event specifics required, and no search result confirms all the necessary details for a single institution.\nExact Answer: No matching institution found in the provided search results.\nConfidence: 0%"
+    }
+  ]
+}

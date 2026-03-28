@@ -1,0 +1,29 @@
+{
+  "query_id": "769",
+  "tool_call_counts": {
+    "search": 5
+  },
+  "status": "completed",
+  "retrieved_docids": [
+    "10261",
+    "12290",
+    "68676",
+    "37015",
+    "40371",
+    "42950",
+    "75436",
+    "18948",
+    "21822",
+    "15666",
+    "88195",
+    "17149",
+    "26213",
+    "56716"
+  ],
+  "result": [
+    {
+      "type": "output_text",
+      "output": "Explanation: Despite multiple targeted searches, there is no evidence in the search results of any educational institution in the capital city (as of 2023) that matches all the criteria: a 2022 article about a student plant-gathering trip, a 2002 three-day event supporting a group, a 2003 graduation on the fourth Sunday, and a 2022 ceremony honoring a bank with a top official's support seven days after the article. No institution fitting all these details was found in the provided documents.\nExact Answer: No matching institution found in the search results.\nConfidence: 0%"
+    }
+  ]
+}
