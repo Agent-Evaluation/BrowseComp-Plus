@@ -1,0 +1,24 @@
+{
+  "query_id": "664",
+  "tool_call_counts": {
+    "search": 27
+  },
+  "status": "completed",
+  "retrieved_docids": [
+    "27823",
+    "94729",
+    "69589",
+    "34090",
+    "44093",
+    "77379",
+    "26092",
+    "45855",
+    "68354"
+  ],
+  "result": [
+    {
+      "type": "output_text",
+      "output": "Explanation: None of the search results provide direct evidence identifying the specific team against which the player, involved in the 2019 England football match water bottle incident, featured on the bench in a European game for his parent club. The results focus on general violence in sports, football hooliganism, and unrelated anecdotes, but do not mention the incident, the player, or the European opponent in question. Therefore, I cannot provide a confident answer based on the available evidence.\nExact Answer: Not found in provided sources\nConfidence: 0%"
+    }
+  ]
+}

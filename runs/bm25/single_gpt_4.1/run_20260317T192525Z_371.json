@@ -1,0 +1,35 @@
+{
+  "query_id": "371",
+  "tool_call_counts": {
+    "search": 9
+  },
+  "status": "completed",
+  "retrieved_docids": [
+    "57164",
+    "98887",
+    "23586",
+    "82875",
+    "94275",
+    "82340",
+    "34449",
+    "94639",
+    "88266",
+    "38558",
+    "43729",
+    "38940",
+    "49357",
+    "25453",
+    "76031",
+    "10409",
+    "99355",
+    "30984",
+    "77708",
+    "15649"
+  ],
+  "result": [
+    {
+      "type": "output_text",
+      "output": "Explanation: The search for a 19th-century business at 29 Broadway, New York, with an elevator, sold after 1870 and before 1890, whose building was demolished in the 1950s, and whose buyer became a vice president, points to the Morse Building at 29-31 Nassau Street (corner of Nassau and Ann, also known as 29 Nassau or 29 Broadway in some records). However, none of the search results directly confirm the street name, but the Morse Building is historically documented as being at 29 Nassau Street, New York, and fits the elevator and demolition timeline.\nExact Answer: Nassau Street\nConfidence: 80%"
+    }
+  ]
+}

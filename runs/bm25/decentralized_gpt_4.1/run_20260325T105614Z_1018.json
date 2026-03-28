@@ -1,0 +1,32 @@
+{
+  "query_id": "1018",
+  "tool_call_counts": {
+    "search": 34
+  },
+  "status": "completed",
+  "retrieved_docids": [
+    "51035",
+    "6476",
+    "39930",
+    "15666",
+    "56716",
+    "95116",
+    "53314",
+    "89686",
+    "68927",
+    "21847",
+    "31883",
+    "10949",
+    "1980",
+    "89012",
+    "65370",
+    "52699",
+    "44553"
+  ],
+  "result": [
+    {
+      "type": "output_text",
+      "output": "Explanation: None of the search results provide any information about a football assistant coach appointed in 2023 at a club founded after 2000, first to represent its region, who found the job via social media, and whose previous manager had the specified statistics. The results are either unrelated (Bundesliga history, local news, general sports equity, etc.) or do not mention any staff member names or relevant football clubs. No evidence supports any candidate.\nExact Answer: No answer found in provided documents.\nConfidence: 0%"
+    }
+  ]
+}

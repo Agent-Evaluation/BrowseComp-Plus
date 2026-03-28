@@ -1,0 +1,33 @@
+{
+  "query_id": "1258",
+  "tool_call_counts": {
+    "search": 18
+  },
+  "status": "completed",
+  "retrieved_docids": [
+    "86540",
+    "58696",
+    "18503",
+    "59747",
+    "59011",
+    "93307",
+    "3815",
+    "81628",
+    "93557",
+    "36086",
+    "90983",
+    "83077",
+    "53074",
+    "18948",
+    "90319",
+    "95316",
+    "37036",
+    "77105"
+  ],
+  "result": [
+    {
+      "type": "output_text",
+      "output": "Explanation: The country described is Botswana, which matches all the clues: it has over 100 spoken languages but only 2 official ones (English and Setswana), is home to the San hunter-gatherer society speaking endangered Khoe languages, and experienced a literacy rate decline in 2010. According to the Botswana Wikipedia entry, the President in 2023 was Duma Boko [59747]. No evidence from the 2023 by-election or other sources contradicts this.\nExact Answer: Duma Boko\nConfidence: 95%"
+    }
+  ]
+}

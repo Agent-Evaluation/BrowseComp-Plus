@@ -1,0 +1,34 @@
+{
+  "query_id": "165",
+  "tool_call_counts": {
+    "search": 8
+  },
+  "status": "completed",
+  "retrieved_docids": [
+    "4087",
+    "23019",
+    "1382",
+    "6983",
+    "83351",
+    "34486",
+    "85689",
+    "35682",
+    "53760",
+    "16621",
+    "95729",
+    "70963",
+    "84059",
+    "5965",
+    "43",
+    "24320",
+    "26360",
+    "92506",
+    "52885"
+  ],
+  "result": [
+    {
+      "type": "output_text",
+      "output": "Explanation: The search results confirm that South Africa reported serious assault statistics for 2003/04, matching the crime data clue. However, none of the search results provide a direct list of notable South African films released between 1960 and 2000, their directors, and which directors died aged 60-90. No evidence was found for a specific film or director matching all criteria, nor for international award-winning South African films with directors who died in the specified age range.\nExact Answer: Insufficient evidence to determine the movie's name.\nConfidence: 0%"
+    }
+  ]
+}

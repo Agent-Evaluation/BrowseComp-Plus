@@ -1,0 +1,32 @@
+{
+  "query_id": "442",
+  "tool_call_counts": {
+    "search": 4
+  },
+  "status": "completed",
+  "retrieved_docids": [
+    "58340",
+    "34435",
+    "1756",
+    "76130",
+    "83998",
+    "71515",
+    "89294",
+    "43943",
+    "9580",
+    "23995",
+    "332",
+    "57164",
+    "70953",
+    "18896",
+    "30148",
+    "61171",
+    "13363"
+  ],
+  "result": [
+    {
+      "type": "output_text",
+      "output": "Explanation: The clues point to Ida Lee as the author. She married Charles Bruce Marriott in the 1890s. Her book \"Early Explorers in Australia\" was published in 1925 (Methuen, founded 1889), and it contains accounts of inland discoveries, including a barrel-shaped vessel and a botanist’s party attacked with spears. Her earlier book, \"The Coming of the British to Australia 1788 to 1829,\" was published in 1906 and discusses the groundwork for early affluence of settlements. The first chapter of this second book is titled \"AUSTRALIA BEFORE 1788\" [18896].\n\nExact Answer: AUSTRALIA BEFORE 1788\nConfidence: 95%"
+    }
+  ]
+}

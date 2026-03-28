@@ -1,0 +1,33 @@
+{
+  "query_id": "1252",
+  "tool_call_counts": {
+    "search": 15
+  },
+  "status": "completed",
+  "retrieved_docids": [
+    "84994",
+    "89055",
+    "39930",
+    "79808",
+    "39971",
+    "85125",
+    "13652",
+    "51270",
+    "62462",
+    "44275",
+    "61530",
+    "76149",
+    "28467",
+    "82495",
+    "1366",
+    "42073",
+    "1177",
+    "22994"
+  ],
+  "result": [
+    {
+      "type": "output_text",
+      "output": "Explanation: After reviewing the search results and peer responses, I agree with Agents 1, 2, and 3. The provided documents do not contain the highly specific, cross-referenced data required to satisfy all the detailed criteria in the question (such as medal table order, population, venue counts, new venues, tourism GDP impact, and medal breakdowns for a specific year). The sources discuss general Olympic history and some country-specific participation, but lack the granular, year-by-year data needed to identify a matching tournament.\nExact Answer: No matching tournament found in the provided sources.\nConfidence: 10%"
+    }
+  ]
+}

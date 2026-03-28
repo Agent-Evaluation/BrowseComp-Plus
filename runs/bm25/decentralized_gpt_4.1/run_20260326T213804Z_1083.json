@@ -1,0 +1,44 @@
+{
+  "query_id": "1083",
+  "tool_call_counts": {
+    "search": 27
+  },
+  "status": "completed",
+  "retrieved_docids": [
+    "58166",
+    "97455",
+    "70530",
+    "31859",
+    "39930",
+    "50510",
+    "59493",
+    "97604",
+    "55040",
+    "40758",
+    "38673",
+    "26570",
+    "32854",
+    "38974",
+    "53151",
+    "14467",
+    "93225",
+    "82277",
+    "60075",
+    "97072",
+    "23151",
+    "17675",
+    "86532",
+    "54707",
+    "66702",
+    "90623",
+    "98741",
+    "29127",
+    "45333"
+  ],
+  "result": [
+    {
+      "type": "output_text",
+      "output": "Explanation: The search did not return direct evidence matching all the clues in the question. However, based on the clues:\n- Brand launched in the 1900s, became more commercial after launch.\n- Manufacturing license sold to a company in a former capital city.\n- Collaborated with a brand whose founder graduated high school in the 1980s and lived with their grandmother.\n- Over 80 stores globally as of 2018.\n\nFrom prior knowledge and the context of the other agents' searches, the brand \"Porter\" (Yoshida & Co.) fits the timeline and licensing clues, and it has collaborated with BAPE (A Bathing Ape), whose founder Nigo graduated high school in the 1980s and lived with his grandmother. BAPE is also known for its global store count and collaborations. However, the search results above do not provide direct confirmation of all these facts, especially the store count as of 2018 and the licensing sale details.\n\nExact Answer: Porter (Yoshida & Co.)\nConfidence: 70%"
+    }
+  ]
+}

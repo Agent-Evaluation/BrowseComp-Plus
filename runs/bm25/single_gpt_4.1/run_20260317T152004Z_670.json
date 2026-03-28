@@ -1,0 +1,37 @@
+{
+  "query_id": "670",
+  "tool_call_counts": {
+    "search": 8
+  },
+  "status": "completed",
+  "retrieved_docids": [
+    "12330",
+    "41886",
+    "63038",
+    "60418",
+    "61536",
+    "6315",
+    "50045",
+    "24105",
+    "84061",
+    "68533",
+    "56178",
+    "29025",
+    "34147",
+    "43680",
+    "83848",
+    "50903",
+    "8755",
+    "98076",
+    "23230",
+    "77280",
+    "33081",
+    "96982"
+  ],
+  "result": [
+    {
+      "type": "output_text",
+      "output": "Explanation: The search results mention several translators of \"The Twelve Chairs\" by Ilf and Petrov, a classic satirical novel whose authors fit the description (prison, aliases, lived in several countries). The most widely-read English translation, especially in Penguin Classics and other standard editions, is by John H. C. Richardson. This is supported by multiple bibliographic sources and is the translation most often cited in academic and popular contexts.\nExact Answer: John H. C. Richardson\nConfidence: 90%"
+    }
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "query_id": "357",
+  "tool_call_counts": {
+    "search": 10
+  },
+  "status": "completed",
+  "retrieved_docids": [
+    "6316",
+    "11891",
+    "31698",
+    "20307",
+    "83501",
+    "12980",
+    "40731",
+    "59490",
+    "42494",
+    "82399",
+    "16809",
+    "19459",
+    "93844",
+    "88683",
+    "40905",
+    "96922",
+    "67821",
+    "37465",
+    "36800",
+    "49131",
+    "90810",
+    "69889",
+    "9339",
+    "17666",
+    "88861",
+    "30578"
+  ],
+  "result": [
+    {
+      "type": "output_text",
+      "output": "search: Kygo college dropout, birthdate, \"It Ain't Me\" release date, Selena Gomez birthdate, Kygo admiration for Avicii melodies"
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "query_id": "469",
+  "tool_call_counts": {
+    "search": 6
+  },
+  "status": "completed",
+  "retrieved_docids": [
+    "44239",
+    "39398",
+    "31943",
+    "78735",
+    "49696",
+    "6982",
+    "25758",
+    "68092",
+    "7456",
+    "90179"
+  ],
+  "result": [
+    {
+      "type": "output_text",
+      "output": "Explanation: The search results repeatedly mention Andrew Light, who is a prominent figure in climate and energy policy, participated in international energy events, and has a history of academic and policy work. However, none of the results provide a direct match for a book published in the last half of 2021 by Andrew Light (or any other author fitting all criteria) nor do they list an ISBN-13 for a hardcover edition. The search results are dominated by unrelated community news and graphic novels, and do not yield the required bibliographic information.\nExact Answer: Not found in the provided search results.\nConfidence: 0%"
+    }
+  ]
+}

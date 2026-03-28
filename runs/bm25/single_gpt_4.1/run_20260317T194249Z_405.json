@@ -1,0 +1,31 @@
+{
+  "query_id": "405",
+  "tool_call_counts": {
+    "search": 6
+  },
+  "status": "completed",
+  "retrieved_docids": [
+    "56313",
+    "47251",
+    "2149",
+    "85209",
+    "15307",
+    "90938",
+    "65",
+    "10205",
+    "97419",
+    "44784",
+    "100026",
+    "17934",
+    "77813",
+    "80366",
+    "24568",
+    "13467"
+  ],
+  "result": [
+    {
+      "type": "output_text",
+      "output": "Explanation: TFT Set 4: Fates introduced the Cultist trait, which summons Galio (the colossus from Demacia) when your team drops below 50% health. Galio is a League of Legends champion. The question asks for the name of Galio's W ability on Summoner's Rift during patch 12.21. While the search results do not directly list Galio's ability names, it is well-established in League of Legends that Galio's W ability is called \"Shield of Durand.\"\nExact Answer: Shield of Durand\nConfidence: 95%"
+    }
+  ]
+}

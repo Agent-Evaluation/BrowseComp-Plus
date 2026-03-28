@@ -1,0 +1,30 @@
+{
+  "query_id": "323",
+  "tool_call_counts": {
+    "search": 6
+  },
+  "status": "completed",
+  "retrieved_docids": [
+    "66907",
+    "22753",
+    "59078",
+    "91998",
+    "94729",
+    "26092",
+    "9039",
+    "53314",
+    "7267",
+    "77379",
+    "11503",
+    "1698",
+    "11214",
+    "14609",
+    "21603"
+  ],
+  "result": [
+    {
+      "type": "output_text",
+      "output": "Explanation: None of the search results provide evidence that Phil O'Donnell scored twice in an Old Firm derby or that he matches the specific details in the question. The results about Motherwell and club histories do not mention a player who scored in both halves of a famous rivalry game in the 2000s and then died after scoring in another match. No direct evidence for the surname or the described events was found in the provided documents.\nExact Answer: Insufficient evidence to answer\nConfidence: 0%"
+    }
+  ]
+}

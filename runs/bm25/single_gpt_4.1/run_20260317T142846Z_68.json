@@ -1,0 +1,30 @@
+{
+  "query_id": "68",
+  "tool_call_counts": {
+    "search": 6
+  },
+  "status": "completed",
+  "retrieved_docids": [
+    "52885",
+    "18939",
+    "31859",
+    "15457",
+    "18948",
+    "36477",
+    "1483",
+    "49770",
+    "3255",
+    "83077",
+    "52435",
+    "74320",
+    "12902",
+    "47970",
+    "94947"
+  ],
+  "result": [
+    {
+      "type": "output_text",
+      "output": "Explanation: Despite multiple targeted searches, no direct evidence was found in the provided search results identifying a professor and medical doctor who emigrated from Europe to Rhodesia (now Zimbabwe), was inspired by schistosomiasis, and received a notable award in the late 1990s. The search results reference Zimbabwe's name change and some prominent individuals, but none match all the criteria or mention a late 1990s award for such a figure.\nExact Answer: Insufficient evidence to answer.\nConfidence: 0%"
+    }
+  ]
+}

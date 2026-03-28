@@ -1,0 +1,23 @@
+{
+  "query_id": "1211",
+  "tool_call_counts": {
+    "search": 4
+  },
+  "status": "completed",
+  "retrieved_docids": [
+    "95292",
+    "8930",
+    "84059",
+    "79826",
+    "45147",
+    "79020",
+    "49256",
+    "97486"
+  ],
+  "result": [
+    {
+      "type": "output_text",
+      "output": "Explanation: Despite multiple targeted searches, none of the results provided information about a non-English TV series released before 2003, with 45-minute episodes, a creator born in 1973, an actress who debuted on TV in 1995, and a plot about a young woman leaving her job to help a colleague she likes but who is in a relationship. The search results were either unrelated or did not contain relevant details matching all the criteria.\nExact Answer: No answer found based on available evidence.\nConfidence: 0%"
+    }
+  ]
+}

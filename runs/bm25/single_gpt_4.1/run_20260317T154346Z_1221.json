@@ -1,0 +1,23 @@
+{
+  "query_id": "1221",
+  "tool_call_counts": {
+    "search": 5
+  },
+  "status": "completed",
+  "retrieved_docids": [
+    "20590",
+    "93061",
+    "85345",
+    "17134",
+    "5379",
+    "56725",
+    "99227",
+    "73425"
+  ],
+  "result": [
+    {
+      "type": "output_text",
+      "output": "Explanation: Despite multiple targeted searches, there is no direct evidence in the results for a 20th-century video game matching the detailed plot involving a prophecy, twin keys, a scavenger protagonist, orphans, an antagonist's redemption, a prophecy device, and new worlds in the sky leading to cultural exchange. The closest matches are references to fantasy books and unrelated video games, but none fit the specific narrative described. No search result provides the exact name of such a game.\nExact Answer: No evidence found in the knowledge base.\nConfidence: 0%"
+    }
+  ]
+}

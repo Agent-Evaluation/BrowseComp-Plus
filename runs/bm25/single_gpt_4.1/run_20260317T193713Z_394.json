@@ -1,0 +1,23 @@
+{
+  "query_id": "394",
+  "tool_call_counts": {
+    "search": 5
+  },
+  "status": "completed",
+  "retrieved_docids": [
+    "51510",
+    "3643",
+    "32184",
+    "89438",
+    "15241",
+    "52374",
+    "50972",
+    "71374"
+  ],
+  "result": [
+    {
+      "type": "output_text",
+      "output": "Explanation: Despite multiple searches, none of the retrieved documents provide the name or position of a Sagittarius athlete born in the 1920s who founded an investment bank, played on a national team, and died of myocardial infarction. The search results discuss general athlete deaths, heart disease, and drug abuse in sports, but do not identify an individual matching all criteria or specify their sports position.\nExact Answer: Not found in available sources\nConfidence: 0%"
+    }
+  ]
+}

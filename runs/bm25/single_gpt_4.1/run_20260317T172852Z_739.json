@@ -1,0 +1,35 @@
+{
+  "query_id": "739",
+  "tool_call_counts": {
+    "search": 8
+  },
+  "status": "completed",
+  "retrieved_docids": [
+    "19132",
+    "52699",
+    "94729",
+    "77315",
+    "69589",
+    "92086",
+    "95116",
+    "31239",
+    "14157",
+    "85208",
+    "57230",
+    "64713",
+    "4999",
+    "18129",
+    "12547",
+    "82418",
+    "54472",
+    "57788",
+    "29239",
+    "92090"
+  ],
+  "result": [
+    {
+      "type": "output_text",
+      "output": "Explanation: The question refers to the 2021–22 UEFA Europa Conference League, where AS Roma won the title. The club played 13 matches, had the highest attendance, most assists, and 19 fouls with cards, matching the clues. The third group stage match for Roma was against Bodø/Glimt. According to match reports from that season, the first goal for Roma in that game was scored by Carles Pérez.\nExact Answer: Carles Pérez\nConfidence: 90%"
+    }
+  ]
+}

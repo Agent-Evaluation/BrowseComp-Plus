@@ -1,0 +1,32 @@
+{
+  "query_id": "293",
+  "tool_call_counts": {
+    "search": 5
+  },
+  "status": "completed",
+  "retrieved_docids": [
+    "77836",
+    "63071",
+    "195",
+    "91120",
+    "59390",
+    "84059",
+    "22813",
+    "66166",
+    "5965",
+    "74008",
+    "3737",
+    "81843",
+    "45725",
+    "83501",
+    "99494",
+    "41554",
+    "95355"
+  ],
+  "result": [
+    {
+      "type": "output_text",
+      "output": "Explanation: The search results do not provide a direct match for a Ugandan-born actor who debuted in the late 1970s, is known for mastering accents, and starred in a film directed by an Oscar-nominated director who moved to Hollywood in the late 1980s. The closest match is Daniel Kaluuya, a British actor of Ugandan descent, but he debuted much later (2000s). No evidence was found for a Ugandan-born actor fitting all criteria or a specific film matching the director's profile.\nExact Answer: No matching movie found based on available evidence.\nConfidence: 10%"
+    }
+  ]
+}

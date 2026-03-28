@@ -1,0 +1,31 @@
+{
+  "query_id": "1204",
+  "tool_call_counts": {
+    "search": 7
+  },
+  "status": "completed",
+  "retrieved_docids": [
+    "27597",
+    "58591",
+    "91928",
+    "18948",
+    "42289",
+    "76494",
+    "48097",
+    "59318",
+    "35493",
+    "88338",
+    "10044",
+    "91221",
+    "20086",
+    "93821",
+    "75327",
+    "99040"
+  ],
+  "result": [
+    {
+      "type": "output_text",
+      "output": "Explanation: The clues point to Guybrush Threepwood from The Curse of Monkey Island, a late 20th-century adventure game. The search for the stage actor who voiced Guybrush Threepwood in this game leads to Dominic Armato, who is widely recognized for this role. While the search results reference his name in connection with the character and the game, they do not explicitly confirm his stage acting background in the snippets provided. However, Dominic Armato is the established voice actor for Guybrush Threepwood starting with The Curse of Monkey Island.\nExact Answer: Dominic Armato\nConfidence: 90%"
+    }
+  ]
+}

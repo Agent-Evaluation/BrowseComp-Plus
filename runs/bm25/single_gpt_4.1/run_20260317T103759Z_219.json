@@ -1,0 +1,32 @@
+{
+  "query_id": "219",
+  "tool_call_counts": {
+    "search": 8
+  },
+  "status": "completed",
+  "retrieved_docids": [
+    "82705",
+    "80225",
+    "49635",
+    "41677",
+    "74182",
+    "92185",
+    "73253",
+    "90187",
+    "36704",
+    "73032",
+    "90492",
+    "81069",
+    "67555",
+    "13504",
+    "11992",
+    "16086",
+    "35891"
+  ],
+  "result": [
+    {
+      "type": "output_text",
+      "output": "Explanation: The Gamer Symphony Orchestra at the University of Maryland performed a Fall 2023 concert, but the available setlist and program details do not specify the eleventh piece or its connection to a 2014 video game with over 100 missions, Linux release, and Commodore 64 re-release. No direct evidence links a specific song or composer from such a game to the eleventh piece performed at this concert in the provided sources. Therefore, the exact answer cannot be determined from the current search results.\nExact Answer: Not found in available sources\nConfidence: 0%"
+    }
+  ]
+}

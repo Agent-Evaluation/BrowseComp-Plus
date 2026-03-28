@@ -1,0 +1,32 @@
+{
+  "query_id": "362",
+  "tool_call_counts": {
+    "search": 4
+  },
+  "status": "completed",
+  "retrieved_docids": [
+    "24320",
+    "740",
+    "84059",
+    "83088",
+    "84350",
+    "49635",
+    "23151",
+    "77625",
+    "13722",
+    "13711",
+    "69353",
+    "58366",
+    "25082",
+    "39220",
+    "52359",
+    "81674",
+    "50608"
+  ],
+  "result": [
+    {
+      "type": "output_text",
+      "output": "Explanation: The clues point to \"Aaahh!!! Real Monsters,\" a 1990s cartoon produced by Klasky Csupo (founded in 1980, known for animal-themed cartoons like \"Rugrats\"). The character \"Oblina\" has multiple heads, and the show featured voice actors with soap opera backgrounds. Co-creator Gábor Csupó has won awards in different decades and contributed art to an album cover for the band \"The B-52's,\" founded in the 1980s. Klasky Csupo fits the company profile. [52359]\nExact Answer: Aaahh!!! Real Monsters\nConfidence: 95%"
+    }
+  ]
+}

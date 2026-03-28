@@ -1,0 +1,32 @@
+{
+  "query_id": "383",
+  "tool_call_counts": {
+    "search": 6
+  },
+  "status": "completed",
+  "retrieved_docids": [
+    "65243",
+    "39305",
+    "82543",
+    "73422",
+    "75436",
+    "66991",
+    "77866",
+    "78455",
+    "41433",
+    "49022",
+    "39583",
+    "84687",
+    "55612",
+    "51008",
+    "73654",
+    "58850",
+    "59381"
+  ],
+  "result": [
+    {
+      "type": "output_text",
+      "output": "Explanation: The black mamba is the deadliest and fastest snake in Africa, matching all the animal clues. While several sources confirm its reputation and characteristics, none of the search results directly mention a late 2010s article about a couple catching a black mamba or the specific nickname a lady gave it after it tried to bite her. However, the phrase \"kiss of death\" is commonly associated with the black mamba's bite, and the nickname \"Kissy Face\" is a plausible, tongue-in-cheek moniker that someone might give such a snake in that context. Still, I did not find direct evidence in the search results confirming this nickname in the context described.\nExact Answer: Not found in search results; likely \"Kissy Face\" but unconfirmed.\nConfidence: 30%"
+    }
+  ]
+}

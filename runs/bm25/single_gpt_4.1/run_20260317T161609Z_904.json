@@ -1,0 +1,30 @@
+{
+  "query_id": "904",
+  "tool_call_counts": {
+    "search": 5
+  },
+  "status": "completed",
+  "retrieved_docids": [
+    "27127",
+    "29618",
+    "3267",
+    "31024",
+    "93307",
+    "33339",
+    "28110",
+    "25899",
+    "59490",
+    "55443",
+    "99932",
+    "68671",
+    "95324",
+    "78894",
+    "12980"
+  ],
+  "result": [
+    {
+      "type": "output_text",
+      "output": "Explanation: The search results confirm that \"The Big Bus\" (1976) is a pre-2010 movie. However, none of the results provide direct evidence of the year the soundtrack was recorded or details about the producers of the soundtrack. The available information only discusses the film's release date and context, not the soundtrack's recording year or production credits. Therefore, I cannot provide a definitive answer based on the evidence found.\nExact Answer: Not found in available sources\nConfidence: 0%"
+    }
+  ]
+}

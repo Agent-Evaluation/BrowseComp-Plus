@@ -1,0 +1,26 @@
+{
+  "query_id": "1249",
+  "tool_call_counts": {
+    "search": 3
+  },
+  "status": "completed",
+  "retrieved_docids": [
+    "30311",
+    "94524",
+    "76550",
+    "69760",
+    "22662",
+    "63996",
+    "24843",
+    "83759",
+    "18948",
+    "93751",
+    "69680"
+  ],
+  "result": [
+    {
+      "type": "output_text",
+      "output": "Explanation: The clues point to a U.S. state that borders Canada and multiple U.S. states, had a 2.1% population growth from 2020 to 2023, and whose governor in 2021 married between 1975 and 1980. However, the search results do not directly identify the state or its bird. The most likely candidate, based on bordering Canada and multiple states, is Minnesota, North Dakota, Montana, Idaho, or Washington. Of these, Minnesota's state bird is the Common Loon.\nExact Answer: Common Loon\nConfidence: 60%"
+    }
+  ]
+}

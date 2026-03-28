@@ -1,0 +1,33 @@
+{
+  "query_id": "1224",
+  "tool_call_counts": {
+    "search": 6
+  },
+  "status": "completed",
+  "retrieved_docids": [
+    "47584",
+    "5238",
+    "5811",
+    "44553",
+    "52885",
+    "39930",
+    "50253",
+    "76609",
+    "5009",
+    "96791",
+    "88195",
+    "31859",
+    "72317",
+    "14593",
+    "32723",
+    "21347",
+    "49331",
+    "30230"
+  ],
+  "result": [
+    {
+      "type": "output_text",
+      "output": "Explanation: Despite multiple targeted searches, there is no direct evidence in the provided documents confirming the name of a university in India established between 1994 and 2005 that matches all the highly specific criteria (including founding chancellor's husband being a doctor, founding president's family details, first batch size, regional university gap, and retirement dates). No search result mentions Sikkim Manipal University or any other institution with all these attributes.\nExact Answer: No matching university found in the provided knowledge base.\nConfidence: 0%"
+    }
+  ]
+}

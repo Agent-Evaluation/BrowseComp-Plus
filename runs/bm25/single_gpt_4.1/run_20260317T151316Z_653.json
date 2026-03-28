@@ -1,0 +1,28 @@
+{
+  "query_id": "653",
+  "tool_call_counts": {
+    "search": 4
+  },
+  "status": "completed",
+  "retrieved_docids": [
+    "2422",
+    "72875",
+    "41554",
+    "98054",
+    "77389",
+    "77179",
+    "46881",
+    "21847",
+    "93159",
+    "88386",
+    "89555",
+    "16148",
+    "58058"
+  ],
+  "result": [
+    {
+      "type": "output_text",
+      "output": "Explanation: The search results confirm that Haile Gebrselassie is the legendary Ethiopian runner referenced, but none of the provided documents directly state the year the Haile Gebrselassie Foundation was established. The evidence does confirm his legendary status, his marathon achievements, and his prominence, but the exact founding year of his foundation is not present in the snippets reviewed.\nExact Answer: Not found in provided search results.\nConfidence: 0%"
+    }
+  ]
+}

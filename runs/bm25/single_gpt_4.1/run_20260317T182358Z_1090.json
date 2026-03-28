@@ -1,0 +1,38 @@
+{
+  "query_id": "1090",
+  "tool_call_counts": {
+    "search": 7
+  },
+  "status": "completed",
+  "retrieved_docids": [
+    "88289",
+    "50868",
+    "72132",
+    "20847",
+    "82875",
+    "37426",
+    "599",
+    "89294",
+    "21658",
+    "78661",
+    "17852",
+    "66328",
+    "70850",
+    "20332",
+    "20692",
+    "81551",
+    "79928",
+    "22918",
+    "7875",
+    "47970",
+    "36999",
+    "99946",
+    "96309"
+  ],
+  "result": [
+    {
+      "type": "output_text",
+      "output": "Explanation: Despite extensive searching, there is no direct evidence in the provided documents specifying the annual salary of the first principal of the school founded in 1902, renamed after a regime change, and whose principal received the OBE in 1923. No search result mentions St. Ita's School for Girls, Alexandra College, or any Irish girls' school principal's salary in the 1920s, nor does it provide salary data for principals awarded the OBE in 1923. Therefore, the exact annual salary remains unconfirmed.\nExact Answer: Not found in available sources\nConfidence: 0%"
+    }
+  ]
+}

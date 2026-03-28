@@ -1,0 +1,28 @@
+{
+  "query_id": "1213",
+  "tool_call_counts": {
+    "search": 4
+  },
+  "status": "completed",
+  "retrieved_docids": [
+    "52418",
+    "87037",
+    "66392",
+    "43396",
+    "23473",
+    "70474",
+    "19264",
+    "47593",
+    "46065",
+    "58426",
+    "5883",
+    "21346",
+    "69007"
+  ],
+  "result": [
+    {
+      "type": "output_text",
+      "output": "Explanation: The search results do not provide a direct match for all the criteria, but one result mentions \"Lassie, Come Home\" (1943), a 1940s film with an alternate English title. The director, Fred M. Wilcox, did not take on another key responsibility, so this does not fit. No evidence was found for a 1940s film where the director had a dual role, one actor had a brother who was an author, another actor was born in London in the 1910s, and the film had an alternate English title. No single film matching all criteria was identified in the search results.\nExact Answer: No matching film found in search results.\nConfidence: 0%"
+    }
+  ]
+}

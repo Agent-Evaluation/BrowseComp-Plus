@@ -1,0 +1,25 @@
+{
+  "query_id": "384",
+  "tool_call_counts": {
+    "search": 5
+  },
+  "status": "completed",
+  "retrieved_docids": [
+    "33548",
+    "4038",
+    "9531",
+    "84516",
+    "61818",
+    "47952",
+    "38552",
+    "85386",
+    "54157",
+    "12203"
+  ],
+  "result": [
+    {
+      "type": "output_text",
+      "output": "Explanation: The clues point to a WWF Monday Night Raw episode before 1999 with a main event tag team match between two teams later inducted into the Hall of Fame in the 2010s, a match featuring Mark Henry (Olympian) vs. a wrestler with a clown-like persona, and a Japanese wrestler (Taka Michinoku, debuted 1992) defeating an American wrestler. The Legion of Doom (inducted 2011) and The Godwinns (as part of the 2016 Hall of Fame class with the Godfather) main evented Raw on September 22, 1997. That episode also featured Mark Henry vs. Jerry Lawler (who sometimes used clownish personas) and Taka Michinoku vs. Brian Christopher (American). This matches all clues.\nExact Answer: September 22, 1997\nConfidence: 95%"
+    }
+  ]
+}

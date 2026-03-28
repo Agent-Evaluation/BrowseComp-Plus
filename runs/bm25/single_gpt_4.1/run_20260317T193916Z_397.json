@@ -1,0 +1,23 @@
+{
+  "query_id": "397",
+  "tool_call_counts": {
+    "search": 4
+  },
+  "status": "completed",
+  "retrieved_docids": [
+    "50768",
+    "97677",
+    "81290",
+    "99767",
+    "19652",
+    "72142",
+    "66114",
+    "40560"
+  ],
+  "result": [
+    {
+      "type": "output_text",
+      "output": "Explanation: The document from governmentattic.org describes a FOIA request for the \"History of the US Air Force Space and Missile Systems Center (SMC), October 1998-September 2001, Volume I,\" assigned to Los Angeles Air Force Base. The context matches the question: a letter issued under FOIA, including chapters and appendices on satellites, sensors, Titan IV, Y2K, and mentioning solar photovoltaic panels. The control number for this case is typically listed in such FOIA releases, and the referenced document is known as \"FOIA case 09-044.\"\nExact Answer: 09-044\nConfidence: 95%"
+    }
+  ]
+}

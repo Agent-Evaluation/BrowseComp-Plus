@@ -1,0 +1,25 @@
+{
+  "query_id": "521",
+  "tool_call_counts": {
+    "search": 5
+  },
+  "status": "completed",
+  "retrieved_docids": [
+    "72142",
+    "34664",
+    "9915",
+    "92506",
+    "30965",
+    "1180",
+    "57268",
+    "72668",
+    "18948",
+    "12330"
+  ],
+  "result": [
+    {
+      "type": "output_text",
+      "output": "Explanation: Despite multiple targeted searches, none of the retrieved documents provide information about a TV show matching all the criteria (undercover martial arts/technology heroes, aired 2005-2012, web game in 2016, company founded in 1900s, resource shortage in 2023) or the lyrics to its theme song. No evidence was found regarding the third line of the show's theme song.\nExact Answer: Not found in available sources.\nConfidence: 0%"
+    }
+  ]
+}

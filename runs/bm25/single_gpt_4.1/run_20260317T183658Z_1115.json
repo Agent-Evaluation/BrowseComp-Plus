@@ -1,0 +1,26 @@
+{
+  "query_id": "1115",
+  "tool_call_counts": {
+    "search": 5
+  },
+  "status": "completed",
+  "retrieved_docids": [
+    "81087",
+    "83935",
+    "20768",
+    "10945",
+    "95863",
+    "71542",
+    "52708",
+    "32940",
+    "16714",
+    "61686",
+    "86724"
+  ],
+  "result": [
+    {
+      "type": "output_text",
+      "output": "Explanation: The search results did not directly provide a match for all the clues, especially the ODI match where a team scored 164 in a debut between 2015-2022, with the Player of the Match debuting in 2014. The results mostly list player profiles and team records, but do not provide a specific match or Player of the Match details fitting all the criteria. Therefore, I cannot provide a confident answer based on the available evidence.\nExact Answer: Not found in current search results\nConfidence: 0%"
+    }
+  ]
+}

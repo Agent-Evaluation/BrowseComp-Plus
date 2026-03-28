@@ -1,0 +1,31 @@
+{
+  "query_id": "1122",
+  "tool_call_counts": {
+    "search": 18
+  },
+  "status": "completed",
+  "retrieved_docids": [
+    "32327",
+    "66328",
+    "50045",
+    "53092",
+    "75146",
+    "45036",
+    "8530",
+    "41035",
+    "68181",
+    "3114",
+    "5883",
+    "3161",
+    "4035",
+    "4583",
+    "19264",
+    "48828"
+  ],
+  "result": [
+    {
+      "type": "output_text",
+      "output": "Explanation: After reviewing the search results, none provide information about an Indian theatre actress who was prosecuted with her husband for a play in the 1970s, had her last theatre performance between 1988-1994, was married twice, and had one child in her second marriage. The results focus on unrelated international celebrities such as Brittany Murphy, Audrey Hepburn, Donald Sutherland, Tony Curtis, and Robin Williams, with no mention of prosecution for a play, Indian theatre, or the specific biographical details required. I agree with the other agents' assessments based on the evidence.\nExact Answer: No relevant information found in the provided search results.\nConfidence: 0%"
+    }
+  ]
+}

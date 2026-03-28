@@ -1,0 +1,37 @@
+{
+  "query_id": "1224",
+  "tool_call_counts": {
+    "search": 25
+  },
+  "status": "completed",
+  "retrieved_docids": [
+    "5811",
+    "32723",
+    "31859",
+    "62151",
+    "5238",
+    "47584",
+    "52885",
+    "44553",
+    "76609",
+    "12356",
+    "88195",
+    "39930",
+    "5009",
+    "6640",
+    "96791",
+    "81129",
+    "61823",
+    "1483",
+    "23773",
+    "47970",
+    "62209",
+    "78989"
+  ],
+  "result": [
+    {
+      "type": "output_text",
+      "output": "Explanation: After reviewing the search results, none provide direct or indirect evidence about a university that matches all the detailed criteria in the question. There is no mention of a university established between 1990 and 2005 with the specified batch size, legislative timeline, regional context, or the detailed biographical information about the founding chancellor and president. The results are either unrelated or do not address the required facts.\nExact Answer: No answer found based on current evidence.\nConfidence: 0%"
+    }
+  ]
+}

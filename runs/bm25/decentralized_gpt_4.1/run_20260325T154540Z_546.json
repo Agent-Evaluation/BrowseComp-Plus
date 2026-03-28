@@ -1,0 +1,22 @@
+{
+  "query_id": "546",
+  "tool_call_counts": {
+    "search": 14
+  },
+  "status": "completed",
+  "retrieved_docids": [
+    "64519",
+    "4975",
+    "55516",
+    "41736",
+    "60119",
+    "38231",
+    "10572"
+  ],
+  "result": [
+    {
+      "type": "output_text",
+      "output": "Explanation: The player must have turned professional between 1995 and 2006, have over 300 centuries, and more than 3 official maximum breaks as of January 2025. Mark Selby turned professional in 1999, has compiled more than 800 century breaks, and has 6 official maximums [55516]. Mark Williams, though prolific, only has 3 maximum breaks [4975], and Ding Junhui, while having 7 maximums and turning pro in 2003, does not fit the match sequence as precisely as Selby. The evidence and peer consensus align on Selby.\nExact Answer: Mark Selby\nConfidence: 95%"
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "query_id": "738",
+  "tool_call_counts": {
+    "search": 25
+  },
+  "status": "completed",
+  "retrieved_docids": [
+    "1366",
+    "93109",
+    "42665",
+    "31503",
+    "21847",
+    "84661",
+    "68529",
+    "27652",
+    "98375",
+    "61530",
+    "97392",
+    "45939",
+    "96724",
+    "39193",
+    "81803",
+    "44316",
+    "8554",
+    "44275",
+    "10949",
+    "51270",
+    "1177",
+    "93348",
+    "65370",
+    "27064",
+    "57653",
+    "27712",
+    "56330",
+    "40697",
+    "36500"
+  ],
+  "result": [
+    {
+      "type": "output_text",
+      "output": "Explanation: The volleyball match described matches the 2016 FIVB World League Final, where Italy defeated Brazil 3-1 with set scores 25-23, 25-19, 15-25, 25-23. Brazil held the record for most national team competition titles in South America at the time [27712]. Italy fits the football clues (2010 World Cup: lost first match, yellow/red cards as described) and also won a rugby test match in Argentina in 2016, matching the other sport clue. Multiple sources and peer agents confirm the match took place at Atlas Arena, Łódź, Poland.\nExact Answer: Atlas Arena, Łódź, Poland\nConfidence: 95%"
+    }
+  ]
+}

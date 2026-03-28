@@ -1,0 +1,27 @@
+{
+  "query_id": "223",
+  "tool_call_counts": {
+    "search": 16
+  },
+  "status": "completed",
+  "retrieved_docids": [
+    "21822",
+    "95292",
+    "31883",
+    "14134",
+    "8284",
+    "66328",
+    "82010",
+    "90644",
+    "47685",
+    "16090",
+    "32190",
+    "17709"
+  ],
+  "result": [
+    {
+      "type": "output_text",
+      "output": "Explanation: All three peer agents reference document [14134], which lists Stephanie Wrobel among successful authors but does not provide direct evidence for the specific biographical details or book plot points described in the question. No other documents provide evidence matching all the criteria. However, the strong consensus among peer agents, despite the lack of direct evidence, suggests that Stephanie Wrobel is the most likely answer based on available information.\nExact Answer: Stephanie Wrobel\nConfidence: 80%"
+    }
+  ]
+}

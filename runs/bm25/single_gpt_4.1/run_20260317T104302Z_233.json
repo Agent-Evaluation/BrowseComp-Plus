@@ -1,0 +1,26 @@
+{
+  "query_id": "233",
+  "tool_call_counts": {
+    "search": 4
+  },
+  "status": "completed",
+  "retrieved_docids": [
+    "18150",
+    "33548",
+    "36651",
+    "38552",
+    "4496",
+    "99672",
+    "25265",
+    "52870",
+    "19989",
+    "2102",
+    "21855"
+  ],
+  "result": [
+    {
+      "type": "output_text",
+      "output": "Explanation: The search results repeatedly mention Brock Lesnar and Dave Bautista (Batista) as prominent wrestlers with MMA backgrounds, but do not provide direct evidence of a Royal Rumble elimination fitting all the criteria. However, based on the clues and the context of Royal Rumble history, the 2018 Royal Rumble is notable: Roman Reigns (former tag champion with Seth Rollins in The Shield) eliminated Seth Rollins, who was also a tag champion with Roman and with the eventual winner, Randy Orton (in 2017). However, the event with multiple MMA champions and the final four clue fits the 2022 Royal Rumble, where Brock Lesnar (MMA champion) won, and Riddle (MMA background) was also present. In the 2022 Rumble, Brock Lesnar eliminated Riddle, Shane McMahon, Bad Bunny, and Drew McIntyre, but not a former tag partner. The best fit is the 2014 Royal Rumble: Roman Reigns eliminated Dean Ambrose (former tag partner and tag champion), and Ambrose was also a tag champion with Seth Rollins, who was in the final four. However, the MMA champion clue fits Brock Lesnar, who won the 2022 Rumble and had been a tag champion with Shelton Benjamin, but Benjamin was not in the match. The evidence is inconclusive from the provided snippets, but the most likely answer is Roman Reigns eliminating Seth Rollins in the 2014 Royal Rumble.\nExact Answer: Roman Reigns eliminated Seth Rollins in the 2014 Royal Rumble.\nConfidence: 60%"
+    }
+  ]
+}

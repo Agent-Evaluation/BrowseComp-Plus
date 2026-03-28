@@ -1,0 +1,22 @@
+{
+  "query_id": "1034",
+  "tool_call_counts": {
+    "search": 3
+  },
+  "status": "completed",
+  "retrieved_docids": [
+    "62609",
+    "31698",
+    "53092",
+    "39930",
+    "67408",
+    "69834",
+    "5965"
+  ],
+  "result": [
+    {
+      "type": "output_text",
+      "output": "Explanation: After multiple searches, none of the retrieved documents provide information matching all the detailed criteria (commercial model, showbiz wealth, Business Administration studies 2001-2007, showbiz break 2006-2010, debut single 2010-2015, child born in the US, promoted to manager after coordinator in 2012, and birth name). The search results do not mention any individual's birth name or biographical details that fit the question's specifics.\nExact Answer: Not found in the provided search results.\nConfidence: 0%"
+    }
+  ]
+}

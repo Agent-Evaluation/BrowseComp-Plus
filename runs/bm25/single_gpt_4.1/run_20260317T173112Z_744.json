@@ -1,0 +1,33 @@
+{
+  "query_id": "744",
+  "tool_call_counts": {
+    "search": 6
+  },
+  "status": "completed",
+  "retrieved_docids": [
+    "47624",
+    "66579",
+    "46212",
+    "70622",
+    "5385",
+    "70716",
+    "75003",
+    "23151",
+    "69796",
+    "71196",
+    "82586",
+    "93391",
+    "7260",
+    "81304",
+    "37085",
+    "41258",
+    "23257",
+    "15868"
+  ],
+  "result": [
+    {
+      "type": "output_text",
+      "output": "Explanation: The question describes a web developer who co-wrote a book with someone known for creating a prediction-style game with a complicated scoring system, and who also created a 1990s online social platform with goth-style avatars credited to a woman. The clues point to the \"Hollywood Stock Exchange\" (HSX), a well-known prediction market game with a complex scoring system, created by Max Keiser. Keiser also created the online social platform \"The Palace,\" which featured goth-style avatars credited to artist Rosemarie \"Rose\" McDermott. The game referenced is the \"Hollywood Stock Exchange.\"\nExact Answer: Hollywood Stock Exchange (HSX)\nConfidence: 95%"
+    }
+  ]
+}

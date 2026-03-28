@@ -1,0 +1,23 @@
+{
+  "query_id": "130",
+  "tool_call_counts": {
+    "search": 3
+  },
+  "status": "completed",
+  "retrieved_docids": [
+    "50045",
+    "66328",
+    "82044",
+    "69430",
+    "26143",
+    "7505",
+    "17462",
+    "86943"
+  ],
+  "result": [
+    {
+      "type": "output_text",
+      "output": "Explanation: The search results do not provide a direct match for all the clues in the question. The most prominent pseudonymous biographer found is George Orwell (Eric Arthur Blair), but he does not fit the details about writing a 1980 biography of his father, falling in love with a philosopher's brother, or the specific marital history described. No evidence in the results directly matches all the criteria, especially the 1980 biography of the writer's father and the romantic connection to a philosopher's brother.\nExact Answer: No definitive answer found in the provided search results.\nConfidence: 0%"
+    }
+  ]
+}

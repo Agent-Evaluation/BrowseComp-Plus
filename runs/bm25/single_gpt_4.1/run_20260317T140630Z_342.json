@@ -1,0 +1,28 @@
+{
+  "query_id": "342",
+  "tool_call_counts": {
+    "search": 5
+  },
+  "status": "completed",
+  "retrieved_docids": [
+    "17675",
+    "40698",
+    "67030",
+    "79795",
+    "56617",
+    "20019",
+    "23475",
+    "68603",
+    "863",
+    "87824",
+    "35453",
+    "43644",
+    "31851"
+  ],
+  "result": [
+    {
+      "type": "output_text",
+      "output": "Explanation: The question describes a car that debuted in the 1960s, entered a competition (the Monte Carlo Rally) dominated by French cars, with a design flaw causing driver discomfort. The following year, the driver returned as co-driver and the car (Mini Cooper) achieved its first victory, marking the brand's first win. The rival was the Citroën DS. The visionary, Alec Issigonis, died before the Mini's debut. The driver who first drove, then co-drove to victory, was Rauno Aaltonen, who won the 1967 Monte Carlo Rally after losing in 1963 due to a design flaw (pedal placement) [35453].\nExact Answer: Rauno Aaltonen\nConfidence: 95%"
+    }
+  ]
+}

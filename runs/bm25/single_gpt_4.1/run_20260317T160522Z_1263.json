@@ -1,0 +1,23 @@
+{
+  "query_id": "1263",
+  "tool_call_counts": {
+    "search": 5
+  },
+  "status": "completed",
+  "retrieved_docids": [
+    "18948",
+    "70530",
+    "91278",
+    "21822",
+    "58166",
+    "3259",
+    "26264",
+    "93588"
+  ],
+  "result": [
+    {
+      "type": "output_text",
+      "output": "Explanation: Despite multiple targeted searches, there is no evidence in the provided documents identifying an Indian business group that matches all the specified criteria: founded by an army officer between 1970-1985, founder died 2010-2020, established a processing plant 1985-1995, exports to over 100 countries, employs over 50,000, and established 2-3 rural schools (one near the processing plant). The search results do not mention any such group or founder, nor do they reference Amul or similar groups in this context.\nExact Answer: No matching group found in the provided knowledge base.\nConfidence: 0%"
+    }
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "query_id": "1081",
+  "tool_call_counts": {
+    "search": 6
+  },
+  "status": "completed",
+  "retrieved_docids": [
+    "9119",
+    "5965",
+    "84059",
+    "31698",
+    "65139",
+    "8530",
+    "3737"
+  ],
+  "result": [
+    {
+      "type": "output_text",
+      "output": "Explanation: Despite multiple targeted searches, none of the results provided information about an American comedy-drama TV series first aired in June 2019-2022 with a character attending the same school as their older brother, a director born in May 1973-1976, a creator born in September 1979-1982, and another director known for a short film from 2012-2015. The search results were either off-topic or did not address the specific criteria.\nExact Answer: No answer found in the provided search results.\nConfidence: 0%"
+    }
+  ]
+}

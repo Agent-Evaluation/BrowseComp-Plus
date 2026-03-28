@@ -1,0 +1,39 @@
+{
+  "query_id": "1212",
+  "tool_call_counts": {
+    "search": 7
+  },
+  "status": "completed",
+  "retrieved_docids": [
+    "68181",
+    "83501",
+    "84059",
+    "32327",
+    "8530",
+    "41035",
+    "4035",
+    "76192",
+    "54778",
+    "74337",
+    "77966",
+    "66166",
+    "36587",
+    "46770",
+    "99753",
+    "1871",
+    "52125",
+    "48231",
+    "33339",
+    "72668",
+    "74954",
+    "18193",
+    "53607",
+    "88686"
+  ],
+  "result": [
+    {
+      "type": "output_text",
+      "output": "Explanation: The clues point to Alan Alda, who attended theatre school, acted with renowned performers, danced with a famous American actress, ended a relationship in 1974, married in 1976, played a professor in a TV series, and voiced a character in an audio series. Multiple searches confirm his identity. The most recent widely-cited film role for Alan Alda is in \"Marriage Story\" (2019). No evidence was found of a later movie appearance up to 2026 in the available sources.\nExact Answer: Marriage Story (2019)\nConfidence: 95%"
+    }
+  ]
+}

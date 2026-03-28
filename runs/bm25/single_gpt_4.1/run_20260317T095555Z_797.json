@@ -1,0 +1,23 @@
+{
+  "query_id": "797",
+  "tool_call_counts": {
+    "search": 5
+  },
+  "status": "completed",
+  "retrieved_docids": [
+    "21492",
+    "82277",
+    "55716",
+    "68092",
+    "70530",
+    "62424",
+    "74595",
+    "69137"
+  ],
+  "result": [
+    {
+      "type": "output_text",
+      "output": "Explanation: Despite multiple targeted searches, there is no direct evidence in the provided documents identifying an online grocery delivery company founded between 2015 and 2018, with a name derived from the most basic unit of a household (such as \"Nest\" or \"Home\"), and a CEO featured on the Forbes 30 Under 30 Europe list between 2016 and 2019. The search results do not mention any such company or CEO, nor do they reference a business model or company history matching the detailed description in the question.\nExact Answer: Not found in provided sources\nConfidence: 0%"
+    }
+  ]
+}

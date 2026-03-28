@@ -1,0 +1,32 @@
+{
+  "query_id": "745",
+  "tool_call_counts": {
+    "search": 6
+  },
+  "status": "completed",
+  "retrieved_docids": [
+    "57164",
+    "14467",
+    "66328",
+    "7757",
+    "79928",
+    "14013",
+    "35843",
+    "6499",
+    "18830",
+    "48410",
+    "19094",
+    "83998",
+    "62463",
+    "16151",
+    "56920",
+    "85271",
+    "13594"
+  ],
+  "result": [
+    {
+      "type": "output_text",
+      "output": "Explanation: The search results indicate that Selma Moidel Smith is associated with California legal history and is mentioned as a co-author/editor. She is also linked to the California Supreme Court Historical Society, which fits the Society naming and chair role clues. The book in question is a biographical dictionary of women educators, published in the early 1990s, with Selma Moidel Smith as co-editor. The English title of this book is \"Women Building California and the West: A Biographical Dictionary\" [83998].\nExact Answer: Women Building California and the West: A Biographical Dictionary\nConfidence: 90%"
+    }
+  ]
+}

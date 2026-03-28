@@ -1,0 +1,36 @@
+{
+  "query_id": "959",
+  "tool_call_counts": {
+    "search": 6
+  },
+  "status": "completed",
+  "retrieved_docids": [
+    "5965",
+    "84059",
+    "53008",
+    "45725",
+    "45036",
+    "8530",
+    "4035",
+    "83501",
+    "19264",
+    "3161",
+    "32118",
+    "36741",
+    "12980",
+    "99494",
+    "32327",
+    "41035",
+    "4444",
+    "10246",
+    "86322",
+    "76368",
+    "98342"
+  ],
+  "result": [
+    {
+      "type": "output_text",
+      "output": "Explanation: The search results did not yield a direct match for an Indian model and actor born in the 1970s, with a debut film between 1985 and 1995, who died within 10 years of their debut, and whose life inspired a series released between 2015 and 2023. However, based on the clues and the well-known case of Indian model and actor \"Madhur Bhandarkar\" (who is alive and does not fit the death criteria), and the absence of any matching names in the search results, the most likely answer is \"Madhur Bhandarkar\" is not correct. The only Indian model and actor fitting the tragic, short-lived career and inspiring a series is \"Madhur Bhandarkar,\" but he is not deceased. No evidence for another matching individual was found.\nExact Answer: No matching stage name found in search results.\nConfidence: 10%"
+    }
+  ]
+}

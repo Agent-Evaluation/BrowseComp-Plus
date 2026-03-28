@@ -1,0 +1,25 @@
+{
+  "query_id": "635",
+  "tool_call_counts": {
+    "search": 6
+  },
+  "status": "completed",
+  "retrieved_docids": [
+    "33399",
+    "18762",
+    "3259",
+    "93466",
+    "65925",
+    "94290",
+    "68590",
+    "332",
+    "94439",
+    "49962"
+  ],
+  "result": [
+    {
+      "type": "output_text",
+      "output": "Explanation: Despite extensive searching, none of the retrieved documents provide the exact number of hectares consolidated by William Larnach on the Otago Peninsula (Hereweka/Harbour Cone area) by the time of his death in 1898. The relevant 2012 archaeological publication and associated trust/heritage documents discuss the landscape, Larnach’s role, and the conservation efforts, but do not specify the total hectares. Therefore, the precise figure cannot be confirmed from the available evidence.\nExact Answer: Not found in available sources\nConfidence: 0%"
+    }
+  ]
+}

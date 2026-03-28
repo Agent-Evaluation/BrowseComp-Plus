@@ -1,0 +1,33 @@
+{
+  "query_id": "1072",
+  "tool_call_counts": {
+    "search": 4
+  },
+  "status": "completed",
+  "retrieved_docids": [
+    "14649",
+    "29686",
+    "40035",
+    "85584",
+    "58802",
+    "87904",
+    "32605",
+    "67399",
+    "24843",
+    "64719",
+    "18939",
+    "5238",
+    "44553",
+    "99306",
+    "52885",
+    "777",
+    "69166",
+    "19750"
+  ],
+  "result": [
+    {
+      "type": "output_text",
+      "output": "Explanation: The search results point to The Links, Incorporated as a major provider of scholarships, especially to individuals of African ancestry, and mention their significant contributions to scholarships and endowments [18939]. The context of the question and the clues about the lawmaker, research paper, and scholarship align with the activities and mission of The Links, Incorporated.\nExact Answer: The Links, Incorporated\nConfidence: 90%"
+    }
+  ]
+}

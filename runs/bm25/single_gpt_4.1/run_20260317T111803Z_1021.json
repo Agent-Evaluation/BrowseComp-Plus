@@ -1,0 +1,23 @@
+{
+  "query_id": "1021",
+  "tool_call_counts": {
+    "search": 4
+  },
+  "status": "completed",
+  "retrieved_docids": [
+    "17462",
+    "31943",
+    "90179",
+    "53541",
+    "9823",
+    "14497",
+    "49635",
+    "69409"
+  ],
+  "result": [
+    {
+      "type": "output_text",
+      "output": "Explanation: Despite multiple searches, there is no direct evidence in the results of any anime adaptation from a manga by a graduate of Seijoh University (formerly Nagoya Meitoku Junior College) that matches all the criteria: introverted/awkward main character, 10-30 episodes, pre-2020 release, and a song about a deceptive relationship. The search results provide background on the university and its history, but do not list any specific manga writers or anime adaptations linked to its graduates, nor do they mention any anime fitting the detailed description.\nExact Answer: No matching anime found based on available evidence.\nConfidence: 10%"
+    }
+  ]
+}

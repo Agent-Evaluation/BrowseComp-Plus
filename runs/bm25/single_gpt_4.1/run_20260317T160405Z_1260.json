@@ -1,0 +1,35 @@
+{
+  "query_id": "1260",
+  "tool_call_counts": {
+    "search": 6
+  },
+  "status": "completed",
+  "retrieved_docids": [
+    "12980",
+    "95292",
+    "20307",
+    "79859",
+    "84059",
+    "14981",
+    "91027",
+    "29860",
+    "3691",
+    "18841",
+    "63988",
+    "6316",
+    "19326",
+    "66756",
+    "99494",
+    "65139",
+    "68207",
+    "28854",
+    "99671",
+    "35701"
+  ],
+  "result": [
+    {
+      "type": "output_text",
+      "output": "Explanation: Despite multiple targeted searches, there is no evidence in the provided documents of any SAARC movie released between 2014 and 2016 that matches all the specified criteria (leading female actress born in a Middle Eastern country between 1984-1986, leading male actor who started in theater between 1995-1997 and goes to prison multiple times, and a release date one day before the director's birthday). The search results do not mention any such film or provide relevant cast, plot, or release date details.\nExact Answer: No matching movie found in the available sources.\nConfidence: 0%"
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "query_id": "490",
+  "tool_call_counts": {
+    "search": 26
+  },
+  "status": "completed",
+  "retrieved_docids": [
+    "64742",
+    "94275",
+    "16088",
+    "57808",
+    "75295",
+    "61639",
+    "86829",
+    "41554",
+    "71599",
+    "26859",
+    "75635",
+    "98627",
+    "2864",
+    "89693",
+    "47624",
+    "94327",
+    "76609",
+    "5009",
+    "67911",
+    "52441",
+    "50167",
+    "26373",
+    "44872"
+  ],
+  "result": [
+    {
+      "type": "output_text",
+      "output": "Explanation: None of the search results provide direct evidence identifying the surviving spouse who founded a philanthropic foundation within a decade of their spouse's death, is still living as of 2023, and holds another position at the foundation. The results include general information about obituaries [75295], family culture [26859], and unrelated biographies [86829]. No evidence matches the specific scenario described in the question.\nExact Answer: Not found in current search results.\nConfidence: 0%"
+    }
+  ]
+}

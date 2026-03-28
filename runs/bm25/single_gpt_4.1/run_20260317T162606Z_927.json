@@ -1,0 +1,28 @@
+{
+  "query_id": "927",
+  "tool_call_counts": {
+    "search": 4
+  },
+  "status": "completed",
+  "retrieved_docids": [
+    "33221",
+    "37860",
+    "95292",
+    "38634",
+    "20674",
+    "52583",
+    "32327",
+    "49635",
+    "40267",
+    "43064",
+    "75855",
+    "34111",
+    "19488"
+  ],
+  "result": [
+    {
+      "type": "output_text",
+      "output": "Explanation: Despite multiple searches, there is no direct evidence in the provided documents identifying a 1960s-1980s TV character who breaks the fourth wall, is humorous, has a backstory involving ascetics or monks, and whose show had fewer than 50 episodes. The search results reference general TV tropes, episode naming conventions, and unrelated shows or characters, but do not mention a character matching all criteria. No evidence was found for a character with a monk/ascetic backstory and fourth-wall-breaking humor in a short-run show from that era.\nExact Answer: No evidence found in the provided sources.\nConfidence: 0%"
+    }
+  ]
+}

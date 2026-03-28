@@ -1,0 +1,39 @@
+{
+  "query_id": "6",
+  "tool_call_counts": {
+    "search": 10
+  },
+  "status": "completed",
+  "retrieved_docids": [
+    "50868",
+    "31807",
+    "91936",
+    "5238",
+    "79928",
+    "52885",
+    "69792",
+    "49383",
+    "76869",
+    "89940",
+    "63801",
+    "20692",
+    "10335",
+    "1756",
+    "25268",
+    "63892",
+    "28724",
+    "17511",
+    "50023",
+    "99486",
+    "16088",
+    "23586",
+    "62209",
+    "69955"
+  ],
+  "result": [
+    {
+      "type": "output_text",
+      "output": "search: \"Fr. James B. Reuter\" obituary time of death 1990s Jesuit La Salle Green Hills principal US ministry illness"
+    }
+  ]
+}

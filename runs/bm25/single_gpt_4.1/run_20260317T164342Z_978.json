@@ -1,0 +1,26 @@
+{
+  "query_id": "978",
+  "tool_call_counts": {
+    "search": 7
+  },
+  "status": "completed",
+  "retrieved_docids": [
+    "16296",
+    "77625",
+    "9915",
+    "63058",
+    "74540",
+    "61276",
+    "34816",
+    "25173",
+    "5379",
+    "93031",
+    "20300"
+  ],
+  "result": [
+    {
+      "type": "output_text",
+      "output": "Explanation: The search results confirm that \"The Promised Neverland\" is a manga serialized in the 2010s, with an anime adaptation, created by Kaiu Shirai (who was previously an assistant on \"Elfen Lied,\" a 2000s manga, and both series are licensed by Viz Media). However, none of the search results provide a direct summary or character list for the tenth arc, nor do they specify which adult character is being protected in that arc. The Wikipedia entry and related summaries do not detail the arcs or character roles at this level.\nExact Answer: Insufficient evidence to answer definitively.\nConfidence: 10%"
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "query_id": "1101",
+  "tool_call_counts": {
+    "search": 10
+  },
+  "status": "completed",
+  "retrieved_docids": [
+    "68273",
+    "70468",
+    "48368",
+    "35611",
+    "55826",
+    "59360",
+    "47291",
+    "53127",
+    "33562"
+  ],
+  "result": [
+    {
+      "type": "output_text",
+      "output": "Explanation: I agree with the other agents. Multiple sources confirm that Sea Shepherd, in partnership with Italian authorities, conducted sustained patrols in Calabria, Italy, in 2023. These efforts, as part of Operation SISO 6, led to a 70% reduction in illegal fishing activities in the Tyrrhenian Sea compared to the previous year. This reduction is directly attributed to the patrols and enforcement actions by Sea Shepherd volunteers, who received specialized training and enforcement authority in 2023 [70468][48368]. The evidence is clear, consistent, and directly answers the question.\nExact Answer: 70% reduction\nConfidence: 100%"
+    }
+  ]
+}

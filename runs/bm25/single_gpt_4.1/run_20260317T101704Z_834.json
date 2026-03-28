@@ -1,0 +1,33 @@
+{
+  "query_id": "834",
+  "tool_call_counts": {
+    "search": 5
+  },
+  "status": "completed",
+  "retrieved_docids": [
+    "92613",
+    "76031",
+    "88266",
+    "81545",
+    "94524",
+    "95874",
+    "10746",
+    "25453",
+    "21822",
+    "43295",
+    "161",
+    "76909",
+    "56001",
+    "94095",
+    "5459",
+    "25312",
+    "98568",
+    "94244"
+  ],
+  "result": [
+    {
+      "type": "output_text",
+      "output": "Explanation: The search results indicate that Angel Mounds State Historic Site is an archaeological site along the Ohio River, managed as a museum and added to the National Register of Historic Places. The site is named after the Angel family, who began purchasing the land in 1852. This matches the clues: a river location, NRHP listing, and being named after the land purchaser. The snippet also mentions the Angel family bought the land, though the exact purchase price and birth dates are not confirmed in the snippet, the circumstantial evidence is strong.\nExact Answer: Angel Mounds State Historic Site\nConfidence: 85%"
+    }
+  ]
+}

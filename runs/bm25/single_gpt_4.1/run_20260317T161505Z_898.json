@@ -1,0 +1,29 @@
+{
+  "query_id": "898",
+  "tool_call_counts": {
+    "search": 4
+  },
+  "status": "completed",
+  "retrieved_docids": [
+    "83551",
+    "76124",
+    "22203",
+    "50510",
+    "73719",
+    "46556",
+    "75680",
+    "71472",
+    "16421",
+    "54431",
+    "19843",
+    "5827",
+    "59393",
+    "13367"
+  ],
+  "result": [
+    {
+      "type": "output_text",
+      "output": "Explanation: The clues point to Stripe, founded by Patrick and John Collison. John Collison took paternal leave in 2018, and Patrick Collison's net worth was estimated between $430 million and $440 million in 2021. The search results confirm Stripe's status as a major fintech company but do not directly state the September 2019 valuation. However, Stripe's Wikipedia entry notes a major move in October 2019, and historical sources widely report Stripe's valuation at $35 billion after a funding round in September 2019.\nExact Answer: $35 billion\nConfidence: 95%"
+    }
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "query_id": "155",
+  "tool_call_counts": {
+    "search": 4
+  },
+  "status": "completed",
+  "retrieved_docids": [
+    "33099",
+    "31698",
+    "53092",
+    "55040",
+    "28451",
+    "77586",
+    "70370"
+  ],
+  "result": [
+    {
+      "type": "output_text",
+      "output": "Explanation: None of the search results provide direct evidence matching all clues. The closest is Michelle Williams (singer), who rose to fame in the early 2000s with Destiny's Child, is a podcaster, and is married with children. However, there is no evidence in the results about a podcast that became a support community, a song written about her as a gift, or her sister appearing on her podcast in 2022. No other female celebrity in the results matches all the clues.\nExact Answer: Insufficient evidence to determine the celebrity's name.\nConfidence: 20%"
+    }
+  ]
+}

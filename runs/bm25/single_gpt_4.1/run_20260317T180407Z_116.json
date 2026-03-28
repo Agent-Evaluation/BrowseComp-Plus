@@ -1,0 +1,25 @@
+{
+  "query_id": "116",
+  "tool_call_counts": {
+    "search": 4
+  },
+  "status": "completed",
+  "retrieved_docids": [
+    "19264",
+    "6316",
+    "80802",
+    "75146",
+    "98887",
+    "66644",
+    "95292",
+    "22547",
+    "86099",
+    "8930"
+  ],
+  "result": [
+    {
+      "type": "output_text",
+      "output": "Explanation: The search results provide a strong lead with Tony Curtis, who was born Bernard Schwartz to Hungarian Jewish immigrants [19264]. He was born in the 1930s, won an Oscar within the specified timeframe, and had two children. Further, his spouse, actress Janet Leigh, did not commit suicide, but his later wife, Leslie Allen, did. Tony Curtis died in Las Vegas, the same city he was born in, in 2010. His son, Nicholas Curtis, died of a heroin overdose, but his daughter, Allegra, had legal troubles. The evidence fits most clues, especially the full birth name.\nExact Answer: Bernard Schwartz\nConfidence: 85%"
+    }
+  ]
+}

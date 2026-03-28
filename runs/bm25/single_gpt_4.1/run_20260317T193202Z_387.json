@@ -1,0 +1,28 @@
+{
+  "query_id": "387",
+  "tool_call_counts": {
+    "search": 3
+  },
+  "status": "completed",
+  "retrieved_docids": [
+    "68976",
+    "93225",
+    "82705",
+    "66579",
+    "39489",
+    "70657",
+    "36866",
+    "80225",
+    "71632",
+    "39025",
+    "5266",
+    "22369",
+    "67505"
+  ],
+  "result": [
+    {
+      "type": "output_text",
+      "output": "Explanation: According to an interview with Dean Dodrill, the animator and developer behind \"Dust: An Elysian Tail\" (a game featuring a mammal character blasting through enemies, released after his work on \"Jazz Jackrabbit 2\"), as of July 24, 2013, his main workstation/gaming PC had 5TB of storage. This matches the description of the person, the timeline, and the context of the question [5266].\nExact Answer: 5TB\nConfidence: 100%"
+    }
+  ]
+}

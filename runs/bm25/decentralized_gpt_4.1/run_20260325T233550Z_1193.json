@@ -1,0 +1,30 @@
+{
+  "query_id": "1193",
+  "tool_call_counts": {
+    "search": 16
+  },
+  "status": "completed",
+  "retrieved_docids": [
+    "7483",
+    "67355",
+    "10945",
+    "45601",
+    "43528",
+    "98342",
+    "62466",
+    "52708",
+    "46222",
+    "51985",
+    "26294",
+    "42351",
+    "13418",
+    "76368",
+    "17190"
+  ],
+  "result": [
+    {
+      "type": "output_text",
+      "output": "Explanation: The evidence from [51985] and [26294] confirms that the Rajasthan Royals won the inaugural Indian Premier League (IPL) in 2008. Shane Watson was the top run-scorer and Player of the Series, debuting in Test cricket for Australia the following year, matching clue 1. Sohail Tanvir was the top wicket-taker and unbeaten in the final, and there were four bowlers tied for 6th in wickets, with Tanvir among them, matching clue 6. The details about joint 18th run-scorers and other clues also align with IPL 2008. No other tournament fits all criteria as closely.\nExact Answer: Indian Premier League (IPL), 2008\nConfidence: 95%"
+    }
+  ]
+}

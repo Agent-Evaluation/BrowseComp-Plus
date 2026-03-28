@@ -1,0 +1,28 @@
+{
+  "query_id": "1194",
+  "tool_call_counts": {
+    "search": 5
+  },
+  "status": "completed",
+  "retrieved_docids": [
+    "45147",
+    "75146",
+    "88630",
+    "5965",
+    "72141",
+    "75855",
+    "37369",
+    "95292",
+    "68207",
+    "45522",
+    "49525",
+    "44438",
+    "84059"
+  ],
+  "result": [
+    {
+      "type": "output_text",
+      "output": "Explanation: The clues point to an artist with one Grammy nomination as of 2023, a song featured in a Meryl Streep movie, inspired by Nina Simone (born 1933, when Hitler came to power), appeared in two sitcom episodes, and had a song shortlisted for Barack Obama's campaign. While searches confirm Meryl Streep's movies and Nina Simone's birth year, none of the results directly identify an artist matching all clues. No evidence found for a stage name or Grammy nomination matching these specifics.\nExact Answer: Insufficient evidence to identify the artist.\nConfidence: 0%"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "query_id": "747",
+  "tool_call_counts": {
+    "search": 3
+  },
+  "status": "completed",
+  "retrieved_docids": [
+    "21822",
+    "57164",
+    "69891",
+    "18830",
+    "34435",
+    "18948",
+    "67203",
+    "19399",
+    "35206",
+    "6496",
+    "23995"
+  ],
+  "result": [
+    {
+      "type": "output_text",
+      "output": "Explanation: The clues point to the state of Michigan: it has rivers and streams totaling nearly three times the equator's length and produced over a billion bushels of corn in 2014. The Native American tribe known for birchbark canoes and copper mining is the Ojibwe (part of the Council of the Three Fires). The U.S. Vice President born in Maine is Nelson Rockefeller. However, none of the search results directly identify Person A or the foreign country they lived in as a teenager. No direct evidence was found in the provided documents.\nExact Answer: Insufficient evidence to answer\nConfidence: 10%"
+    }
+  ]
+}

@@ -1,3 +1,16 @@
+# Run single agent
+
+```bash
+export JAVA_HOME=$(/usr/libexec/java_home -v 21); bun run mas_agents/src/run-eval.ts --architecture single --model gpt-4.1 --index-path indexes/bm25/
+```
+
+# Generate eval
+
+```bash
+bun run mas_agents/src/evaluate-kimi.ts --input-dir runs/bm25/decentralized_gpt_4.1
+```
+
+
 # BrowseComp-Plus
 
 | [🤗Dataset](https://huggingface.co/datasets/Tevatron/browsecomp-plus) | [🏆Leaderboard](https://huggingface.co/spaces/Tevatron/BrowseComp-Plus) | [📄Paper](https://arxiv.org/pdf/2508.06600) | [🔍Project Page](https://texttron.github.io/BrowseComp-Plus/) |
@@ -191,9 +204,9 @@ where you can find the decrypted trajectory data in `data/decrypted_run_files/`.
 
 ---
 
-## 🤖 Multi-Agent System (MAS) Evaluation
+## 🤖 Multi-Agent System (MAS) Evaluation (TypeScript / Bun)
 
-We provide implementations of the 5 canonical agent architectures from Kim et al. (2025), *"Towards a Science of Scaling Agent Systems"* ([arXiv:2512.08296](https://arxiv.org/abs/2512.08296)), using the GitHub Copilot SDK and BM25 retrieval.
+We provide implementations of the 5 canonical agent architectures from Kim et al. (2025), *"Towards a Science of Scaling Agent Systems"* ([arXiv:2512.08296](https://arxiv.org/abs/2512.08296)), using the `@github/copilot-sdk` (npm) and BM25 retrieval via a Python subprocess bridge.
 
 | Architecture | Agents | Coordination | Paper Reference |
 |---|---|---|---|
@@ -205,6 +218,8 @@ We provide implementations of the 5 canonical agent architectures from Kim et al
 
 ### Prerequisites
 
+- **Bun** (https://bun.sh/)
+- **Python + uv** (for BM25 bridge via Pyserini)
 - **Java 21** (required for Pyserini BM25 index)
 - **GitHub Copilot CLI** installed and authenticated
 - Dataset decrypted and BM25 index downloaded (see sections above)
@@ -214,14 +229,19 @@ On Windows, set `JAVA_HOME` before running:
 $env:JAVA_HOME = "C:\Program Files\Microsoft\jdk-21.0.10.7-hotspot"
 ```
 
+Install TypeScript dependencies:
+```bash
+cd mas_agents && bun install && cd ..
+```
+
 ### Running a Single Architecture
 
 ```bash
-uv run python -m mas_agents.run_eval \
+bun run mas_agents/src/run-eval.ts \
   --architecture single \
   --model gpt-4.1 \
   --index-path indexes/bm25/ \
-  --output-dir runs/bm25/single_gpt4.1
+  --limit 1
 ```
 
 Options:
@@ -237,7 +257,7 @@ Results are saved as one JSON file per query under `--output-dir`, with automati
 ### Running All 5 Architectures
 
 ```bash
-uv run python -m mas_agents.benchmark_runner \
+bun run mas_agents/src/benchmark-runner.ts \
   --model gpt-4.1 \
   --index-path indexes/bm25/
 ```
@@ -254,8 +274,8 @@ Add `--limit 10` for a quick test run, or `--force` to re-run existing results.
 As an alternative to the default Qwen3-32B judge (which requires a GPU), you can use Kimi K2.5 via the NVIDIA NIM API:
 
 ```bash
-uv run python -m mas_agents.evaluate_kimi \
-  --input-dir runs/bm25/single_gpt4.1 \
+bun run mas_agents/src/evaluate-kimi.ts \
+  --input-dir runs/bm25/single_gpt_4.1 \
   --ground-truth data/browsecomp_plus_decrypted.jsonl \
   --api-key nvapi-YOUR_KEY_HERE
 ```

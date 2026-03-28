@@ -1,0 +1,32 @@
+{
+  "query_id": "713",
+  "tool_call_counts": {
+    "search": 4
+  },
+  "status": "completed",
+  "retrieved_docids": [
+    "85208",
+    "6400",
+    "56325",
+    "22978",
+    "33385",
+    "66322",
+    "4658",
+    "7424",
+    "63436",
+    "24551",
+    "37040",
+    "10949",
+    "26092",
+    "85319",
+    "43074",
+    "4858",
+    "36193"
+  ],
+  "result": [
+    {
+      "type": "output_text",
+      "output": "Explanation: The clues point to Ghana: its first president, Kwame Nkrumah, worked for United Africa Company (UAC) in the 1920s, which rejected a takeover bid from Unilever (a food company) before the 1950 World Cup. Ghana's national football team, the Black Stars, qualified for the 1963 Africa Cup of Nations after a long absence, with a walkover in the second leg due to an opponent's withdrawal. The coach, a football pioneer, was Charles Kumi Gyamfi, who led Ghana to the tournament less than five years after his appointment.\nExact Answer: Charles Kumi Gyamfi\nConfidence: 95%"
+    }
+  ]
+}

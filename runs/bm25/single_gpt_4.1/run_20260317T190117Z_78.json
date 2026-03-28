@@ -1,0 +1,27 @@
+{
+  "query_id": "78",
+  "tool_call_counts": {
+    "search": 6
+  },
+  "status": "completed",
+  "retrieved_docids": [
+    "17134",
+    "38678",
+    "60944",
+    "69792",
+    "81610",
+    "51565",
+    "93607",
+    "18514",
+    "90362",
+    "98164",
+    "85513",
+    "82905"
+  ],
+  "result": [
+    {
+      "type": "output_text",
+      "output": "Explanation: The search results do not provide direct evidence linking the Kingdom of Burundi, its last independent 19th-century monarch, the University of Coimbra, and the current king as of 2023. However, the University of Coimbra is confirmed as a 13th-century university [18514]. The clues in the question strongly match the Kingdom of Buganda (now part of Uganda), where the last independent king, Mwanga II, was dethroned in the 19th century, and the current king (Kabaka) is Ronald Muwenda Mutebi II. Upon coronation, he adopted the regnal name \"Muwenda Mutebi II.\" However, there is no evidence in the search results confirming his father's attendance at the University of Coimbra or a direct link to the University of Coimbra.\nExact Answer: Muwenda Mutebi II\nConfidence: 40%"
+    }
+  ]
+}

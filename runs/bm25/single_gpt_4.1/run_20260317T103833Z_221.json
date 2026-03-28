@@ -1,0 +1,29 @@
+{
+  "query_id": "221",
+  "tool_call_counts": {
+    "search": 4
+  },
+  "status": "completed",
+  "retrieved_docids": [
+    "7230",
+    "84096",
+    "24042",
+    "72509",
+    "4323",
+    "62440",
+    "4195",
+    "85054",
+    "81747",
+    "40628",
+    "21687",
+    "911",
+    "10516",
+    "5459"
+  ],
+  "result": [
+    {
+      "type": "output_text",
+      "output": "Explanation: The book \"Opium: How an Ancient Flower Shaped and Poisoned Our World\" (2019) by Dr. John Halpern and David Blistein is a comprehensive history of the opium poppy and its addictive derivatives, matching the description of a book about an addictive substance made from a flower. However, none of the search results provide evidence about the acquisition of the author's works after 2000 and before 2020, nor about the purchase being funded by two people with the same last name. Therefore, I cannot confirm the full answer with the required details.\nExact Answer: Insufficient evidence to answer definitively.\nConfidence: 30%"
+    }
+  ]
+}

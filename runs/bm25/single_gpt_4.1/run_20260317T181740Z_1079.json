@@ -1,0 +1,22 @@
+{
+  "query_id": "1079",
+  "tool_call_counts": {
+    "search": 3
+  },
+  "status": "completed",
+  "retrieved_docids": [
+    "23773",
+    "15666",
+    "3203",
+    "75146",
+    "76644",
+    "30804",
+    "18948"
+  ],
+  "result": [
+    {
+      "type": "output_text",
+      "output": "Explanation: None of the search results provide evidence of a director born between 1970 and 1980 who made the specific statements described in the question. The results primarily reference unrelated public figures (e.g., Hillary Clinton, Harold Wilson, Tom Wilkinson) and do not match the criteria regarding birth year, profession, or the quoted statements about upbringing, marriage proposals, or politicians contesting seats. No relevant news article or director matching all criteria was found in the provided search results.\nExact Answer: No answer found based on available evidence.\nConfidence: 0%"
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "query_id": "701",
+  "tool_call_counts": {
+    "search": 6
+  },
+  "status": "completed",
+  "retrieved_docids": [
+    "24683",
+    "87754",
+    "18762",
+    "71410",
+    "66006",
+    "69227",
+    "20886",
+    "15920",
+    "62348",
+    "93703",
+    "25315",
+    "87334",
+    "82294"
+  ],
+  "result": [
+    {
+      "type": "output_text",
+      "output": "Explanation: The search results confirm the context of Czechoslovakia, the 1968 Prague Spring, and the lustration process in 1990, but none of the provided documents directly mention the surname of the social worker who was reinstated after a change in personal status. No evidence for the surname \"Vasakova\" or any other specific last name is found in the snippets. Therefore, I cannot provide the exact answer based on the available evidence.\nExact Answer: Not found in provided sources\nConfidence: 0%"
+    }
+  ]
+}

@@ -1,0 +1,45 @@
+{
+  "query_id": "751",
+  "tool_call_counts": {
+    "search": 19
+  },
+  "status": "completed",
+  "retrieved_docids": [
+    "57705",
+    "20039",
+    "92638",
+    "81120",
+    "80929",
+    "5009",
+    "45453",
+    "25268",
+    "23847",
+    "84798",
+    "777",
+    "54718",
+    "76542",
+    "3613",
+    "72409",
+    "95874",
+    "22699",
+    "64323",
+    "7924",
+    "76463",
+    "70764",
+    "18943",
+    "52885",
+    "53092",
+    "5238",
+    "78989",
+    "60991",
+    "89673",
+    "72791",
+    "8557"
+  ],
+  "result": [
+    {
+      "type": "output_text",
+      "output": "Explanation: After reviewing the search results, none provide direct evidence identifying a European Research Council Consolidator Grant recipient who is an alumnus of a university established by a person born between 1800 and 1835, and who published a research paper between 2006 and 2014 with a University of Arizona management professor (2002-2012) and a co-author who completed a Ph.D. in 2010. The results are either unrelated or do not mention the required combination of grant, co-authorship, and institutional/degree details. Therefore, there is insufficient evidence to answer the question.\nExact Answer: Not found in current search results.\nConfidence: 0%"
+    }
+  ]
+}

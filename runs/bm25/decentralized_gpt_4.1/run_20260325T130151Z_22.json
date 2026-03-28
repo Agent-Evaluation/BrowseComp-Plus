@@ -1,0 +1,54 @@
+{
+  "query_id": "22",
+  "tool_call_counts": {
+    "search": 18
+  },
+  "status": "completed",
+  "retrieved_docids": [
+    "48967",
+    "11682",
+    "8651",
+    "71530",
+    "75075",
+    "36230",
+    "93109",
+    "51270",
+    "37458",
+    "65370",
+    "11147",
+    "51783",
+    "39930",
+    "86731",
+    "54170",
+    "32499",
+    "63272",
+    "798",
+    "56313",
+    "21602",
+    "77315",
+    "71117",
+    "12697",
+    "61370",
+    "85208",
+    "13774",
+    "7782",
+    "57389",
+    "11525",
+    "76807",
+    "76279",
+    "12869",
+    "83585",
+    "73050",
+    "73895",
+    "18348",
+    "47251",
+    "61157",
+    "85631"
+  ],
+  "result": [
+    {
+      "type": "output_text",
+      "output": "Explanation: The question refers to the League of Legends World Championship, where G2 Esports (founded in 2014) set the shortest game record at Worlds, using a non-traditional bot lane duo. The duo in question is Perkz and Mikyx. The younger of the two is Mikyx. According to [85631], Mikyx previously played for Misfits Gaming before joining G2 Esports. This matches the answers and evidence provided by the other agents.\nExact Answer: Misfits Gaming\nConfidence: 95%"
+    }
+  ]
+}

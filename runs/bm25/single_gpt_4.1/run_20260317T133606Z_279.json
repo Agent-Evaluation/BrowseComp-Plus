@@ -1,0 +1,32 @@
+{
+  "query_id": "279",
+  "tool_call_counts": {
+    "search": 5
+  },
+  "status": "completed",
+  "retrieved_docids": [
+    "91278",
+    "94524",
+    "89294",
+    "86821",
+    "43472",
+    "19888",
+    "4503",
+    "57164",
+    "41314",
+    "42718",
+    "23131",
+    "9024",
+    "38046",
+    "6370",
+    "11456",
+    "78681",
+    "18212"
+  ],
+  "result": [
+    {
+      "type": "output_text",
+      "output": "Explanation: The search results do not provide direct confirmation, but the Dallas Museum of Art fits the criteria: it was established in 1910, was previously known as the Dallas Museum of Fine Arts, and was renamed to its current name in 1999. Dallas is approximately 600 miles from the Newport Aquarium in Kentucky and about 225 miles from the Texas State Aquarium in Corpus Christi, matching the distance clues. No other museum matching all criteria was found in the search results.\nExact Answer: Dallas Museum of Art\nConfidence: 85%"
+    }
+  ]
+}

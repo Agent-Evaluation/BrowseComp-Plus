@@ -1,0 +1,35 @@
+{
+  "query_id": "898",
+  "tool_call_counts": {
+    "search": 18
+  },
+  "status": "completed",
+  "retrieved_docids": [
+    "83551",
+    "76124",
+    "22203",
+    "50510",
+    "73719",
+    "75680",
+    "46556",
+    "61249",
+    "71472",
+    "91457",
+    "91010",
+    "49873",
+    "16421",
+    "55716",
+    "54431",
+    "34249",
+    "69137",
+    "59393",
+    "19843",
+    "13367"
+  ],
+  "result": [
+    {
+      "type": "output_text",
+      "output": "Explanation: I agree with Agents 2 and 3. The clues in the question point to Stripe, founded by Patrick and John Collison. Patrick Collison was born in 1988, the year Ireland won the World Snooker Championship. John Collison reportedly took paternal leave in 2018, and as of 2021, his net worth was estimated between $430 million and $440 million. Multiple sources, including Wikipedia, confirm that Stripe's valuation in September 2019 after a funding round was $35 billion [54431]. This matches all the contextual clues and timeline provided in the question.\nExact Answer: $35 billion\nConfidence: 100%"
+    }
+  ]
+}

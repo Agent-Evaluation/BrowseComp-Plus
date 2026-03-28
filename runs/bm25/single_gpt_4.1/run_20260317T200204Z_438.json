@@ -1,0 +1,25 @@
+{
+  "query_id": "438",
+  "tool_call_counts": {
+    "search": 5
+  },
+  "status": "completed",
+  "retrieved_docids": [
+    "95999",
+    "84042",
+    "66334",
+    "46989",
+    "86876",
+    "34956",
+    "34199",
+    "79285",
+    "78989",
+    "97977"
+  ],
+  "result": [
+    {
+      "type": "output_text",
+      "output": "Explanation: Despite multiple searches, none of the retrieved documents provide the name of a wedding invitation designer or a printing company established in the mid-1980s that designed invitations for a 2014 wedding. The search results focus on unrelated topics or general information about the 1980s, printing, and designers, but do not mention a specific company or designer matching the question's criteria.\nExact Answer: Not found in the provided knowledge base.\nConfidence: 0%"
+    }
+  ]
+}

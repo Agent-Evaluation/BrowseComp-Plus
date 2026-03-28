@@ -1,0 +1,26 @@
+{
+  "query_id": "120",
+  "tool_call_counts": {
+    "search": 4
+  },
+  "status": "completed",
+  "retrieved_docids": [
+    "68092",
+    "32425",
+    "35318",
+    "49483",
+    "7456",
+    "26800",
+    "56828",
+    "37058",
+    "49933",
+    "42257",
+    "3040"
+  ],
+  "result": [
+    {
+      "type": "output_text",
+      "output": "Explanation: Despite multiple searches, none of the retrieved documents provide the explicit list of focused research questions or specifically the third research question for a recent international graduate school project on West African entrepreneurship with a supervisor who heads an exclusivity-focused institution. The closest matches are general dissertation abstracts and unrelated course listings, but none mention the specific research questions or the third one in particular.\nExact Answer: Not found in available sources.\nConfidence: 0%"
+    }
+  ]
+}

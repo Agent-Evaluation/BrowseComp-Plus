@@ -1,0 +1,24 @@
+{
+  "query_id": "1127",
+  "tool_call_counts": {
+    "search": 2
+  },
+  "status": "completed",
+  "retrieved_docids": [
+    "86987",
+    "42247",
+    "6671",
+    "42466",
+    "93466",
+    "99136",
+    "85070",
+    "91173",
+    "44239"
+  ],
+  "result": [
+    {
+      "type": "output_text",
+      "output": "Explanation: The AZA Aquatic Invertebrate Taxon Advisory Group, in association with the AZA Animal Welfare Committee, published a care manual specifically for the Japanese Spider Crab (Macrocheira kaempferi), matching the advisory group/animal welfare clue [86987]. A project to produce and release large numbers of offspring in Asia, capture of 162 ovigerous females, and environmental requirements (temperature, light, vibration, air quality) are all documented for Macrocheira kaempferi [99136]. All clues align with this species.\nExact Answer: Macrocheira kaempferi (Japanese Spider Crab)\nConfidence: 100%"
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "query_id": "170",
+  "tool_call_counts": {
+    "search": 20
+  },
+  "status": "completed",
+  "retrieved_docids": [
+    "45147",
+    "41035",
+    "95292",
+    "19264",
+    "75146",
+    "70633",
+    "73894",
+    "15758",
+    "77966",
+    "74337",
+    "20006",
+    "8038",
+    "5965",
+    "32327",
+    "79826",
+    "96157",
+    "3737",
+    "69135",
+    "95355",
+    "9119",
+    "46770",
+    "31426"
+  ],
+  "result": [
+    {
+      "type": "output_text",
+      "output": "Explanation: The search results confirm that Alan Alda, who played Hawkeye Pierce in M*A*S*H, contracted polio as a child and survived after a painful treatment [41035][74337][77966]. However, none of the documents directly confirm that a specific M*A*S*H episode was inspired by Alda's real-life polio experience, that he suggested the plot, received a producer credit, or that the writer had hospital experience. The evidence only establishes Alda's polio history and his role in M*A*S*H, but not the specific episode or production details required by the question.\nExact Answer: Insufficient evidence in current search results to answer definitively.\nConfidence: 40%"
+    }
+  ]
+}

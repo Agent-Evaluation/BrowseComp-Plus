@@ -1,0 +1,36 @@
+{
+  "query_id": "1187",
+  "tool_call_counts": {
+    "search": 21
+  },
+  "status": "completed",
+  "retrieved_docids": [
+    "65753",
+    "81894",
+    "74465",
+    "24994",
+    "49962",
+    "23187",
+    "95974",
+    "12696",
+    "1036",
+    "20241",
+    "19368",
+    "53021",
+    "51565",
+    "44959",
+    "34506",
+    "49204",
+    "86540",
+    "37433",
+    "62390",
+    "85940",
+    "18258"
+  ],
+  "result": [
+    {
+      "type": "output_text",
+      "output": "Explanation: The Sun Temple at Konark, Odisha, India, was inscribed as a UNESCO World Heritage Site in 1984, more than 35 years after India's independence in 1947. It is of religious significance, built in the 13th century during the reign of King Narasimhadeva I, a prominent emperor of the Eastern Ganga dynasty. The temple's iconic chariot wheel appears on the Indian 10 Rupee note [44959]. A replica of the Konark wheel is placed outside the United Nations headquarters in New York, a city on a different continent. The site is within 200 miles of the Jagannath Temple in Puri, another UNESCO site.\nExact Answer: Sun Temple, Konark, Odisha, India\nConfidence: 100%"
+    }
+  ]
+}

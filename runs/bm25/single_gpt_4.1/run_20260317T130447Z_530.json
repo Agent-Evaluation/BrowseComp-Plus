@@ -1,0 +1,25 @@
+{
+  "query_id": "530",
+  "tool_call_counts": {
+    "search": 5
+  },
+  "status": "completed",
+  "retrieved_docids": [
+    "20282",
+    "22259",
+    "50500",
+    "23156",
+    "77439",
+    "30459",
+    "39805",
+    "34826",
+    "86483",
+    "90120"
+  ],
+  "result": [
+    {
+      "type": "output_text",
+      "output": "Explanation: Despite multiple targeted searches, none of the retrieved documents provide any information about a 1990s incident involving a sports venue employee who was later arrested for domestic assault, nor do they mention the specific day, date, or month when the partner filed a domestic assault report. The search results are primarily legal code references and unrelated legislative or international reports, with no relevant case details or dates.\nExact Answer: Not found in the provided knowledge base.\nConfidence: 0%"
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "query_id": "725",
+  "tool_call_counts": {
+    "search": 9
+  },
+  "status": "completed",
+  "retrieved_docids": [
+    "62645",
+    "18948",
+    "79020",
+    "75801",
+    "33254",
+    "95171",
+    "37085",
+    "2040",
+    "798",
+    "92911",
+    "6640",
+    "27894",
+    "59011",
+    "22076",
+    "93588",
+    "84788",
+    "85487",
+    "15829",
+    "33562",
+    "15868",
+    "71991"
+  ],
+  "result": [
+    {
+      "type": "output_text",
+      "output": "Explanation: The search results did not provide a direct list of American-born basketball players who naturalized as citizens of China, Japan, South Korea, or Taiwan, along with their full birth names and birth dates. However, based on general knowledge, one of the most famous cases is Andray Blatche, who was born in the United States and later became a naturalized citizen of the Philippines (an East Asian country by FIBA classification). His full birth name is Andray Maurice Blatche. However, the Philippines is sometimes considered Southeast Asia, not East Asia. For China, a notable example is Stephon Marbury, but his full birth name is Stephon Xavier Marbury. For South Korea, Ricardo Ratliffe (now Ra Gun-ah) is a famous case, with the birth name Ricardo Preston Ratliffe. For Taiwan, Quincy Davis became a naturalized citizen, with the full birth name Quincy Spencer Davis III. None of the search results provided a direct match to the actor's birth date clue, but Quincy Davis is a prominent example fitting most criteria.\nExact Answer: Quincy Spencer Davis III\nConfidence: 60%"
+    }
+  ]
+}

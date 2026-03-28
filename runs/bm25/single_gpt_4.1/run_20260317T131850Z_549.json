@@ -1,0 +1,22 @@
+{
+  "query_id": "549",
+  "tool_call_counts": {
+    "search": 5
+  },
+  "status": "completed",
+  "retrieved_docids": [
+    "52885",
+    "46552",
+    "66328",
+    "7757",
+    "6499",
+    "62209",
+    "75207"
+  ],
+  "result": [
+    {
+      "type": "output_text",
+      "output": "Explanation: Despite multiple targeted searches, none of the retrieved documents provide the first and last name of the woman librarian who was the long-term partner of a writer and historian from the Dakotas, nor do they mention a biography with acknowledgements to a city historian and grand-nieces, or details about a Europe trip in the 1950s and her death in the late 1950s. The search results are either general obituaries, unrelated biographical entries, or institutional records without relevant specifics.\nExact Answer: Not found in provided search results.\nConfidence: 0%"
+    }
+  ]
+}

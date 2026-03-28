@@ -1,0 +1,24 @@
+{
+  "query_id": "1091",
+  "tool_call_counts": {
+    "search": 3
+  },
+  "status": "completed",
+  "retrieved_docids": [
+    "96851",
+    "60391",
+    "57820",
+    "70586",
+    "34625",
+    "42318",
+    "70764",
+    "30521",
+    "18963"
+  ],
+  "result": [
+    {
+      "type": "output_text",
+      "output": "Explanation: The search results indicate that Dr. Mohammed (Jalal) Ahamed is a Fulbright Canada Research Chair, director of the MicroNano Mechatronics Laboratory, and his research focuses on wearable inertial sensor-based control systems for treatment and rehabilitation strategies in Parkinson's disease—a disease known to cause speech impairment. He was a Fulbright scholar, and is a member of ASME and IEEE, matching the science association membership in 2022. All clues align with Dr. Mohammed Ahamed as the thesis director in question [70586].\nExact Answer: Dr. Mohammed (Jalal) Ahamed\nConfidence: 100%"
+    }
+  ]
+}

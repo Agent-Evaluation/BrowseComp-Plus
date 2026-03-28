@@ -1,0 +1,28 @@
+{
+  "query_id": "983",
+  "tool_call_counts": {
+    "search": 6
+  },
+  "status": "completed",
+  "retrieved_docids": [
+    "53092",
+    "93611",
+    "26897",
+    "15666",
+    "37294",
+    "22827",
+    "88195",
+    "34625",
+    "17258",
+    "29755",
+    "92975",
+    "8930",
+    "18948"
+  ],
+  "result": [
+    {
+      "type": "output_text",
+      "output": "Explanation: Despite multiple targeted searches, no search result provided a snippet from an article matching all the criteria (2020–2023, 5 lessons from \"Schitt's Creek,\" three authors, one a graduate teaching assistant nominee, each from a different school, 450 miles apart, and citing episode titles for each lesson). No evidence was found for the episode title cited for the first lesson.\nExact Answer: Not found in search results.\nConfidence: 0%"
+    }
+  ]
+}

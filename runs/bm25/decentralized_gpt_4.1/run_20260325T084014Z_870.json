@@ -1,0 +1,63 @@
+{
+  "query_id": "870",
+  "tool_call_counts": {
+    "search": 34
+  },
+  "status": "completed",
+  "retrieved_docids": [
+    "18948",
+    "5238",
+    "85487",
+    "24843",
+    "95292",
+    "99494",
+    "71991",
+    "72142",
+    "99022",
+    "62645",
+    "65412",
+    "40560",
+    "38901",
+    "75422",
+    "50601",
+    "31267",
+    "8930",
+    "18890",
+    "50045",
+    "75146",
+    "17462",
+    "2422",
+    "12980",
+    "66328",
+    "53092",
+    "62209",
+    "12636",
+    "6316",
+    "78195",
+    "88661",
+    "36281",
+    "5898",
+    "44665",
+    "69430",
+    "12900",
+    "20494",
+    "92975",
+    "52885",
+    "9479",
+    "73031",
+    "17929",
+    "98887",
+    "90120",
+    "81825",
+    "89601",
+    "46552",
+    "41014",
+    "9874"
+  ],
+  "result": [
+    {
+      "type": "output_text",
+      "output": "Search results for 'Author born in the 1950s, died between 2015 and 2022, who founded a publishing company in 2003, started a magazine with a co-author nominated twice for a Hugo or Nebula in the 1990s, and the name of their spouse':\n\n[DocID: 20494] (score: 26.6676)\n---\ntitle: George R. R. Martin - Wikipedia\ndate: 2001-06-15\n---\nname: George R. R. Martin\nbirth_name: George Raymond Martin\nbirth_date: 20 09 1948\nbirth_place: Bayonne, New Jersey, U.S.\noccupation: Novelist, television writer, short story writer\neducation: Northwestern University (BS, MS)\ngenre: Fantasy, horror, science fiction\nspouses: |}}\nsignature: George R. R. Martin signature.svg\nnotable_works: A Song of Ice and Fire, Wild Cards anthology series, The Thousand World stories\nperiod: 1965–present\n\nGeorge Raymond Richard Martin (born George Raymond Martin; September 20, 1948) also known by the initials G.R.R.M. is an American author, television writer, and television producer. He is best known as the author of the unfinished series of epic fantasy novels A Song of Ice and Fire, which were adapted into the Primetime Emmy Award–winning television series Game of Thrones (2011–2019) and its prequel series House of the Dragon (2022–present). He also helped create the Wild Cards anthology series and contributed worldbuilding for the video game Elden Ring (2022).\n\nIn 2005, Lev Grossman of Time called Martin \"the American Tolkien\", and in 2011, he was included on the annual Time 100 list of the most influential people in the world. He is a longtime resident of Santa Fe, New Mexico, where he helped fund Meow Wolf and owns the Jean Cocteau Cinema. The city commemorates March 29 as George R. R. Martin Day.\n\nEarly life\n\nGeorge Raymond Martin (he adopted the confirmation name Richard at 13 years old) was born on September 20, 1948, in Bayonne, New Jersey, the son of longshoreman Raymond Collins Martin and Margaret Brady Martin. His mother's family had once been wealthy, owning a successful construction business, but lost it all in the Great Depression, something Martin was reminded about every day when he passed what used to be his family's dock and house. He has two younger sisters, Darleen and Jane. He is predominantly of Irish descent; a DNA test on the series Finding Your Roots showed him to be 5\n\n---\n\n[DocID: 69430] (score: 25.5912)\n---\ntitle: Birthdays of Authors: Home\ndate: 2022-05-21\n---\n');\n\nSkip to Main ContentBirthdays of Selected Author\n\nFrom \n\nJANUARY\n\nCarl Sandburg,(1878 -1967), Illinois poet and Lincoln biographer. January 6,\n\nKhalil Gibran (1883; d.1931), Lebanese mystic poet, famous for The Prophet. January 6\n\nZora Neale Hurston, (1903-1960), African-American novelist. Their Eyes Were Watching God (1937). January 7\n\nStephen [William] Hawking (1942), English physicist and author. A Brief History of Time: From Big Bang to Black Holes (1988). January 8\n\nBenjamin Franklin (1706; d.1790), American statesman, philosopher, scientist, printer, writer. Farmer's Almanac. January 17\n\nAnton Chekhov (1860; birthdate is 29 Jan. in new calendar; d.1904), Russian playwright and short-story writer. Uncle Vanya, Three Sisters, and The Cherry Orchard. January 17\n\nA[lan] A[lexander] Milne, (1882; d.1956), Winnie-the-Pooh creator and mathematician. January 18\n\nEdgar Allan Poe (1809-1849), inventor of the detective fiction genre. 'The Raven' January 19\n\nEdith Wharton (1862; d.1937), who won the 1920 Pulitzer Prize for The Age of Innocence. January 24\n\nW[illiam] Somerset Maugham, (1874; d.1965), English novelist and poet. The razor's Edge, Of Human Bondage. January 25\n\nVirginia Woolf, (1882; d.1941), Mrs Dalloway (1925), To the Lighthouse (1927) and Orlando (1928), and the book-length essay A Room of One's Own (1929). January 25\n\nLewis Carroll (1832; d.1898), born Charles Lutwidge\n\n---\n\n[DocID: 12636] (score: 25.0193)\n---\ntitle: Philip K. Dick - Wikipedia\nauthor: Authority control databases\ndate: 2001-11-06\n---\nbirth_name: Philip Kindred Dick\nalt: A black-and-white photo of Dick seated\npseudonym: * Richard Phillipps, * Jack Dowland\nbirth_date: 16 December 1928\nbirth_place: Chicago, Illinois, U.S.\ndeath_date: 02 03 1982\ndeath_place: Santa Ana, California, U.S.\nspouse: ||||}}\nchildren: 3, including Isa\noccupation: Novelist, short story writer, essayist\nperiod: 1951–1982\ngenre: Science fiction, paranoid fiction, philosophical fiction\nmovement: Postmodernism\nnotableworks: * Ubik, * Do Androids Dream of Electric Sheep?, * The Man in the High Castle, * A Scanner Darkly, * Flow My Tears, the Policeman Said, * VALIS trilogy, * \"Second Variety\", * We Can Remember It For You Wholesale\nsignature: Philip K Dick signature.svg\n\nPhilip Kindred Dick (December 16, 1928 – March 2, 1982) was an American science fiction writer and novelist. He wrote 44 novels and about 121 short stories, most of which appeared in science fiction magazines during his lifetime. His fiction explored varied philosophical and social questions such as the nature of reality, perception, human nature, and identity, and commonly featured characters struggling against elements such as alternate realities, illusory environments, monopolistic corporations, drug abuse, authoritarian governments, and altered states of consciousness. He is considered one of the most important figures in 20th-century science fiction.\n\nBorn in Chicago, Dick moved to the San Francisco Bay Area with his family at a young age. He began publishing science fiction stories in 1952, at age 23. He found little commercial success until his alternative history novel The Man in the High Castle (1962) earned him acclaim, including a Hugo Award for Best Novel, when he was 33. He followed with science fiction novels such as Do Androids Dream of Electric Sheep? (1968) and Ubik (1969). His 1974 novel Flow My Tears, the Policeman Said won the John W. Campbell Memorial Award for Best Science Fiction Novel\n\n---\n\n[DocID: 81825] (score: 24.2914)\n---\ntitle: Octavia E. Butler - Wikipedia\nauthor: Authority control databases\ndate: 2003-01-24\n---\nname: Octavia E. Butler\nbirth_name: Octavia Estelle Butler\nbirth_date: 22 June 1947\nbirth_place: Pasadena, California, U.S.\ndeath_date: 24 February 2006\ndeath_place: Lake Forest Park, Washington, U.S.\noccupation: Writer\neducation: Pasadena City College (AA)California State University, Los Angeles\nperiod: 1970–2006\ngenre: Science fiction\nawards: MacArthur FellowHugo AwardNebula AwardSee list\nsignature: Octavia E. Butler signature.svg\nwebsite: octaviabutler.com Official website\n\nOctavia Estelle Butler (June 22, 1947 – February 24, 2006) was an American science fiction writer who won several awards for her works, including Hugo, Locus, and Nebula awards. In 1995, Butler became the first science-fiction writer to receive a MacArthur Fellowship.Crossley, Robert. \"Critical Essay.\" In Kindred, by Octavia Butler. Boston: Beacon, 2004. \n\nBorn in Pasadena, California, Butler was raised by her widowed mother. She was extremely shy as a child, but Butler found an outlet at the library reading fantasy, and in writing. She began writing science fiction as a teenager. Butler attended community college during the Black Power movement in the 1960s. While participating in a local writer's workshop, she was encouraged to attend the Clarion Workshop which focused on science fiction. She sold her first stories soon after, and by the late 1970s had become sufficiently successful as an author to be able to write full-time. \n\nButler's books and short stories drew the favorable attention of critics and the public, and awards soon followed. She also taught writer's workshops, and spoke about her experiences as an African American, using such themes in science fiction. She eventually relocated to Washington. Butler died of a stroke at the age of 58. Her papers are held in the research collection of the Huntington Library in San Marino, California.\n\nEarly life\n\nOctavia Estelle Butler was born in Pasadena, California, the only child of Octavia Margaret Guy, a housemaid, and Laurice James\n\n---\n\n[DocID: 89601] (score: 23.8305)\n---\ntitle: Hugo\nauthor: People\ndate: 2011-06-08\n---\nHugo\n\nEntry updated 24 February 2025. Tagged: Award.\n\nThe annual awards given by the World SF Society, comprising members of the Worldcon. The awards were originally known as the Science Fiction Achievement Awards while affectionately termed Hugos in honour of Hugo Gernsback; the name was officially changed to the Hugo Awards when the US authorities declined to allow a service mark on the original name. Hugos were first awarded at the 1953 World SF Convention (see Worldcon); the idea was then dropped for a year (1954), but since 1955 the awards have been annual. They have always been fan-voted awards as opposed to, say, the Nebula or Philip K Dick Award, which are voted on by different categories of professional reader. The original idea, from fan Hal Lynch, was based on the National Film Academy Awards (Oscars). The award takes the form of a rocketship mounted upright on fins. The first model was designed and produced by Jack McKnight; from 1955 a similar design by Ben Jason has normally been used. The rockets have been cast since 1984 (except 1991) in Birmingham, UK, at the foundry of prominent fan Peter Weston; in 1992 they were gold-plated to celebrate the 50th Worldcon, and again in 2003 for the 50th anniversary of the first presentation. The base of the trophy is different every year, with modern Worldcons normally running a competition for the best design.\n\nAwards are made in several categories, which have varied in definition and number from year to year. They are given primarily for fiction, but categories for editing, artwork, film and television, fan writing and illustration have also been included. The rules governing awards are made, and often remade, at Worldcon business meetings, held annually. Occasional special awards are made by Worldcon committees, but these are not generally actual Hugos. The exception is that each Worldcon committee has the right to add one additional category. This power is usually used for trials of proposed new categories.\n\nWorks with a specific publication date, such as fiction or dramatic presentations, are normally eligible for Hugos if published in the year before the presenting Worldcon. This was not always"
+    }
+  ]
+}

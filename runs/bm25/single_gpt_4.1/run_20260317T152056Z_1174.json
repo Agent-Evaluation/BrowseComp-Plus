@@ -1,0 +1,29 @@
+{
+  "query_id": "1174",
+  "tool_call_counts": {
+    "search": 5
+  },
+  "status": "completed",
+  "retrieved_docids": [
+    "45531",
+    "63606",
+    "42109",
+    "19326",
+    "53607",
+    "9488",
+    "41554",
+    "95292",
+    "76494",
+    "79826",
+    "798",
+    "15913",
+    "30965",
+    "18948"
+  ],
+  "result": [
+    {
+      "type": "output_text",
+      "output": "Explanation: The clues specify two Oscar-nominated movies (1980–2020) where the director and writer are the same person: one with an animal in the title, one with a mythological creature. The directors' birthplaces are New York, France, Colorado, Illinois, and Ohio. The only plausible match is the 2000 Oscars, Best Original Screenplay: \"The Sixth Sense\" (M. Night Shyamalan, Pennsylvania—not a match), and \"The Green Mile\" (Frank Darabont, France). However, the 2004 Oscars, Best Original Screenplay, had \"Lost in Translation\" (Sofia Coppola, New York), \"In America\" (Jim Sheridan, Ireland), \"Finding Nemo\" (Andrew Stanton, Massachusetts), \"Dirty Pretty Things\" (Stephen Frears, England), and \"The Barbarian Invasions\" (Denys Arcand, Quebec). None fit all clues. No direct evidence found, but based on the clues, the most likely is the 2000 Oscars, Best Original Screenplay, with \"The Green Mile\" (France) and \"The Sixth Sense\" (animal: sense, not literal; mythological: mile, not literal). Confidence is low due to lack of direct evidence.\nExact Answer: 2000 Oscars, Best Original Screenplay\nConfidence: 30%"
+    }
+  ]
+}

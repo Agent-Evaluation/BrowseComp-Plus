@@ -1,0 +1,24 @@
+{
+  "query_id": "190",
+  "tool_call_counts": {
+    "search": 24
+  },
+  "status": "completed",
+  "retrieved_docids": [
+    "84059",
+    "95292",
+    "66756",
+    "75146",
+    "62609",
+    "95561",
+    "28982",
+    "41035",
+    "88350"
+  ],
+  "result": [
+    {
+      "type": "output_text",
+      "output": "Explanation: The only search result with relevant biographical detail is [66756], which discusses Keanu Reeves. He is known to have never married as of 2023, has a sibling (Kim Reeves) who is also an actor, and is famous for his debut in \"Bill & Ted's Excellent Adventure,\" a highly successful film. However, there is no evidence in the snippet about a US university degree from an institution established in the 1800s, a 2006 flight controversy, a grandfather who was a lawyer/politician with a street named after him, or a 2019 reality show guest appearance. No other search result provides a better match or additional evidence for any other actor.\nExact Answer: Keanu Reeves (tentative, based on partial evidence)\nConfidence: 60%"
+    }
+  ]
+}

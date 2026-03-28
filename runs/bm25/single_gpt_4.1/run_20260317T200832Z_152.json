@@ -1,0 +1,26 @@
+{
+  "query_id": "152",
+  "tool_call_counts": {
+    "search": 5
+  },
+  "status": "completed",
+  "retrieved_docids": [
+    "12980",
+    "35701",
+    "82044",
+    "84059",
+    "22742",
+    "47593",
+    "71781",
+    "546",
+    "33781",
+    "6316",
+    "5965"
+  ],
+  "result": [
+    {
+      "type": "output_text",
+      "output": "Explanation: Despite multiple targeted searches, no relevant results were found listing an Italian singer born in the 1920s, who released their first album between 1963 and 1975, had five children, was divorced twice, died between 1999 and 2010, and whose debut album featured songs by a songwriter who died between 1958 and 1966 and married their second spouse in the 1950s. The search results returned unrelated information or did not match the criteria.\nExact Answer: No answer found based on available search results.\nConfidence: 0%"
+    }
+  ]
+}

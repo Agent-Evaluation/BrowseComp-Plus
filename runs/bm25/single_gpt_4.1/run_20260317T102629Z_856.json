@@ -1,0 +1,32 @@
+{
+  "query_id": "856",
+  "tool_call_counts": {
+    "search": 4
+  },
+  "status": "completed",
+  "retrieved_docids": [
+    "18726",
+    "36106",
+    "3737",
+    "68181",
+    "88350",
+    "57215",
+    "61541",
+    "11891",
+    "88981",
+    "34680",
+    "84059",
+    "12980",
+    "6316",
+    "6277",
+    "65139",
+    "66756",
+    "41035"
+  ],
+  "result": [
+    {
+      "type": "output_text",
+      "output": "Explanation: The search results do not provide direct evidence of an artist who performed his last two U.S. shows in 2022 and matches all the other criteria (graduated from a school in a capital city between 1990-1993, starred in a show whose pilot aired 1991-1999, debut movie released 1994-2003). The closest matches (Tony Todd, Keanu Reeves, Sally Kellerman) do not fit all criteria, and no result confirms a 2022 final U.S. performance for any of them. No evidence found for a definitive answer.\nExact Answer: No conclusive answer found based on available evidence.\nConfidence: 0%"
+    }
+  ]
+}

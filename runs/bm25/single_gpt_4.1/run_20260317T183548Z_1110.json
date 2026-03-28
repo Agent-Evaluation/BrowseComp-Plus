@@ -1,0 +1,30 @@
+{
+  "query_id": "1110",
+  "tool_call_counts": {
+    "search": 6
+  },
+  "status": "completed",
+  "retrieved_docids": [
+    "28715",
+    "53440",
+    "96649",
+    "20674",
+    "75003",
+    "78778",
+    "17830",
+    "81517",
+    "43704",
+    "81069",
+    "1559",
+    "90492",
+    "16437",
+    "75478",
+    "46928"
+  ],
+  "result": [
+    {
+      "type": "output_text",
+      "output": "Explanation: Despite multiple targeted searches, none of the results provided a direct match for a video game soundtrack album released between 2010 and 2022 with a 96-minute runtime, a 23rd track containing \"times,\" and a composer with both film and game credits involving the same character/actor. No tracklists or album details surfaced that would allow identification of the 10th track under these constraints. The closest results were general lists of top soundtracks and composer profiles, but none matched all the criteria or revealed the 10th track's name.\nExact Answer: Not found in available sources\nConfidence: 0%"
+    }
+  ]
+}

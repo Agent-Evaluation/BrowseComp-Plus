@@ -1,0 +1,36 @@
+{
+  "query_id": "883",
+  "tool_call_counts": {
+    "search": 24
+  },
+  "status": "completed",
+  "retrieved_docids": [
+    "21985",
+    "25459",
+    "49635",
+    "82586",
+    "40349",
+    "58822",
+    "16529",
+    "40267",
+    "60480",
+    "62389",
+    "70633",
+    "97958",
+    "17112",
+    "99494",
+    "39904",
+    "38077",
+    "43603",
+    "5385",
+    "64031",
+    "66579",
+    "50335"
+  ],
+  "result": [
+    {
+      "type": "output_text",
+      "output": "Explanation: After reviewing the search results, none provide direct evidence of a movie-themed video game from 1990-1995, released on at least four platforms, with platform-specific background images, rebooted between 2005-2009, and a coder who worked on a rabbit fighting game (such as Jazz Jackrabbit). The results discuss game creators (e.g., Ed Boon for Mortal Kombat), but Mortal Kombat is not movie-themed nor does it fit the other clues. No evidence confirms a game matching all criteria.\nExact Answer: No definitive answer found in the provided evidence.\nConfidence: 0%"
+    }
+  ]
+}

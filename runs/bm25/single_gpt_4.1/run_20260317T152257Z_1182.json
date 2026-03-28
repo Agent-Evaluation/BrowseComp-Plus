@@ -1,0 +1,22 @@
+{
+  "query_id": "1182",
+  "tool_call_counts": {
+    "search": 3
+  },
+  "status": "completed",
+  "retrieved_docids": [
+    "95292",
+    "19264",
+    "45725",
+    "75146",
+    "45147",
+    "20307",
+    "28982"
+  ],
+  "result": [
+    {
+      "type": "output_text",
+      "output": "Explanation: None of the search results provide a direct match for all the clues: youngest of three siblings, born before 1951, first marriage in 1969, career began with a small movie role, teenage film scene cut, regrets leading a project, dislikes blockbusters, and collaborated with a friend on an adaptation of a famous play. The closest matches (Tony Curtis, Al Pacino, Tom Cruise, Bill Paxton) do not fit all criteria, especially regarding sibling order, marriage date, or the specific collaboration/adaptation clue.\nExact Answer: Insufficient evidence to determine\nConfidence: 0%"
+    }
+  ]
+}

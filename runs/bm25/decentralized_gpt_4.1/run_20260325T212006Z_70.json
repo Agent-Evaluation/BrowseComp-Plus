@@ -1,0 +1,37 @@
+{
+  "query_id": "70",
+  "tool_call_counts": {
+    "search": 29
+  },
+  "status": "completed",
+  "retrieved_docids": [
+    "79020",
+    "48097",
+    "62890",
+    "48828",
+    "66614",
+    "21603",
+    "62609",
+    "82543",
+    "45036",
+    "77348",
+    "95292",
+    "60418",
+    "79826",
+    "17462",
+    "8930",
+    "6316",
+    "59490",
+    "18948",
+    "84059",
+    "77586",
+    "56616",
+    "798"
+  ],
+  "result": [
+    {
+      "type": "output_text",
+      "output": "Explanation: None of the search results provide direct evidence identifying an Asian actor born in the 1950s, known for antagonist roles, whose debut TV series matches the complex criteria described (including the drama adapted from a post-1950/pre-1970 novel about two religious groups in rural Asia, with the novelist's spouse winning a literary award 2013-2023, and a final film directed by someone with three US arts degrees whose second film starred a former rugby player). The search results are either unrelated (e.g., about British or American actors, general TV history, or awards) or do not mention a debut TV series for any relevant actor. No evidence was found to answer the question.\nExact Answer: Not found in available search results.\nConfidence: 0%"
+    }
+  ]
+}

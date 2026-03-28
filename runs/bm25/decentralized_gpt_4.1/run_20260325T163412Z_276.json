@@ -1,0 +1,43 @@
+{
+  "query_id": "276",
+  "tool_call_counts": {
+    "search": 24
+  },
+  "status": "completed",
+  "retrieved_docids": [
+    "50404",
+    "53092",
+    "31859",
+    "43729",
+    "28680",
+    "81545",
+    "48172",
+    "16503",
+    "20585",
+    "35774",
+    "4235",
+    "75527",
+    "14572",
+    "27967",
+    "86902",
+    "20847",
+    "80205",
+    "89145",
+    "64166",
+    "25840",
+    "34435",
+    "90644",
+    "31747",
+    "19399",
+    "14593",
+    "5954",
+    "21737",
+    "1974"
+  ],
+  "result": [
+    {
+      "type": "output_text",
+      "output": "Explanation: None of the search results directly mention a 2015 magazine article about an entrepreneur known for exaggerating facts about rivers and camping, nor do they mention a specific expedition for which such a person was listed before the age of twenty. The closest relevant results discuss the American frontier and the Lewis and Clark Expedition, which involved exploration and tales of rivers and camping, but there is no evidence connecting these to a 2015 magazine article or a young entrepreneur. No result provides the name of an expedition matching all the parameters.\nExact Answer: Not found in available sources.\nConfidence: 0%"
+    }
+  ]
+}

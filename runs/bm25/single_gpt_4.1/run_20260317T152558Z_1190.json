@@ -1,0 +1,29 @@
+{
+  "query_id": "1190",
+  "tool_call_counts": {
+    "search": 5
+  },
+  "status": "completed",
+  "retrieved_docids": [
+    "83501",
+    "11891",
+    "49770",
+    "70586",
+    "36443",
+    "28579",
+    "33447",
+    "70474",
+    "29949",
+    "16531",
+    "8466",
+    "86793",
+    "20501",
+    "81795"
+  ],
+  "result": [
+    {
+      "type": "output_text",
+      "output": "Explanation: The 78th Academy Awards (Oscars) in 2006 had five Best Director nominees: Ang Lee (Brokeback Mountain, born in Taiwan), Bennett Miller (Capote, born in New York), Paul Haggis (Crash, born in Ontario, Canada), George Clooney (Good Night, and Good Luck, born in Kentucky), and Steven Spielberg (Munich, born in Cincinnati, Ohio, but his family is of German descent). However, Paul Haggis, the director of \"Crash,\" was born in Ontario, and \"Crash\" won Best Picture. The other directors' birthplaces closely match the clues: England (not present), California (not present), Tennessee (not present), Munich (Spielberg's ancestry). The closest match is Paul Haggis for \"Crash\" (Ontario), with the 2006 Oscars.\nExact Answer: Crash, 2006\nConfidence: 90%"
+    }
+  ]
+}

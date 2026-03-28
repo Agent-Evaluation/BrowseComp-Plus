@@ -1,0 +1,31 @@
+{
+  "query_id": "54",
+  "tool_call_counts": {
+    "search": 6
+  },
+  "status": "completed",
+  "retrieved_docids": [
+    "62209",
+    "52885",
+    "75146",
+    "18948",
+    "66328",
+    "82543",
+    "3749",
+    "64166",
+    "53240",
+    "21241",
+    "8930",
+    "33254",
+    "82603",
+    "51898",
+    "50903",
+    "34806"
+  ],
+  "result": [
+    {
+      "type": "output_text",
+      "output": "Explanation: The search results mention \"The Sexual Life of an Islamist in Paris\" by Leïla Marouane as a French novel that is a cultural analysis and has been banned in its country of setting (Algeria). The book is listed under Algeria in a curated list of world literature, and Leïla Marouane is a French-Algerian author whose biography matches several clues: she failed university entrance exams, worked in journalism (her parents' field), and her work is known for exploring pain and exile. The English title is explicitly given as \"The Sexual Life of an Islamist in Paris\" [34806].\nExact Answer: The Sexual Life of an Islamist in Paris\nConfidence: 85%"
+    }
+  ]
+}

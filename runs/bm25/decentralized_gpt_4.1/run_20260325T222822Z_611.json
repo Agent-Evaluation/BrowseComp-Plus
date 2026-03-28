@@ -1,0 +1,29 @@
+{
+  "query_id": "611",
+  "tool_call_counts": {
+    "search": 13
+  },
+  "status": "completed",
+  "retrieved_docids": [
+    "43528",
+    "32940",
+    "45601",
+    "20768",
+    "10945",
+    "52708",
+    "67355",
+    "19664",
+    "61686",
+    "39033",
+    "30226",
+    "86724",
+    "44721",
+    "61813"
+  ],
+  "result": [
+    {
+      "type": "output_text",
+      "output": "Explanation: The evidence from [43528] confirms that Yuvraj Singh was born on 12 December 1981 in Chandigarh, India. His ODI debut was on 3 October 2000 against Kenya, which fits the debut time frame and opponent. Chandigarh was the second most populated city in India according to the 2001 census, matching the city criterion. The other details about his debut performances and siblings are consistent with public records, and no conflicting evidence was found.\nExact Answer: 12/12/1981\nConfidence: 100%"
+    }
+  ]
+}

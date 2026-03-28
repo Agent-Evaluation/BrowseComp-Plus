@@ -1,0 +1,37 @@
+{
+  "query_id": "350",
+  "tool_call_counts": {
+    "search": 17
+  },
+  "status": "completed",
+  "retrieved_docids": [
+    "29127",
+    "97455",
+    "15868",
+    "11509",
+    "53151",
+    "70530",
+    "34199",
+    "798",
+    "14593",
+    "35146",
+    "64031",
+    "68122",
+    "3039",
+    "12918",
+    "59490",
+    "50187",
+    "66320",
+    "43943",
+    "76706",
+    "83692",
+    "21603",
+    "92506"
+  ],
+  "result": [
+    {
+      "type": "output_text",
+      "output": "Explanation: After reviewing the search results and peer responses, there is no direct evidence identifying a family business taken over in the 1970s by a couple, specializing in a fruit-based product, and receiving a hallmark award from a global brand in the 1990s. The only detailed company mentioned is Hallmark Cards, Inc., which is unrelated to food or preserves [29127]. No other results mention a business matching all the criteria. Therefore, I agree with the peers that there is insufficient evidence to determine the business name.\nExact Answer: Insufficient evidence to determine the business name.\nConfidence: 0%"
+    }
+  ]
+}

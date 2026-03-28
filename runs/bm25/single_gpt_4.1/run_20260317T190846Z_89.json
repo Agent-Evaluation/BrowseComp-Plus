@@ -1,0 +1,30 @@
+{
+  "query_id": "89",
+  "tool_call_counts": {
+    "search": 3
+  },
+  "status": "completed",
+  "retrieved_docids": [
+    "70622",
+    "22055",
+    "15718",
+    "12900",
+    "27226",
+    "3255",
+    "69430",
+    "37410",
+    "27933",
+    "59376",
+    "88377",
+    "83998",
+    "6499",
+    "79928",
+    "54992"
+  ],
+  "result": [
+    {
+      "type": "output_text",
+      "output": "Explanation: The research paper titled \"The 1910's Ax Murders: An overview of the crimes and the McClaughry theory\" by Beth H. Klingensmith, submitted for a graduate seminar at Emporia State University (founded in the early 1860s in Kansas), matches all the clues. The paper discusses a threatening letter found on the stairway of the Justice's office in a case involving an unhappy couple. The specific title/name given to this letter in the research paper is not directly quoted in the snippet, but the context and unique details confirm the document.\nExact Answer: The 1910's Ax Murders: An overview of the crimes and the McClaughry theory\nConfidence: 90%"
+    }
+  ]
+}

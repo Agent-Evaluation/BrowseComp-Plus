@@ -1,0 +1,32 @@
+{
+  "query_id": "749",
+  "tool_call_counts": {
+    "search": 7
+  },
+  "status": "completed",
+  "retrieved_docids": [
+    "24994",
+    "95171",
+    "88273",
+    "41901",
+    "65877",
+    "71575",
+    "43056",
+    "28150",
+    "59328",
+    "69168",
+    "195",
+    "16621",
+    "76041",
+    "67820",
+    "5188",
+    "67966",
+    "59572"
+  ],
+  "result": [
+    {
+      "type": "output_text",
+      "output": "Explanation: The kingdom in question is Buganda, located in the central region of Uganda, known for its rich cultural heritage. The founder and early leader of Buganda was Kabaka Kato Kintu, but a prominent leader who helped shape the kingdom and is often referenced in historical and literary works is Kabaka Mutesa I. The poem \"Stanley Meets Mutesa\" by Prof. David Rubadiri highlights the historical significance of Kabaka Mutesa I. There is a Ugandan telecommunications expert named Mutesa, sharing the name with the Buganda king, which fits the criteria in the question. However, the search results do not provide a full professional biography of the telecommunications expert, but the name \"Mutesa\" is clearly associated with both the Buganda king and a modern Ugandan professional.\nExact Answer: Mutesa\nConfidence: 80%"
+    }
+  ]
+}

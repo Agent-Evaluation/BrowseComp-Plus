@@ -1,0 +1,32 @@
+{
+  "query_id": "239",
+  "tool_call_counts": {
+    "search": 23
+  },
+  "status": "completed",
+  "retrieved_docids": [
+    "57164",
+    "98887",
+    "41740",
+    "9580",
+    "66328",
+    "34199",
+    "29886",
+    "76542",
+    "82413",
+    "27967",
+    "70474",
+    "90236",
+    "34435",
+    "6499",
+    "79826",
+    "28680",
+    "51047"
+  ],
+  "result": [
+    {
+      "type": "output_text",
+      "output": "Explanation: After reviewing the search results, none provide direct evidence identifying the first name of the wife of the Washington hotelier and farmer described in the question. The Archives West finding aids [57164][41740] list collections and names but do not contain the specific biographical or family details required. No document snippet mentions a relevant individual's wife or her first name, nor do they connect a family game in a museum or a Montana historic list to a specific person or spouse. I agree with the other agents' conclusions based on the available evidence.\nExact Answer: Not found in available sources\nConfidence: 0%"
+    }
+  ]
+}

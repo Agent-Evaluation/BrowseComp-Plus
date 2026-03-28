@@ -1,0 +1,24 @@
+{
+  "query_id": "970",
+  "tool_call_counts": {
+    "search": 23
+  },
+  "status": "completed",
+  "retrieved_docids": [
+    "55772",
+    "19264",
+    "82044",
+    "52885",
+    "95292",
+    "47593",
+    "66328",
+    "41035",
+    "50045"
+  ],
+  "result": [
+    {
+      "type": "output_text",
+      "output": "Explanation: After two rounds of searching, none of the results provide evidence matching all the clues: a French person born in the 1930s, with a musician sibling, whose first spouse died of cancer between 1995-2005, remarried in the 1960s, had a child who became an actor, appeared in a film between 1957-1967 directed by a director born in the 1920s who died in Rome and had one child, and died in the 2000s. The results mention Tony Curtis (Bernard Schwartz) and Walter Matthau, but neither fits the French nationality or all the other criteria. No full birth name matching the query is found.\nExact Answer: No answer found in current search results.\nConfidence: 0%"
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "query_id": "324",
+  "tool_call_counts": {
+    "search": 11
+  },
+  "status": "completed",
+  "retrieved_docids": [
+    "42885",
+    "2422",
+    "798",
+    "70710",
+    "24547",
+    "80285",
+    "61674",
+    "43298",
+    "55936",
+    "91786",
+    "4649",
+    "9722",
+    "93649",
+    "24297",
+    "44810",
+    "68364",
+    "25224"
+  ],
+  "result": [
+    {
+      "type": "output_text",
+      "output": "Explanation: I agree with my peers' proposals. The question's details about player X (pianist, web designer, won a major event between 2009 and 2015, third major tournament, specific heads-up play, and final table composition) match Vanessa Hellebuyck, who won the 2010 WSOP Ladies No-Limit Hold'em Championship. Multiple sources confirm that Svetlana Gromenkova won the same event in 2008, two years before Hellebuyck [42885][4649]. The evidence is consistent and well-supported.\nExact Answer: Svetlana Gromenkova\nConfidence: 100%"
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "query_id": "87",
+  "tool_call_counts": {
+    "search": 4
+  },
+  "status": "completed",
+  "retrieved_docids": [
+    "18948",
+    "22762",
+    "94603",
+    "23473",
+    "48467",
+    "39753",
+    "51045",
+    "47932",
+    "74652",
+    "53074",
+    "38244",
+    "16928"
+  ],
+  "result": [
+    {
+      "type": "output_text",
+      "output": "Explanation: None of the search results directly address the specific scenario described in the question. No evidence was found of a 2010 report or interview involving a translator and the last speaker of a rare language near a river with different names in two countries, nor of a linguist's classification or the speaker refusing to sell land. The search results mostly discuss general language endangerment, Austronesian peoples, and unrelated topics.\nExact Answer: Insufficient evidence to answer.\nConfidence: 0%"
+    }
+  ]
+}

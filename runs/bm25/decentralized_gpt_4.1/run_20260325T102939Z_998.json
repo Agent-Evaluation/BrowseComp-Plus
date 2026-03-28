@@ -1,0 +1,39 @@
+{
+  "query_id": "998",
+  "tool_call_counts": {
+    "search": 20
+  },
+  "status": "completed",
+  "retrieved_docids": [
+    "42714",
+    "2431",
+    "67821",
+    "19459",
+    "31852",
+    "27204",
+    "92074",
+    "35440",
+    "81546",
+    "4401",
+    "84059",
+    "75146",
+    "83950",
+    "8410",
+    "48686",
+    "16086",
+    "77863",
+    "50962",
+    "66450",
+    "70204",
+    "70691",
+    "81183",
+    "12980",
+    "30804"
+  ],
+  "result": [
+    {
+      "type": "output_text",
+      "output": "Explanation: The evidence from [35440] and [8410] confirms that Majida El Roumi released her first solo album \"Wadaa\" in 1976, which fits the 1975-1978 window. She was named a United Nations Goodwill Ambassador in 2001. These sources also establish her ongoing musical activity, including releases in the 2000s. The peer agents' answers are well-supported by this evidence, and no contradictory information was found in the search results.\nExact Answer: Majida El Roumi\nConfidence: 100%"
+    }
+  ]
+}

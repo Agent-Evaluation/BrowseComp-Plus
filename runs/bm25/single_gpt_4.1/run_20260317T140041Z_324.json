@@ -1,0 +1,24 @@
+{
+  "query_id": "324",
+  "tool_call_counts": {
+    "search": 2
+  },
+  "status": "completed",
+  "retrieved_docids": [
+    "80285",
+    "42885",
+    "2422",
+    "51942",
+    "91786",
+    "4649",
+    "9722",
+    "93649",
+    "24297"
+  ],
+  "result": [
+    {
+      "type": "output_text",
+      "output": "Explanation: Vanessa Hellebuyck won the 2010 WSOP Ladies Championship, and the event was her third major tournament, matching the description of player X. The winner of the same event two years before Hellebuyck (i.e., in 2008) was Svetlana Gromenkova, as mentioned in the context: \"Hellebuyck also became only the second non-American ever to win the Ladies Championship. The first was Svetlana Gromenkova from Russia, who won in 2008\" [42885].\nExact Answer: Svetlana Gromenkova\nConfidence: 100%"
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "query_id": "745",
+  "tool_call_counts": {
+    "search": 17
+  },
+  "status": "completed",
+  "retrieved_docids": [
+    "14467",
+    "7757",
+    "14013",
+    "57164",
+    "6499",
+    "66328",
+    "79928",
+    "82875",
+    "89940",
+    "48410",
+    "18830",
+    "34956"
+  ],
+  "result": [
+    {
+      "type": "output_text",
+      "output": "Explanation: After reviewing the search results, none provide direct evidence of a book published in the early 1990s featuring a biographical portrait of an educator (born in the 1860s, eight siblings, etc.) on pages 285–289, nor do they mention a co-author/editor who later became Chair of a Society named between 1931–1934 and served 2020–2023. The only book title found, \"On the Job\" [66328], does not match the criteria, and no other results provide relevant book titles or content matching the detailed requirements. This matches the conclusions of Agents 1, 2, and 3.\nExact Answer: Not found in current search results\nConfidence: 0%"
+    }
+  ]
+}

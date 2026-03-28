@@ -1,0 +1,27 @@
+{
+  "query_id": "821",
+  "tool_call_counts": {
+    "search": 4
+  },
+  "status": "completed",
+  "retrieved_docids": [
+    "54756",
+    "39424",
+    "54770",
+    "55145",
+    "30634",
+    "14562",
+    "61763",
+    "69137",
+    "77144",
+    "80245",
+    "78012",
+    "1816"
+  ],
+  "result": [
+    {
+      "type": "output_text",
+      "output": "Explanation: Despite multiple targeted searches, none of the retrieved documents contain a company blog post from 2020–2023 that both discusses a sign-on bonus/new hire benefit and explicitly states the percentage of employees who recommend the company as a workplace. The search results do not provide the required statistic or a relevant blog post matching all criteria.\nExact Answer: Not found in available sources.\nConfidence: 0%"
+    }
+  ]
+}

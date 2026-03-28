@@ -1,0 +1,21 @@
+{
+  "query_id": "685",
+  "tool_call_counts": {
+    "search": 4
+  },
+  "status": "completed",
+  "retrieved_docids": [
+    "69589",
+    "54170",
+    "11503",
+    "3787",
+    "31428",
+    "75436"
+  ],
+  "result": [
+    {
+      "type": "output_text",
+      "output": "Explanation: Despite multiple targeted searches, none of the retrieved documents provide a direct match for a 1990s English football match with seven goals, a hat-trick, starting lineups including one Norwegian, two Irish, one Scottish, and one Dutch player, two second-half substitutes, and attendance between 13,000 and 15,000. The sources are general or about player histories, not specific match details. No evidence was found to identify the exact match.\nExact Answer: Not found in provided sources\nConfidence: 0%"
+    }
+  ]
+}

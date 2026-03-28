@@ -1,0 +1,27 @@
+{
+  "query_id": "113",
+  "tool_call_counts": {
+    "search": 3
+  },
+  "status": "completed",
+  "retrieved_docids": [
+    "16001",
+    "12792",
+    "65826",
+    "95204",
+    "12968",
+    "74817",
+    "68289",
+    "42049",
+    "8874",
+    "48209",
+    "13815",
+    "8921"
+  ],
+  "result": [
+    {
+      "type": "output_text",
+      "output": "Explanation: The Eucalyptus tortoise beetle, Paropsis charybdis, was first found in New Zealand in 1916. According to the 2017 abstract and supporting thesis, this beetle was initially misidentified. The thesis \"Ecology of Paropsis charybdis Stal (Coleoptera: Chrysomelidae): A Eucalyptus defoliator in New Zealand\" is likely to contain the specific scientific name it was confused with, but the 2017 review and historical sources indicate that Paropsis charybdis was originally misidentified as Paropsis variicollis.\nExact Answer: Paropsis variicollis\nConfidence: 90%"
+    }
+  ]
+}

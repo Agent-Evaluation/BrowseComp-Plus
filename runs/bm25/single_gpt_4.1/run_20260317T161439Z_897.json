@@ -1,0 +1,32 @@
+{
+  "query_id": "897",
+  "tool_call_counts": {
+    "search": 5
+  },
+  "status": "completed",
+  "retrieved_docids": [
+    "69891",
+    "31335",
+    "95292",
+    "64455",
+    "57808",
+    "2640",
+    "34826",
+    "14812",
+    "25898",
+    "17557",
+    "25565",
+    "31257",
+    "79475",
+    "42806",
+    "37267",
+    "85630",
+    "45226"
+  ],
+  "result": [
+    {
+      "type": "output_text",
+      "output": "Explanation: According to an article summarizing Mamphela Ramphele's autobiography, she married her \"first serious boyfriend\" Dick Mmabane after a lobola (bride price) of R200 was paid. The marriage lasted a year before they separated and eventually divorced. This is a direct answer to the question about the bride price paid for her in her country's currency (South African Rand) before marriage [42806].\nExact Answer: R200 (South African Rand)\nConfidence: 100%"
+    }
+  ]
+}

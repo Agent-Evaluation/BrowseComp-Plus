@@ -1,0 +1,28 @@
+{
+  "query_id": "159",
+  "tool_call_counts": {
+    "search": 4
+  },
+  "status": "completed",
+  "retrieved_docids": [
+    "4096",
+    "1269",
+    "13652",
+    "17149",
+    "94442",
+    "27906",
+    "74465",
+    "42142",
+    "4323",
+    "14187",
+    "85698",
+    "63311",
+    "29554"
+  ],
+  "result": [
+    {
+      "type": "output_text",
+      "output": "Explanation: Despite multiple searches, none of the retrieved documents provide information about a restored artwork exhibited in a museum garden before 2020 that inspired a play performed for three consecutive nights, nor do they mention the exact date of the last performance. The search results are unrelated or lack the necessary details about the museum, artwork, play, or performance dates.\nExact Answer: Not found in the provided search results.\nConfidence: 0%"
+    }
+  ]
+}

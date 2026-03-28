@@ -1,0 +1,35 @@
+{
+  "query_id": "1207",
+  "tool_call_counts": {
+    "search": 6
+  },
+  "status": "completed",
+  "retrieved_docids": [
+    "95292",
+    "62645",
+    "5841",
+    "20674",
+    "48097",
+    "59381",
+    "47624",
+    "45147",
+    "63644",
+    "22055",
+    "18948",
+    "75146",
+    "90179",
+    "82543",
+    "28037",
+    "76243",
+    "5020",
+    "40383",
+    "38267",
+    "90580"
+  ],
+  "result": [
+    {
+      "type": "output_text",
+      "output": "Explanation: The clues point to a Korean drama before 2021 with a female lead who took on a prominent public role in 2020, a male lead who was in a boy band, a plot about power struggles, and mutual admiration between the leads. Searching for \"Itaewon Class\" confirms it is a Korean drama with a power struggle plot. The lead actress, Kim Da-mi, and male lead, Park Seo-joon (who was in the boy band \"One O One\"), fit the description. Evidence also shows the series is well-known for the leads' mutual admiration and public photos [38267].\nExact Answer: Itaewon Class\nConfidence: 90%"
+    }
+  ]
+}

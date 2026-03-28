@@ -1,0 +1,30 @@
+{
+  "query_id": "497",
+  "tool_call_counts": {
+    "search": 9
+  },
+  "status": "completed",
+  "retrieved_docids": [
+    "99494",
+    "91921",
+    "79241",
+    "5965",
+    "30804",
+    "21985",
+    "13711",
+    "79826",
+    "10427",
+    "41035",
+    "32327",
+    "79020",
+    "95292",
+    "84059",
+    "45147"
+  ],
+  "result": [
+    {
+      "type": "output_text",
+      "output": "Explanation: Despite multiple targeted searches, there is no direct evidence in the provided search results identifying the Indian satirical TV show, the actor, the film, or the production controller. The search results repeatedly reference \"The Simpsons,\" an American show, and do not yield relevant Indian TV or film information. No results mention a production controller or match the detailed clues about the director, actor, or film. Therefore, I cannot provide the requested name.\nExact Answer: Not found in available search results.\nConfidence: 0%"
+    }
+  ]
+}

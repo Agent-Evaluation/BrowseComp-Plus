@@ -1,0 +1,35 @@
+{
+  "query_id": "735",
+  "tool_call_counts": {
+    "search": 7
+  },
+  "status": "completed",
+  "retrieved_docids": [
+    "100095",
+    "54992",
+    "15666",
+    "22547",
+    "82422",
+    "21043",
+    "86099",
+    "5933",
+    "32062",
+    "73422",
+    "34150",
+    "89279",
+    "23725",
+    "35774",
+    "27727",
+    "10058",
+    "70004",
+    "66438",
+    "20430",
+    "3046"
+  ],
+  "result": [
+    {
+      "type": "output_text",
+      "output": "Explanation: The search queries focused on the Moi Girls School Nairobi fire in 2017, where teenage suspects were arrested and the tool used to start the fire was identified as petrol. However, none of the retrieved documents directly state the specific room in the suspect's house where the petrol was found. The evidence from the search results does not provide the exact location (such as kitchen, bedroom, or another room) of the petrol in the house.\nExact Answer: Not found in available sources.\nConfidence: 0%"
+    }
+  ]
+}

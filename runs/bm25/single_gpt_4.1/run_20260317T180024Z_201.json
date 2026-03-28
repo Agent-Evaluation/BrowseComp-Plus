@@ -1,0 +1,30 @@
+{
+  "query_id": "201",
+  "tool_call_counts": {
+    "search": 7
+  },
+  "status": "completed",
+  "retrieved_docids": [
+    "63068",
+    "96851",
+    "777",
+    "48527",
+    "31795",
+    "72312",
+    "40840",
+    "59753",
+    "49752",
+    "71745",
+    "66228",
+    "43109",
+    "87802",
+    "57268",
+    "11440"
+  ],
+  "result": [
+    {
+      "type": "output_text",
+      "output": "Explanation: Despite multiple targeted searches, no document snippet provides the name of an individual who received a PhD scholarship in 2004, published a teeth/oral health survey with 2000–2200 participants between 2004–2007, and was a supervisor of a 2017 Master's thesis on lifestyle and diseases. The closest matches are repository listings and general oral health studies, but none mention a specific person fitting all criteria. No evidence directly answers the question.\nExact Answer: Not found in the provided search results.\nConfidence: 0%"
+    }
+  ]
+}

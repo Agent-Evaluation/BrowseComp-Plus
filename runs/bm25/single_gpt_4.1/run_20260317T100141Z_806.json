@@ -1,0 +1,32 @@
+{
+  "query_id": "806",
+  "tool_call_counts": {
+    "search": 4
+  },
+  "status": "completed",
+  "retrieved_docids": [
+    "55244",
+    "7775",
+    "18948",
+    "49635",
+    "86517",
+    "34095",
+    "72126",
+    "93821",
+    "70716",
+    "93225",
+    "75436",
+    "39427",
+    "51340",
+    "10923",
+    "34688",
+    "32983",
+    "60075"
+  ],
+  "result": [
+    {
+      "type": "output_text",
+      "output": "Explanation: The expansion in question is \"Company of Heroes: Opposing Fronts,\" developed by Relic Entertainment, which was closed as of 2023. The credits for the expansion list the senior animators as David MacLeod and Erin Olorenshaw under the Relic Studio: Animation & Cinematics section [10923]. This matches the criteria: a 2000s expansion, new factions, praised for balance, studio closed by 2023, and a large credited team.\nExact Answer: MacLeod, Olorenshaw\nConfidence: 95%"
+    }
+  ]
+}

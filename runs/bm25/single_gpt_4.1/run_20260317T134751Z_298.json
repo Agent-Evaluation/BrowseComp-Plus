@@ -1,0 +1,29 @@
+{
+  "query_id": "298",
+  "tool_call_counts": {
+    "search": 4
+  },
+  "status": "completed",
+  "retrieved_docids": [
+    "20886",
+    "71575",
+    "23995",
+    "59011",
+    "21822",
+    "18948",
+    "79511",
+    "6064",
+    "21103",
+    "10807",
+    "69792",
+    "52651",
+    "70707",
+    "27885"
+  ],
+  "result": [
+    {
+      "type": "output_text",
+      "output": "Explanation: The search results do not provide a direct answer, but the clues point toward a figure involved with Mongolia, who co-founded a political movement in the 20th century, later held a high-level security role for a northern neighbor (likely the USSR), died in 1989 (the year Eastern European legislatures ended single-party rule), and has a unique commemorative status in their home country. However, none of the search results explicitly name such an individual or confirm all these details. The evidence is insufficient for a definitive answer.\nExact Answer: Insufficient evidence to provide a definitive answer.\nConfidence: 10%"
+    }
+  ]
+}

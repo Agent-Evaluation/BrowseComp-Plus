@@ -1,0 +1,30 @@
+{
+  "query_id": "1141",
+  "tool_call_counts": {
+    "search": 6
+  },
+  "status": "completed",
+  "retrieved_docids": [
+    "82044",
+    "47593",
+    "58426",
+    "66328",
+    "53441",
+    "20006",
+    "1269",
+    "27424",
+    "52885",
+    "26360",
+    "86829",
+    "31698",
+    "9765",
+    "18349",
+    "18841"
+  ],
+  "result": [
+    {
+      "type": "output_text",
+      "output": "Explanation: Despite extensive searching, none of the retrieved documents provide evidence of an Egyptian actor born between 1913 and 1921, who appeared in a 1950s film about three friends directed by a Chicago-born director who died between 1985 and 1996, and who matches the family and life details described (married in the 1950s, two children—one a director, died in the 1990s). The search results do not mention any Egyptian actors or films fitting all these criteria, nor do they provide a relevant birth name.\nExact Answer: Not found in the provided knowledge base.\nConfidence: 0%"
+    }
+  ]
+}

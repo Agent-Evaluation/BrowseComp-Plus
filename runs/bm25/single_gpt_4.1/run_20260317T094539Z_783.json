@@ -1,0 +1,29 @@
+{
+  "query_id": "783",
+  "tool_call_counts": {
+    "search": 8
+  },
+  "status": "completed",
+  "retrieved_docids": [
+    "76550",
+    "10949",
+    "56716",
+    "21822",
+    "18948",
+    "94457",
+    "84456",
+    "84889",
+    "51898",
+    "53728",
+    "99562",
+    "9393",
+    "2720",
+    "28467"
+  ],
+  "result": [
+    {
+      "type": "output_text",
+      "output": "Explanation: Despite multiple targeted searches for an American director's school project announcement involving a €6.5 million budget, a regional governor, and a press conference at a hotel in a capital city with a female name (opened on 14 December, street number 15), no search result provided direct evidence or mention of a hotel with a female name (such as Sofia, Maria, Victoria, etc.) matching all criteria. The search did not yield any snippet confirming the hotel's name.\nExact Answer: Not found in available search results\nConfidence: 0%"
+    }
+  ]
+}

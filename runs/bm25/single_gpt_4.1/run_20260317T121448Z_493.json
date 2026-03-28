@@ -1,0 +1,30 @@
+{
+  "query_id": "493",
+  "tool_call_counts": {
+    "search": 4
+  },
+  "status": "completed",
+  "retrieved_docids": [
+    "5016",
+    "21847",
+    "1177",
+    "19132",
+    "87540",
+    "86991",
+    "38162",
+    "42665",
+    "91874",
+    "77179",
+    "22753",
+    "11525",
+    "77389",
+    "54472",
+    "69589"
+  ],
+  "result": [
+    {
+      "type": "output_text",
+      "output": "Explanation: The search results do not provide a direct match for all the clues, but the only athlete whose information appears repeatedly in connection with major tournaments, pro league titles between 2010 and 2020, and significant footballing lineage is not found. The clues are highly specific (teammate's father scored 33 goals for the same club, 11 games in a major tournament with 0.55 goals/game, 6 national team goals in a year with a single release, and a single appearance at a major international event), but none of the search results (including those for Pelé, Messi, Pirlo, and others) fit all criteria. No evidence found for a footballer matching all hints.\nExact Answer: No answer found based on available evidence.\nConfidence: 0%"
+    }
+  ]
+}

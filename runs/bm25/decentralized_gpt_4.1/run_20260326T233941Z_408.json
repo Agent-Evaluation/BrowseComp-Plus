@@ -1,0 +1,43 @@
+{
+  "query_id": "408",
+  "tool_call_counts": {
+    "search": 16
+  },
+  "status": "completed",
+  "retrieved_docids": [
+    "45142",
+    "50940",
+    "14457",
+    "77742",
+    "12850",
+    "70474",
+    "23756",
+    "6406",
+    "82044",
+    "30743",
+    "79768",
+    "15001",
+    "51565",
+    "39489",
+    "50996",
+    "68976",
+    "66167",
+    "46423",
+    "5238",
+    "98741",
+    "48231",
+    "48132",
+    "18839",
+    "24061",
+    "34199",
+    "16272",
+    "4969",
+    "62041"
+  ],
+  "result": [
+    {
+      "type": "output_text",
+      "output": "Explanation: I agree with the other agents. The interview with Joey Hess [24061] directly states that he started programming on an \"Atari 130XE which came with BASIC and a boring word processor and not much else.\" This matches the context of a first computer purchased in the 1980s, and no other evidence contradicts or provides a different make or model. The timeline and other biographical details also align with the question.\nExact Answer: Atari 130XE\nConfidence: 95%"
+    }
+  ]
+}

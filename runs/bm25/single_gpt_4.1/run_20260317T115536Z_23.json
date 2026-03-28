@@ -1,0 +1,22 @@
+{
+  "query_id": "23",
+  "tool_call_counts": {
+    "search": 4
+  },
+  "status": "completed",
+  "retrieved_docids": [
+    "95292",
+    "79826",
+    "18841",
+    "30804",
+    "82586",
+    "863",
+    "25076"
+  ],
+  "result": [
+    {
+      "type": "output_text",
+      "output": "Explanation: Despite multiple targeted searches, none of the results provide evidence of a movie released in or before 2023, based on a non-fiction book published between 2015 and 2022, with a director born between 1950 and 1960, featuring a character inspired by an honest cop who stops a scam, and with more than 6 main cast members. The search results primarily reference older films or do not match the specific criteria.\nExact Answer: No matching movie found in the provided knowledge base.\nConfidence: 0%"
+    }
+  ]
+}

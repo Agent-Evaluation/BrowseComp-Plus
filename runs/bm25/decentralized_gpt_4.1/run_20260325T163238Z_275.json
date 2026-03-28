@@ -1,0 +1,39 @@
+{
+  "query_id": "275",
+  "tool_call_counts": {
+    "search": 17
+  },
+  "status": "completed",
+  "retrieved_docids": [
+    "78617",
+    "52010",
+    "15596",
+    "62266",
+    "29127",
+    "93588",
+    "21492",
+    "2531",
+    "39007",
+    "42081",
+    "4034",
+    "84172",
+    "76031",
+    "76065",
+    "75365",
+    "86048",
+    "81614",
+    "63996",
+    "61763",
+    "36395",
+    "63919",
+    "59833",
+    "50766",
+    "98741"
+  ],
+  "result": [
+    {
+      "type": "output_text",
+      "output": "Explanation: The evidence shows that Metro-Goldwyn-Mayer (MGM) was founded in 1924 [52010], satisfying the \"before 1925\" requirement. MGM operated in multiple locations, including Beverly Hills and Las Vegas (the latter being a city with more than three lakes). MGM was acquired and occupied by other companies, especially after its 2010 bankruptcy [52010]. Kirk Kerkorian, a major owner and CEO, died in 2015, matching the CEO death in the 2010s. While the clue about the CEO fleeing a city with a 2011 population of 1.6–2.7 million is less directly confirmed, all other clues fit MGM best. I agree with Agents 2 and 3 based on the evidence.\nExact Answer: Metro-Goldwyn-Mayer (MGM)\nConfidence: 90%"
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "query_id": "620",
+  "tool_call_counts": {
+    "search": 6
+  },
+  "status": "completed",
+  "retrieved_docids": [
+    "97336",
+    "60210",
+    "798",
+    "77274",
+    "89070",
+    "92185",
+    "51469",
+    "57744",
+    "24763",
+    "45855",
+    "69834",
+    "81394",
+    "70963",
+    "21103",
+    "96062",
+    "11891",
+    "48254",
+    "29041"
+  ],
+  "result": [
+    {
+      "type": "output_text",
+      "output": "Explanation: Despite multiple searches, there is no direct evidence in the results for a 1998 World Cup song released just before the tournament in France, by a popular group featuring a player who also participated and scored a momentous goal, and that samples a song by a Nordic band from the 1980s. The official 1998 World Cup song was \"La Copa de la Vida\" by Ricky Martin, but it does not fit the criteria of featuring a player or sampling a Nordic band. No evidence was found for a song matching all the specified criteria.\nExact Answer: No evidence found for such a song.\nConfidence: 10%"
+    }
+  ]
+}

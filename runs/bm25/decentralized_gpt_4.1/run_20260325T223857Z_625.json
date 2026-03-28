@@ -1,0 +1,48 @@
+{
+  "query_id": "625",
+  "tool_call_counts": {
+    "search": 25
+  },
+  "status": "completed",
+  "retrieved_docids": [
+    "8179",
+    "23461",
+    "47624",
+    "9480",
+    "58968",
+    "40989",
+    "54325",
+    "72312",
+    "97510",
+    "97486",
+    "91928",
+    "49635",
+    "74540",
+    "72142",
+    "98034",
+    "48097",
+    "53702",
+    "52583",
+    "73507",
+    "9915",
+    "77625",
+    "75461",
+    "96416",
+    "16296",
+    "21738",
+    "18282",
+    "74124",
+    "93050",
+    "68176",
+    "69409",
+    "78675",
+    "40691",
+    "53440"
+  ],
+  "result": [
+    {
+      "type": "output_text",
+      "output": "Explanation: The search results confirm that \"Tsubasa: Reservoir Chronicle\" is a Japanese anime released in the USA between 2005 and 2006, based on a manga by the group Clamp [73507]. Clamp is the manga creator group for this anime. However, none of the search results directly confirm the specific episode number with a sickness causing mutations on people's heads and the quoted lines about always being together and hurrying home. The evidence aligns with Agent 2's and Agent 1's conclusions.\nExact Answer: Clamp (manga creator group). Episode number: Not found in current evidence.\nConfidence: 80%"
+    }
+  ]
+}

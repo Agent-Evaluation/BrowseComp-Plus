@@ -1,0 +1,29 @@
+{
+  "query_id": "12",
+  "tool_call_counts": {
+    "search": 7
+  },
+  "status": "completed",
+  "retrieved_docids": [
+    "49635",
+    "81743",
+    "66524",
+    "40691",
+    "94317",
+    "63684",
+    "89437",
+    "72151",
+    "97486",
+    "73507",
+    "28302",
+    "71032",
+    "30777",
+    "95924"
+  ],
+  "result": [
+    {
+      "type": "output_text",
+      "output": "Explanation: The manga \"X/1999\" (also known as \"X\") was created by the group CLAMP, who attended the same elementary school and became known as CLAMP after publishing. The plot involves themes of perfection and draws inspiration from classic literature. The main antagonist is Fūma Monou, who becomes Kamui's nemesis. However, the search results do not provide explicit information about a companion named after an incomplete instrument or the number of movements with different effects that Fūma has used. Therefore, I cannot provide a definitive answer to the second part of the question.\nExact Answer: Fūma Monou; insufficient evidence for number of movements used.\nConfidence: 60%"
+    }
+  ]
+}

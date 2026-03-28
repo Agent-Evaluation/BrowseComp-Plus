@@ -1,0 +1,33 @@
+{
+  "query_id": "320",
+  "tool_call_counts": {
+    "search": 8
+  },
+  "status": "completed",
+  "retrieved_docids": [
+    "1123",
+    "38284",
+    "51665",
+    "31713",
+    "75635",
+    "50253",
+    "57174",
+    "92614",
+    "59493",
+    "31859",
+    "3287",
+    "20681",
+    "38483",
+    "12833",
+    "70622",
+    "83168",
+    "90133",
+    "3255"
+  ],
+  "result": [
+    {
+      "type": "output_text",
+      "output": "Explanation: Despite multiple targeted searches for interviews and biographical details about Nirav Tolia (Nextdoor CEO, Stanford Economics, spouse with MBA from Columbia, endowment fund, company acquisition), no search result provided direct evidence about what car he drove when selling light bulbs as a student. No interview transcript or article snippet referenced this detail, nor did any result confirm the anecdote or specify a car make or model.\nExact Answer: Not found in available sources.\nConfidence: 0%"
+    }
+  ]
+}

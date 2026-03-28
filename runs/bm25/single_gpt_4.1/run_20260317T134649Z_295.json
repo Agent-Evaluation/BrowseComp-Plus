@@ -1,0 +1,33 @@
+{
+  "query_id": "295",
+  "tool_call_counts": {
+    "search": 6
+  },
+  "status": "completed",
+  "retrieved_docids": [
+    "44616",
+    "30644",
+    "30804",
+    "37369",
+    "40731",
+    "72409",
+    "94275",
+    "55227",
+    "34944",
+    "86099",
+    "73713",
+    "93420",
+    "21727",
+    "98089",
+    "64742",
+    "92234",
+    "18948",
+    "52082"
+  ],
+  "result": [
+    {
+      "type": "output_text",
+      "output": "Explanation: The search results indicate that Ken Kesey, who wrote \"Sometimes a Great Notion,\" led a dance group in his youth. The person who praised \"Sometimes a Great Notion\" as the greatest book ever written, dropped out of college between ages 17 and 25, wrote for multiple publications, and had a recorded conversation between 2016 and 2023 with someone who studied at a university established between 1830 and 1870, is Josh Glenn. This is supported by [DocID: 52082], which details Josh Glenn's background, including dropping out of graduate school, writing for multiple publications, and his public praise for \"Sometimes a Great Notion.\"\nExact Answer: Josh Glenn\nConfidence: 90%"
+    }
+  ]
+}

@@ -1,0 +1,52 @@
+{
+  "query_id": "717",
+  "tool_call_counts": {
+    "search": 28
+  },
+  "status": "completed",
+  "retrieved_docids": [
+    "4858",
+    "9671",
+    "88195",
+    "36691",
+    "68092",
+    "55040",
+    "7456",
+    "27574",
+    "85487",
+    "6709",
+    "74320",
+    "88986",
+    "74596",
+    "40035",
+    "97455",
+    "13959",
+    "39017",
+    "35774",
+    "3255",
+    "21822",
+    "12579",
+    "59381",
+    "75436",
+    "75801",
+    "54007",
+    "30719",
+    "75635",
+    "18839",
+    "51045",
+    "18948",
+    "82010",
+    "58802",
+    "81516",
+    "24551",
+    "39930",
+    "2720",
+    "34275"
+  ],
+  "result": [
+    {
+      "type": "output_text",
+      "output": "Explanation: None of the search results provide direct evidence linking a former CEO of an African government agency whose name is also a game, nor do they confirm a succession involving a brother who was vice president in the 21st century. There is also no clear connection in the results between a game, a Rhodes University graduate, and a university founder associated with a mid-20th-century institute. The evidence is insufficient to confidently identify the game in question.\nExact Answer: Insufficient evidence to determine\nConfidence: 0%"
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "query_id": "216",
+  "tool_call_counts": {
+    "search": 23
+  },
+  "status": "completed",
+  "retrieved_docids": [
+    "6277",
+    "95124",
+    "17462",
+    "6316",
+    "98034",
+    "43396",
+    "50355",
+    "72142",
+    "75070",
+    "18967",
+    "46552",
+    "66328",
+    "71965",
+    "12980",
+    "97486",
+    "4758"
+  ],
+  "result": [
+    {
+      "type": "output_text",
+      "output": "Explanation: After reviewing the search results, none provide direct evidence matching all the criteria: an author who died in the 1990s, founded a non-profit in the 1930s, published a book before 1940, and was featured posthumously in a TV episode aired 82 days after their death. The closest matches (e.g., Michael Landon [71965], Eleanor Roosevelt [46552]) do not fit all criteria, especially regarding the founding of a non-profit in the 1930s and the specific TV episode timing. No search result identifies a specific author meeting all requirements.\nExact Answer: No conclusive answer found based on available evidence.\nConfidence: 0%"
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "query_id": "454",
+  "tool_call_counts": {
+    "search": 3
+  },
+  "status": "completed",
+  "retrieved_docids": [
+    "58666",
+    "30901",
+    "55040",
+    "15701",
+    "18992",
+    "48990",
+    "17462",
+    "62852",
+    "43782",
+    "76869",
+    "57808",
+    "18726",
+    "28982",
+    "46849",
+    "19264"
+  ],
+  "result": [
+    {
+      "type": "output_text",
+      "output": "Explanation: The search results did not yield a direct match for an individual who, in a 2020 interview, stated they started their career through an audition in their first year of university, owned a business, was a child of divorce, graduated from a university in a capital city, was born between 1986 and 1996, was the oldest of four siblings, and had false speculation about their first child in 2023. The closest matches (e.g., Tony Curtis, Tom Cruise) do not fit the birth year or other criteria. No evidence found for a full name matching all clues.\nExact Answer: Not found in provided search results.\nConfidence: 0%"
+    }
+  ]
+}

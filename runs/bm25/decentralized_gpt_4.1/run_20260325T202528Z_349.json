@@ -1,0 +1,34 @@
+{
+  "query_id": "349",
+  "tool_call_counts": {
+    "search": 24
+  },
+  "status": "completed",
+  "retrieved_docids": [
+    "71529",
+    "66328",
+    "777",
+    "81265",
+    "22822",
+    "79391",
+    "7781",
+    "27933",
+    "87052",
+    "59066",
+    "34680",
+    "62509",
+    "67462",
+    "94542",
+    "20707",
+    "79239",
+    "34625",
+    "24025",
+    "26638"
+  ],
+  "result": [
+    {
+      "type": "output_text",
+      "output": "Explanation: After reviewing the search results, none provide evidence of a specific graduate student who published a book review online between 2018 and 2023, submitted a Master of Arts thesis at a university founded in the 1900s, and had a work of fiction posted online in the same year as the book they reviewed, with the fiction posted before the review. The results mention various authors, graduate students, and their works, but do not connect all the required criteria or provide the title of a relevant piece of fiction.\nExact Answer: No evidence found / Cannot determine from available data\nConfidence: 0%"
+    }
+  ]
+}

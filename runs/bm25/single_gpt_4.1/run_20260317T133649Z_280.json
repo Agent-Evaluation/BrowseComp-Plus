@@ -1,0 +1,27 @@
+{
+  "query_id": "280",
+  "tool_call_counts": {
+    "search": 4
+  },
+  "status": "completed",
+  "retrieved_docids": [
+    "7158",
+    "22753",
+    "45855",
+    "53418",
+    "21877",
+    "52699",
+    "11503",
+    "75686",
+    "95116",
+    "19132",
+    "94729",
+    "9039"
+  ],
+  "result": [
+    {
+      "type": "output_text",
+      "output": "Explanation: Despite multiple searches, there is no direct evidence in the provided documents identifying a specific early 2000s European first-division match that fits all the criteria (team founded in the 1870s, manager's personal history, opposing assistant manager's background, combined 35 wins, and a full substitute list with the away team's third substitute). The search results reference general club histories, player lists, and football terminology, but do not provide a match report or substitute details matching the question's requirements.\nExact Answer: Not found in available sources\nConfidence: 0%"
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "query_id": "1185",
+  "tool_call_counts": {
+    "search": 3
+  },
+  "status": "completed",
+  "retrieved_docids": [
+    "13996",
+    "62466",
+    "98342",
+    "67355",
+    "36409",
+    "12331"
+  ],
+  "result": [
+    {
+      "type": "output_text",
+      "output": "Explanation: None of the search results provide a match that fits all the highly specific criteria given in the question, such as all but one batsman in the winning team scoring 75-80 runs, the highest scorer of the losing team scoring 35-45 runs with 60-63% control, the winning team's top scorer hitting more 6s than 4s and taking 2 wickets, a last-ball wicket, and more than 6 batsmen with single-digit scores. The closest matches found (e.g., \"Battle of the Maroons\", World Cup finals, Ranji Trophy matches) do not provide detailed scorecards or evidence matching all these conditions. No exact match is found in the available knowledge base.\nExact Answer: No match found in the available knowledge base.\nConfidence: 10%"
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "query_id": "1094",
+  "tool_call_counts": {
+    "search": 5
+  },
+  "status": "completed",
+  "retrieved_docids": [
+    "69589",
+    "85208",
+    "89635",
+    "40496",
+    "11214",
+    "1980",
+    "57389",
+    "22978",
+    "14301",
+    "74688",
+    "9039",
+    "31239",
+    "8196",
+    "78673",
+    "3253",
+    "94729"
+  ],
+  "result": [
+    {
+      "type": "output_text",
+      "output": "Explanation: The clues point to a match between AFC Wimbledon and MK Dons, two clubs with intertwined histories: AFC Wimbledon was formed by fans in protest after Wimbledon FC's controversial relocation and rebranding as MK Dons (a team with multiple identity changes). However, none of the search results provide a direct match report or confirm who took a 95th-minute free-kick in such a match. No evidence found in the provided documents directly answers the question.\nExact Answer: Not found in search results.\nConfidence: 0%"
+    }
+  ]
+}

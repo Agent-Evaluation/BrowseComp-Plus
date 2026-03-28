@@ -1,0 +1,36 @@
+{
+  "query_id": "105",
+  "tool_call_counts": {
+    "search": 5
+  },
+  "status": "completed",
+  "retrieved_docids": [
+    "2774",
+    "23531",
+    "53864",
+    "55420",
+    "83998",
+    "49626",
+    "78737",
+    "98710",
+    "56532",
+    "63115",
+    "49834",
+    "32581",
+    "29654",
+    "3442",
+    "99284",
+    "76644",
+    "74054",
+    "54708",
+    "73295",
+    "24711",
+    "45517"
+  ],
+  "result": [
+    {
+      "type": "output_text",
+      "output": "Explanation: The article \"The Coming Anarchy\" by Robert D. Kaplan, published in 1994, argued that the spread of democracy worldwide would not necessarily bring more stability. Kaplan is the author referenced in the context of African political development articles from the 1990s. According to authoritative biographical information, Robert D. Kaplan was born on June 23, 1952 [45517].\nExact Answer: 23 June\nConfidence: 100%"
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "query_id": "1258",
+  "tool_call_counts": {
+    "search": 4
+  },
+  "status": "completed",
+  "retrieved_docids": [
+    "86540",
+    "58696",
+    "18503",
+    "59747",
+    "59011",
+    "93466",
+    "93307",
+    "3815",
+    "81628",
+    "93557",
+    "36086",
+    "796",
+    "90319",
+    "95316",
+    "37036",
+    "77105"
+  ],
+  "result": [
+    {
+      "type": "output_text",
+      "output": "Explanation: The clues point to Botswana: it has over 100 spoken languages, only 2 official languages (English and Setswana), a hunter-gatherer San society speaking endangered Khoe languages (including the river-named Khoe–Kwadi group), and experienced a literacy rate decline in 2010. Its population is projected to grow by over 90% by 2050. According to the most recent data, Duma Boko is listed as President of Botswana as of 2023 [59747].\nExact Answer: Duma Boko\nConfidence: 90%"
+    }
+  ]
+}

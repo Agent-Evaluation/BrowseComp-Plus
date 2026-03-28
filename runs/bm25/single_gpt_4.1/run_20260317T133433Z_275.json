@@ -1,0 +1,27 @@
+{
+  "query_id": "275",
+  "tool_call_counts": {
+    "search": 4
+  },
+  "status": "completed",
+  "retrieved_docids": [
+    "78617",
+    "52010",
+    "15596",
+    "62266",
+    "29127",
+    "42081",
+    "81614",
+    "15876",
+    "38814",
+    "21492",
+    "24551",
+    "61763"
+  ],
+  "result": [
+    {
+      "type": "output_text",
+      "output": "Explanation: Hallmark Cards, Inc. fits the criteria: founded before 1925 (as Hall Brothers, Inc. in 1923), had sales under $8 billion in 2004 ($4.1 billion in 2006), operates in multiple locations including Kansas City, Missouri (a city with more than three lakes), and is still family-owned (not acquired, but \"occupied\" could refer to family succession). The company’s founder, Joyce Hall, and subsequent CEOs are associated with Kansas City. Kansas City's population in 2011 was within the 1.6–2.7 million range. No evidence was found of a CEO fleeing a city, but the rest of the clues match.\nExact Answer: Hallmark Cards, Inc.\nConfidence: 85%"
+    }
+  ]
+}

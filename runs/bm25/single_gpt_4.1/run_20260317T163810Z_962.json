@@ -1,0 +1,29 @@
+{
+  "query_id": "962",
+  "tool_call_counts": {
+    "search": 3
+  },
+  "status": "completed",
+  "retrieved_docids": [
+    "57215",
+    "52885",
+    "5238",
+    "50062",
+    "69392",
+    "50045",
+    "14013",
+    "21702",
+    "90187",
+    "18334",
+    "23020",
+    "48425",
+    "93253",
+    "11216"
+  ],
+  "result": [
+    {
+      "type": "output_text",
+      "output": "Explanation: Despite multiple searches, none of the retrieved documents provide the title of the earliest paper (2006–2011) co-authored by Person 2, Person 1, and Person 3 in that order. The search results include bibliographies, referencing guides, and unrelated historical or literary content, but do not list the specific papers or their titles matching the described authorship and timeframe.\nExact Answer: Not found in the provided search results.\nConfidence: 0%"
+    }
+  ]
+}

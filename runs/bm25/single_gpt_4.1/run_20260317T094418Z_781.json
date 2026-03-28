@@ -1,0 +1,22 @@
+{
+  "query_id": "781",
+  "tool_call_counts": {
+    "search": 4
+  },
+  "status": "completed",
+  "retrieved_docids": [
+    "53314",
+    "22978",
+    "9039",
+    "1729",
+    "69589",
+    "17823",
+    "8196"
+  ],
+  "result": [
+    {
+      "type": "output_text",
+      "output": "Explanation: Despite multiple targeted searches, none of the retrieved documents provide a match report or details about a football match in a European capital city between 1992 and 2023 with the specified attendance and goal timings, nor do they mention the player who assisted the third (75th minute) goal. The search results are either general club histories or unrelated match summaries, and do not contain the required assist information.\nExact Answer: Not found in the provided knowledge base.\nConfidence: 0%"
+    }
+  ]
+}

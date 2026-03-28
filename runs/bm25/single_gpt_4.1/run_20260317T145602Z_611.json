@@ -1,0 +1,23 @@
+{
+  "query_id": "611",
+  "tool_call_counts": {
+    "search": 2
+  },
+  "status": "completed",
+  "retrieved_docids": [
+    "43528",
+    "32940",
+    "20768",
+    "45601",
+    "52708",
+    "10945",
+    "39033",
+    "19664"
+  ],
+  "result": [
+    {
+      "type": "output_text",
+      "output": "Explanation: The evidence from [43528] confirms Yuvraj Singh was born on 12 December 1981 in Chandigarh, India. His international career began in 2000, matching the debut window. Chandigarh was the second most populated city in India per the 2001 census. Yuvraj Singh has three siblings as of June 24, 2017. His ODI debut was in 2000, and he scored 20 off 19 balls (with 1 six, 2 fours) against Kenya, with India winning by 5 wickets. He scored 59 off 62 in his Test debut. All criteria are satisfied.\nExact Answer: 12/12/1981\nConfidence: 100%"
+    }
+  ]
+}

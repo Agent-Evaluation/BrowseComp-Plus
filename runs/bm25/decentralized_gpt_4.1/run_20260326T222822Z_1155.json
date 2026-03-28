@@ -1,0 +1,28 @@
+{
+  "query_id": "1155",
+  "tool_call_counts": {
+    "search": 21
+  },
+  "status": "completed",
+  "retrieved_docids": [
+    "46699",
+    "18506",
+    "62781",
+    "3094",
+    "80861",
+    "91278",
+    "69407",
+    "78245",
+    "24351",
+    "59989",
+    "15519",
+    "60896",
+    "33889"
+  ],
+  "result": [
+    {
+      "type": "output_text",
+      "output": "Explanation: The evidence from [69407] confirms that Bandelier National Monument, near Los Alamos, New Mexico, preserves archaeological remnants of the Ancestral Puebloans from approximately 1150 to 1550 CE. This matches the time frame (A.D. 1350) in the question. The main ancient village at Bandelier is Tyuonyi, which is accessible via a trail of about 1,200 feet, matching the specified trail length. The location is within 34–36 miles of Santa Fe Regional Airport, fitting the distance criteria. No other site in the search results fits all criteria as closely as Tyuonyi.\nExact Answer: Tyuonyi (at Bandelier National Monument)\nConfidence: 95%"
+    }
+  ]
+}

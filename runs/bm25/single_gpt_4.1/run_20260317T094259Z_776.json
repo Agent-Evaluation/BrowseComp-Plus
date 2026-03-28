@@ -1,0 +1,32 @@
+{
+  "query_id": "776",
+  "tool_call_counts": {
+    "search": 10
+  },
+  "status": "completed",
+  "retrieved_docids": [
+    "14013",
+    "17140",
+    "23847",
+    "81566",
+    "66328",
+    "65806",
+    "14467",
+    "14320",
+    "23531",
+    "18125",
+    "44457",
+    "27779",
+    "21603",
+    "86735",
+    "6231",
+    "56575",
+    "59801"
+  ],
+  "result": [
+    {
+      "type": "output_text",
+      "output": "search: Journal of American Folklore 1940 volume 53 table of contents \"England\" \"report\" \"cultural discoveries\" \"title\""
+    }
+  ]
+}

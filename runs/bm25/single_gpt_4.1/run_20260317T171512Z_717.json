@@ -1,0 +1,30 @@
+{
+  "query_id": "717",
+  "tool_call_counts": {
+    "search": 4
+  },
+  "status": "completed",
+  "retrieved_docids": [
+    "4858",
+    "9671",
+    "88195",
+    "36691",
+    "68092",
+    "51485",
+    "39930",
+    "74596",
+    "88986",
+    "97455",
+    "68120",
+    "40035",
+    "58802",
+    "68866",
+    "8422"
+  ],
+  "result": [
+    {
+      "type": "output_text",
+      "output": "Explanation: The question asks for a game that shares its name with a former CEO of a government agency in an African country, who was succeeded by someone whose brother was a vice president of the same country in the 21st century. It also mentions a leap in the early 2010s due to a graduate of a university founded by someone associated with a mid-20th-century institute as of December 2023. However, after multiple searches, there is no direct evidence in the provided documents linking a specific game to a former African government agency CEO, their successor, or the university/institute clues. The search results primarily discuss Rhodes University alumni and various CEOs, but none match all the criteria or provide a game name.\n\nExact Answer: Insufficient evidence to answer.\nConfidence: 0%"
+    }
+  ]
+}

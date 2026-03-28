@@ -1,6 +1,10 @@
-# BrowseComp-Plus Multi-Agent Evaluation
+# BrowseComp-Plus Multi-Agent Evaluation (TypeScript / Bun)
 
 Implements the 5 canonical agent architectures from Kim et al. (2025), *"Towards a Science of Scaling Agent Systems"*, adapted for BrowseComp-Plus web browsing tasks.
+
+**Runtime**: [Bun](https://bun.sh/) + TypeScript  
+**LLM client**: `@github/copilot-sdk` (npm)  
+**Retriever**: BM25 via Pyserini (Python subprocess bridge)
 
 ## Architectures
 
@@ -14,51 +18,89 @@ Implements the 5 canonical agent architectures from Kim et al. (2025), *"Towards
 
 ## Prerequisites
 
-1. **Environment**: `uv sync` in the BrowseComp-Plus root
-2. **Java 21**: Required for Pyserini BM25 index
-3. **GitHub Copilot CLI**: Must be installed and authenticated
-4. **Dataset**: Decrypt queries and download BM25 index (see below)
+| Tool | Install |
+|---|---|
+| **Python 3.10 + uv** | `curl -LsSf https://astral.sh/uv/install.sh \| sh` |
+| **Bun** | `curl -fsSL https://bun.sh/install \| bash` |
+| **Java 21** | macOS: `brew install openjdk@21` · Windows: [Microsoft JDK 21](https://learn.microsoft.com/en-us/java/openjdk/download) |
+| **GitHub Copilot CLI** | Must be installed and authenticated (`gh auth login`) |
+| **HuggingFace CLI** | `pip install huggingface-cli` then `huggingface-cli login` |
 
-## Setup
+## Quick Start (Fresh Clone)
+
+Everything below runs from the repo root. Works on **macOS** and **Windows** (PowerShell).
 
 ```bash
+git clone https://github.com/Agent-Evaluation/BrowseComp-Plus.git
 cd BrowseComp-Plus
+```
 
-# Install dependencies
+### 1. Install Python dependencies
+```bash
 uv sync
+```
 
-# Decrypt dataset (requires HuggingFace login)
+### 2. Install TypeScript dependencies
+```bash
+cd mas_agents && bun install && cd ..
+```
+
+### 3. Download & decrypt the dataset
+```bash
 huggingface-cli login
 uv run python scripts_build_index/decrypt_dataset.py \
   --output data/browsecomp_plus_decrypted.jsonl \
   --generate-tsv topics-qrels/queries.tsv
+```
+This generates `data/browsecomp_plus_decrypted.jsonl` (ground truth) and `topics-qrels/queries.tsv` (830 queries).
 
-# Download BM25 index
+### 4. Download the BM25 index
+```bash
+bash scripts_build_index/download_indexes.sh
+```
+Or download just the BM25 index:
+```bash
 huggingface-cli download Tevatron/browsecomp-plus-indexes \
   --repo-type=dataset --include="bm25/*" --local-dir ./indexes
+```
+
+### 5. Set JAVA_HOME (if not auto-detected)
+```bash
+# macOS (Homebrew)
+export JAVA_HOME=$(/usr/libexec/java_home -v 21)
+
+# Windows (PowerShell)
+$env:JAVA_HOME = "C:\Program Files\Microsoft\jdk-21.0.10.7-hotspot"
+```
+
+### 6. Run!
+```bash
+bun run mas_agents/src/run-eval.ts \
+  --architecture single --model gpt-4.1 \
+  --index-path indexes/bm25/ --limit 1
 ```
 
 ## Running a Single Architecture
 
 ```bash
-uv run python -m mas_agents.run_eval \
+bun run mas_agents/src/run-eval.ts \
   --architecture single \
-  --model gpt-5-mini \
+  --model gpt-4.1 \
   --index-path indexes/bm25/ \
-  --output-dir runs/bm25/single_gpt5mini
+  --limit 1
 ```
 
 Options:
 - `--architecture`: `single`, `independent`, `centralized`, `decentralized`, `hybrid`
-- `--model`: Any model available via GitHub Copilot SDK
+- `--model`: Any model available via GitHub Copilot SDK (default: `gpt-4.1`)
 - `--limit N`: Process only the first N queries (useful for testing)
 - `--num-agents`: Number of sub-agents for MAS architectures (default: 3)
 
 ## Running All 5 Architectures
 
 ```bash
-uv run python -m mas_agents.benchmark_runner \
-  --model gpt-5-mini \
+bun run mas_agents/src/benchmark-runner.ts \
+  --model gpt-4.1 \
   --index-path indexes/bm25/
 ```
 
@@ -76,17 +118,17 @@ Uses Kimi K2.5 via NVIDIA NIM as the judge model:
 set NVIDIA_API_KEY=nvapi-YOUR_KEY_HERE
 
 # Evaluate a single run
-uv run python -m mas_agents.evaluate_kimi \
-  --input-dir runs/bm25/single_gpt5mini \
+bun run mas_agents/src/evaluate-kimi.ts \
+  --input-dir runs/bm25/single_gpt_4.1 \
   --ground-truth data/browsecomp_plus_decrypted.jsonl
 
 # Or pass key directly
-uv run python -m mas_agents.evaluate_kimi \
-  --input-dir runs/bm25/single_gpt5mini \
+bun run mas_agents/src/evaluate-kimi.ts \
+  --input-dir runs/bm25/single_gpt_4.1 \
   --api-key nvapi-YOUR_KEY_HERE
 ```
 
-Output: `runs/bm25/single_gpt5mini/eval_summary.json` with accuracy, calibration error, and per-query metrics.
+Output: `runs/bm25/single_gpt_4.1/eval_summary.json` with accuracy, calibration error, and per-query metrics.
 
 ## Output Format
 
@@ -111,14 +153,19 @@ Each query produces a JSON file compatible with BrowseComp-Plus evaluation:
 
 ```
 mas_agents/
-  __init__.py              # Package exports
-  base_agent.py            # Base class + BM25 retriever integration
-  llm_client.py            # Copilot SDK wrapper with retry logic
-  prompts.py               # System + role-specific prompts
-  single_agent.py          # Single-Agent System (SAS)
-  multi_agents.py          # Independent, Centralized, Decentralized, Hybrid
-  run_eval.py              # Per-architecture query runner
-  benchmark_runner.py      # Orchestrates all 5 architectures
-  evaluate_kimi.py         # Kimi K2.5 LLM-as-judge evaluator
+  package.json             # Bun project config
+  tsconfig.json            # TypeScript config
+  bm25_searcher.py         # Python BM25 bridge (JSONL stdin/stdout)
+  src/
+    index.ts               # Package re-exports
+    bm25-bridge.ts         # Spawns Python process for BM25 search
+    prompts.ts             # System + role-specific prompts
+    llm-client.ts          # Copilot SDK wrapper with retry logic
+    base-agent.ts          # Abstract base class + retriever integration
+    single-agent.ts        # Single-Agent System (SAS)
+    multi-agents.ts        # Independent, Centralized, Decentralized, Hybrid
+    run-eval.ts            # Per-architecture query runner (CLI)
+    benchmark-runner.ts    # Orchestrates all 5 architectures (CLI)
+    evaluate-kimi.ts       # Kimi K2.5 LLM-as-judge evaluator (CLI)
   README.md                # This file
 ```

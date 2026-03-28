@@ -1,0 +1,56 @@
+{
+  "query_id": "1076",
+  "tool_call_counts": {
+    "search": 35
+  },
+  "status": "completed",
+  "retrieved_docids": [
+    "1036",
+    "87009",
+    "5703",
+    "7255",
+    "99397",
+    "94639",
+    "22918",
+    "31185",
+    "84042",
+    "11777",
+    "14513",
+    "17063",
+    "34506",
+    "127",
+    "1756",
+    "97044",
+    "73513",
+    "62009",
+    "86173",
+    "59335",
+    "78519",
+    "51545",
+    "94382",
+    "48267",
+    "2531",
+    "53498",
+    "24843",
+    "91100",
+    "88929",
+    "90074",
+    "30273",
+    "74923",
+    "4528",
+    "45073",
+    "32479",
+    "68284",
+    "22746",
+    "10360",
+    "65973",
+    "75626",
+    "71808"
+  ],
+  "result": [
+    {
+      "type": "output_text",
+      "output": "Explanation: The question refers to an art piece (Edvard Munch's \"The Scream\") that was exhibited in a European country (Norway) in a place established about three years before the exhibition and closed more than four decades later. The National Gallery in Oslo (Nasjonalgalleriet) is known for exhibiting \"The Scream\" and was established in 1882. The gallery closed in 2019, which is more than four decades after its establishment. This matches the timeline and context provided in the question.\nExact Answer: 2019\nConfidence: 95%"
+    }
+  ]
+}

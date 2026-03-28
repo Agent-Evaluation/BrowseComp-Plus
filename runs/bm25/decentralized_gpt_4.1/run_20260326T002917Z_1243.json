@@ -1,0 +1,27 @@
+{
+  "query_id": "1243",
+  "tool_call_counts": {
+    "search": 24
+  },
+  "status": "completed",
+  "retrieved_docids": [
+    "4583",
+    "95292",
+    "41035",
+    "66756",
+    "6316",
+    "32327",
+    "99996",
+    "20307",
+    "95355",
+    "79241",
+    "69007",
+    "89142"
+  ],
+  "result": [
+    {
+      "type": "output_text",
+      "output": "Explanation: None of the search results provide evidence matching all the clues in the question. The results focus on Sandra Dee (Alexandria Zuck), Amitabh Bachchan (Amitabh Srivastava), Sally Kellerman, and other unrelated figures, but none fit the profile: Bollywood actor, debut in 1990 with another newcomer, mother was a Hollywood debut actress, aspired to be a lawyer, lived in the US for 7 years, directed a film before 2000, and was selective about female co-stars. No evidence links these individuals to all the clues, and no birth name is confirmed for the described actor.\nExact Answer: Not found in current search results\nConfidence: 0%"
+    }
+  ]
+}

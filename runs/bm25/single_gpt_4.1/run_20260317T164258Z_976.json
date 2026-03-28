@@ -1,0 +1,25 @@
+{
+  "query_id": "976",
+  "tool_call_counts": {
+    "search": 5
+  },
+  "status": "completed",
+  "retrieved_docids": [
+    "41268",
+    "5238",
+    "86913",
+    "67399",
+    "37426",
+    "6315",
+    "5942",
+    "97987",
+    "42856",
+    "36173"
+  ],
+  "result": [
+    {
+      "type": "output_text",
+      "output": "Explanation: Despite extensive searching, there is no direct evidence in the provided documents identifying an individual who served as headmaster of a school in the 1940s-1960s, previously attended that school, had a Nobel laureate pupil, attended college in the 1930s, and became an ambassador to a European country in the 1970s. The search results mention notable schools (Eton, Harrow, Shrewsbury) and Nobel laureates (e.g., Wole Soyinka, Seamus Heaney), but do not link any headmaster matching all criteria or provide their birth month and year.\nExact Answer: Not found in available sources.\nConfidence: 0%"
+    }
+  ]
+}

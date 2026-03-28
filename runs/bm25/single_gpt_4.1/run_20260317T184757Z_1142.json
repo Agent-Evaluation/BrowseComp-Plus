@@ -1,0 +1,29 @@
+{
+  "query_id": "1142",
+  "tool_call_counts": {
+    "search": 9
+  },
+  "status": "completed",
+  "retrieved_docids": [
+    "92256",
+    "2694",
+    "41770",
+    "38308",
+    "81983",
+    "844",
+    "12787",
+    "67367",
+    "3255",
+    "67408",
+    "68866",
+    "42950",
+    "49770",
+    "92759"
+  ],
+  "result": [
+    {
+      "type": "output_text",
+      "output": "Explanation: The question refers to the Defenders of Wildlife organization, specifically their 2022 annual report, which should list the emeritus board member for that year. Multiple searches of the 2022 annual report and related board listings did not yield a direct snippet with the emeritus board member's name. However, based on the structure of such reports and the persistent references to the 2022 Impact Report, the most likely source for this information is the official Defenders of Wildlife 2022 annual report. Unfortunately, the search results did not provide the actual name, only repeated references to the report and its contents.\nExact Answer: [Not found in provided search results]\nConfidence: 0%"
+    }
+  ]
+}

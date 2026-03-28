@@ -1,0 +1,34 @@
+{
+  "query_id": "1037",
+  "tool_call_counts": {
+    "search": 6
+  },
+  "status": "completed",
+  "retrieved_docids": [
+    "5238",
+    "2422",
+    "50868",
+    "22827",
+    "21822",
+    "70474",
+    "57215",
+    "86530",
+    "76542",
+    "60377",
+    "66298",
+    "21603",
+    "53092",
+    "89940",
+    "27334",
+    "89050",
+    "18452",
+    "79982",
+    "14593"
+  ],
+  "result": [
+    {
+      "type": "output_text",
+      "output": "Explanation: The search results confirm that Orville Redenbacher, born in Brazil, Indiana, in the early 20th century, earned a degree in agriculture at Purdue University and became a well-known entrepreneur. He is famous for founding the Orville Redenbacher popcorn brand, a professional food brand, in the mid-20th century. Purdue University is also the alma mater of several MMA fighters, including Matt Mitrione, who won on \"The Ultimate Fighter\" reality show in the early 21st century. There is no evidence of Orville Redenbacher serving in the Indiana House of Representatives, but he fits the other criteria best among available candidates.\nExact Answer: Orville Redenbacher\nConfidence: 70%"
+    }
+  ]
+}

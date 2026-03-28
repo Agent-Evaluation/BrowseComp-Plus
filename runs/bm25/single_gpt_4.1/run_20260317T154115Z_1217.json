@@ -1,0 +1,37 @@
+{
+  "query_id": "1217",
+  "tool_call_counts": {
+    "search": 8
+  },
+  "status": "completed",
+  "retrieved_docids": [
+    "89654",
+    "2531",
+    "40125",
+    "89555",
+    "6496",
+    "78735",
+    "93588",
+    "93557",
+    "87517",
+    "88266",
+    "95010",
+    "33889",
+    "60772",
+    "84481",
+    "59850",
+    "33130",
+    "90133",
+    "84553",
+    "30855",
+    "58534",
+    "78921",
+    "33075"
+  ],
+  "result": [
+    {
+      "type": "output_text",
+      "output": "Explanation: Despite multiple targeted searches, no direct evidence was found in the provided documents that identifies a specific town in Telangana or Andhra Pradesh founded in the early 1500s, on a riverbank, with a fort, in a district formed between 2000 and 2020, and near another fort in a neighboring district. However, the clues strongly suggest the answer is \"Bhupalpally\" in Telangana. Jayashankar Bhupalpally district was formed in 2016, Bhupalpally is on the banks of the Godavari, and is near the Ramappa Fort (Palampet) and Warangal Fort (in neighboring Warangal district), matching all clues. However, no document snippet directly confirms all these facts together.\nExact Answer: Bhupalpally\nConfidence: 60%"
+    }
+  ]
+}

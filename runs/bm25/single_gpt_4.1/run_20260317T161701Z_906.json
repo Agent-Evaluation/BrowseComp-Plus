@@ -1,0 +1,28 @@
+{
+  "query_id": "906",
+  "tool_call_counts": {
+    "search": 3
+  },
+  "status": "completed",
+  "retrieved_docids": [
+    "30845",
+    "81331",
+    "82422",
+    "97532",
+    "12359",
+    "35118",
+    "21794",
+    "4505",
+    "82613",
+    "38457",
+    "80204",
+    "59679",
+    "7111"
+  ],
+  "result": [
+    {
+      "type": "output_text",
+      "output": "Explanation: The first person to summit Annapurna was Maurice Herzog, a French climber, in 1950, along with Louis Lachenal [21794][30845]. The company referenced in the question is Lip, a French watch manufacturer. However, there is no evidence that Maurice Herzog founded Lip; Lip was founded by Emmanuel Lipmann in 1867, long before Herzog's ascent. Maurice Herzog wore a Lip watch during the 1950 Annapurna expedition, but he did not found the company [30845]. Thus, the founder of the company is Emmanuel Lipmann.\nExact Answer: Emmanuel Lipmann\nConfidence: 95%"
+    }
+  ]
+}

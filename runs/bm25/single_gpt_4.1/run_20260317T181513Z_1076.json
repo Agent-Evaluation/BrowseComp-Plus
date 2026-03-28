@@ -1,0 +1,37 @@
+{
+  "query_id": "1076",
+  "tool_call_counts": {
+    "search": 8
+  },
+  "status": "completed",
+  "retrieved_docids": [
+    "1036",
+    "87009",
+    "5703",
+    "7255",
+    "99397",
+    "14513",
+    "17063",
+    "1756",
+    "84042",
+    "71481",
+    "97044",
+    "51545",
+    "48267",
+    "34",
+    "88234",
+    "1245",
+    "88163",
+    "98584",
+    "47574",
+    "27499",
+    "20650",
+    "69284"
+  ],
+  "result": [
+    {
+      "type": "output_text",
+      "output": "Explanation: The clues point to Le Chat Noir, a famous Parisian cabaret established in 1881, known for its art exhibitions and cultural influence. The cabaret closed in 1897, which is about 16 years after its opening, not over 40 years. However, the search results do not provide a direct closure year for Le Chat Noir, and none of the results confirm a Parisian art venue established around 1890 and closed after 40+ years. The available evidence is insufficient to provide a definitive answer.\nExact Answer: Insufficient evidence to determine the exact closure year.\nConfidence: 20%"
+    }
+  ]
+}

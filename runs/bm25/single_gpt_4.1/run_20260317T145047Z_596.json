@@ -1,0 +1,34 @@
+{
+  "query_id": "596",
+  "tool_call_counts": {
+    "search": 8
+  },
+  "status": "completed",
+  "retrieved_docids": [
+    "70",
+    "67488",
+    "12909",
+    "55326",
+    "84086",
+    "30804",
+    "45147",
+    "798",
+    "43",
+    "53092",
+    "88195",
+    "59381",
+    "82543",
+    "8930",
+    "23704",
+    "69135",
+    "79826",
+    "90144",
+    "66392"
+  ],
+  "result": [
+    {
+      "type": "output_text",
+      "output": "Explanation: Despite extensive searching, I could not find a direct match for a TV show character described as \"born with caffeine in their system,\" played by an actor with a sports background and a master's degree, nor could I identify the institution where this actor earned their degree. Without the institution's name, I cannot provide the 2018/2019 female postgraduate enrollment statistics. No search results provided this specific linkage or the required enrollment data.\nExact Answer: Not found in available sources.\nConfidence: 0%"
+    }
+  ]
+}

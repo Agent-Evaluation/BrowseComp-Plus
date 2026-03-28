@@ -1,0 +1,36 @@
+{
+  "query_id": "228",
+  "tool_call_counts": {
+    "search": 8
+  },
+  "status": "completed",
+  "retrieved_docids": [
+    "44553",
+    "32018",
+    "29969",
+    "33974",
+    "15666",
+    "4323",
+    "17258",
+    "21877",
+    "53092",
+    "35990",
+    "38487",
+    "49635",
+    "98287",
+    "21019",
+    "59859",
+    "75075",
+    "3355",
+    "65327",
+    "32088",
+    "52885",
+    "62209"
+  ],
+  "result": [
+    {
+      "type": "output_text",
+      "output": "Explanation: Despite extensive searching, there is no evidence linking the founders of major online video game companies (such as Blizzard, Nexon, or Jagex) who released top-earning games between 2000 and 2010, to a university founded between 1930 and 1970, and who, with their spouse, made a foundational gift for a university building scheduled to open between 2018 and 2021. No search results confirm the existence of such a building or its university as of 2023.\nExact Answer: Insufficient evidence to determine the university.\nConfidence: 0%"
+    }
+  ]
+}

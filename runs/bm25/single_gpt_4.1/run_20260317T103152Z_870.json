@@ -1,0 +1,41 @@
+{
+  "query_id": "870",
+  "tool_call_counts": {
+    "search": 7
+  },
+  "status": "completed",
+  "retrieved_docids": [
+    "18948",
+    "99494",
+    "85487",
+    "71991",
+    "5238",
+    "62645",
+    "65412",
+    "40560",
+    "38901",
+    "50045",
+    "12980",
+    "2422",
+    "66328",
+    "84059",
+    "17462",
+    "94345",
+    "78195",
+    "12636",
+    "47685",
+    "94327",
+    "62209",
+    "88661",
+    "36281",
+    "48838",
+    "44665",
+    "5898"
+  ],
+  "result": [
+    {
+      "type": "output_text",
+      "output": "Explanation: The clues point to the founder of Tachyon Publications, who was born in the 1950s, died between 2015 and 2022, and started the company in the same year as the first East Asian crewed space mission (China, 2003). However, none of the search results directly confirm the founder's name or their spouse. The most likely answer, based on external knowledge, is Jacob Weisman, but the search did not provide evidence for his spouse's name.\nExact Answer: Insufficient evidence in search results to answer.\nConfidence: 0%"
+    }
+  ]
+}

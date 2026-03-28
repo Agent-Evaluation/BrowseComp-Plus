@@ -1,0 +1,41 @@
+{
+  "query_id": "238",
+  "tool_call_counts": {
+    "search": 23
+  },
+  "status": "completed",
+  "retrieved_docids": [
+    "5385",
+    "93225",
+    "63099",
+    "80225",
+    "14244",
+    "63941",
+    "31432",
+    "3581",
+    "80344",
+    "75515",
+    "3350",
+    "81655",
+    "26626",
+    "84993",
+    "24955",
+    "74145",
+    "21316",
+    "38161",
+    "62395",
+    "53995",
+    "43929",
+    "19219",
+    "44474",
+    "27110",
+    "29038",
+    "3543"
+  ],
+  "result": [
+    {
+      "type": "output_text",
+      "output": "Explanation: The question describes a game made before the PlayStation 2 by a company formed in 1988, featuring a character with a finishing move that removes and bites the heart of its enemy. Evidence from [21316] confirms Mortal Kombat (1992) was developed by Midway, founded in 1988. Kano is known for the heart-rip Fatality, and Goro, a sub-boss in the same game, is famous for throwing a boulder as a special move. This matches the clues provided and aligns with the peer agents' answers.\nExact Answer: Goro\nConfidence: 98%"
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "query_id": "370",
+  "tool_call_counts": {
+    "search": 26
+  },
+  "status": "completed",
+  "retrieved_docids": [
+    "66328",
+    "63311",
+    "43567",
+    "76542",
+    "8930",
+    "18830",
+    "81218",
+    "78989",
+    "43610",
+    "21877",
+    "69167",
+    "46770",
+    "26638"
+  ],
+  "result": [
+    {
+      "type": "output_text",
+      "output": "Explanation: After reviewing the search results, none provide direct evidence identifying a TV writer and producer born in the 1970s with an MFA in Dramatic Writing, whose mother was a professor at a university founded between 1900-1910, and who was a consulting producer on a 2010s TV series as of February 2019. The results reference unrelated individuals, institutions, and award histories, but do not match all the criteria or provide a name. This matches the conclusions of Agents 1, 2, and 3.\nExact Answer: No answer found\nConfidence: 0%"
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "query_id": "310",
+  "tool_call_counts": {
+    "search": 21
+  },
+  "status": "completed",
+  "retrieved_docids": [
+    "90306",
+    "81058",
+    "35211",
+    "25546",
+    "87614",
+    "56313",
+    "91659",
+    "88426",
+    "61842",
+    "61184",
+    "47251",
+    "32120",
+    "8651",
+    "46848",
+    "7064",
+    "24029",
+    "46320",
+    "19132",
+    "87058"
+  ],
+  "result": [
+    {
+      "type": "output_text",
+      "output": "Explanation: The evidence from [91659] confirms that Faker won the League of Legends World Championship in 2024, and that this was a major event in the League of Legends competitive scene. The clues about CS (creep score) and gold distribution are typical of detailed finals match statistics, and the mention of a player born in May 1999 matches Gumayusi (T1's ADC), who is known to be born in May 1999. No other document provides a more recent or relevant international LoL tournament with these characteristics. Therefore, the 2024 League of Legends World Championship is the best match.\nExact Answer: League of Legends World Championship 2024\nConfidence: 95%"
+    }
+  ]
+}

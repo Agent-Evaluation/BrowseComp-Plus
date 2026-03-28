@@ -1,12 +1,25 @@
+# Environment & secrets
 .env
+.env.*
+
+# Python
 __pycache__/
+*.pyc
 .venv
+
+# Node / Bun
+node_modules/
+*.tsbuildinfo
+
+# IDE
 .vscode
+.idea
+
+# Data & indexes (large / generated)
 collection/
 indexes/
 tmp/
 retrieval/
 data/browsecomp_plus_decrypted.jsonl
 topics-qrels/queries.tsv
-runs/
 evals/

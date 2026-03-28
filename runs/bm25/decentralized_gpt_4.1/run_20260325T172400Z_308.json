@@ -1,0 +1,42 @@
+{
+  "query_id": "308",
+  "tool_call_counts": {
+    "search": 24
+  },
+  "status": "completed",
+  "retrieved_docids": [
+    "42665",
+    "77432",
+    "46872",
+    "76807",
+    "14246",
+    "94971",
+    "95116",
+    "100046",
+    "9039",
+    "29678",
+    "35035",
+    "46848",
+    "57230",
+    "15312",
+    "77315",
+    "82832",
+    "84052",
+    "28073",
+    "52699",
+    "84246",
+    "75835",
+    "14627",
+    "44516",
+    "99112",
+    "54472",
+    "4658",
+    "64713"
+  ],
+  "result": [
+    {
+      "type": "output_text",
+      "output": "Explanation: The evidence from [15312] confirms that Wigan Athletic's stadium (The Brick Community Stadium) opened in 1999, which fits the stadium establishment window (1995–2004). The club's name, \"Wigan Athletic,\" does not include \"F.C.\" or \"football club\" in common usage. While there is no direct evidence in the search results confirming all other criteria (2013/14 third place with three teams tied on points, coach appointed in 2022, first home win in 2019 with a 70th-minute goal), Wigan Athletic is the only team matching the stadium and naming requirements. This aligns with the reasoning of Agent 3.\nExact Answer: Wigan Athletic\nConfidence: 60%"
+    }
+  ]
+}

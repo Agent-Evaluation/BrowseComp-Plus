@@ -1,0 +1,22 @@
+{
+  "query_id": "761",
+  "tool_call_counts": {
+    "search": 4
+  },
+  "status": "completed",
+  "retrieved_docids": [
+    "12217",
+    "99528",
+    "52191",
+    "11292",
+    "92231",
+    "6329",
+    "80656"
+  ],
+  "result": [
+    {
+      "type": "output_text",
+      "output": "Explanation: The search results do not provide a direct table or summary from the Estée Lauder 2022 annual report specifying the percentage decrease in non-GAAP operating expenses for fiscal year 2021 compared to 2020. The available press releases and summaries highlight net sales, EPS, and general cost management, but do not state the exact percentage decrease for non-GAAP operating expenses. Therefore, the exact answer cannot be determined from the provided evidence.\nExact Answer: Not found in available search results.\nConfidence: 0%"
+    }
+  ]
+}

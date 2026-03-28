@@ -1,0 +1,29 @@
+{
+  "query_id": "1058",
+  "tool_call_counts": {
+    "search": 4
+  },
+  "status": "completed",
+  "retrieved_docids": [
+    "50253",
+    "70622",
+    "59493",
+    "95264",
+    "25241",
+    "90304",
+    "52646",
+    "90829",
+    "52853",
+    "10339",
+    "55979",
+    "38483",
+    "86102",
+    "83297"
+  ],
+  "result": [
+    {
+      "type": "output_text",
+      "output": "Explanation: Despite multiple searches, none of the retrieved documents directly identify an entrepreneur matching all criteria: over 20 years in investment/consulting, science/business education in India, MIT fintech studies, founder of a company with a financial innovation listed on Nasdaq in August 2014 and delisted April 2021. No evidence in the search results points to a specific individual or company fitting this profile.\nExact Answer: Not found in current search results.\nConfidence: 0%"
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "query_id": "847",
+  "tool_call_counts": {
+    "search": 29
+  },
+  "status": "completed",
+  "retrieved_docids": [
+    "66328",
+    "17462",
+    "53092",
+    "12980",
+    "8930",
+    "50045",
+    "79859",
+    "63988",
+    "45147",
+    "23473",
+    "95292",
+    "86836",
+    "64031",
+    "59011",
+    "44666",
+    "98189",
+    "4758",
+    "31859",
+    "18948",
+    "79241",
+    "90725",
+    "43306",
+    "22471",
+    "37294"
+  ],
+  "result": [
+    {
+      "type": "output_text",
+      "output": "Explanation: None of the search results provide evidence of a 2023 Indian movie about a married couple, directed and written by a poet born in late 1971 who won a National Film Award in 2015, nor do they mention a review in a newspaper launched in the 1990s criticizing the lack of arc for the female lead and focus on Indigenous viewpoints. The results are unrelated or do not match the clues provided.\nExact Answer: Not found in current search results.\nConfidence: 0%"
+    }
+  ]
+}

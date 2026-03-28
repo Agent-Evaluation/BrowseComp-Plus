@@ -1,0 +1,55 @@
+{
+  "query_id": "1249",
+  "tool_call_counts": {
+    "search": 23
+  },
+  "status": "completed",
+  "retrieved_docids": [
+    "30311",
+    "94524",
+    "76550",
+    "69760",
+    "22662",
+    "78719",
+    "9149",
+    "32495",
+    "78735",
+    "41095",
+    "41314",
+    "87904",
+    "11644",
+    "75146",
+    "2280",
+    "49770",
+    "2422",
+    "8759",
+    "71420",
+    "87388",
+    "7424",
+    "62986",
+    "33889",
+    "28680",
+    "5972",
+    "10714",
+    "2879",
+    "69392",
+    "63480",
+    "38994",
+    "83800",
+    "86445",
+    "38959",
+    "89896",
+    "22211",
+    "54660",
+    "93451",
+    "33423",
+    "23570",
+    "95909"
+  ],
+  "result": [
+    {
+      "type": "output_text",
+      "output": "Explanation: The clues point to Arizona: Phoenix is the capital, its fifth tallest building as of 2020 is a commercial building from the 1990s, Arizona's population grew by 2.1% from 2020 to 2023, and it borders Mexico and multiple U.S. states. Multiple sources confirm that as of 2023, Arizona's state bird is the Cactus Wren [63480][38994]. The latter explicitly states, \"Missouri and Arizona's state birds are the eastern bluebird and cactus wren, respectively.\"\nExact Answer: Cactus Wren\nConfidence: 100%"
+    }
+  ]
+}

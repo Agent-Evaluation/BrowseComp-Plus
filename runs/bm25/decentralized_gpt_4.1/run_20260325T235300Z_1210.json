@@ -1,0 +1,34 @@
+{
+  "query_id": "1210",
+  "tool_call_counts": {
+    "search": 22
+  },
+  "status": "completed",
+  "retrieved_docids": [
+    "5883",
+    "77586",
+    "3114",
+    "62609",
+    "81843",
+    "45036",
+    "39776",
+    "43",
+    "18992",
+    "4800",
+    "19264",
+    "71781",
+    "37465",
+    "82044",
+    "87225",
+    "98741",
+    "33781",
+    "81743",
+    "45725"
+  ],
+  "result": [
+    {
+      "type": "output_text",
+      "output": "Explanation: The search results confirm that Jerry Lewis and Dean Martin collaborated on 16 movies and were a famous team for 11 years, but there is no evidence in the provided documents about Jerry Lewis's childhood, stepfather mistreatment, being kicked out, or being offered a role by a thespian after a performance. The details about over 100 collaborations and the specific childhood experiences are not confirmed in the search results. Therefore, while the Martin-Lewis partnership fits part of the question, the rest remains unverified.\nExact Answer: Insufficient evidence to confidently identify the person.\nConfidence: 30%"
+    }
+  ]
+}

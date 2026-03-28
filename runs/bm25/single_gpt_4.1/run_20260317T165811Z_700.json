@@ -1,0 +1,30 @@
+{
+  "query_id": "700",
+  "tool_call_counts": {
+    "search": 4
+  },
+  "status": "completed",
+  "retrieved_docids": [
+    "17330",
+    "31185",
+    "33574",
+    "798",
+    "63311",
+    "15904",
+    "94730",
+    "81069",
+    "40867",
+    "29038",
+    "17134",
+    "30474",
+    "2488",
+    "10044",
+    "21603"
+  ],
+  "result": [
+    {
+      "type": "output_text",
+      "output": "Explanation: The clues point to a game involving Asian developers—one with a famous emblem from the late 20th century (likely TMS Entertainment, known for the Lupin III franchise, or Sega, which published Lupin III games), and another company that became defunct after a 2010s release (possibly Monkey Punch's involvement or a related studio). The protagonist is a European gentleman thief with facial hair and an elegant accessory, often accompanied by a less experienced aide—this matches Arsène Lupin III, who is depicted with a mustache, suit, and tie, and is often accompanied by his aide, such as Inspector Zenigata or his gang. The search results reference Lupin III's trademark issues and adaptations, confirming the connection [94730]. The most notable game fitting this description is \"Lupin the Third: The Greatest Brain Battle,\" developed by Japanese studios and featuring the iconic character.\nExact Answer: Lupin the Third: The Greatest Brain Battle (or a Lupin III video game)\nConfidence: 90%"
+    }
+  ]
+}

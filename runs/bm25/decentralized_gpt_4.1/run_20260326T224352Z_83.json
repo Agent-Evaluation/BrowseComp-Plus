@@ -1,0 +1,31 @@
+{
+  "query_id": "83",
+  "tool_call_counts": {
+    "search": 22
+  },
+  "status": "completed",
+  "retrieved_docids": [
+    "70702",
+    "67965",
+    "31185",
+    "49962",
+    "51045",
+    "18948",
+    "55818",
+    "93466",
+    "80725",
+    "62152",
+    "72312",
+    "78331",
+    "66320",
+    "27932",
+    "74352",
+    "14207"
+  ],
+  "result": [
+    {
+      "type": "output_text",
+      "output": "Explanation: After reviewing the most relevant article ([80725]), which is a 2013 publication summarizing the ethnographic and oral history literature on the use of mushrooms by California Indian tribes, there is no explicit mention in the provided snippets of the full name of the first person credited with documenting the use of mushrooms in ritual, medicine, and harvest with stone tools. The article discusses indigenous practices and knowledge but does not name a specific individual as the first documenter. No other search result from 2012–2023 provides this information either.\nExact Answer: Not found in available sources\nConfidence: 0%"
+    }
+  ]
+}

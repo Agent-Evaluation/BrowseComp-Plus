@@ -1,0 +1,28 @@
+{
+  "query_id": "707",
+  "tool_call_counts": {
+    "search": 5
+  },
+  "status": "completed",
+  "retrieved_docids": [
+    "94729",
+    "92969",
+    "69589",
+    "76913",
+    "27552",
+    "56325",
+    "27064",
+    "6934",
+    "55972",
+    "82418",
+    "53314",
+    "16128",
+    "54472"
+  ],
+  "result": [
+    {
+      "type": "output_text",
+      "output": "Explanation: Despite multiple targeted searches, no search result provided a direct match for a FIFA World Cup match between 2018 and 2023 with the specified stats (5 goals, 1-goal margin, Man of the Match scored 2 goals, VAR used in first half) or a listing of the assistant coach for the losing team in such a match. The search results included general football information, player biographies, and club details, but not the required match or staff data. Therefore, the answer cannot be determined from the available evidence.\nExact Answer: Not found in provided sources\nConfidence: 0%"
+    }
+  ]
+}

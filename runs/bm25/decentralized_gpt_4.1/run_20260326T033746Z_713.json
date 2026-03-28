@@ -1,0 +1,46 @@
+{
+  "query_id": "713",
+  "tool_call_counts": {
+    "search": 29
+  },
+  "status": "completed",
+  "retrieved_docids": [
+    "63436",
+    "10949",
+    "21822",
+    "15260",
+    "18948",
+    "85208",
+    "6400",
+    "56325",
+    "22978",
+    "33385",
+    "66322",
+    "4658",
+    "7424",
+    "24551",
+    "42665",
+    "39930",
+    "9671",
+    "4858",
+    "35774",
+    "99306",
+    "37040",
+    "43074",
+    "34892",
+    "86966",
+    "48795",
+    "16128",
+    "35928",
+    "78259",
+    "11558",
+    "99658",
+    "100153"
+  ],
+  "result": [
+    {
+      "type": "output_text",
+      "output": "Explanation: The search results did not directly mention the Kenya national football team coach who led the team to AFCON qualification after a long gap with a walkover. However, based on the clues—Kenya, AFCON 2004, walkover, football pioneer, Jomo Kenyatta's connection to Lever Brothers/Unilever in the 1920s—the context points to Jacob \"Ghost\" Mulee. Mulee was appointed as Kenya's coach in 2003, led them to the 2004 AFCON (their first in over a decade), and Kenya advanced after Eritrea withdrew from the second leg, resulting in a walkover. Mulee is also considered a football pioneer in Kenya.\nExact Answer: Jacob \"Ghost\" Mulee\nConfidence: 90%"
+    }
+  ]
+}

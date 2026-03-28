@@ -1,0 +1,30 @@
+{
+  "query_id": "946",
+  "tool_call_counts": {
+    "search": 6
+  },
+  "status": "completed",
+  "retrieved_docids": [
+    "6885",
+    "30804",
+    "20364",
+    "15501",
+    "18948",
+    "40731",
+    "58559",
+    "45147",
+    "28287",
+    "90623",
+    "16823",
+    "12220",
+    "22171",
+    "23760",
+    "59490"
+  ],
+  "result": [
+    {
+      "type": "output_text",
+      "output": "Explanation: Despite multiple targeted searches, none of the results directly mention an American indie rock band formed in 2007 with three albums by 2017, that bought out their record label contract after less than 20 months, became independent, and parted ways with two founding members in 2017, with a lead who played music since their teenage years. The search results do not provide a band name matching all these criteria. Therefore, I cannot provide a confident answer based on the available evidence.\nExact Answer: Not found in search results\nConfidence: 0%"
+    }
+  ]
+}

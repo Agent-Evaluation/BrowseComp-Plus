@@ -1,0 +1,50 @@
+{
+  "query_id": "487",
+  "tool_call_counts": {
+    "search": 28
+  },
+  "status": "completed",
+  "retrieved_docids": [
+    "8958",
+    "88404",
+    "50601",
+    "52778",
+    "22209",
+    "88537",
+    "45725",
+    "41035",
+    "11639",
+    "28982",
+    "54495",
+    "89294",
+    "70474",
+    "92263",
+    "5009",
+    "99494",
+    "62460",
+    "62155",
+    "91120",
+    "18830",
+    "48709",
+    "59859",
+    "88074",
+    "10658",
+    "21922",
+    "8930",
+    "23704",
+    "19722",
+    "97211",
+    "15913",
+    "95645",
+    "97837",
+    "31148",
+    "49162",
+    "75149"
+  ],
+  "result": [
+    {
+      "type": "output_text",
+      "output": "Explanation: The evidence shows Ethan Hawke made his film debut in \"Explorers\" (1985) [21922]. He attended Carnegie Mellon University, which matches the clue about a debut movie director sharing an alma mater with an astronaut from the early 1980s. Hawke produced \"Before the Devil Knows You're Dead\" (2007), directed by Sidney Lumet, who was born in Philadelphia—a city on the Delaware River, crossed by European explorers in the 16th century. The clues about architecture and family connections are not directly confirmed, but the majority of the clues fit Hawke.\nExact Answer: Ethan Hawke\nConfidence: 90%"
+    }
+  ]
+}

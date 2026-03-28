@@ -1,0 +1,25 @@
+{
+  "query_id": "591",
+  "tool_call_counts": {
+    "search": 4
+  },
+  "status": "completed",
+  "retrieved_docids": [
+    "5238",
+    "62209",
+    "32723",
+    "88195",
+    "39017",
+    "95167",
+    "63685",
+    "3255",
+    "58802",
+    "24909"
+  ],
+  "result": [
+    {
+      "type": "output_text",
+      "output": "Explanation: None of the search results provide direct evidence matching all the criteria: a university established between 2000 and 2003, with a scientist founder who was chairman until December 2023, whose PhD was from an institute recognized as a university between 1965 and 1968, mandatory foreign language courses, and a 10th anniversary of an overseas campus between 2020 and 2023. The results mostly discuss unrelated universities or lack the necessary details about founders, dates, or overseas campuses.\nExact Answer: No answer found based on available evidence.\nConfidence: 0%"
+    }
+  ]
+}

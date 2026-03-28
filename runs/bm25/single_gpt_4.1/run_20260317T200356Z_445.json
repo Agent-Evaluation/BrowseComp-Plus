@@ -1,0 +1,28 @@
+{
+  "query_id": "445",
+  "tool_call_counts": {
+    "search": 5
+  },
+  "status": "completed",
+  "retrieved_docids": [
+    "72312",
+    "9780",
+    "19700",
+    "84295",
+    "45393",
+    "48494",
+    "21824",
+    "76869",
+    "3577",
+    "37028",
+    "11440",
+    "84994",
+    "54279"
+  ],
+  "result": [
+    {
+      "type": "output_text",
+      "output": "Explanation: Despite multiple searches, none of the retrieved documents explicitly mention the full form of the model used for comparisons in the specified study on how a child's environment and relationships influence physical activity, published after 2010 and before 2020, by an alliance of universities focused on sustainable behavior change. The closest matches discuss factors, barriers, and general models in physical education, but do not specify a named model or its full form. Therefore, the required information is not present in the available search results.\nExact Answer: Not found in provided sources\nConfidence: 0%"
+    }
+  ]
+}

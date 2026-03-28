@@ -1,0 +1,27 @@
+{
+  "query_id": "1221",
+  "tool_call_counts": {
+    "search": 18
+  },
+  "status": "completed",
+  "retrieved_docids": [
+    "20590",
+    "93061",
+    "85345",
+    "17134",
+    "5379",
+    "82297",
+    "62581",
+    "99227",
+    "58591",
+    "73425",
+    "90391",
+    "56725"
+  ],
+  "result": [
+    {
+      "type": "output_text",
+      "output": "Explanation: After reviewing the search results, none directly mention a 20th-century fantasy video game involving a prophecy, twin keys, a scavenger protagonist protecting orphans, an antagonist who redeems themselves, and a prophecy device that reveals new worlds in the sky. The closest match is \"ASH: Archaic Sealed Heat\" [17134], which is a fantasy video game with monarchs and a prophecy-like narrative, but it does not fit all the specific details (twin keys, prophecy device, new worlds in the sky, etc.). No evidence in the search results directly identifies a game matching the full description.\nExact Answer: No definitive answer found in search results.\nConfidence: 0%"
+    }
+  ]
+}

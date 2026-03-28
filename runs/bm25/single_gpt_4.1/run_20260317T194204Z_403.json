@@ -1,0 +1,31 @@
+{
+  "query_id": "403",
+  "tool_call_counts": {
+    "search": 5
+  },
+  "status": "completed",
+  "retrieved_docids": [
+    "18948",
+    "21822",
+    "20847",
+    "56935",
+    "75146",
+    "66230",
+    "92506",
+    "45147",
+    "39776",
+    "49770",
+    "97906",
+    "32658",
+    "22597",
+    "91586",
+    "93288",
+    "13604"
+  ],
+  "result": [
+    {
+      "type": "output_text",
+      "output": "Explanation: The clues point to Ella Fitzgerald: she was born on her country's Independence Day (April 25, 1917, in the U.S.), had humble roots, won an amateur hour competition before 20, was arrested and released after paying a fine, lived in Europe in the late 1970s, and died before 80. However, none of the search results provide the name of the hospital or place where she was hospitalized with a liver problem as mentioned in a post on October 5. The search did not yield a direct answer to the specific location of her hospitalization.\nExact Answer: Not found in search results\nConfidence: 0%"
+    }
+  ]
+}

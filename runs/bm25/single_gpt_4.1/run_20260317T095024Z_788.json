@@ -1,0 +1,26 @@
+{
+  "query_id": "788",
+  "tool_call_counts": {
+    "search": 4
+  },
+  "status": "completed",
+  "retrieved_docids": [
+    "45789",
+    "39965",
+    "55924",
+    "92109",
+    "61284",
+    "40638",
+    "33248",
+    "14065",
+    "22103",
+    "1726",
+    "62936"
+  ],
+  "result": [
+    {
+      "type": "output_text",
+      "output": "Explanation: Masjid al-Haram in Mecca was completed long before 1990, has a capacity exceeding two million, and covers over 400,000 square meters (over 4 million square feet) [14065]. It is located in Mecca, where there are several mosques built after 1720 within walking distance, as the city is densely packed with Islamic sites [62936]. There are also hospitals such as Ajyad Hospital, established after 1930, within walking distance of Masjid al-Haram [common knowledge, but not directly cited in the search results]. All criteria are met.\nExact Answer: Masjid al-Haram, Mecca, Saudi Arabia\nConfidence: 95%"
+    }
+  ]
+}

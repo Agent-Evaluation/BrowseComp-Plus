@@ -1,0 +1,24 @@
+{
+  "query_id": "560",
+  "tool_call_counts": {
+    "search": 6
+  },
+  "status": "completed",
+  "retrieved_docids": [
+    "62209",
+    "15666",
+    "53092",
+    "75295",
+    "19685",
+    "49770",
+    "66328",
+    "92234",
+    "94275"
+  ],
+  "result": [
+    {
+      "type": "output_text",
+      "output": "Explanation: Despite multiple targeted searches, no search result provides the full birth name (first, middle, last) of the person [Person 2] who attended sporting events for decades with the association president and board member, was diagnosed with a medical condition between 1970 and 1990, and died between 2018 and 2022. The results include only generic obituary templates and unrelated obituaries, with no evidence matching the specific scenario or names required.\nExact Answer: Not found in the provided search results.\nConfidence: 0%"
+    }
+  ]
+}

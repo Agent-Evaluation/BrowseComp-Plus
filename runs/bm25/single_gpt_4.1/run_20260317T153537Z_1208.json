@@ -1,0 +1,25 @@
+{
+  "query_id": "1208",
+  "tool_call_counts": {
+    "search": 4
+  },
+  "status": "completed",
+  "retrieved_docids": [
+    "92506",
+    "88547",
+    "5902",
+    "31943",
+    "67819",
+    "68430",
+    "8038",
+    "36443",
+    "44257",
+    "43064"
+  ],
+  "result": [
+    {
+      "type": "output_text",
+      "output": "Explanation: Despite multiple searches, there is no evidence in the provided documents identifying a non-English TV series released exclusively between 2014 and 2019 with the described narrative and episode details, nor any mention of its director. The only series with some details (e.g., \"True Blood\") is English-language and does not fit the criteria. No relevant show titles or director names matching the question were found in the search results.\nExact Answer: Not found in available sources\nConfidence: 0%"
+    }
+  ]
+}

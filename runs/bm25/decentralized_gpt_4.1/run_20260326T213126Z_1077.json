@@ -1,0 +1,47 @@
+{
+  "query_id": "1077",
+  "tool_call_counts": {
+    "search": 30
+  },
+  "status": "completed",
+  "retrieved_docids": [
+    "62437",
+    "50351",
+    "53092",
+    "1865",
+    "95335",
+    "70207",
+    "52916",
+    "7230",
+    "99271",
+    "14592",
+    "21069",
+    "36621",
+    "62031",
+    "57084",
+    "65241",
+    "79239",
+    "53096",
+    "56692",
+    "68980",
+    "46086",
+    "34424",
+    "75847",
+    "20907",
+    "15237",
+    "53323",
+    "24632",
+    "74398",
+    "70018",
+    "59796",
+    "11870",
+    "91008",
+    "32645"
+  ],
+  "result": [
+    {
+      "type": "output_text",
+      "output": "Explanation: The question refers to Martin Seligman's learned helplessness experiments, which are foundational in depression research. The animal used in these experiments is the domestic dog. The scientific name for the domestic dog is Canis lupus familiaris, as confirmed by standard biological classification sources [24632], and supported by research on canine diseases [15237]. The context of Seligman's work and the focus on learned helplessness in dogs is well established in psychology literature.\nExact Answer: Canis lupus familiaris\nConfidence: 100%"
+    }
+  ]
+}

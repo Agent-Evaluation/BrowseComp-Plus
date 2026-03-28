@@ -1,0 +1,29 @@
+{
+  "query_id": "426",
+  "tool_call_counts": {
+    "search": 5
+  },
+  "status": "completed",
+  "retrieved_docids": [
+    "30804",
+    "2431",
+    "18992",
+    "3072",
+    "45147",
+    "41035",
+    "74795",
+    "65139",
+    "23704",
+    "86554",
+    "36205",
+    "75146",
+    "37465",
+    "31698"
+  ],
+  "result": [
+    {
+      "type": "output_text",
+      "output": "Explanation: None of the search results provide direct evidence of an actor born in November 1997-2000 who fits all the criteria: dancer, model, began acting in movies at age six, starred in a TV series released in August 2019-2022, and looked up to two actors with the specified birth months/years. The results mostly reference unrelated celebrities or lack the necessary details to confirm the identity.\nExact Answer: No conclusive answer found based on available evidence.\nConfidence: 0%"
+    }
+  ]
+}

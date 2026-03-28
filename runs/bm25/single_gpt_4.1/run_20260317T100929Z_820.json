@@ -1,0 +1,30 @@
+{
+  "query_id": "820",
+  "tool_call_counts": {
+    "search": 6
+  },
+  "status": "completed",
+  "retrieved_docids": [
+    "20895",
+    "12987",
+    "67895",
+    "60100",
+    "95872",
+    "36852",
+    "82944",
+    "35551",
+    "77096",
+    "14981",
+    "36728",
+    "40176",
+    "48613",
+    "71644",
+    "48194"
+  ],
+  "result": [
+    {
+      "type": "output_text",
+      "output": "Explanation: Despite multiple searches, none of the retrieved PubMed 2021 articles with 9 authors, NIH funding, and Nepalese biotechnologist authorship provided a full author list or explicit employment/affiliation history linking a biotechnologist to a specific Nepalese company as of January 2012. The closest matches discuss Nepalese research institutions (e.g., Tribhuvan University Teaching Hospital, Patan Academy of Health Sciences) but do not mention a private biotech company or a biotechnologist's employment at such a company in 2012. No direct evidence was found in the search results.\nExact Answer: Not found in available search results.\nConfidence: 0%"
+    }
+  ]
+}

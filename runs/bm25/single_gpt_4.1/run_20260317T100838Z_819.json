@@ -1,0 +1,38 @@
+{
+  "query_id": "819",
+  "tool_call_counts": {
+    "search": 10
+  },
+  "status": "completed",
+  "retrieved_docids": [
+    "21877",
+    "17149",
+    "62645",
+    "45502",
+    "83694",
+    "94382",
+    "18948",
+    "21603",
+    "82082",
+    "79239",
+    "52885",
+    "80205",
+    "16064",
+    "93844",
+    "52755",
+    "31388",
+    "36510",
+    "70904",
+    "6009",
+    "81250",
+    "17666",
+    "28110",
+    "42714"
+  ],
+  "result": [
+    {
+      "type": "output_text",
+      "output": "search: Madeon interview October 2013 \"five words\" describe sound burger hypnotic pop electronic French direct quote site:music or pop culture interview archives"
+    }
+  ]
+}

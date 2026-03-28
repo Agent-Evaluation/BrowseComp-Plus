@@ -1,0 +1,31 @@
+{
+  "query_id": "771",
+  "tool_call_counts": {
+    "search": 6
+  },
+  "status": "completed",
+  "retrieved_docids": [
+    "97455",
+    "32061",
+    "5617",
+    "84042",
+    "55355",
+    "4452",
+    "75436",
+    "21603",
+    "35059",
+    "94639",
+    "74964",
+    "1245",
+    "80172",
+    "97072",
+    "81815",
+    "94005"
+  ],
+  "result": [
+    {
+      "type": "output_text",
+      "output": "Explanation: The question describes a Finnish fashion business that started as a hat shop in the 1930s in a city with a medieval tower (Turku, with its 14th-century castle and cathedral). The shop later produced scarves, was renamed with the initials of the siblings and surname, expanded to Helsinki and Tampere in the 1970s, and in the 1980s, the owner and their child created a new youth-oriented brand. While the search did not yield a direct snippet with the brand name, the clues match the story of the Finnish brand \"Marja Kurki\" and the youth brand \"Katri Niskanen\" is not correct. The correct answer, based on the well-known history of the Turku-based shop \"Aarikka\" (founded by Kaija Aarikka, later run with her daughter Pauliina Aarikka), is \"Aarikka's youth brand 'Aarikka Junior'.\" However, the search did not return a direct snippet confirming this, so confidence is limited.\nExact Answer: Aarikka Junior\nConfidence: 60%"
+    }
+  ]
+}

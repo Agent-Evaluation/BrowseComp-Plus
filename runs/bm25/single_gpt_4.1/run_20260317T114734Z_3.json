@@ -1,0 +1,25 @@
+{
+  "query_id": "3",
+  "tool_call_counts": {
+    "search": 6
+  },
+  "status": "completed",
+  "retrieved_docids": [
+    "7158",
+    "84706",
+    "75686",
+    "63436",
+    "99329",
+    "78673",
+    "57389",
+    "52699",
+    "11503",
+    "59078"
+  ],
+  "result": [
+    {
+      "type": "output_text",
+      "output": "Explanation: The club in question must have been formed between 1930 and 1933 and reached their first FA Cup final at Wembley between 1971 and 1974. None of the major clubs in the search results (Arsenal, Manchester United, Wimbledon) fit this formation date. The clues point to Sunderland AFC, who were formed in 1879 but reached their first Wembley FA Cup final in 1973. However, the formation date does not match. No evidence in the search results directly identifies a club formed between 1930 and 1933 that fits all criteria, nor a player matching the goal and retirement clues.\nExact Answer: Insufficient evidence to answer\nConfidence: 0%"
+    }
+  ]
+}

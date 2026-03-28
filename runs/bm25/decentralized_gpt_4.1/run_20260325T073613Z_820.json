@@ -1,0 +1,31 @@
+{
+  "query_id": "820",
+  "tool_call_counts": {
+    "search": 9
+  },
+  "status": "completed",
+  "retrieved_docids": [
+    "20895",
+    "12987",
+    "67895",
+    "60100",
+    "95872",
+    "82944",
+    "16286",
+    "14981",
+    "56391",
+    "36852",
+    "9983",
+    "54",
+    "66437",
+    "56821",
+    "38563",
+    "46068"
+  ],
+  "result": [
+    {
+      "type": "output_text",
+      "output": "Explanation: I agree with Agents 1, 2, and 3 because the evidence from [DocID: 54] and [DocID: 66437] consistently shows that Abhinav Adhikari worked as a Biotechnologist at \"Genetics Nepal Pvt. Ltd\" in Biratnagar, Nepal, from August 2011 to June 2012. This timeframe includes January 2012, and both the employment record and LinkedIn-style profile confirm the company name and position, directly matching the question's requirements.\nExact Answer: Genetics Nepal Pvt. Ltd\nConfidence: 100%"
+    }
+  ]
+}

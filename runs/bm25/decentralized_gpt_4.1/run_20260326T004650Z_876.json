@@ -1,0 +1,33 @@
+{
+  "query_id": "876",
+  "tool_call_counts": {
+    "search": 13
+  },
+  "status": "completed",
+  "retrieved_docids": [
+    "78862",
+    "36741",
+    "48415",
+    "79020",
+    "32785",
+    "67459",
+    "66328",
+    "74540",
+    "97486",
+    "17462",
+    "28302",
+    "42525",
+    "91227",
+    "35963",
+    "91572",
+    "31483",
+    "80497",
+    "77625"
+  ],
+  "result": [
+    {
+      "type": "output_text",
+      "output": "Explanation: Multiple sources confirm that Osamu Tezuka, the creator of influential serialized manga works adapted into major animated productions (notably \"Astro Boy\"), was born in Toyonaka, Osaka Prefecture, Japan. Wikipedia [74540] explicitly lists his birthplace as Toyonaka, Osaka Prefecture, and this is consistent with other biographical sources. The context of the question matches Tezuka's career and the broadcasting history of his works. No evidence contradicts this information.\nExact Answer: Toyonaka, Osaka Prefecture, Japan\nConfidence: 100%"
+    }
+  ]
+}

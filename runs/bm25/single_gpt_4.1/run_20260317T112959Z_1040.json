@@ -1,0 +1,38 @@
+{
+  "query_id": "1040",
+  "tool_call_counts": {
+    "search": 6
+  },
+  "status": "completed",
+  "retrieved_docids": [
+    "7505",
+    "68929",
+    "82055",
+    "66328",
+    "1981",
+    "40447",
+    "16007",
+    "43610",
+    "82044",
+    "89940",
+    "51137",
+    "21822",
+    "58840",
+    "21603",
+    "51261",
+    "71964",
+    "35273",
+    "22312",
+    "54263",
+    "96070",
+    "22575",
+    "44667",
+    "44751"
+  ],
+  "result": [
+    {
+      "type": "output_text",
+      "output": "Explanation: The clues point to \"The Friend,\" an independent weekly published by Samuel Taylor Coleridge, which included poetry, correspondence with opera singer Elizabeth Billington, and a speech by Dr. Thomas Beddoes (who traveled to France and England with his artist son, Thomas Lovell Beddoes). Coleridge was not formally adopted, but he was taken under the patronage and care of Thomas Poole, a local tanner in Nether Stowey, whose surname is a common English word. Poole supported Coleridge financially and intellectually, acting as a surrogate father.\nExact Answer: Poole\nConfidence: 95%"
+    }
+  ]
+}

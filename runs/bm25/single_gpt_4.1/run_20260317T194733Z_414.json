@@ -1,0 +1,30 @@
+{
+  "query_id": "414",
+  "tool_call_counts": {
+    "search": 5
+  },
+  "status": "completed",
+  "retrieved_docids": [
+    "64166",
+    "43680",
+    "44616",
+    "33254",
+    "50070",
+    "71655",
+    "56652",
+    "14134",
+    "17199",
+    "30474",
+    "67324",
+    "82543",
+    "32305",
+    "26928",
+    "35888"
+  ],
+  "result": [
+    {
+      "type": "output_text",
+      "output": "Explanation: The search results confirm Park Wan-suh as a canonical Korean author whose works often depict rural life and hardships, but they do not provide a direct summary of \"Who Ate Up All the Shinga?\" or specify the name of the individual whose position the protagonist takes over. The evidence is insufficient to identify the exact person or role referenced in the question.\nExact Answer: Insufficient evidence to determine\nConfidence: 20%"
+    }
+  ]
+}

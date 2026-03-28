@@ -1,0 +1,34 @@
+{
+  "query_id": "176",
+  "tool_call_counts": {
+    "search": 6
+  },
+  "status": "completed",
+  "retrieved_docids": [
+    "97455",
+    "71608",
+    "64166",
+    "51665",
+    "18127",
+    "94639",
+    "3255",
+    "25840",
+    "50405",
+    "31496",
+    "76609",
+    "13336",
+    "12290",
+    "82340",
+    "77106",
+    "49053",
+    "8470",
+    "78989",
+    "6862"
+  ],
+  "result": [
+    {
+      "type": "output_text",
+      "output": "Explanation: The Harvard Negotiation Project was founded by Roger Fisher, William Ury, and Bruce Patton. Roger Fisher, a Harvard Law professor, co-authored \"Getting to Yes\" with William Ury and Bruce Patton, first published in 1981 (over 20 years before his later awards). \"Difficult Conversations\" is another well-known book by these authors. The clues about an article referencing the 25th anniversary of \"Getting to Yes\" and sharing two words with its title point to Roger Fisher as the author in question. [49053][8470]\nExact Answer: Roger Fisher\nConfidence: 100%"
+    }
+  ]
+}

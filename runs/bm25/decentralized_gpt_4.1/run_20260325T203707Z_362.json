@@ -1,0 +1,34 @@
+{
+  "query_id": "362",
+  "tool_call_counts": {
+    "search": 23
+  },
+  "status": "completed",
+  "retrieved_docids": [
+    "24320",
+    "740",
+    "84059",
+    "83088",
+    "84350",
+    "49635",
+    "23151",
+    "77625",
+    "13722",
+    "96157",
+    "87671",
+    "58366",
+    "98034",
+    "40989",
+    "29777",
+    "50221",
+    "95355",
+    "5965",
+    "64031"
+  ],
+  "result": [
+    {
+      "type": "output_text",
+      "output": "Explanation: After two rounds of searching, none of the search results provide direct evidence matching all the detailed criteria: a 1990s cartoon with a character with multiple heads, a creator who won awards in different decades and whose work appeared on an album cover by a band founded in the 1980s, and a production company founded in the 1970s known for animal cartoons. The results reference general animation history, anime, and notable figures, but do not mention a show or creator fitting all these clues. No evidence was found for a cartoon or creator matching the full description.\nExact Answer: No definitive answer found based on available evidence.\nConfidence: 0%"
+    }
+  ]
+}

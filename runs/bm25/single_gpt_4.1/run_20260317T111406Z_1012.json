@@ -1,0 +1,31 @@
+{
+  "query_id": "1012",
+  "tool_call_counts": {
+    "search": 5
+  },
+  "status": "completed",
+  "retrieved_docids": [
+    "65223",
+    "59490",
+    "22171",
+    "59865",
+    "75636",
+    "62239",
+    "25899",
+    "69046",
+    "81517",
+    "53108",
+    "4776",
+    "65883",
+    "40679",
+    "79965",
+    "98707",
+    "74795"
+  ],
+  "result": [
+    {
+      "type": "output_text",
+      "output": "Explanation: Despite multiple searches, there is no direct evidence in the provided search results identifying an EP released between 2018 and 2023 by a singer-songwriter where each song title is one word ending with a question mark, and the artist described the tracks as journaling notes turned into songs, with a statement about giving their all. No search result provides the EP's name, artist, or release date matching all these criteria. Therefore, I cannot provide the exact release date.\nExact Answer: Not found in available sources.\nConfidence: 0%"
+    }
+  ]
+}

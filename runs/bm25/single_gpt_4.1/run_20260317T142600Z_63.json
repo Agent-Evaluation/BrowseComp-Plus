@@ -1,0 +1,25 @@
+{
+  "query_id": "63",
+  "tool_call_counts": {
+    "search": 5
+  },
+  "status": "completed",
+  "retrieved_docids": [
+    "17149",
+    "79594",
+    "2422",
+    "56695",
+    "66350",
+    "1366",
+    "88944",
+    "21822",
+    "24815",
+    "4858"
+  ],
+  "result": [
+    {
+      "type": "output_text",
+      "output": "Explanation: The search results did not directly mention the association's name, but the clues point toward a professional players' association with an annual championship starting after 1992, a world record, and significant prize money in the 2020s. The only relevant city information found in the results is from [DocID: 4858], which mentions Falgates, a company founded in Kaduna, Nigeria. However, this does not fit the context of a professional players' association. No other search result provides a clear answer about the sponsor's business founding city. Therefore, based on the available evidence, the answer cannot be determined with high confidence.\nExact Answer: Not found / Insufficient evidence\nConfidence: 10%"
+    }
+  ]
+}

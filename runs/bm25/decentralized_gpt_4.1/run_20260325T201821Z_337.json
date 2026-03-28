@@ -1,0 +1,32 @@
+{
+  "query_id": "337",
+  "tool_call_counts": {
+    "search": 31
+  },
+  "status": "completed",
+  "retrieved_docids": [
+    "2585",
+    "30559",
+    "93101",
+    "42081",
+    "75574",
+    "85670",
+    "84059",
+    "45147",
+    "2003",
+    "11325",
+    "51665",
+    "48097",
+    "88630",
+    "20060",
+    "88350",
+    "95355",
+    "18967"
+  ],
+  "result": [
+    {
+      "type": "output_text",
+      "output": "Explanation: None of the search results provide evidence for an Emmy-winning documentary filmed by teenagers, broadcast on an Asian subsidiary of a Canadian broadcaster, nor do they mention a motivational TV show hosted by the company president whose wife hosted a 1970s series. The results focus on unrelated celebrity deaths and biographies, with no mention of the specific series or individuals described in the question.\nExact Answer: Insufficient evidence to answer.\nConfidence: 0%"
+    }
+  ]
+}

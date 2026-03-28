@@ -1,0 +1,23 @@
+{
+  "query_id": "125",
+  "tool_call_counts": {
+    "search": 5
+  },
+  "status": "completed",
+  "retrieved_docids": [
+    "95292",
+    "75181",
+    "39776",
+    "26772",
+    "2003",
+    "69981",
+    "47624",
+    "59381"
+  ],
+  "result": [
+    {
+      "type": "output_text",
+      "output": "Explanation: Despite multiple targeted searches, none of the results provide direct evidence identifying a 2000s European film about a cold-blooded professional, starring an actor who was the child of a furrier, trained as a builder, died soon after release, and whose director linked their death to anxiety from a previous profession. The search results are dominated by unrelated films and biographies (e.g., \"12 Angry Men,\" Truman Capote, Ridley Scott, David Fincher) and do not mention any actor or film matching all the clues.\nExact Answer: Not found in current search results.\nConfidence: 0%"
+    }
+  ]
+}

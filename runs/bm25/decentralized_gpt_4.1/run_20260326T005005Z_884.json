@@ -1,0 +1,53 @@
+{
+  "query_id": "884",
+  "tool_call_counts": {
+    "search": 33
+  },
+  "status": "completed",
+  "retrieved_docids": [
+    "69135",
+    "20411",
+    "70716",
+    "66756",
+    "8530",
+    "62555",
+    "67399",
+    "89913",
+    "71225",
+    "44315",
+    "99511",
+    "38246",
+    "75513",
+    "82130",
+    "59490",
+    "89298",
+    "37965",
+    "17036",
+    "7478",
+    "41554",
+    "20307",
+    "4807",
+    "40299",
+    "99932",
+    "79826",
+    "1494",
+    "5386",
+    "99494",
+    "47593",
+    "45036",
+    "8294",
+    "81843",
+    "66150",
+    "95124",
+    "740",
+    "71991",
+    "90373",
+    "84059"
+  ],
+  "result": [
+    {
+      "type": "output_text",
+      "output": "Explanation: The question asks for a TV drama whose title role was played by an actor who also worked in the debut film of a DOP (cinematographer), with that debut directed by a man who attended Wellington College. From [17036], Brian Trenchard-Smith attended Wellington College and made his directorial debut with \"The Man from Hong Kong\" (1975). However, none of the provided search results confirm the name of the DOP (cinematographer) for \"The Man from Hong Kong,\" nor do they confirm if it was his debut. Furthermore, there is no evidence in the results that Jimmy Wang Yu (the lead actor) later played the title role in a TV drama, nor is any TV drama title provided. Thus, the chain of evidence is incomplete.\nExact Answer: Insufficient evidence to answer.\nConfidence: 20%"
+    }
+  ]
+}

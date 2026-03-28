@@ -1,0 +1,27 @@
+{
+  "query_id": "757",
+  "tool_call_counts": {
+    "search": 5
+  },
+  "status": "completed",
+  "retrieved_docids": [
+    "95292",
+    "79826",
+    "8930",
+    "11509",
+    "95561",
+    "15270",
+    "25840",
+    "81546",
+    "31859",
+    "27204",
+    "76700",
+    "38634"
+  ],
+  "result": [
+    {
+      "type": "output_text",
+      "output": "Explanation: The clues point to Wes Moore: he has a bachelor's in history from Johns Hopkins and a master's in international relations (urban planning is sometimes referenced in his public service work). He co-authored \"The Other Wes Moore,\" which was adapted into a film. He was recognized as one of the most powerful people in education/social impact. Queen Latifah, an African American actress known for 2000s crime comedies, praised his work. His first stand-alone novel is \"The Work.\"\nExact Answer: The Work\nConfidence: 80%"
+    }
+  ]
+}

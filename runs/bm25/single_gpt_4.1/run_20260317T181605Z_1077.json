@@ -1,0 +1,28 @@
+{
+  "query_id": "1077",
+  "tool_call_counts": {
+    "search": 3
+  },
+  "status": "completed",
+  "retrieved_docids": [
+    "62437",
+    "50351",
+    "53092",
+    "1865",
+    "95335",
+    "36621",
+    "62031",
+    "57084",
+    "27741",
+    "99964",
+    "91701",
+    "40035",
+    "45118"
+  ],
+  "result": [
+    {
+      "type": "output_text",
+      "output": "Explanation: John B. Calhoun's \"Universe 25\" experiment is a famous study in depression and behavioral research, focusing on the effects of overcrowding on animal behavior. The experiment involved mice, as described in the search result: \"Calhoun...was a researcher at the National Institute of Mental Health conducting an experiment into the effects of overcrowding on mouse behavior...he introduced four mouse couples into a specially designed pen...\" [27741]. The scientific name for the common house mouse, which is the species used in such laboratory experiments, is Mus musculus.\nExact Answer: Mus musculus\nConfidence: 100%"
+    }
+  ]
+}

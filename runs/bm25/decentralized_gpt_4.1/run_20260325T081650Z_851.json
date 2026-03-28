@@ -1,0 +1,45 @@
+{
+  "query_id": "851",
+  "tool_call_counts": {
+    "search": 16
+  },
+  "status": "completed",
+  "retrieved_docids": [
+    "21822",
+    "23531",
+    "77662",
+    "51050",
+    "24549",
+    "18967",
+    "93034",
+    "77517",
+    "86735",
+    "31747",
+    "49483",
+    "7715",
+    "62411",
+    "66328",
+    "52885",
+    "68866",
+    "32275",
+    "94275",
+    "53092",
+    "66907",
+    "75835",
+    "52564",
+    "27334",
+    "18452",
+    "22662",
+    "51047",
+    "1269",
+    "79852",
+    "87957",
+    "57439"
+  ],
+  "result": [
+    {
+      "type": "output_text",
+      "output": "Explanation: After reviewing the peer responses and the evidence cited, all agents reference document [21822], which contains a \"Sidebar\" with Indiana history facts, including the 1925 Notre Dame Rose Bowl victory under Knute Rockne. This matches the context of a notable structure (Notre Dame), an offspring of immigrants (Rockne), and a group that settled in the area. The sports-related content on the same page is the mention of the \"Rose Bowl.\" No other document provides a more specific or different sports content title from the same page as the 2012 article.\nExact Answer: Rose Bowl\nConfidence: 90%"
+    }
+  ]
+}

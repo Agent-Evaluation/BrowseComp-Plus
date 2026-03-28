@@ -1,0 +1,28 @@
+{
+  "query_id": "427",
+  "tool_call_counts": {
+    "search": 5
+  },
+  "status": "completed",
+  "retrieved_docids": [
+    "57154",
+    "42096",
+    "21822",
+    "43729",
+    "57164",
+    "90207",
+    "97046",
+    "27929",
+    "82277",
+    "10409",
+    "24843",
+    "32275",
+    "56482"
+  ],
+  "result": [
+    {
+      "type": "output_text",
+      "output": "Explanation: The search results do not provide a direct match for a company established between 1850 and 1880, acquired by a conglomerate between 1970 and 1995, with two production sites as of 2022 (one over 13,000 sqm, one over 8,000 sqm), a product named after a nickname in the late 19th century, and descendants continuing the business after the founder's death. The closest relevant information is about Orville Redenbacher, who started a popcorn business in Indiana, but the company was established later and does not fit all criteria. No evidence found for an exact match.\nExact Answer: No exact match found in the provided search results.\nConfidence: 10%"
+    }
+  ]
+}

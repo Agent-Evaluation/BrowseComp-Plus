@@ -1,0 +1,30 @@
+{
+  "query_id": "350",
+  "tool_call_counts": {
+    "search": 5
+  },
+  "status": "completed",
+  "retrieved_docids": [
+    "29127",
+    "97455",
+    "15868",
+    "53151",
+    "70530",
+    "798",
+    "35146",
+    "64031",
+    "12918",
+    "59490",
+    "50187",
+    "64110",
+    "21603",
+    "66320",
+    "42096"
+  ],
+  "result": [
+    {
+      "type": "output_text",
+      "output": "Explanation: Despite multiple targeted searches, no document snippet directly identifies a UK family business specializing in marmalade or preserves, taken over by a couple in the 1970s, that received a hallmark award from a global brand in the 1990s and manufactures a fruit-based product. The search results reference Hallmark Cards, Inc., but this is a greeting card company, not a fruit product manufacturer. No evidence in the provided results matches all the criteria of the question.\nExact Answer: Not found in current search results\nConfidence: 0%"
+    }
+  ]
+}

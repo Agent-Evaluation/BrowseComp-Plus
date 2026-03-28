@@ -1,0 +1,44 @@
+{
+  "query_id": "950",
+  "tool_call_counts": {
+    "search": 24
+  },
+  "status": "completed",
+  "retrieved_docids": [
+    "18948",
+    "45147",
+    "79826",
+    "23151",
+    "6499",
+    "59833",
+    "95292",
+    "15501",
+    "63684",
+    "66579",
+    "15904",
+    "5385",
+    "52885",
+    "76869",
+    "80225",
+    "72142",
+    "1269",
+    "29038",
+    "68976",
+    "75070",
+    "44033",
+    "29886",
+    "48309",
+    "17462",
+    "6277",
+    "30804",
+    "23257",
+    "21032",
+    "77784"
+  ],
+  "result": [
+    {
+      "type": "output_text",
+      "output": "Explanation: None of the search results provide direct evidence about a Japanese video game released between 1987 and 1997 with a tower of 60-80 floors, 9-15 enemies, 5 power-ups, elemental characters, a different Japanese and international name, and a composer with a dual company role who attended a college founded between 1940 and 1950. The results are either off-topic or lack the necessary specifics about game mechanics, composer background, or original/international naming. No document provides a candidate game or composer fitting all clues.\nExact Answer: Insufficient evidence to answer.\nConfidence: 0%"
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "query_id": "1027",
+  "tool_call_counts": {
+    "search": 5
+  },
+  "status": "completed",
+  "retrieved_docids": [
+    "34199",
+    "26360",
+    "75903",
+    "35843",
+    "72842",
+    "22414",
+    "92263",
+    "21822",
+    "20847",
+    "57164",
+    "4212",
+    "20019",
+    "54400",
+    "80688",
+    "82340",
+    "87633",
+    "29489"
+  ],
+  "result": [
+    {
+      "type": "output_text",
+      "output": "Explanation: The biography \"The Life of Ted Horn: American Racing Champion\" is referenced as a detailed source on Ted Horn, who matches the clues: American racer, first title between 1935-1940, pole in the 1950s, and drove his father's car at age 5. However, the search results do not explicitly state his age at his first race. Given the context and typical early racing starts, and the focus on his early driving, it is likely he began racing as a teenager, but the exact age is not confirmed in the provided snippets [4212].\nExact Answer: Not explicitly stated; likely in his teens, but insufficient evidence for a precise age.\nConfidence: 40%"
+    }
+  ]
+}

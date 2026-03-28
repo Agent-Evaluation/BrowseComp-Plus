@@ -1,0 +1,23 @@
+{
+  "query_id": "205",
+  "tool_call_counts": {
+    "search": 5
+  },
+  "status": "completed",
+  "retrieved_docids": [
+    "90823",
+    "23847",
+    "63487",
+    "53553",
+    "18842",
+    "99484",
+    "44483",
+    "11585"
+  ],
+  "result": [
+    {
+      "type": "output_text",
+      "output": "Explanation: Despite multiple searches, none of the retrieved documents provide a direct example of a 1990s coeducational school with a Latin name formed by merging a girls' and boys' school, nor do they specify the name of the original girls' school involved in such a merger. The search results include general histories of coeducation, lists of women's colleges, and school chronologies, but no evidence matching the specific scenario described in the question.\nExact Answer: Not found in provided sources\nConfidence: 0%"
+    }
+  ]
+}

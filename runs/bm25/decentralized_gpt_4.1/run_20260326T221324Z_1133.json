@@ -1,0 +1,33 @@
+{
+  "query_id": "1133",
+  "tool_call_counts": {
+    "search": 11
+  },
+  "status": "completed",
+  "retrieved_docids": [
+    "53008",
+    "499",
+    "75146",
+    "84059",
+    "57744",
+    "68362",
+    "45147",
+    "65519",
+    "96044",
+    "37660",
+    "29",
+    "30804",
+    "33099",
+    "28766",
+    "24576",
+    "91260",
+    "24544",
+    "46743"
+  ],
+  "result": [
+    {
+      "type": "output_text",
+      "output": "Explanation: I agree with Agents 1, 2, and 3. The question refers to Loyiso Gola, a South African comedian born in 1983, whose sibling Lazola Gola is also a stand-up comedian. According to [28766], Lazola Gola dropped out of the University of the Witwatersrand, which is located in Johannesburg. This directly answers the question about the city where the university is located.\nExact Answer: Johannesburg\nConfidence: 100%"
+    }
+  ]
+}

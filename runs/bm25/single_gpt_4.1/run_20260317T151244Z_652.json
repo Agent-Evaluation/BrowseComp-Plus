@@ -1,0 +1,24 @@
+{
+  "query_id": "652",
+  "tool_call_counts": {
+    "search": 4
+  },
+  "status": "completed",
+  "retrieved_docids": [
+    "69137",
+    "62424",
+    "72681",
+    "57174",
+    "71644",
+    "38662",
+    "50253",
+    "70622",
+    "80577"
+  ],
+  "result": [
+    {
+      "type": "output_text",
+      "output": "Explanation: None of the search results provide direct evidence of a company that changed its name before 2020, expanded its branded product offering in 2021, closed two facilities in 2022, and had a director in 2022 who was VP and Head of Marketing at a company founded in \"Apples\" (likely a place, not Apple Inc.). The closest matches are general business and leadership profiles, but no company fitting all criteria is identified. No evidence links a company, its name change, product expansion, facility closures, and the specific director background.\nExact Answer: No answer found based on available evidence.\nConfidence: 0%"
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "query_id": "856",
+  "tool_call_counts": {
+    "search": 18
+  },
+  "status": "completed",
+  "retrieved_docids": [
+    "18726",
+    "36106",
+    "3737",
+    "68181",
+    "88350",
+    "28632",
+    "23448",
+    "81166",
+    "79757",
+    "30804",
+    "57215",
+    "61541",
+    "11891",
+    "88981",
+    "34680",
+    "66756",
+    "6316",
+    "84059",
+    "12980",
+    "6277",
+    "65139",
+    "53092"
+  ],
+  "result": [
+    {
+      "type": "output_text",
+      "output": "Explanation: After reviewing the search results, none provide direct evidence of an artist who performed his last two U.S. shows in 2022 and matches all the other criteria: graduating from a school in a capital city between 1990 and 1993, starring in a show whose pilot aired between 1991 and 1999, and having a debut movie released between 1994 and 2003. The closest matches (Tony Todd, Keanu Reeves, Sally Kellerman, Tom Wilkinson, Jamie Sives, Paddy Considine) do not fit all the required conditions, and no result mentions a 2022 U.S. farewell performance.\nExact Answer: No definitive answer found in the provided search results.\nConfidence: 0%"
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "query_id": "751",
+  "tool_call_counts": {
+    "search": 4
+  },
+  "status": "completed",
+  "retrieved_docids": [
+    "57705",
+    "20039",
+    "92638",
+    "81120",
+    "80929",
+    "72409",
+    "95874",
+    "22699",
+    "64323",
+    "7924",
+    "54718",
+    "76463",
+    "3613",
+    "50461",
+    "18943",
+    "70764"
+  ],
+  "result": [
+    {
+      "type": "output_text",
+      "output": "Explanation: The search results did not yield a direct match for a research paper published between 2005 and 2015 co-authored by a University of Arizona management professor (2002-2012), a Ph.D. graduate in 2010, and an ERC Consolidator Grant recipient. The closest relevant information found was about João Paulo Vieito, a finance professor, but there is no evidence he received an ERC Consolidator Grant or matches the other criteria. No other names or papers fitting all constraints were found in the search results.\nExact Answer: Not found in current search results.\nConfidence: 0%"
+    }
+  ]
+}

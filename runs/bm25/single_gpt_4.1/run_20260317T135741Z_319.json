@@ -1,0 +1,25 @@
+{
+  "query_id": "319",
+  "tool_call_counts": {
+    "search": 6
+  },
+  "status": "completed",
+  "retrieved_docids": [
+    "5617",
+    "32061",
+    "40667",
+    "59728",
+    "58578",
+    "50277",
+    "58160",
+    "30709",
+    "8627",
+    "40545"
+  ],
+  "result": [
+    {
+      "type": "output_text",
+      "output": "Explanation: Despite multiple targeted searches, I was unable to locate a mid-2010s article or any document snippet that directly answers how many waiters it took to remove the object from the victim who sustained a broken bone at the described restaurant. The search results did not yield any relevant incident details or numbers, nor did they confirm the restaurant's identity with the required incident context.\nExact Answer: Not found in available sources.\nConfidence: 0%"
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "query_id": "153",
+  "tool_call_counts": {
+    "search": 20
+  },
+  "status": "completed",
+  "retrieved_docids": [
+    "43729",
+    "77708",
+    "23995",
+    "10409",
+    "36069",
+    "23586",
+    "4320",
+    "82340",
+    "57164",
+    "34449",
+    "88266",
+    "21822",
+    "82875",
+    "56442",
+    "57154",
+    "41740",
+    "98579"
+  ],
+  "result": [
+    {
+      "type": "output_text",
+      "output": "Explanation: After reviewing the search results, none provide direct evidence matching all the specifics of the question—especially regarding a business in the northwestern United States, a move to a numbered street, a wife with the initials G.F.P., and an ownership change between 1910 and 1920. The most relevant document, [23586], discusses Frank Charlesworth and F. G. Passino, but this business was in Wisconsin (not the northwest), and the wife’s initials do not match. No evidence directly identifies the owner who was no longer listed.\nExact Answer: Not found in available sources\nConfidence: 0%"
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "query_id": "377",
+  "tool_call_counts": {
+    "search": 19
+  },
+  "status": "completed",
+  "retrieved_docids": [
+    "95286",
+    "21822",
+    "43610",
+    "91936",
+    "2640",
+    "2280",
+    "69891",
+    "52885",
+    "25315",
+    "5238",
+    "73633",
+    "98887",
+    "76869",
+    "89940",
+    "30901",
+    "68866",
+    "53752"
+  ],
+  "result": [
+    {
+      "type": "output_text",
+      "output": "Explanation: After two rounds of searching, none of the results provide evidence of an individual whose parent founded an educators' union in 1926, who worked for an organization from 1964-1977, was jailed for advocacy, attended a UK public university, and died before 2010. The only spouse's legal first name found is \"Coretta\" (Martin Luther King Jr.'s wife) [95286], but the rest of the clues do not fit him or his family. No other candidate is supported by the evidence.\nExact Answer: Insufficient evidence\nConfidence: 0%"
+    }
+  ]
+}

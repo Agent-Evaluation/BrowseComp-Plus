@@ -1,0 +1,22 @@
+{
+  "query_id": "921",
+  "tool_call_counts": {
+    "search": 4
+  },
+  "status": "completed",
+  "retrieved_docids": [
+    "72142",
+    "798",
+    "35079",
+    "47974",
+    "65327",
+    "5379",
+    "18490"
+  ],
+  "result": [
+    {
+      "type": "output_text",
+      "output": "Explanation: None of the search results directly identify a video game series matching all the criteria, but one result ([DocID: 47974]) mentions \"Wayne Gretzky Hockey\" (named after an Olympic Gold Medalist) developed by Bethesda. Bethesda is also known for the \"Commander Keen\" and \"Wolfenstein\" series, but neither fits all clues. However, \"Jazz Jackrabbit\" (by Epic MegaGames, now Epic Games) fits most criteria: released in 1994, features swords, explosives, mutants, animal power-ups, set in the future, re-released in 2017 on GOG.com, and Cliff Bleszinski (designer) was Project Lead on \"Unreal\" (a WW2 game). However, Epic did not make a game named after an Olympic Gold Medalist. No direct evidence confirms a perfect match.\nExact Answer: Insufficient evidence for an exact answer\nConfidence: 30%"
+    }
+  ]
+}

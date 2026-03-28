@@ -1,0 +1,26 @@
+{
+  "query_id": "636",
+  "tool_call_counts": {
+    "search": 3
+  },
+  "status": "completed",
+  "retrieved_docids": [
+    "19888",
+    "78245",
+    "93964",
+    "21877",
+    "19992",
+    "94441",
+    "24025",
+    "62889",
+    "64110",
+    "14811",
+    "73565"
+  ],
+  "result": [
+    {
+      "type": "output_text",
+      "output": "Explanation: The Gold Medal for heritage was initially awarded by the Simon van der Stel Foundation and, since 2011, by the renamed Heritage Association of South Africa. This indicates that the Simon van der Stel Foundation was renamed to the Heritage Association of South Africa in 2011 [62889].\nExact Answer: 2011\nConfidence: 100%"
+    }
+  ]
+}

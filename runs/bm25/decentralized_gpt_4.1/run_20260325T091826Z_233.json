@@ -1,0 +1,35 @@
+{
+  "query_id": "233",
+  "tool_call_counts": {
+    "search": 24
+  },
+  "status": "completed",
+  "retrieved_docids": [
+    "18150",
+    "33548",
+    "36651",
+    "38552",
+    "4496",
+    "99672",
+    "25265",
+    "59312",
+    "19989",
+    "84516",
+    "52870",
+    "18643",
+    "2102",
+    "47952",
+    "97905",
+    "85062",
+    "61818",
+    "11594",
+    "96492",
+    "88033"
+  ],
+  "result": [
+    {
+      "type": "output_text",
+      "output": "Explanation: The evidence from [18643] confirms that the 2020 Royal Rumble featured Drew McIntyre as the winner, Roman Reigns as a final four participant, and Brock Lesnar (an MMA champion) as WWE Champion. The scenario described matches the 2020 Royal Rumble: Roman Reigns eliminated Edge (his only elimination), both were former tag team champions together, and Edge was also a tag champion with Randy Orton (another final four member and past winner). The event included multiple MMA-influenced stars, fitting the hint. This aligns with the reasoning of the peer agents and is supported by the search evidence.\nExact Answer: Roman Reigns eliminated Edge in the 2020 Royal Rumble.\nConfidence: 95%"
+    }
+  ]
+}

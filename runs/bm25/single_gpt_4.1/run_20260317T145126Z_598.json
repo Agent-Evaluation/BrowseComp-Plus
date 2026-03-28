@@ -1,0 +1,28 @@
+{
+  "query_id": "598",
+  "tool_call_counts": {
+    "search": 4
+  },
+  "status": "completed",
+  "retrieved_docids": [
+    "51586",
+    "42714",
+    "99671",
+    "70248",
+    "72141",
+    "18992",
+    "36704",
+    "68474",
+    "68671",
+    "87543",
+    "34175",
+    "10362",
+    "65829"
+  ],
+  "result": [
+    {
+      "type": "output_text",
+      "output": "Explanation: Despite multiple targeted searches, there is no direct evidence in the provided documents identifying a band that matches all the criteria: celebrated 40 years in 2015, formed by eight musicians, first online show in 2020, first album on Tidal featuring a musician born in the 1970s with a BA in International Relations and Diplomacy who started their music career in the 1990s. The search results do not mention any band, African or otherwise, that fits this unique combination of facts.\nExact Answer: No conclusive answer found in the provided knowledge base.\nConfidence: 0%"
+    }
+  ]
+}

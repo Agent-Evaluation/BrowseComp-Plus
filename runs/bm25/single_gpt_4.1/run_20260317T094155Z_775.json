@@ -1,0 +1,28 @@
+{
+  "query_id": "775",
+  "tool_call_counts": {
+    "search": 5
+  },
+  "status": "completed",
+  "retrieved_docids": [
+    "32505",
+    "18890",
+    "50045",
+    "56475",
+    "21603",
+    "72151",
+    "17462",
+    "3002",
+    "54683",
+    "62176",
+    "33254",
+    "8674",
+    "58655"
+  ],
+  "result": [
+    {
+      "type": "output_text",
+      "output": "Explanation: Chigozie Obioma's \"An Orchestra of Minorities\" (2019) was shortlisted for the Booker Prize and translated into 30 languages. The 2018 Booker Prize winner was \"Milkman\" by Anna Burns. Both Obioma and Burns were born in cities that are significant to their upbringing. Obioma was born in Akure, Nigeria [8674]. The question asks for the city where the author of the first book (Obioma) was born, based on the connection that both authors were born in the same city where the other grew up.\nExact Answer: Akure\nConfidence: 95%"
+    }
+  ]
+}

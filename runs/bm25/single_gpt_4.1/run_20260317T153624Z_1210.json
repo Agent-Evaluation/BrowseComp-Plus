@@ -1,0 +1,24 @@
+{
+  "query_id": "1210",
+  "tool_call_counts": {
+    "search": 2
+  },
+  "status": "completed",
+  "retrieved_docids": [
+    "5883",
+    "77586",
+    "3114",
+    "81843",
+    "62609",
+    "45036",
+    "39776",
+    "43",
+    "18992"
+  ],
+  "result": [
+    {
+      "type": "output_text",
+      "output": "Explanation: The search results mention several actors born in the 1930s, but none match all the clues. Audrey Hepburn [3114] was born in 1929, her parents separated, and she had a long career, but there is no mention of mistreatment by a stepfather, being kicked out, or collaborating on over 100 projects with a friend. Clint Eastwood [45036] was born in 1930, but there is no evidence of parental separation before age 5, stepfather mistreatment, or a notable collaborator. No result matches all the clues, especially the \"over 100 projects with a friend\" detail.\nExact Answer: No definitive match found in search results.\nConfidence: 10%"
+    }
+  ]
+}

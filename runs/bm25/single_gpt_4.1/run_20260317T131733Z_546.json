@@ -1,0 +1,21 @@
+{
+  "query_id": "546",
+  "tool_call_counts": {
+    "search": 2
+  },
+  "status": "completed",
+  "retrieved_docids": [
+    "64519",
+    "4975",
+    "55516",
+    "41736",
+    "60119",
+    "38231"
+  ],
+  "result": [
+    {
+      "type": "output_text",
+      "output": "Explanation: Mark Selby turned professional in 1999 (within the 1995–2006 window), has more than 800 century breaks (well over 300), and has made 6 official maximum breaks (highest break more than 3 times) [55516]. The search also mentions his continued high-level play as of 2025. Mark Williams, while prolific, only has 3 maximum breaks [4975], which does not meet the \"highest break more than 3 times\" criterion. The match sequence and century stats fit Selby, and no other player in the search fits all criteria.\nExact Answer: Mark Selby\nConfidence: 95%"
+    }
+  ]
+}

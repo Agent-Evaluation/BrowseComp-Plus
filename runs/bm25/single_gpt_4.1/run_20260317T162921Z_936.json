@@ -1,0 +1,24 @@
+{
+  "query_id": "936",
+  "tool_call_counts": {
+    "search": 2
+  },
+  "status": "completed",
+  "retrieved_docids": [
+    "94199",
+    "34388",
+    "91433",
+    "79220",
+    "59490",
+    "92357",
+    "59360",
+    "29517",
+    "998"
+  ],
+  "result": [
+    {
+      "type": "output_text",
+      "output": "Explanation: The search results indicate that in 2021, a project involving the banding and tracking of Lesser Yellowlegs (Tringa flavipes) used satellite transmitters, and the data was collected by the Argos System (CLS America, Inc.). The U.S. Fish and Wildlife Service (USFWS) managed the data, and the data package is specifically described as \"U.S. Fish and Wildlife Service Argos GPS Satellite Tracking Data for Lesser Yellowlegs.\" The Argos System is explicitly named as the bird banding/tracking system used for this project [94199].\nExact Answer: Argos System\nConfidence: 95%"
+    }
+  ]
+}

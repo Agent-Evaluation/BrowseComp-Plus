@@ -1,0 +1,22 @@
+{
+  "query_id": "138",
+  "tool_call_counts": {
+    "search": 4
+  },
+  "status": "completed",
+  "retrieved_docids": [
+    "6316",
+    "95292",
+    "30804",
+    "45147",
+    "3737",
+    "99932",
+    "4035"
+  ],
+  "result": [
+    {
+      "type": "output_text",
+      "output": "Explanation: The search results did not return any relevant information about a movie matching all the specified criteria (character breaking foot and wearing a cast, character based on a real person under 15, actor born 1966-1970 who became a father after 40, actor married 2002-2005, actor attended law college and auditioned for another film by the same director). The results were mostly unrelated biographies and did not mention any such film or character X.\nExact Answer: Not found in available search results.\nConfidence: 0%"
+    }
+  ]
+}

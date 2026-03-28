@@ -1,0 +1,41 @@
+{
+  "query_id": "816",
+  "tool_call_counts": {
+    "search": 27
+  },
+  "status": "completed",
+  "retrieved_docids": [
+    "21822",
+    "31747",
+    "24843",
+    "82340",
+    "36069",
+    "90313",
+    "67963",
+    "52809",
+    "6316",
+    "39278",
+    "45036",
+    "91708",
+    "79826",
+    "22055",
+    "98741",
+    "62468",
+    "95292",
+    "70530",
+    "74320",
+    "70622",
+    "37294",
+    "18778",
+    "83501",
+    "59381",
+    "33959",
+    "71808"
+  ],
+  "result": [
+    {
+      "type": "output_text",
+      "output": "Explanation: None of the search results provide any evidence of a 1990s small arts organization involving roving artists hired by colleges, founded by an ex-circus worker who lost their home and later moved continents. The results are either unrelated (crossword clues, event listings, historical notes) or do not mention any organization or founder matching the detailed biographical clues in the question. Therefore, there is insufficient evidence to answer with confidence.\nExact Answer: Not found in current search results.\nConfidence: 0%"
+    }
+  ]
+}

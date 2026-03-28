@@ -1,0 +1,33 @@
+{
+  "query_id": "283",
+  "tool_call_counts": {
+    "search": 6
+  },
+  "status": "completed",
+  "retrieved_docids": [
+    "90881",
+    "6277",
+    "80225",
+    "88424",
+    "798",
+    "94379",
+    "90187",
+    "21019",
+    "46642",
+    "92506",
+    "88360",
+    "73178",
+    "52755",
+    "33883",
+    "60974",
+    "76092",
+    "95974",
+    "85192"
+  ],
+  "result": [
+    {
+      "type": "output_text",
+      "output": "Explanation: \"Outer Wilds\" is a 2019 action-adventure game developed by Mobius Digital, featuring a black hole in its story and time loop mechanics. The protagonist is an unnamed alien astronaut, often referred to as \"the player\" or \"the traveler,\" but not with a first name starting with \"Z\" [76092]. Mobius Digital was founded in October 2013, which is outside the specified range. No evidence found for a protagonist with a first name starting with \"Z\" in a game matching all other criteria.\nExact Answer: No matching character found; criteria not met.\nConfidence: 90%"
+    }
+  ]
+}

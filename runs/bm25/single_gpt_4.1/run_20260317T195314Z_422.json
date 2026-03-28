@@ -1,0 +1,27 @@
+{
+  "query_id": "422",
+  "tool_call_counts": {
+    "search": 6
+  },
+  "status": "completed",
+  "retrieved_docids": [
+    "1483",
+    "18948",
+    "91936",
+    "23531",
+    "26542",
+    "26432",
+    "34517",
+    "92139",
+    "36553",
+    "47702",
+    "68246",
+    "93096"
+  ],
+  "result": [
+    {
+      "type": "output_text",
+      "output": "Explanation: The clues point to the Michaelis-Menten 1913 paper, a foundational work in enzyme kinetics. Maud Menten improved laboratory techniques, and Leonor Michaelis discovered a major class of compounds (quinones) and was a chess competitor in the 1920s-30s. The variety mentioned in the abstract of their famous paper refers to the substrate used in their experiments. While the search results confirm the context and importance of the Michaelis-Menten equation, they do not explicitly state the variety. However, it is well-established in scientific literature that the substrate used was \"Baker's yeast invertase\" acting on \"sucrose.\"\nExact Answer: Baker's yeast invertase (using sucrose as substrate)\nConfidence: 90%"
+    }
+  ]
+}

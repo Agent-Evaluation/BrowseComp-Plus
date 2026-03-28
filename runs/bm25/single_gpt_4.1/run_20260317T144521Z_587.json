@@ -1,0 +1,26 @@
+{
+  "query_id": "587",
+  "tool_call_counts": {
+    "search": 6
+  },
+  "status": "completed",
+  "retrieved_docids": [
+    "54072",
+    "76126",
+    "49835",
+    "49924",
+    "39231",
+    "47831",
+    "14618",
+    "93225",
+    "17819",
+    "88424",
+    "66579"
+  ],
+  "result": [
+    {
+      "type": "output_text",
+      "output": "Explanation: None of the search results provide a direct answer listing a Pokémon with 70 base defense that was distributed at a Video Game Regional Championship, nor do they specify the city of the first such distribution. The results focus on general event information, locations of World Championships, and unrelated Pokémon distributions. No evidence was found to answer the specific question about the Pokémon and the city of its first Regional Championship distribution.\nExact Answer: Not found in provided sources.\nConfidence: 0%"
+    }
+  ]
+}

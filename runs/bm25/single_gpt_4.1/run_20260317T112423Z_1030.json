@@ -1,0 +1,30 @@
+{
+  "query_id": "1030",
+  "tool_call_counts": {
+    "search": 7
+  },
+  "status": "completed",
+  "retrieved_docids": [
+    "95292",
+    "84059",
+    "30804",
+    "5965",
+    "45147",
+    "67965",
+    "41035",
+    "28282",
+    "96454",
+    "2611",
+    "11456",
+    "96825",
+    "35683",
+    "24103",
+    "57216"
+  ],
+  "result": [
+    {
+      "type": "output_text",
+      "output": "Explanation: The search results did not directly provide the name of the costume designer for \"Chak De! India.\" Multiple queries referencing \"costume designer\" and \"full credits\" for the film did not yield the required information in the snippets provided. The sources focused on reviews, summaries, and general Bollywood film discussions, but none listed the costume designer's name for \"Chak De! India\" specifically.\nExact Answer: Not found in provided search results.\nConfidence: 0%"
+    }
+  ]
+}

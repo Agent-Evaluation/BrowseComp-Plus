@@ -1,0 +1,27 @@
+{
+  "query_id": "851",
+  "tool_call_counts": {
+    "search": 5
+  },
+  "status": "completed",
+  "retrieved_docids": [
+    "21822",
+    "23531",
+    "77662",
+    "51050",
+    "24549",
+    "44212",
+    "62209",
+    "3522",
+    "78456",
+    "29997",
+    "14589",
+    "66328"
+  ],
+  "result": [
+    {
+      "type": "output_text",
+      "output": "Explanation: The search results confirm the context of Mennonite immigrants in Kansas, Bethel College, and notable structures, but none of the retrieved documents provide the actual 2012 newspaper article or a scan of its full page, nor do they list the title of the sport-related content on the same page as the article in question. Without the full page or a table of contents, the exact title cannot be determined from the available evidence.\nExact Answer: Not found in available sources\nConfidence: 0%"
+    }
+  ]
+}

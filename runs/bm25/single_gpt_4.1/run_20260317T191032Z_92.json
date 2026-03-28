@@ -1,0 +1,37 @@
+{
+  "query_id": "92",
+  "tool_call_counts": {
+    "search": 7
+  },
+  "status": "completed",
+  "retrieved_docids": [
+    "99494",
+    "70248",
+    "31852",
+    "21896",
+    "798",
+    "2431",
+    "59490",
+    "15868",
+    "61508",
+    "64160",
+    "40679",
+    "90397",
+    "88901",
+    "49022",
+    "19932",
+    "94056",
+    "98707",
+    "4235",
+    "11676",
+    "96304",
+    "12082",
+    "43569"
+  ],
+  "result": [
+    {
+      "type": "output_text",
+      "output": "Explanation: The question describes a K-pop singer who debuted in 2011, has the Chinese zodiac sign of the dragon, and became known by a nickname sharing a word with a song they covered at a showcase. The song was originally released in another country and language, then covered and performed in a new language. The search queries reference EXO's Chen, who debuted in 2011 with EXO, whose zodiac is the dragon (born 1992), and who is known for his vocal performances. Chen performed the Chinese song \"Please Rain\" (originally \"请下雨吧\" by Chinese singer Zhang Yusheng) in Korean at a showcase in China shortly after debut. After this performance, he was nicknamed \"Rainman\" by fans, sharing the word \"Rain\" with the song title.\nExact Answer: Rainman\nConfidence: 95%"
+    }
+  ]
+}

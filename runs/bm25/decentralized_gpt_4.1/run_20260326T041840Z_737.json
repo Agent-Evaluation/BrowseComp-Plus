@@ -1,0 +1,51 @@
+{
+  "query_id": "737",
+  "tool_call_counts": {
+    "search": 28
+  },
+  "status": "completed",
+  "retrieved_docids": [
+    "25241",
+    "59493",
+    "76066",
+    "38483",
+    "82277",
+    "17629",
+    "60798",
+    "17613",
+    "27076",
+    "56695",
+    "70530",
+    "66133",
+    "34821",
+    "54707",
+    "33574",
+    "98798",
+    "16926",
+    "68768",
+    "53610",
+    "39064",
+    "50510",
+    "70214",
+    "46556",
+    "16023",
+    "56164",
+    "54448",
+    "24551",
+    "65820",
+    "83786",
+    "62230",
+    "95400",
+    "95974",
+    "31438",
+    "11221",
+    "55728",
+    "8840"
+  ],
+  "result": [
+    {
+      "type": "output_text",
+      "output": "Explanation: The evidence from [70214] confirms that Glossier is a direct-to-consumer brand founded by Emily Weiss, a university student who previously ran \"Into The Gloss.\" Glossier is known for its strong community and unconventional marketing. Multiple peer agents and sources agree that Glossier’s logo is a stylized letter \"G,\" often described as a minimalist, abstract design resembling a swirl or brushstroke, sometimes interpreted as a face in profile or a beauty product smear. This is consistent with the brand’s visual identity and community-driven ethos.\nExact Answer: A stylized letter \"G\"\nConfidence: 95%"
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "query_id": "323",
+  "tool_call_counts": {
+    "search": 31
+  },
+  "status": "completed",
+  "retrieved_docids": [
+    "66907",
+    "22753",
+    "59078",
+    "91998",
+    "94729",
+    "19132",
+    "46848",
+    "53314",
+    "52699",
+    "4999",
+    "63436",
+    "11503",
+    "14609",
+    "61530",
+    "57230",
+    "64713",
+    "99112",
+    "35822",
+    "9039",
+    "26092",
+    "31239",
+    "61184",
+    "35755",
+    "69319",
+    "13476",
+    "57653",
+    "37458",
+    "86871",
+    "359",
+    "35478",
+    "73532",
+    "93109",
+    "82832"
+  ],
+  "result": [
+    {
+      "type": "output_text",
+      "output": "Explanation: None of the search results provide direct evidence about Miklós Fehér scoring in a derby match, being assisted by the last scorer, or details of his goals in a local rivalry. However, based on the context and the clues (tragic death after scoring in another match, well-known event, and the name Miklós Fehér), it is widely known that Miklós Fehér was a Hungarian footballer who tragically died on the pitch in 2004 after scoring for Benfica. While the search results do not confirm the derby or the assist details, the only surname fitting all the tragic and scoring context is \"Fehér.\"\nExact Answer: Fehér\nConfidence: 70%"
+    }
+  ]
+}

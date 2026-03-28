@@ -1,0 +1,45 @@
+{
+  "query_id": "107",
+  "tool_call_counts": {
+    "search": 23
+  },
+  "status": "completed",
+  "retrieved_docids": [
+    "59462",
+    "30853",
+    "6726",
+    "97316",
+    "34938",
+    "69374",
+    "6277",
+    "2780",
+    "48097",
+    "29161",
+    "5379",
+    "82000",
+    "14114",
+    "61276",
+    "15904",
+    "21738",
+    "81853",
+    "33612",
+    "88484",
+    "38274",
+    "85192",
+    "87207",
+    "29802",
+    "64576",
+    "62389",
+    "11992",
+    "80966",
+    "57601",
+    "33439",
+    "25569"
+  ],
+  "result": [
+    {
+      "type": "output_text",
+      "output": "Explanation: The question refers to the fourth main entry in an action-adventure video game series from the 2010s, with a supporting antagonist who becomes the main antagonist in that chapter. The evidence from [87207] discusses the Far Cry series, specifically mentioning that the original Far Cry was a PC-only title for the first decade, with console versions arriving in 2014. However, this refers to the original Far Cry, not Far Cry 4. The 2014 Retrospective [57601] discusses notable games released in 2014, which aligns with the known release year of Far Cry 4. While neither snippet gives the exact date, it is widely corroborated in public sources that Far Cry 4 was released for PC on November 18, 2014.\nExact Answer: November 18, 2014\nConfidence: 95%"
+    }
+  ]
+}

@@ -1,0 +1,46 @@
+{
+  "query_id": "1196",
+  "tool_call_counts": {
+    "search": 33
+  },
+  "status": "completed",
+  "retrieved_docids": [
+    "11906",
+    "43271",
+    "50045",
+    "33328",
+    "18967",
+    "19338",
+    "60998",
+    "97486",
+    "62148",
+    "81784",
+    "81248",
+    "43396",
+    "18948",
+    "75146",
+    "64166",
+    "1230",
+    "87023",
+    "93420",
+    "19789",
+    "37444",
+    "17709",
+    "84284",
+    "93388",
+    "95561",
+    "50787",
+    "19034",
+    "68217",
+    "907",
+    "81887",
+    "30804",
+    "70622"
+  ],
+  "result": [
+    {
+      "type": "output_text",
+      "output": "Explanation: None of the search results directly mention an article about \"Drunk History\" or a bestselling history book published between 1940 and 1960, sold 8 million copies, with an author of over 40 books, and read by both the writer and producer of the show. The results focus on general book lists, opening lines, and author biographies, but do not provide the specific book name as it appears in the article. Therefore, I cannot provide a definitive answer based on the available evidence.\nExact Answer: Not found in current search results\nConfidence: 0%"
+    }
+  ]
+}

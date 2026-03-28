@@ -1,0 +1,22 @@
+{
+  "query_id": "832",
+  "tool_call_counts": {
+    "search": 20
+  },
+  "status": "completed",
+  "retrieved_docids": [
+    "40496",
+    "64596",
+    "94729",
+    "85208",
+    "47403",
+    "31919",
+    "82418"
+  ],
+  "result": [
+    {
+      "type": "output_text",
+      "output": "Explanation: The search results do not directly identify the specific match, teams, or captain. However, the only captain mentioned in the results is Eden Hazard [64596], who captained Chelsea in the late 2010s. Chelsea FC was founded in 1905, which is the 20th century. No other evidence in the search results points to a different captain or club. Therefore, the best-supported answer, though circumstantial, is Eden Hazard and the 20th century.\nExact Answer: Eden Hazard; 20th century\nConfidence: 60%"
+    }
+  ]
+}

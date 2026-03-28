@@ -1,0 +1,45 @@
+{
+  "query_id": "486",
+  "tool_call_counts": {
+    "search": 12
+  },
+  "status": "completed",
+  "retrieved_docids": [
+    "41458",
+    "51585",
+    "45581",
+    "73568",
+    "10949",
+    "21822",
+    "21847",
+    "54170",
+    "18948",
+    "77179",
+    "19132",
+    "21673",
+    "57389",
+    "22978",
+    "52699",
+    "20692",
+    "94729",
+    "61530",
+    "38162",
+    "76807",
+    "24401",
+    "41902",
+    "94524",
+    "93588",
+    "6872",
+    "25453",
+    "61184",
+    "13652",
+    "69589",
+    "54140"
+  ],
+  "result": [
+    {
+      "type": "output_text",
+      "output": "Explanation: I agree with my peers' answers. The evidence from [22978] directly states that Jordan Morris scored the match-winning goal in the 88th minute of the 2017 CONCACAF Gold Cup final between the United States and Jamaica. The clues about player histories, stadium proximity to monuments, and the city with a fort built between 1800-1900 are consistent with this match, but the direct evidence for the goal minute and tournament is clear and unambiguous.\nExact Answer: Jordan Morris scored the match-winning goal in the 88th minute of the 2017 CONCACAF Gold Cup final.\nConfidence: 100%"
+    }
+  ]
+}

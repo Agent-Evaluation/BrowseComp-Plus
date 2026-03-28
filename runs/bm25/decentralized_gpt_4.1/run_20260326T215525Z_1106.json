@@ -1,0 +1,38 @@
+{
+  "query_id": "1106",
+  "tool_call_counts": {
+    "search": 22
+  },
+  "status": "completed",
+  "retrieved_docids": [
+    "26724",
+    "50053",
+    "77379",
+    "41035",
+    "74872",
+    "75146",
+    "84059",
+    "45725",
+    "5965",
+    "21032",
+    "79544",
+    "4583",
+    "50045",
+    "71334",
+    "70963",
+    "21096",
+    "31161",
+    "64603",
+    "91798",
+    "89101",
+    "80896",
+    "32327",
+    "2534"
+  ],
+  "result": [
+    {
+      "type": "output_text",
+      "output": "Explanation: The evidence from [71334] confirms that Simon MacCorkindale starred as Dr. Jonathan Chase in the 1983 TV series \"Manimal.\" He was diagnosed with cancer and died in 2010, matching the real-life diagnosis clue. Other agents and episode guides (peer proposals) confirm that the episode involving a smuggler with diplomatic immunity is \"Illusion\" (Manimal, Season 1, Episode 2). The biographical details and episode content align with all clues in the question.\nExact Answer: \"Illusion\" (Manimal, Season 1, Episode 2)\nConfidence: 100%"
+    }
+  ]
+}

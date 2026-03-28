@@ -1,0 +1,40 @@
+{
+  "query_id": "383",
+  "tool_call_counts": {
+    "search": 19
+  },
+  "status": "completed",
+  "retrieved_docids": [
+    "65243",
+    "39305",
+    "82543",
+    "73422",
+    "75436",
+    "62597",
+    "41433",
+    "77866",
+    "66991",
+    "98852",
+    "78455",
+    "21896",
+    "34388",
+    "59381",
+    "51008",
+    "49022",
+    "58850",
+    "39583",
+    "55612",
+    "73654",
+    "20839",
+    "84687",
+    "75845",
+    "15809",
+    "7399"
+  ],
+  "result": [
+    {
+      "type": "output_text",
+      "output": "Explanation: After reviewing the proposals and their cited evidence, all agents agree that the animal described is the black mamba, based on its characteristics and the existence of the Black Mambas anti-poaching unit [55612]. However, none of the agents found evidence in the available sources regarding the specific nickname a lady gave to a black mamba after it tried to bite her in a late 2010s article about a couple catching the snake. The search results do not provide this detail.\nExact Answer: Not found in available sources\nConfidence: 0%"
+    }
+  ]
+}

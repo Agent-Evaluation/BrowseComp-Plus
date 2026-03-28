@@ -1,0 +1,24 @@
+{
+  "query_id": "631",
+  "tool_call_counts": {
+    "search": 4
+  },
+  "status": "completed",
+  "retrieved_docids": [
+    "36831",
+    "75850",
+    "12217",
+    "17977",
+    "75426",
+    "19465",
+    "41612",
+    "84630",
+    "39424"
+  ],
+  "result": [
+    {
+      "type": "output_text",
+      "output": "Explanation: The search results confirm that Fan Milk PLC's 2022 annual report and financial statements include a \"Statement of Profit or Loss and Other Comprehensive Income\" for the year ended December 31, 2022. However, the specific net loss figure is not directly quoted in the available snippets. The repeated references to the annual report and its financial statements strongly indicate that the net loss figure is present in the report, but the exact value is not shown in the search results provided. Therefore, I cannot state the precise net loss amount.\nExact Answer: Not found in provided search results.\nConfidence: 0%"
+    }
+  ]
+}

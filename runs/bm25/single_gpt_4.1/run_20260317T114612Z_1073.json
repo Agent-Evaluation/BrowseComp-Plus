@@ -1,0 +1,33 @@
+{
+  "query_id": "1073",
+  "tool_call_counts": {
+    "search": 5
+  },
+  "status": "completed",
+  "retrieved_docids": [
+    "72312",
+    "25878",
+    "61671",
+    "1483",
+    "19968",
+    "11087",
+    "44553",
+    "32603",
+    "27100",
+    "55512",
+    "97566",
+    "73001",
+    "9844",
+    "2720",
+    "11483",
+    "66542",
+    "26639",
+    "55386"
+  ],
+  "result": [
+    {
+      "type": "output_text",
+      "output": "Explanation: The University of Ibadan, established in the early 1950s in Nigeria, fits the description of the West African university. The search for a thesis on antibiotics from this university, with dedications and acknowledgments to a pharmaceutical researcher who contributed to diabetes and tuberculosis research and shares a name with a prominent political figure, points to Professor Umaru Shehu. He was a renowned academic and medical researcher in Nigeria, and his name is shared with Shehu Shagari, a former Nigerian president. Evidence from [66542] highlights Professor Umaru Shehu's significant contributions to medicine and his national prominence.\nExact Answer: Professor Umaru Shehu\nConfidence: 90%"
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "query_id": "788",
+  "tool_call_counts": {
+    "search": 14
+  },
+  "status": "completed",
+  "retrieved_docids": [
+    "45789",
+    "39965",
+    "55924",
+    "92109",
+    "61284",
+    "51679",
+    "89042",
+    "49204",
+    "46697",
+    "28396",
+    "80748",
+    "33075",
+    "40638",
+    "33248",
+    "14065"
+  ],
+  "result": [
+    {
+      "type": "output_text",
+      "output": "Explanation: The Masjid al-Haram in Mecca meets all the specified criteria. It was completed long before 1990 and has undergone expansions, with its current structure covering more than 400,000 square meters (over 4 million square feet) and a capacity for over two million worshippers, far exceeding 150,000 [14065]. It is within walking distance of the Abraj Al Bait Mosque (built after 1720) and major hospitals such as King Abdullah Medical City, established after 1930, fulfilling the proximity requirements [14065]. This matches the evidence and aligns with peer agent findings.\nExact Answer: Masjid al-Haram, Mecca, Saudi Arabia\nConfidence: 100%"
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "query_id": "424",
+  "tool_call_counts": {
+    "search": 4
+  },
+  "status": "completed",
+  "retrieved_docids": [
+    "80957",
+    "38558",
+    "53934",
+    "10409",
+    "4357",
+    "29886",
+    "59104",
+    "68464",
+    "99930",
+    "84382"
+  ],
+  "result": [
+    {
+      "type": "output_text",
+      "output": "Explanation: The Royal National Theatre in London, a brutalist building made of exposed concrete and opened in 1976, was designed by Denys Lasdun, who is also known for co-designing auditoriums for concerts and broadcasts. Lasdun was a British architect, a WWII veteran, and served as a consultant for TV broadcasts. The building fits the criteria: brutalist, 1960s-1970s, exposed concrete, and associated with inspiration for TV shows. The evidence from the Royal National Theatre's Wikipedia entry confirms Denys Lasdun as the architect [59104].\nExact Answer: Denys Lasdun\nConfidence: 95%"
+    }
+  ]
+}

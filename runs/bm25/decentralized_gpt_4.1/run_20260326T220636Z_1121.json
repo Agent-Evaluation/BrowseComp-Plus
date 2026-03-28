@@ -1,0 +1,29 @@
+{
+  "query_id": "1121",
+  "tool_call_counts": {
+    "search": 21
+  },
+  "status": "completed",
+  "retrieved_docids": [
+    "76368",
+    "92581",
+    "52708",
+    "86724",
+    "36749",
+    "37488",
+    "922",
+    "95863",
+    "30226",
+    "32940",
+    "46547",
+    "61686",
+    "27743",
+    "81436"
+  ],
+  "result": [
+    {
+      "type": "output_text",
+      "output": "Explanation: After reviewing the search results, none provide a direct match for the highly specific T20I match scenario described (African former capital, April 2000-2020, Kenyan umpire, player stats, Man of the Match 65+* not out, etc.). The results include general player bios (e.g., Mitchell Starc, Harbhajan Singh), team facts, and unrelated match summaries. No evidence was found that identifies a player or match fitting all the criteria.\nExact Answer: Not found in current search results.\nConfidence: 0%"
+    }
+  ]
+}

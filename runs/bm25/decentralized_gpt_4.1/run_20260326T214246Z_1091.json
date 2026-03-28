@@ -1,0 +1,39 @@
+{
+  "query_id": "1091",
+  "tool_call_counts": {
+    "search": 13
+  },
+  "status": "completed",
+  "retrieved_docids": [
+    "15837",
+    "62209",
+    "52885",
+    "57820",
+    "96851",
+    "31666",
+    "76870",
+    "55386",
+    "60391",
+    "70586",
+    "34625",
+    "74884",
+    "34875",
+    "42318",
+    "84779",
+    "47261",
+    "42672",
+    "50312",
+    "64266",
+    "21877",
+    "70764",
+    "61004",
+    "18963",
+    "54718"
+  ],
+  "result": [
+    {
+      "type": "output_text",
+      "output": "Explanation: I agree with the other agents. The evidence from [76870] confirms that Beate Peter, Ph.D., CCC-SLP, is a Fulbright scholar as of 2018, directed a thesis on galactosemia (a disease associated with speech impairment), and was selected as a member of a science association in 2022. The timeline matches the clue about a thesis published a few years after Nancy Pelosi became Speaker (2007). No other candidate fits all criteria.\nExact Answer: Beate Peter\nConfidence: 95%"
+    }
+  ]
+}

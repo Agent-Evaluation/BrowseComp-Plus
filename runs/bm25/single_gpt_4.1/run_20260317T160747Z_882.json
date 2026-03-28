@@ -1,0 +1,27 @@
+{
+  "query_id": "882",
+  "tool_call_counts": {
+    "search": 5
+  },
+  "status": "completed",
+  "retrieved_docids": [
+    "94542",
+    "76702",
+    "25829",
+    "94457",
+    "6597",
+    "92234",
+    "38610",
+    "3663",
+    "76497",
+    "20239",
+    "21374",
+    "47624"
+  ],
+  "result": [
+    {
+      "type": "output_text",
+      "output": "Explanation: Despite multiple targeted searches, no search result provided a blog post from 2019–2022 listing six core principles of a company, nor did any snippet contain the sixth principle as written in such a blog post. No evidence was found matching the specific requirements of the question, including the exact phrasing of the sixth principle.\nExact Answer: Not found in search results.\nConfidence: 0%"
+    }
+  ]
+}

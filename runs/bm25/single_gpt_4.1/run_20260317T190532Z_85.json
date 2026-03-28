@@ -1,0 +1,25 @@
+{
+  "query_id": "85",
+  "tool_call_counts": {
+    "search": 8
+  },
+  "status": "completed",
+  "retrieved_docids": [
+    "62209",
+    "37294",
+    "84353",
+    "53092",
+    "18127",
+    "24025",
+    "18948",
+    "5009",
+    "16090",
+    "23473"
+  ],
+  "result": [
+    {
+      "type": "output_text",
+      "output": "Explanation: Despite multiple targeted searches, none of the results provide a direct match for a 2014 book by a prolific author (with more than 10 books), whose mother founded a school in a village commemorating a war hero, and which contains acknowledgments to an academic fitting the described career path. No search result lists a subtitle for such a book or even a candidate book matching all clues. The closest results are unrelated or lack the necessary detail.\nExact Answer: Not found in search results\nConfidence: 0%"
+    }
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "query_id": "753",
+  "tool_call_counts": {
+    "search": 25
+  },
+  "status": "completed",
+  "retrieved_docids": [
+    "39930",
+    "60075",
+    "2585",
+    "25569",
+    "7016",
+    "59493",
+    "50510",
+    "51665",
+    "97705",
+    "18992",
+    "93225",
+    "15868",
+    "83717",
+    "72451",
+    "79491",
+    "85487",
+    "38162",
+    "25786",
+    "41692",
+    "76807",
+    "54140",
+    "24401",
+    "42718",
+    "21985",
+    "42081"
+  ],
+  "result": [
+    {
+      "type": "output_text",
+      "output": "Explanation: The only relevant evidence in the search results is that Russell Wilson and Ciara co-own the Seattle Sounders Soccer Team and started making headlines together in 2015 [79491]. The Seattle Sounders won the MLS Cup in 2016 and 2019, which fits the championship win between 2012 and 2022. However, there is no direct evidence that Russell Wilson previously founded a company that announced a video game launch in Europe between 2002 and 2008, nor about denying marriage rumors in the specified period. No other team in the results fits all the criteria. Thus, the best-supported answer, though not fully confirmed, is the Seattle Sounders.\nExact Answer: Seattle Sounders\nConfidence: 60%"
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "query_id": "1058",
+  "tool_call_counts": {
+    "search": 20
+  },
+  "status": "completed",
+  "retrieved_docids": [
+    "50253",
+    "70622",
+    "59493",
+    "95264",
+    "25241",
+    "97072",
+    "74595",
+    "55979",
+    "56814",
+    "38483",
+    "86102",
+    "60069",
+    "52853",
+    "10339",
+    "22131",
+    "55716",
+    "83297",
+    "10163"
+  ],
+  "result": [
+    {
+      "type": "output_text",
+      "output": "Explanation: After reviewing the search results, none of the documents provide direct evidence identifying an Indian entrepreneur with over 20 years of investment and consulting experience, who studied in India, pursued financial technology at MIT, and founded a fintech company that IPO'd on Nasdaq in August 2014 and was delisted in April 2021. The results mention several investors and executives in fintech, but none match all the specified criteria. This matches the findings of Agents 1, 2, and 3.\nExact Answer: Not found in available search results.\nConfidence: 0%"
+    }
+  ]
+}

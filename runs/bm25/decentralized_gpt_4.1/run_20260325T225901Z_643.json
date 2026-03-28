@@ -1,0 +1,39 @@
+{
+  "query_id": "643",
+  "tool_call_counts": {
+    "search": 25
+  },
+  "status": "completed",
+  "retrieved_docids": [
+    "47381",
+    "65520",
+    "99271",
+    "627",
+    "21584",
+    "30473",
+    "74624",
+    "46522",
+    "39424",
+    "89742",
+    "87570",
+    "15546",
+    "96127",
+    "50396",
+    "55878",
+    "17695",
+    "83797",
+    "68716",
+    "48690",
+    "17183",
+    "59631",
+    "57994",
+    "13599",
+    "90929"
+  ],
+  "result": [
+    {
+      "type": "output_text",
+      "output": "Explanation: The agent in question is maribavir (Livtencity), as supported by the 2022 study by Terri L Levien and Danial E Baker [83797], which matches the pharmacological and publication details. The FDA approval letter for Livtencity (NDA 215596) states: \"If you have any questions, call Karen S. Kim, Regulatory Project Manager, at (301) 796-1235\" [59631]. This is the full name as mentioned in the official approval letter.\nExact Answer: Karen S. Kim\nConfidence: 100%"
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "query_id": "1203",
+  "tool_call_counts": {
+    "search": 4
+  },
+  "status": "completed",
+  "retrieved_docids": [
+    "6277",
+    "22055",
+    "94379",
+    "58591",
+    "72142",
+    "92506",
+    "32327",
+    "29161",
+    "15904",
+    "95355"
+  ],
+  "result": [
+    {
+      "type": "output_text",
+      "output": "Explanation: None of the search results provide direct evidence identifying a 20th-century video game matching all the criteria (protagonist lost loved ones in a prior attack, producer worked on two other games for the same company, character designer's debut in 2003, and the name of the audio technician). The results are either unrelated, too general, or do not mention staff credits or audio technicians for such a game.\nExact Answer: Not found in available sources.\nConfidence: 0%"
+    }
+  ]
+}

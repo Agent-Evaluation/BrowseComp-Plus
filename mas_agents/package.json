@@ -1,0 +1,17 @@
+{
+  "name": "mas-agents",
+  "version": "1.0.0",
+  "type": "module",
+  "description": "BrowseComp-Plus Multi-Agent System evaluation using GitHub Copilot SDK + BM25 retrieval",
+  "scripts": {
+    "eval": "bun run src/run-eval.ts",
+    "benchmark": "bun run src/benchmark-runner.ts",
+    "judge": "bun run src/evaluate-kimi.ts"
+  },
+  "dependencies": {
+    "@github/copilot-sdk": "latest"
+  },
+  "devDependencies": {
+    "bun-types": "^1.3.10"
+  }
+}

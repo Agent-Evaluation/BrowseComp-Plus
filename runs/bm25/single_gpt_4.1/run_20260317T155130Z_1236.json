@@ -1,0 +1,25 @@
+{
+  "query_id": "1236",
+  "tool_call_counts": {
+    "search": 3
+  },
+  "status": "completed",
+  "retrieved_docids": [
+    "9119",
+    "36741",
+    "95292",
+    "53138",
+    "31244",
+    "59964",
+    "56403",
+    "24930",
+    "863",
+    "13711"
+  ],
+  "result": [
+    {
+      "type": "output_text",
+      "output": "Explanation: The search results indicate that \"Twelve Angry Men\" (also known as \"12 Angry Men\") is a drama that has been remade multiple times and is known by alternate titles such as \"12 Angry Jurors,\" \"12 Angry Men and Women,\" and \"12 Angry Women\" when adapted with different casts. The original was a 1954 teleplay, later adapted for stage and film, and has inspired numerous remakes and adaptations. The evidence matches the clues: multiple titles, remakes, and a long-running reputation. However, there is no direct evidence in the search results about the specific actors and their awards, but the rest of the clues fit.\nExact Answer: Twelve Angry Men\nConfidence: 80%"
+    }
+  ]
+}
